@@ -4,7 +4,7 @@ This document comprises a compilation of lexicons specifically intended for the 
 
 ## Supported Languages
 <table>
-    <tr><td> ID </td><td> LANGUAGE </td><td> MAX WORDS </td></tr>
+    <tr><th> ID </th><th> LANGUAGE </th><th> WORDS </th></tr>
     <tr><td> en </td><td> English </td><td> +36000 </td></tr>
     <tr><td> es </td><td> Spanish </td><td> +36000 </td></tr>
     <tr><td> de </td><td> Deutsch </td><td> +36000 </td></tr>
