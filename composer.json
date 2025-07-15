@@ -1,0 +1,16 @@
+{
+    "name": "aseqbase/lexicon",
+    "description": "a compilation of lexicons specifically intended for the translation of content on the aseqbase website",
+    "type": "directory",
+    "license": "GPL-3.0-only",
+    "authors": [
+        {
+            "name": "Mohammad Fathi",
+            "email": "i@mimfa.net",
+            "homepage": "https://mfathi.ir",
+            "role": "Lead Developers"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
