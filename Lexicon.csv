@@ -9640,6 +9640,7 @@ Edifice,Edificio,Gebäude,عمارت,صرح
 Edify,Edificar,Erbauen,تهذیب کردن,بناء
 Edifying,Edificante,Erbaulich,آموزنده,مُفيد
 Edit,Editar,Bearbeiten,ویرایش,يحرر
+View Lexicon,,Lexikon Sicht,نمایش واژه‌نامه,انظر القاموس
 Edit Lexicon,,Lexikon bearbeiten,ویرایش واژه‌نامه,تعديل القاموس
 Edit Profile,,Profil bearbeiten,ویرایش نمایه,تعديل الملف الشخصي
 Edited,Editado,Bearbeitet,ویرایش شده,تم تحريره
@@ -9842,6 +9843,7 @@ Elvis Alzheimer,Elvis Alzheimer,Elvis Alzheimer,الویس آلزایمر,إلف
 Emaciation,Adelgazamiento,Abmagerung,لاغری مفرط,الهزال
 Emad,Emad,Emad,عماد,عماد
 E-Mail,Correo Electrónico,E-Mail,ایمیل,بريد إلكتروني
+Email,Correo Electrónico,E-Mail,رایانامه,بريد إلكتروني
 Email/Phone/UserName,,E-Mail/Telefon/Benutzername,ایمیل/تلفن/نام کاربری,البريد الإلكتروني/الهاتف/اسم المستخدم
 Emam Ali,Emam Ali,Emam Ali,امام علی,الإمام علي
 Emanate,Emanar,Ausgehen,ساطع شدن,انبعث
@@ -17543,7 +17545,10 @@ Labor,Mano De Obra,Arbeit,نیروی کار,تَعَب
 Labor Party,Partido Laborista,Arbeiterpartei,حزب کارگر,حزب العمال
 Labor Strike,Huelga Laboral,Arbeitsstreik,اعتصاب کارگری,إضراب عمالي
 Labor Union,Sindicato,Gewerkschaft,اتحادیه کارگری,نقابة عمالية
+Lab,Laboratorio,Labor,آزمایشگاه,معمل
 Laboratory,Laboratorio,Labor,آزمایشگاه,معمل
+Developed By,,,توسعه یافته توسط,
+Powered By,,,قدرت گرفته از,
 Laborer,Obrero,Arbeiter,کارگر,عامل
 Laborious,Laborioso,Mühsam,پر زحمت,مرهق
 Labours,Labores,Arbeiten,کار,أعمال
@@ -17709,6 +17714,7 @@ Lassitude,Lasitud,Mattigkeit,کسالت,الخمول
 Lasso,Lazo,Lasso,کمند,لاسو
 Last,Último,Zuletzt,آخرین,آخر
 Last Member,Último Miembro,Letztes Mitglied,آخرین عضو,العضو الأخير
+First Name,Nombre,Name,نام,اسم
 Last Name,Apellido,Nachname,نام خانوادگی,اسم العائلة
 Last Nigh,Última Noche,Letzte Nacht,دیشب,الليلة الماضية
 Last Night,Anoche,Letzte Nacht,دیشب,ليلة أمس
@@ -24086,6 +24092,7 @@ Possessory,Posesorio,Besitz,تملکی,ملكية
 Possibility,Posibilidad,Wahrscheinlichkeit,امکان,إمكانية
 Possible,Posible,Möglich,ممکن است,ممكن
 Post,Correo,Post,پست,بريد
+Posts,Pasados,Posts,پست‌ها,المنشورات
 Post Card,Tarjeta Postal,Postkarte,کارت پستال,بطاقة بريدية
 Post Office,Oficina De Correos,Postamt,اداره پست,مكتب البريد
 Post Processing,Posprocesamiento,Nachbearbeitung,پس پردازش,مرحلة ما بعد المعالجة

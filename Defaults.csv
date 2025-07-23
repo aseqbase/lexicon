@@ -59,10 +59,11 @@ Display _MENU_ items per page,Mostrar elementos _MENU_ en cada página,Menüpunk
 Do not have an account?,Hazlo ¿No tienes una cuenta?,Do Sie haben noch kein Konto?,انجام دهید حساب کاربری ندارید؟,ليس لديك حساب؟
 Double click to hide,Haga doble clic para ocultar.,Doppelklicken zum Ausblenden,برای مخفی کردن دوبار کلیک کنید,انقر نقرًا مزدوجًا للإخفاء
 Download Path,Ruta de descarga,Download-Pfad,مسیر دانلود,مسار التنزيل
+View Lexicon,,Lexikon Sicht,نمایش واژه‌نامه,انظر القاموس
 Edit Lexicon,Editar el diccionario,Lexikon bearbeiten,ویرایش واژه‌نامه,تعديل القاموس
 Edit Profile,Editar perfil,Profil bearbeiten,ویرایش نمایه,تعديل الملف الشخصي
 Editor,Editor,Editor,ویرایشگر,المحرر
- Email,Correo electrónico,E-Mail,ایمیل,البريد الإلكتروني
+Email,Correo Electrónico,E-Mail,رایانامه,بريد إلكتروني
 Email/Phone/UserName,Correo electrónico/Teléfono/Nombre de usuario,E-Mail/Telefon/Benutzername,ایمیل/تلفن/نام کاربری,البريد الإلكتروني/الهاتف/اسم المستخدم
 Error Symbol Path,Ruta del símbolo de error,Fehlersymbol-Pfad,مسیر نماد خطا,مسار رمز الخطأ
 Export Lexicon,Exportar un diccionario,Lexikon exportieren,صادر کردن واژه‌نامه,تصدير القاموس
@@ -122,7 +123,8 @@ Owner Description,Las explicaciones de Malik,Beschreibung des Inhabers,توضی�
 Parent,padre,Übergeordneter,والد,الرئيسي
 Password,Código de acceso,Passwort,رمز عبور,كلمة المرور
 Path,camino,Pfad,مسیر,المسار
-post,Pasado,Post,پست,المنشور
+Post,Pasado,Post,پست,المنشور
+Posts,Pasados,Posts,پست‌ها,المنشورات
 Previous,tribal,Zurück,قبلی,السابق
 Priority,Prioridad,Priorität,اولویت,الأولوية
 Process Symbol Path,Ruta del icono del proceso,Prozesssymbolpfad,مسیر نماد فرآیند,رمز عملية المسار
@@ -226,3 +228,21 @@ Learn More,Aprender más,Mehr erfahren,بیشتر یادبگیر,تعرّف عل
 Read More,Leer más,Mehr lesen,بیشتر بخوان,اقرأ المزيد
 Know Others,Conocer a otros,Mehr erfahren,بیشتر بدان,تعرّف على الآخرين
 Look Further,Mirar más allá,Mehr sehen,بیشتر ببین,انطلق إلى أبعد من ذلك
+Click to change the image!,¡Haga clic para cambiar la imagen!,"Klicken Sie hier, um das Bild zu ändern!",برای تغییر تصویر کلیک نمایید,انقر لتغيير الصورة!
+Work Impact,Impacto del trabajo,Auswirkungen der Arbeit,تاثیر کار,تأثير العمل
+Work Max Tolerance,El mayor trabajo,Die meiste Arbeit,بیشترین میزان کار,اكثر عمل
+Work Min Tolerance,La menor cantidad de trabajo,Der geringste Arbeitsaufwand,کمترین میزان کار,أقل قدر من العمل
+Works Status,Estado de la obra,Stand der Arbeiten,وضعیت کارها,حالة العمل
+X,Hacha,Axt,اکس,الفأس
+X (Transexual),Ambos,Beide,هردو,كلاهما
+You are logged in!,¡Has iniciado sesión!,Du bist angemeldet!,شما وارد‌شده اید!,لقد قمت بتسجيل الدخول!
+You do not have enough access to this action!,¡No tienes suficiente acceso para realizar esta operación!,"Sie verfügen nicht über ausreichende Zugriffsrechte, um diesen Vorgang auszuführen!",شما دسترسی کافی برای انجام این عملیات را ندارید!,ليس لديك القدرة الكافية على إجراء هذه العملية!
+You signed out successfully!,¡Has cerrado sesión exitosamente!,Sie haben sich erfolgreich abgemeldet!,شما با موفقیت از سیستم خارج شدید!,لقد قمت بتسجيل الخروج بنجاح!
+"Your account will need to be activated if you change the field!","¡Si cambias este campo, tu cuenta debería ser activada!","Wenn Sie dieses Feld ändern, sollte Ihr Konto aktiviert werden!","اگر این فیلد را تغییر دهید، حساب شما باید فعال شود!","إذا قمت بتغيير هذا الحقل، سيتم تفعيل حسابك!"
+Your change draft for the <0> registered successfully!,¡Su documento de cambio para <0> se ha enviado correctamente!,Ihr Änderungsdokument für <0> wurde erfolgreich übermittelt!,سند تغییر شما برای <0> با موفقیت ثبت شد!,لقد تم إرسال مستند التغيير الخاص بك لـ <0> بنجاح!
+"Your full name, you will known by this around the site","Tu nombre completo, por este nombre eres conocido en el sistema.","Ihr vollständiger Name, unter diesem Namen sind Sie im System bekannt.","نام کامل شما، شما را با این نام در سامانه می‌شناسند","اسمك الكامل، أنت معروف بهذا الاسم في النظام."
+"Your organization, institute, company, etc.","Organización, institución, empresa, etc.","Organisation, Institution, Unternehmen usw.","سازمان، موسسه، شرکت و غیره","منظمة، مؤسسة، شركة، الخ."
+Your request is not valid!,¡Su solicitud no es válida!,Ihre Anfrage ist ungültig!,درخواست شما معتبر نیست!,طلبك غير صالح!
+Your Satisfaction is our Greatest Goal,Su satisfacción es nuestro mayor objetivo.,Ihre Zufriedenheit ist unser größtes Ziel.,رضایت شما بزرگترین هدف ماست,رضاكم هو هدفنا الأكبر.
+Developed By:,,,توسعه یافته توسط:,
+Powered By:,,,قدرت گرفته از:,
