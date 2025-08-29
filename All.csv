@@ -12008,7 +12008,7 @@ Fop,Fop,Petimetre,Geck,فُپ,فوب
 Foppery,Foppery,"Afectación En El Vestir",Gecken,فوپری,غندرة
 Foppishness,Foppishness,Frivolidad,Stutzerhaftigkeit,فضولی,التباهي
 Foppy,Foppy,Presumido,Struppig,فوپی,مغرور
-For,For,Antes,Vor,"قبل از",قبل
+For,For,Antes,Vor,برای,قبل
 "For A Long Time","For A Long Time","Por Mucho Tiempo","Für Eine Lange Zeit","برای مدت طولانی","لفترة طويلة"
 "For A While","For A While","Por Un Tiempo","Für Eine Weile","برای مدتی","لفترة من الوقت"
 "For Example","For Example","Por Ejemplo","Zum Beispiel","برای مثال","على سبيل المثال"
@@ -16100,7 +16100,7 @@ Infidel,Infidel,Infiel,Ungläubig,کافر,كافر
 Infield,Infield,"Cuadro Interior",Innenfeld,"زمین زیر کشت","الملعب الداخلي"
 Infinite,Infinite,Infinito,Unendlich,"بی نهایت",لانهائي
 Infinitesimal,Infinitesimal,Infinitesimal,Infinitesimal,"بی نهایت کوچک","متناهي الصغر"
-Infinitival,Infinitival,Infinitivo,Infinitiv,مصدر,"صيغة المصدر"
+Infinitival,Infinitival,Infinitivo,Infinitiv,یمصدر,"صيغة المصدر"
 Infinitive,Infinitive,Infinitivo,Infinitiv,مصدر,"صيغة المصدر"
 "Infinitive Mood","Infinitive Mood","Modo Infinitivo",Infinitiv,"حالت مصدر","صيغة المصدر"
 Infinitives,Infinitives,Infinitivos,Infinitive,مصدرها,المصادر
@@ -21755,7 +21755,7 @@ Odors,Odors,Olores,Gerüche,بوها,الروائح
 Oesophagus,Oesophagus,Esófago,Speiseröhre,مری,المريء
 Oestrus,Oestrus,Estro,Brunst,فحلی,شبق
 Oeuvre,Oeuvre,Obra,Werk,"آثار هنری","أعمال فنية"
-Of,Of,De,Von,از,ل
+Of,Of,De,Von,از,من
 "Of A Bad Stock","Of A Bad Stock","De Una Mala Acción","Einer Schlechten Aktie","از موجودی بد","من المخزون السيئ"
 "Of A Hot Temperament","Of A Hot Temperament","De Temperamento Ardiente","Von Einem Heißen Temperament","دارای مزاج گرم","ذو مزاج حار"
 "Of A Poor Health","Of A Poor Health","De Mala Salud","Einer Schlechten Gesundheit","از نظر سلامتی ضعیف","من سوء الصحة"
@@ -28342,7 +28342,7 @@ Serve,Serve,Atender,Aufschlag,"خدمت کردن",يخدم
 "Serve As An Apprentice","Serve As An Apprentice","Servir Como Aprendiz","Als Lehrling Dienen","به عنوان شاگرد خدمت کردن","العمل كمتدرب"
 "Serve Food","Serve Food","Servir Comida","Essen Servieren","غذا سرو کنید","تقديم الطعام"
 Server,Server,Servidor,Server,سرور,الخادم
-Service,Service,Servicio,Service,خدمات,خدمة
+Service,Service,Servicio,Service,خدمت,خدمة
 "Service Book","Service Book","Libro De Servicios",Servicebuch,"کتاب خدمات","كتاب الخدمة"
 "Service Line","Service Line","Línea De Servicio",Servicelinie,"خط خدماتی","خط الخدمة"
 Services,Services,Servicios,Leistungen,خدمات,الخدمات
@@ -32533,10 +32533,10 @@ Tittle,Tittle,Hamza,Hamza,همزه,حمزة
 "Tittle Tattle","Tittle Tattle","Decir tonterías","Unsinn reden","یاوه گفتن","التحدث بالهراء"
 Titular,Titular,"Titular del título",Titelträger,"صاحب لقب","حامل اللقب"
 "Tmporary Insurance","Tmporary Insurance","Seguro temporal","Temporäre Versicherung","بیمه موقت","التأمين المؤقت"
-To,To,"Infinitivo del verbo","Infinitiv des Verbs","مصدر فعل","مصدر الفعل"
-"To Be","To Be","Relacionado con el ganador","Im Zusammenhang mit dem Gewinner","مربوط باینده","متعلق بالفائز"
+To,To,A,Zu,به,الى
+"To Be","To Be","Relacionado con el ganador","Im Zusammenhang mit dem Gewinner","مربوط به آینده","متعلق بالفائز"
 "To Be Able To Supervise","To Be Able To Supervise","Estar bajo supervisión","Unter Aufsicht stehen","تحت نظارت داشتن","أن تكون تحت الإشراف"
-"To Be Inflamed","To Be Inflamed"," Llameante"," Flammend","مشتعل	"," ملتهب"
+"To Be Inflamed","To Be Inflamed",Llameante,Flammend,مشتعل,ملتهب
 "To Be Worth","To Be Worth",Valorar,Wertschätzen,ارزیدن,للتقييم
 "To Each Other","To Each Other","A mí",Mir,بهم,لي
 "To Esteem","To Esteem","Para honrar","Zu Ehren","ارجمند شمردن",لتكريم

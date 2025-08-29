@@ -27,7 +27,6 @@ The Special User Group,Grupo especial de usuarios,Spezialbenutzergruppe,گروه
 The Manager User Group,Grupo de usuarios administradores,Managergruppe,گروه کاربری مدیر,مجموعة مستخدمي الإدارة
 The Administrator User Group,Grupo de usuarios administradores,Administratorgruppe,گروه کاربری مدیر,مجموعة مستخدمي الإدارة
 The Registered User Group,Grupo de usuarios registrados,Registrierte Benutzergruppe,گروه کاربران ثبت نام شده,مجموعة المستخدمين المسجلين
-Do not have an account?,Hazlo ¿No tienes una cuenta?,Do Sie haben noch kein Konto?,انجام دهید حساب کاربری ندارید؟,ليس لديك حساب؟
 Do not have an account?,¿No tienes cuenta?,Sie haben noch kein Konto?,حساب کاربری ندارید؟,ليس لديك حساب؟
 You do not have enough access to this action!,¡No tienes suficiente acceso para realizar esta operación!,"Sie verfügen nicht über ausreichende Zugriffsrechte, um diesen Vorgang auszuführen!",شما دسترسی کافی برای انجام این عملیات را ندارید!,ليس لديك القدرة الكافية على إجراء هذه العملية!
 Sign Dashboard,Firmar panel,Sign-Dashboard,داشبورد تابلو,لوحة معلومات التوقيع
@@ -52,6 +51,8 @@ To manage all received comments,Para gestionar todos los comentarios recibidos,S
 To manage the back-end website settings,Para administrar la configuración de administración del sitio web,Verwaltung der Backend-Einstellungen,برای مدیریت تنظیمات بخش مدیریت وب سایت,لإدارة إعدادات قسم إدارة الموقع
 No items available,No hay artículos disponibles,Keine Artikel verfügbar,هیچ کالایی موجود نیست,لا يوجد عناصر متاحة
 I<0>t know which one yet.,¿Qué me pasa?,"Ich weiß noch nicht, was.",هنوز نمی دانم کدام.,لا أعرف أيهما بعد.
+I don't have an account!,¡No tengo una cuenta!,Ich habe kein Konto!,من حساب کاربری ندارم!,ليس لدي حساب!
+I remembered my password!,¡Me acordé de mi contraseña!,Ich habe mein Passwort wiedererkannt!,رمزعبورم را به یاد آوردم!,لقد تذكرت كلمة المرور الخاصة بي!
 A strong password,Una contraseña segura,Ein sicheres Passwort,یک رمز عبور قوی,كلمة مرور قوية
 Password<0>*<1>,Contraseña<0>*<1>,Passwort<0>*<1>,رمز عبور<0>*<1>,كلمة المرور<0>*<1>
 Scan the QRCode or use the <0> on the website...,Escanea el código QR o usa el <0> en el sitio web...,Scannen Sie den QRCode oder verwenden Sie die <0> auf der Website...,QRCode را اسکن کنید یا از <0> در وب سایت استفاده کنید...,قم بمسح رمز الاستجابة السريعة QRCode أو استخدم <0> على الموقع الإلكتروني...
@@ -68,6 +69,7 @@ Display _MENU_ items per page,Mostrar elementos _MENU_ en cada página,Menüpunk
 View your earnings report,Ver tu informe de ganancias,Zeigen Sie Ihren Verdienstbericht an,گزارش درآمد خود را مشاهده کنید,عرض تقرير أرباحك
 Showing _START_ to _END_ of _TOTAL_ entries,Mostrando del _INICIO_ al _FIN_ de _TOTAL_ entradas,Zeigt _START_ bis _END_ von _TOTAL_ Einträgen,نمایش _شروع_ تا _پایان_ از ورودی های _TOTAL_,عرض _START_ إلى _END_ من إجمالي _TOTAL_ الإدخالات
 Your request is not valid!,¡Su solicitud no es válida!,Ihre Anfrage ist ungültig!,درخواست شما معتبر نیست!,طلبك غير صالح!
+Your request submitted successfully!,¡El formulario fue enviado exitosamente!,Das Formular wurde erfolgreich abgeschickt!,درخواست شما با موفقیت ارسال شد!,تم إرسال النموذج بنجاح!
 Request Submit,Enviar solicitud,Anfrage senden,درخواست ارسال,طلب إرسال
 The short slogan of the website,Eslogan corto para un sitio web,Kurzslogan der Website,شعار کوتاه وب سایت,شعار الموقع القصير
 Azmaresan Kavir Yazd Co.,Azmaresan Kavir Yazd Co.,Azmaresan Kavir Yazd Co.,شرکت آزمرسان کویر یزد,شركة أزمارسان كافير يزد
@@ -148,7 +150,7 @@ Your first name,Tu nombre,Ihr Vorname,نام کوچک شما,اسمك الأول
 Your last name,Tu apellido,Ihr Nachname,نام خانوادگی شما,اسمك الأخير
 Import Lexicon,Importar léxico,Lexikon importieren,واژه نامه ی واردات,استيراد المعجم
 Leave a message to Us!,¡Envíanos un mensaje!,Hinterlassen Sie uns eine Nachricht!,برای ما پیام بگذارید!,اترك لنا رسالة!
-Leave a message to Us!,¡Déjanos un mensaje!,Hinterlasse uns eine Nachricht!,برای ما پیام بگذارید!,اترك لنا رسالة!
+Leave a message,¡Déjanos un mensaje!,Hinterlasse uns eine Nachricht!,پیامی بگذارید...,اترك لنا رسالة!
 Search for suitable apprenticeships,Simplemente dime qué ciclo es adecuado para ti.,Suche nach passenden Ausbildungsplätzen,جستجوی دوره های کارآموزی مناسب,ابحث عن فرص تدريب مناسبة
 Find offices on the map,Encuentra oficinas en el mapa,Finden Sie Niederlassungen auf der Karte,یافتن دفاتر روی نقشه,ابحث عن المكاتب على الخريطة
 Find laboratories on the map,Encuentra laboratorios en el mapa,Labore auf der Karte finden,آزمایشگاه ها را روی نقشه پیدا کنید,ابحث عن المختبرات على الخريطة

@@ -15,6 +15,7 @@ A While Ago,Hace un tiempo,Vor einiger Zeit,چندی قبل,منذ بعض الو
 A While Later,Algún tiempo después,Einige Zeit später,مدتی بعد,بعد مرور بعض الوقت
 Abandoned Place,Abandonado,Verlassen,متروکه,متروك
 ABOUT<0><1>,Acerca de <0><1>,ÜBER <0><1>,درباره<0><1>,حول<0><1>
+Account Recovery,Recuperación de cuenta,Kontowiederherstellung,بازیابی نمایه,استعادة الحساب
 Administrator,Gerente,Administrator,مدیر,المسؤول
 Ammonium Chloride,Nashadar,Nashadar,نشادر,نشادار
 Ammunition Depot,Depósito de municiones,Munitionsdepot,انبار مهمات,مستودع الذخيرة
@@ -53,6 +54,7 @@ Double click to hide,Haga doble clic para ocultar.,Doppelklicken zum Ausblenden,
 Download Path,Ruta de descarga,Download-Pfad,مسیر دانلود,مسار التنزيل
 Edit Lexicon,Editar el diccionario,Lexikon bearbeiten,ویرایش واژه نامه,تعديل القاموس
 Edit Profile,Editar perfil,Profil bearbeiten,ویرایش نمایه,تعديل الملف الشخصي
+Email/Phone,Recupera tu cuenta,Stellen Sie Ihr Konto wieder her,رایانامه/تلفن,البريد الإلكتروني/الهاتف
 Email/Phone/UserName,Correo electrónico/Teléfono/Nombre de usuario,E-Mail/Telefon/Benutzername,ایمیل/تلفن/نام کاربری,البريد الإلكتروني/الهاتف/اسم المستخدم
 Error Symbol Path,Ruta del símbolo de error,Fehlersymbol-Pfad,مسیر نماد خطا,مسار رمز الخطأ
 Export Lexicon,Exportar un diccionario,Lexikon exportieren,صادر کردن واژه نامه,تصدير القاموس
@@ -81,6 +83,7 @@ Look Further...,Mirar más allá...,Mehr sehen...,بیشتر ببین...,انط�
 Main Menus,Menú original,Hauptmenüs,منوهای اصلی,القوائم الرئيسية
 Message Us,Mensaje para nosotros,Nachricht an uns,پیام به ما,راسلنا
 Middle Name,Segundo nombre,Zweiter Vorname,نام میانی,الاسم الأوسط
+New request,Nueva solicitud,Neue Anfrage,درخواست جدید,طلبًا جديدًا
 No items available,No hay ningún recurso disponible,Keine Einträge verfügbar,هیچ موردی موجود نیست,لم يتم العثور على أي عناصر
 Our Mission,,,ماموریت ما,
 Our Services,Servicios,Unsere Leistungen,خدمات ما,خدماتنا
@@ -93,8 +96,10 @@ Read More,Leer más,Mehr lesen,بیشتر بخوان,اقرأ المزيد
 Read More...,Leer más...,Mehr lesen...,بیشتر بخوانید...,اقرأ المزيد...
 Read More...,Leer más...,Mehr lesen...,بیشتر بخوان...,اقرأ المزيد...
 Receiver Email,Correo electrónico del destinatario,Empfänger-E-Mail,ایمیل گیرنده,بريد المستلم
+Recover account for,Recuperar cuenta,Konto wiederherstellen,حساب کاربری خود را بازیابی کن,تم إعادة تشغيل حسابك
 Registered,Registrado,Registriert,ثبت شده,مسجل
 Reset Password,Restablecer contraseña,Passwort zurücksetzen,بازنشانی رمز عبور,إعادة تعيين كلمة المرور
+Search again,Busca de nuevo,Busca de nuevo,جستجو مجدد,ابحث مرة أخرى
 See More...,Ver más...,Mehr sehen...,بیشتر ببین...,شاهد المزيد...
 Select on Map,Seleccionar en el mapa,Auf der Karte auswählen,انتخاب روی نقشه,حدد على الخريطة
 Sender Email,Correo electrónico Farestandeh,Absender-E-Mail,ایمیل فرستنده,بريد المرسل
@@ -601,6 +606,8 @@ Study Room,Sala de estudio,Arbeitszimmer,اطاق مطالعه,غرفة الدر
 Stumbling Block,Resbaladizo,Rutschig,موجب لغزش,زلق
 Subject To,Sujeto,Thema,مشمول,موضوع
 Submachine Gun,Ametralladora,Maschinengewehr,مسلسل دستی,مدفع رشاش
+Submit a new request,Enviar una nueva solicitud,Neue Anfrage senden,ثبت درخواست جدید,أرسل طلبًا جديدًا
+Submit a request,Enviar una solicitud,Anfrage senden,ثبت درخواست,أرسل طلبًا
 Subscription Rights,Fondos compartidos,Gemeinsame Mittel,وجهاشتراک,الصناديق المشتركة
 Subterranean Canal,Kariz,Kariz,کاریز,كاريز
 Subtle Difference,Pequeño desacuerdo,Kleinere Meinungsverschiedenheit,اختلاف مختصر,خلاف بسيط
@@ -1009,6 +1016,7 @@ Town House,Casa del mendigo,Bettlerhaus,گدا خانه,بيت المتسول
 Town Meeting,Ayuntamiento,Stadtrat,شورای شهری,مجلس المدينة
 Tracking Code,Código Seguimiento,Sendungsverfolgungcode,کدپیگیری,رمز التتبع
 Traction Service,Jariya,Jariya,جریه,جارية
+Track your request,Seguimiento de su solicitud,Anfrage verfolgen,پیگیری درخواست‌های سابق,تتبع طلبك
 Trade Center,Centro comercial,Einkaufszentrum,مرکزبازرگانی,مركز تسوق
 Trade Union,Sindicato,Gewerkschaft,اتحادیه صنفی,نقابة عمالية
 Traditional Gymnasium,Zurkhaneh,Zurkhaneh,زورخانه,الزورخانة

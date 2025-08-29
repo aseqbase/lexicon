@@ -3160,7 +3160,7 @@ Tito,Tito,Tito,تیتو,تيتو
 Titration,Calibración,Kalibrierung,عیارگیری,معايرة
 Tittle,Hamza,Hamza,همزه,حمزة
 Titular,Titular del título,Titelträger,صاحب لقب,حامل اللقب
-To,Infinitivo del verbo,Infinitiv des Verbs,مصدر فعل,مصدر الفعل
+To,A,Zu,به,الى
 Toady,Cuenco para lamer,Leckschüssel,کاسه لیس,وعاء اللعق
 Toadyism,Cuenco Lisi,Lisi Schüssel,کاسه لیسی,وعاء ليزي
 Toast, Asado, Geröstet,"برشته	", مشوي
@@ -6216,7 +6216,10 @@ Subject,tema,Betreff,موضوع,الموضوع
 SYSTEMS,Sistemas,SYSTEME,سیستم ها,أنظمة
 Access,Acceso,Zugang,دسترسی,الوصول
 Author,Autor,Autor,نویسنده,المؤلف
-BASE  ,Base,BASIS,پایه,أساسي
+Authenticate,Autenticar,Authentifizieren,احراز هویت,المصادقة
+Authentication,Autenticar,Authentifizieren,احراز هویت,المصادقة
+Authenticating,Autenticar,Authentifizieren,احراز هویت کردن,المصادقة
+BASE,Base,BASIS,پایه,أساسي
 Editor,Editor,Editor,ویرایشگر,المحرر
 GROUPS,Grupos,GRUPPEN,گروه ها,المجموعات
 Parent,padre,Übergeordneter,والد,الرئيسي
