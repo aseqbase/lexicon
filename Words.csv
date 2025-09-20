@@ -1832,7 +1832,6 @@ Submission,Obediencia,Gehorsam,فرمانبرداری,طاعة
 Submissive,Sin cabeza,Kopflos,سربزیر,بدون رأس
 Submissively,opresivamente,drückend,مظلومانه,بشكل قمعي
 Submissiveness,Barbijo,Kopftuch,سربزیری,الحجاب
-Submit,Rendirse,Sich ergeben,تسلیم داشتن,للاستسلام
 Submodule,Submetro,Unterzähler,زیرپیمانه,متر فرعي
 Submontane,Estribaciones,Vorgebirge,کوهپایهای,سفوح التلال
 Subnormal,Subnormal,Unterdurchschnittlich,مادون عادی,دون الطبيعي
@@ -3198,6 +3197,7 @@ Tollman,Borde del camino,Straßenrand,راهدار,جانب الطريق
 Tollway,Bajra,Bajra,باجراه,باجرا
 Tom,gato macho,Kater,گربه نر,قط ذكر
 Toman,Tomán,Toman,تومن,تومان
+Tomans,Tománs,Tomans,تومان,تومان
 Tomato,Tomate,Tomate,گوجه فرنگی,طماطم
 Tomb,Tumba,Grab,آرامگاه,قبر
 Tombac,Lámina metálica,Metallfolie,فلز زرورق,رقائق معدنية
@@ -3341,10 +3341,10 @@ Tracheary,De forma traqueal,Trachealartig,نای مانند,يشبه القصب�
 Trachoma,Tracoma,Trachom,تراخم,التراخوما
 Trachomatous,Tarkhmi,Tarchmi,ترخمی,ترخمي
 Tracing,Seguimiento,Sendungsverfolgung,ردیابی,التتبع
-Track,Seguimiento,Sendungsverfolgung,ردیابی کردن,التتبع
+Track,Seguimiento,Sendungsverfolgung,پیگیری کردن,التتبع
 Trackage,Resistencia a la tracción,Zugfestigkeit,قدرت کشش,قوة الشد
 Tracker,Detective,Detektiv,سراغ گیر,المحقق
-Tracking,Seguimiento,Sendungsverfolgung,ردیابی,التتبع
+Tracking,Seguimiento,Sendungsverfolgung,پیگیری,التتبع
 Track-Laying,Barandilla,Geländer,ریل گذاری,درابزين
 Trackless,Sin camino,Straßenlos,بی جاده,بلا طريق
 Tractable,Rienda suelta,Lockerer Zügel,سست مهار,لجام فضفاض
@@ -4631,7 +4631,7 @@ Useful,Ampliamente utilizado,Weit verbreitet,پر استفاده,مستخدمة 
 Usefulness,Rentabilidad,Rentabilität,سودبخشی,الربحية
 Useless,No usado,Unbenutzt,بلا استفاده,غير مستخدم
 Uselessness,Inutilidad,Nutzlosigkeit,بی فایدگی,عدم الجدوى
-User,Usuario,Benutzer,استفاده کننده,مستخدم
+User,Usuario,Benutzer,کاربر,مستخدم
 Usher,Para hacer preguntas,Fragen stellen,یساولی کردن,لطرح الأسئلة
 Using,Usar,Verwenden,بکارگیری,يستخدم
 Usual,Normal,Normal,عادی,طبيعي
@@ -5802,8 +5802,8 @@ Witchery,Brujería,Hexerei,جادوگری,السحر
 Witching,Encantador,Zauberhaft,مسحور کننده,ساحر
 Witchy,Relacionado con la brujería,Im Zusammenhang mit Hexerei,وابستهبهجادوگری,متعلق بالسحر
 With,Con,Mit,با,مع
-Withdraw,Hacerse a un lado,Zur Seite treten,کناره جوی کردن,للتنحي جانبا
-Withdrawal,Retiro,Rückzug,کنارهگیری,انسحاب
+Withdraw,Retirar,Zurückziehen,برداشت,ينسحب
+Withdrawal,Retiro,Rückzug,برداشت,انسحاب
 Wither,Marchitez,Welken,پژمرده کردن,ذبول
 Withered,Desteñido,Verblasst,پلاسیده,باهت
 Withers,Buscar,Suchen,جدوگاه,يبحث
@@ -6226,7 +6226,7 @@ Parent,padre,Übergeordneter,والد,الرئيسي
 Search,Buscar,Suchen,جستجو,بحث
 Slogan,eslogan,Slogan,شعار,الشعار
 Status,Estado,Status,وضعیت,الحالة
-Submit,enviar,Senden,ارسال,إرسال
+Submit,enviar,Senden,تایید,إرسال
 SWITCH,Cambiar,SWITCH,سوئیچ,تبديل
 Update,Actualizar,Aktualisierung,به روزرسانی,تحديث
 ABOUT,Acerca de,ÜBER,درباره,حول
@@ -6267,3 +6267,16 @@ Bio,Biografía,Bio,بیوگرافی,السيرة الذاتية
 Id,¿Qué te pasa?,ID,شناسه,الهوية
 Wallet,Billetera,Geldbörse,کیف پول,محفظة,
 X,Hacha,Axt,اکس,الفأس
+Started,Iniciado,Begonnen,آغازشده,بدأت
+Rejected,Rechazado,Abgelehnt,ردشده,رُفضت
+Confirmed,Confirmado,Bestätigt,تاییدشده,أُكدت
+Suspended,Suspendido,Ausgesetzt,معلق,مُعلّقة
+Noticed,Notificado,Bemerkt,فراخوان‌شده,أُشير إليها
+Canceled,Cancelado,Abgebrochen,انصراف‌داده,ألغيت
+Paid,Pagado,Bezahlt,پرداخت‌شده,دُفعت
+Archived,Archivado,Archiviert,بایگانی‌شده,مؤرشفة
+Done,Listo,Erledigt,انجام‌شده,تمّ
+Incompleted,Incompleto,Unvollständig,ناقص,غير مُكتمل
+Completed,Completado,Abgeschlossen,تکمیل‌شده,مُكتمل
+Finished,Terminado,Beendet,پایان‌یافته,انتهى
+Refund,Reembolso,Erstattung,مسترد‌شده,استرداد

@@ -27,7 +27,11 @@ The Special User Group,Grupo especial de usuarios,Spezialbenutzergruppe,گروه
 The Manager User Group,Grupo de usuarios administradores,Managergruppe,گروه کاربری مدیر,مجموعة مستخدمي الإدارة
 The Administrator User Group,Grupo de usuarios administradores,Administratorgruppe,گروه کاربری مدیر,مجموعة مستخدمي الإدارة
 The Registered User Group,Grupo de usuarios registrados,Registrierte Benutzergruppe,گروه کاربران ثبت نام شده,مجموعة المستخدمين المسجلين
+The username or password is incorrect!,¡El nombre de usuario o contraseña es incorrecto!,Der Benutzername oder das Passwort ist falsch!,نام کاربری یا رمز عبور اشتباه است!,اسم المستخدم أو كلمة المرور غير صحيحة!
+The <0> or <1> is incorrect!,¡El <0> de <1> o contraseña es incorrecto!,Der <0> oder <1> ist falsch!,<0> یا <1> اشتباه است!,<0> أو <1> غير صحيحة!
 Do not have an account?,¿No tienes cuenta?,Sie haben noch kein Konto?,حساب کاربری ندارید؟,ليس لديك حساب؟
+"Dear <0>, your code is:","Estimado <0>, tu código es:","Lieber <0>, Ihr Code lautet:","<0> عزیز کد شما به شرح زیر است:","عزيزي <0>، رمزك هو:"
+Keep it secret,Mantenlo en secreto,Bitte geheim halten,لطفا آن را مخفی نگه دارید,احتفظ به سرًا
 You do not have enough access to this action!,¡No tienes suficiente acceso para realizar esta operación!,"Sie verfügen nicht über ausreichende Zugriffsrechte, um diesen Vorgang auszuführen!",شما دسترسی کافی برای انجام این عملیات را ندارید!,ليس لديك القدرة الكافية على إجراء هذه العملية!
 Sign Dashboard,Firmar panel,Sign-Dashboard,داشبورد تابلو,لوحة معلومات التوقيع
 The requested URL was not found on this server.,La URL solicitada no se encontró en este servidor.,Die angeforderte URL wurde auf diesem Server nicht gefunden.,آدرس اینترنتی (URL) مورد نظر در این سرور یافت نشد.,لم يتم العثور على عنوان URL المطلوب على هذا الخادم.
@@ -104,7 +108,10 @@ Complete the forward steps...,Completa los pasos siguientes...,Führen Sie die n
 The main members and personnel of the website,Miembros y personal del sitio web principal,Hauptmitglieder und Mitarbeiter der Website,اعضا و پرسنل اصلی وب سایت,أعضاء الموقع الرئيسيون وفريق العمل
 I know exactly what I want to be.,Desde hace un minuto les dejo con una sonrisa.,"Ich weiß genau, was ich werden will.",من دقیقاً می دانم می خواهم چه باشم.,أعرف تمامًا ما أريد أن أكون.
 I know roughly what I want to be.,Casi en mitad de la noche.,"Ich weiß ungefähr, was ich werden will.",تقریباً می دانم چه می خواهم باشم.,أعرف تقريبًا ما أريد أن أكون.
-Add your first item <0><1>,Añadir su primer elemento <0><1>,Fügen Sie Ihren ersten Artikel hinzu <0><1>,اولین مورد خود را اضافه کنید <0><1>,أضف العنصر الأول الخاص بك <0><1>
+Add another item,,Weiteren Eintrag hinzufügen,اضافه کردن یک آیتم دیگر,إضافة عنصر آخر
+Add your first item,,Ersten Eintrag hinzufügen,اضافه کردن اولین آیتم شما,إضافة العنصر الأول
+Add Fuel To Fire,Añadir Leña Al Fuego,Öl Ins Feuer Gießen,به آتش سوخت اضافه کنید,إضافة الوقود إلى النار
+Add Fuel To The Fire,Echar Leña Al Fuego,Öl Ins Feuer Gießen,به آتش سوخت اضافه کنید,زاد الطين بلة
 Indicate your current location on the map,Indica tu ubicación actual en el mapa,Geben Sie Ihren aktuellen Standort auf der Karte an,مکان فعلی خود را روی نقشه مشخص کنید,أشر إلى موقعك الحالي على الخريطة
 Indicate a unique username,Indica un nombre de usuario único,Geben Sie einen eindeutigen Benutzernamen an,یک نام کاربری منحصر به فرد را مشخص کنید,أشر إلى اسم مستخدم فريد
 I want to go to the lab,Quiero ir al laboratorio,Ich möchte ins Labor gehen,من میخوام برم آزمایشگاه,أريد أن أذهب إلى المختبر
@@ -118,10 +125,7 @@ Reset Password,Restablecer contraseña,Passwort zurücksetzen,بازنشانی �
 Showing _START_ to _END_ of _TOTAL_ entries,Nombres de _inicio_ de _la_ entrada_ de _TOTAL_,_START_ bis _END_ von _TOTAL_ Einträgen werden angezeigt,نمایش _شروع_ تا _پایان_ ورودی های _TOTAL_,إظهار إجمالي الإدخالات من البداية إلى النهاية
 Show details...,Mostrar detalles...,Details anzeigen...,نمایش جزئیات ...,إظهار التفاصيل...
 "An original, safe, very flexible, and innovative framework for web developments!","Un framework original, seguro, muy flexible e innovador para desarrollos web.","Ein originelles, sicheres, sehr flexibles und innovatives Framework für Webentwicklungen!","یک چارچوب بدیع، ایمن، بسیار انعطاف پذیر و نوآورانه برای توسعه وب!",إطار عمل أصلي وآمن ومرن للغاية ومبتكر لتطوير الويب!
-Add another item <0><1>,Añadir otro elemento <0><1>,Weiteren Eintrag hinzufügen <0><1>,اضافه کردن یک آیتم دیگر <0><1>,إضافة عنصر آخر <0><1>
-Add another item <0><1>,Añadir otro elemento <0><1>,Weiteren Artikel hinzufügen <0><1>,یک مورد دیگر اضافه کنید <0><1>,إضافة عنصر آخر <0><1>
 Active adding language,Añadiendo idioma,Aktives Hinzufügen einer Sprache,فعال کردن افزودن زبان,إضافة اللغة النشطة
-Add your first item <0><1>,Añade tu primer artículo <0><1>,Ersten Eintrag hinzufügen <0><1>,اضافه کردن اولین آیتم شما <0><1>,إضافة العنصر الأول <0><1>
 Submit a new request,Enviar una nueva solicitud,Senden Sie eine neue Anfrage,ارسال درخواست جدید,إرسال طلب جديد
 Submit a test request,Enviar una solicitud de prueba,Senden Sie eine Testanfrage,ارسال درخواست تست,إرسال طلب اختبار
 Submit Request,Enviar solicitud,Anfrage senden,ارسال درخواست,إرسال الطلب
@@ -152,6 +156,7 @@ Import Lexicon,Importar léxico,Lexikon importieren,واژه نامه ی وار�
 Leave a message to Us!,¡Envíanos un mensaje!,Hinterlassen Sie uns eine Nachricht!,برای ما پیام بگذارید!,اترك لنا رسالة!
 Leave a message,¡Déjanos un mensaje!,Hinterlasse uns eine Nachricht!,پیامی بگذارید...,اترك لنا رسالة!
 Search for suitable apprenticeships,Simplemente dime qué ciclo es adecuado para ti.,Suche nach passenden Ausbildungsplätzen,جستجوی دوره های کارآموزی مناسب,ابحث عن فرص تدريب مناسبة
+Something went wrong!,¡Algo salió mal!,Etwas ist schiefgelaufen!,مشکلی پیش آمد!,لقد حدث خطأ ما!
 Find offices on the map,Encuentra oficinas en el mapa,Finden Sie Niederlassungen auf der Karte,یافتن دفاتر روی نقشه,ابحث عن المكاتب على الخريطة
 Find laboratories on the map,Encuentra laboratorios en el mapa,Labore auf der Karte finden,آزمایشگاه ها را روی نقشه پیدا کنید,ابحث عن المختبرات على الخريطة
 Find all the collection on the map,Encuentra toda la colección en el mapa,Finden Sie die gesamte Sammlung auf der Karte,تمام مجموعه را روی نقشه پیدا کنید,ابحث عن المجموعة الكاملة على الخريطة
@@ -163,3 +168,8 @@ HTTP <0><1><0> Not Found,HTTP <0><1><0> No encontrado,HTTP <0><1><0> Nicht gefun
 (filtered from _MAX_ total entries),(filtrado de _MAX_ entradas totales),(gefiltert aus _MAX_ Gesamteinträgen),(فیلتر شده از مجموع ورودی های _MAX_),(تم تصفيته من إجمالي _MAX_ إدخالات)
 "Please scan the QRCode, or ",Escanea el código QR o," Bitte scannen Sie den QRCode, oder"," لطفا QRCode را اسکن کنید، یا"," يرجى مسح رمز الاستجابة السريعة QRCode، أو"
 Please complete field by correct format...,Por favor complete el campo con el formato correcto...,Bitte füllen Sie das Feld im richtigen Format aus ...,لطفا فیلد را با مقدار درست تکمیل نمایید....,يرجى ملء الحقل بالتنسيق الصحيح...
+Please try again...,"Por favor, inténtalo de nuevo...",Bitte versuchen Sie es erneut.,لطفا دوباره تلاش کنید...,من فضلك حاول مرة أخرى...
+Please wait...,Espere por favor...,Bitte warten...,لطفا منتظر بمانید...,انتظر من فضلك...
+Please wait,Espere por favor,Bitte warten,لطفا منتظر بمانید,انتظر من فضلك
+Are you sure you want to cancel this item?,¿Estás segura de que deseas cancelar este artículo?,Möchten Sie diesen Artikel wirklich stornieren?,آیا از حذف این ایتم اطمینان دارید؟,هل أنت متأكد أنك تريد إلغاء هذا العنصر؟
+There is no Item to show!,¡No hay ningún artículo para mostrar!,Es gibt keinen Artikel zum Anzeigen!,هیچ موردی برای نمایش وجود ندارد!,لا يوجد عنصر لإظهاره!
