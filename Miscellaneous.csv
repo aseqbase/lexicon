@@ -219,7 +219,6 @@ ERP,Planificación de recursos empresariales (ERP),ERP,ای آر پی,تخطيط
 Error,Error,Fehler,خطا,خطأ
 Error Symbol Path,Ruta del símbolo de error,Fehlersymbolpfad,مسیر نماد خطا,مسار رمز الخطأ
 Exited,Remoto,ENTFERNT,خارج شده,تمت الإزالة
-Export Lexicon,Salida del diccionario,Wörterbuchausgabe,خروجی از لغتنامه,مخرجات القاموس
 Failbox,El Fondo de los Fracasados,Der Fonds der Erfolglosen,صندوق ناموفق ها,صندوق الفاشلين
 FAILED,Fracasado,Erfolglos,ناموفق,غير ناجح
 Failed Drafts,Documentos fallidos,Nicht erfolgreiche Dokumente,سند های ناموفق,وثائق غير ناجحة
@@ -278,7 +277,6 @@ Home Path,Ruta de la página de inicio,Startseitenpfad,مسیر صفحه اصل�
 I have Received and submitted this draft!,¡Recibo y apruebo este documento!,Ich erhalte und genehmige dieses Dokument!,من این سند را دریافت و تایید می کنم!,أتلقى وأوافق على هذه الوثيقة!
 Id,IDENTIFICACIÓN,AUSWEIS,شناسه,بطاقة تعريف
 Image,Imagen,Bild,تصویر,صورة
-Import Lexicon,Una entrada de diccionario,Ein Wörterbucheintrag,ورودی یه لغتنامه,مدخل القاموس
 Inbox,Bandeja de entrada,Posteingang,صندوق ورودی ها,صندوق الوارد
 Indicate all used Tools for this Draft,Agregue todas las herramientas utilizadas para este documento.,Fügen Sie alle für dieses Dokument verwendeten Tools hinzu.,تمام ابزارهای استفاده شده برای این سند را اضافه نمایید,أضف جميع الأدوات المستخدمة لهذه الوثيقة.
 Indicate all used Vocations for this Draft,Agregue todas las misiones utilizadas para este documento.,Fügen Sie alle für dieses Dokument verwendeten Missionen hinzu.,تمام ماموریت های استفاده شده برای این سند را اضافه نمایید,أضف جميع المهام المستخدمة لهذه الوثيقة.
@@ -684,7 +682,6 @@ Tools Report,Informe de herramientas,Werkzeugbericht,گزارش ابزار,تق�
 Tools Status,Estado de la herramienta,Werkzeugstatus,وضعیت ابزارها,حالة الأداة
 Tools Time,Herramienta - Tiempo,Werkzeug - Zeit,ابزار - زمان,الأداة - الوقت
 Tools Weight,Herramientas - Peso,Werkzeuge - Gewicht,ابزار - وزن,الأدوات - الوزن
-Total,Total,Gesamt,کل,المجموع
 TRACE,Seguimiento,Sendungsverfolgung,ردیابی,التتبع
 Trace Managers,Seguimiento del gerente,Manager-Tracking,ردیابی مدیران,تتبع المدير
 Transfer,Transferir,Überweisen,انتقال,تحويل
@@ -709,9 +706,9 @@ Here added <1> marks to each person of your units.","¡Desafortunadamente, recib
  كما تمت إضافة <1> نقطة سلبية لكل شخص في وحداتك."
 Unit,Unidad,Einheit,واحد,وحدة
 Unit Effect,Eficaz con los colegas,Effektiv im Umgang mit Kollegen,موثر در همکاران,فعال مع الزملاء
-Unit Management System,Sistema de Gestión de Unidades,Einheitenverwaltungssystem,سیستم مدیریت واحد,نظام إدارة الوحدات
 UnitName,Nombre de la unidad,Einheitenname,نام واحد,اسم الوحدة
 UNITS,Unidades,Einheiten,واحدها,الوحدات
+Unit Management System,Sistema de Gestión de Unidades,Einheitenverwaltungssystem,سیستم مدیریت واحد,نظام إدارة الوحدات
 Units Management,Gestión de unidades,Einheitenverwaltung,مدیریت واحدها,إدارة الوحدة
 Units Personnel,Unidad - Individuos,Einheit - Einzelpersonen,واحد - اشخاص,الوحدة - الأفراد
 Units Quality Control - GMS,Control de Calidad de Unidades - GMS,Qualitätskontrolle von Einheiten - GMS,کنترل کیفیت واحدها - GMS,مراقبة جودة الوحدات - GMS
@@ -719,11 +716,7 @@ Units Rate,Unidad - Rango,Einheit - Rang,واحد - رتبه,الوحدة - ال
 Units Report,Informes de unidad,Einheitenberichte,گزارش واحدها,تقارير الوحدة
 Units Score,Unidad - Puntuación,Einheit - Punktzahl,واحد - نمره,الوحدة - النتيجة
 Units Users,Persona - Unidad,Person - Einheit,شخص - واحد,الشخص - الوحدة
-Unspecified,Incierto,Unsicher,نامشخص,غير مؤكد
-Update,Actualizar,Aktualisieren,به روزرسانی,تحديث
 Update <0><1>,Cambiar <0><1>,Ändern <0><1>,تغییر <0><1>,تغيير <0><1>
-Update Time,Hora de actualización,Letztes Update,زمان به روزرسانی,وقت التحديث
-UpdateTime,Editado en,Bearbeitet in,ویرایش شده در,تم التحرير في
 Used Count,Número utilizado,Verwendete Nummer,تعداد استفاده شده,الرقم المستخدم
 Used Count (%),Número utilizado (%),Verwendete Anzahl (%),تعداد استفاده شده (%),العدد المستخدم (%)
 Used Time,Tiempo utilizado,Nutzungsdauer,زمان استفاده شده,الوقت المستخدم
@@ -743,8 +736,6 @@ Value Options,Opciones de traducción,Übersetzungsoptionen,گزینه های ت
 ValueOptions,Opciones de traducción,Übersetzungsoptionen,گزینه های ترجمه,خيارات الترجمة
 View,Perspectiva,Ausblick,چشم انداز,التوقعات
 View Lexicon,Mostrar diccionario,Wörterbuch anzeigen,نمایش لغتنامه,عرض القاموس
-Visit,Vista,Sicht,مشاهده,منظر
-Visit Card,Tarjeta de presentación,Visitenkarte,کارت ویزیت,بطاقة عمل
 VOCATIONS,Misiones,Missionen,ماموریت ها,البعثات
 Vocations Count,Misiones - Número,Missionen - Anzahl,ماموریت ها - تعداد,البعثات - العدد
 Vocations Management,Gestión de misiones,Missionsmanagement,مدیریت ماموریتها,إدارة المهمة

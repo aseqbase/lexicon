@@ -67,6 +67,7 @@ Full Slogan,Logotipo completo,Slogan,شعار کامل,الشعار الكامل
 Home Path,camino de la casa,Startseite,مسیر خانه,مسار الصفحة الرئيسية
 Import Lexicon,Entra el idioma kurdo,Lexikon importieren,وارد کردن واژه نامه,استيراد القاموس
 Impressum,Imprimir,Impressum,چاپ,طباعة
+Incorrect value,Valor Incorrecto,Falschwert,مقدار نادرست,غير صحيح
 Information,Información,Informationen,اطلاعات,معلومات
 INFORMATIONS,Información,INFORMATIONEN,اطلاعات,معلومات
 Join to a Forum,Únase a una comunidad,Forum beitreten,به یک انجمن بپیوندید,انضم إلى مجتمع
@@ -87,17 +88,21 @@ New request,Nueva solicitud,Neue Anfrage,درخواست جدید,طلبًا جد
 Next step,Siguiente paso,Nächster Schritt,گام بعد,الخطوة التالية
 Previous step,Paso anterior,Vorheriger Schritt,گام قبل,الخطوة السابقة
 No items available,No hay ningún recurso disponible,Keine Einträge verfügbar,هیچ موردی موجود نیست,لم يتم العثور على أي عناصر
-Our Mission,,,ماموریت ما,
+Our Mission,Nuestra misión,Unsere Mission,ماموریت ما,مهمتنا
 Our Services,Servicios,Unsere Leistungen,خدمات ما,خدماتنا
 Owner Description,Las explicaciones de Malik,Beschreibung des Inhabers,توضیحات مالک,وصف المالك
 Password Confirmation,Confirmar Contraseña,Passwort bestätigen,تایید رمز عبور,تأكيد كلمة المرور
-Powered By:,,,قدرت گرفته از:,
+Powered By:,Desarrollado por:,Angetrieben von:,قدرت گرفته از:,مدعوم بواسطة:
+On Location,En el lugar,Vor Ort,در محل,في الموقع
 Process Symbol Path,Ruta del icono del proceso,Prozesssymbolpfad,مسیر نماد فرآیند,رمز عملية المسار
-Quick Access,,,دسترسی سریع,
+Quick Access,Acceso rápido,Schnellzugriff,دسترسی سریع,الوصول السريع
 Quick Links,Enlaces rápidos,Schnellzugriffe,لینک های سریع,روابط سريعة
+Update Time,Hora de actualización,Letztes Update,زمان به روزرسانی,وقت التحديث
+UpdateTime,Editado en,Bearbeitet in,ویرایش شده در,تم التحرير في
 Read More,Leer más,Mehr lesen,بیشتر بخوان,اقرأ المزيد
 Read More...,Leer más...,Mehr lesen...,بیشتر بخوانید...,اقرأ المزيد...
-Read More...,Leer más...,Mehr lesen...,بیشتر بخوان...,اقرأ المزيد...
+Messages Management,Gestión de mensajes,Nachrichtenverwaltung,مدیریت پیام ها,إدارة الرسائل
+Related Requests,Solicitudes relacionadas,Verwandte Anfragen,درخواست‌های مرتبط,الطلبات ذات الصلة
 Receiver Email,Correo electrónico del destinatario,Empfänger-E-Mail,ایمیل گیرنده,بريد المستلم
 Recover account for,Recuperar cuenta,Konto wiederherstellen,حساب کاربری خود را بازیابی کن,تم إعادة تشغيل حسابك
 Registered,Registrado,Registriert,ثبت شده,مسجل
@@ -1008,10 +1013,16 @@ Torment To Death, Atormentador, Peiniger,"زجر کش	", المعذب
 Torn Rope,Rebaño,Herde,رمه,قطيع
 Torn Up,Desgarrado en pedazos,In Stücke gerissen,تکه پاره شده,ممزق إلى قطع
 Tornado Like,Tornado,Tornado,گردبادی,إعصار
-Total Earnings,Ganancias totales,Gesamteinnahmen,مجموع درآمد,إجمالي الأرباح
+By wallet,Por billetera,Per Brieftasche,با کیف‌پول,بالمحفظة
+Pay by wallet,Por billetera,Per Brieftasche,پرداخت از کیف پول,بالمحفظة
+Refund Payment,Pago de reembolso,Rückerstattungszahlung,عودت وجه,استرداد المبلغ
+Refund Commission,Comisión de reembolso,Rückerstattungskommission,عودت کمیسیون,لجنة استرداد الأموال
+Refund Referral,Referencia de reembolso,Rückerstattungsempfehlung,عودت ارجاع,إحالة استرداد الأموال
+Total Earnings,Ganancias totales,Gesamteinnahmen,درآمد کل,إجمالي الأرباح
 Account Balance,Saldo de la cuenta,Kontostand,موجودی حساب,رصيد الحساب
 Torpedo Boat,Lanzador de torpedos,Torpedowerfer,اژدر انداز,قاذفة طوربيد
 Touch Up,Manipulación,Manipulation,دستکاری,تلاعب
+Send Again,Enviar de nuevo,Erneut senden,ارسال مجدد,أرسل مرة أخرى
 Tow Truck,Grúa,Kran,جرثقیل,رافعة
 Tower Of Pizza,Torre inclinada de Pisa,Schiefer Turm von Pisa,برج کج پیزا,برج بيزا المائل
 Towing Ship,Remolcador,Schlepper,کشتی یدک کش,قاطرة

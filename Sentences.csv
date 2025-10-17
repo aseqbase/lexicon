@@ -4,7 +4,7 @@ Please check your connection!,¡Comprueba tu conexión!,Bitte überprüfen Sie I
 Please check your connection!,Por favor verifique su conexión,Bitte überprüfen Sie Ihre Verbindung,لطفا اتصال خود به اینترنت را بررسی کنید,يرجى التحقق من اتصالك
 Please allow location access,Permite el acceso a la ubicación,Bitte erlauben Sie den Standortzugriff,لطفاً اجازه دسترسی به موقعیت مکانی را بدهید,يُرجى السماح بالوصول إلى الموقع
 Do you have an account?,¿Tienes cuenta?,Besitzen Sie bereits ein Konto?,آیا حساب کاربری دارید؟,هل لديك حساب؟
-Are you sure you want to remove this item?, ¿Está seguro que desea eliminar este elemento?,Möchten Sie diesen Eintrag wirklich entfernen?,آیا مطمئنید که می خواهید این آیتم را حذف کنید؟ ,هل أنت متأكد من حذف هذا العنصر؟ 
+Are you sure you want to remove the <0>?,¿Seguro que quieres eliminar este <0>?,Möchten Sie diesen <0> wirklich entfernen?,آیا مطمئن هستید که می خواهید <0> را حذف کنید؟,هل أنت متأكد أنك تريد إزالة <0>؟
 Are you sure you want to remove this item?,¿Seguro que quieres eliminar este elemento?,Möchten Sie diesen Artikel wirklich entfernen?,آیا مطمئن هستید که می خواهید این مورد را حذف کنید؟,هل أنت متأكد أنك تريد إزالة هذا العنصر؟
 Forgot your password?,¿Cual es tu clave de acceso?,Passwort vergessen?,رمز عبور خود را فراموش کرده اید؟,نسيت كلمة المرور؟
 Forgot your password?,¿Olvidaste tu contraseña?,Passwort vergessen?,رمز عبور خود را فراموش کرده اید؟,نسيت كلمة السر؟
@@ -53,7 +53,7 @@ To manage all received emails and messages,Para gestionar todos los correos elec
 To manage all received comments,Para gestionar todos los comentarios recibidos,Verwalten aller eingegangenen Kommentare,برای مدیریت تمام نظرات دریافتی,لإدارة جميع التعليقات الواردة
 To manage all received comments,Para gestionar todos los comentarios recibidos,So verwalten Sie alle empfangenen Kommentare,برای مدیریت تمام نظرات دریافتی,لإدارة جميع التعليقات الواردة
 To manage the back-end website settings,Para administrar la configuración de administración del sitio web,Verwaltung der Backend-Einstellungen,برای مدیریت تنظیمات بخش مدیریت وب سایت,لإدارة إعدادات قسم إدارة الموقع
-No items available,No hay artículos disponibles,Keine Artikel verfügbar,هیچ کالایی موجود نیست,لا يوجد عناصر متاحة
+No items available,No hay artículos disponibles,Keine Artikel verfügbar,هیچ موردی موجود نیست,لا يوجد عناصر متاحة
 I<0>t know which one yet.,¿Qué me pasa?,"Ich weiß noch nicht, was.",هنوز نمی دانم کدام.,لا أعرف أيهما بعد.
 I don't have an account!,¡No tengo una cuenta!,Ich habe kein Konto!,من حساب کاربری ندارم!,ليس لدي حساب!
 I remembered my password!,¡Me acordé de mi contraseña!,Ich habe mein Passwort wiedererkannt!,رمزعبورم را به یاد آوردم!,لقد تذكرت كلمة المرور الخاصة بي!
@@ -74,6 +74,8 @@ View your earnings report,Ver tu informe de ganancias,Zeigen Sie Ihren Verdienst
 Showing _START_ to _END_ of _TOTAL_ entries,Mostrando del _INICIO_ al _FIN_ de _TOTAL_ entradas,Zeigt _START_ bis _END_ von _TOTAL_ Einträgen,نمایش _شروع_ تا _پایان_ از ورودی های _TOTAL_,عرض _START_ إلى _END_ من إجمالي _TOTAL_ الإدخالات
 Your request is not valid!,¡Su solicitud no es válida!,Ihre Anfrage ist ungültig!,درخواست شما معتبر نیست!,طلبك غير صالح!
 Your request submitted successfully!,¡El formulario fue enviado exitosamente!,Das Formular wurde erfolgreich abgeschickt!,درخواست شما با موفقیت ارسال شد!,تم إرسال النموذج بنجاح!
+Import Lexicon,Una entrada de diccionario,Ein Wörterbucheintrag,ورودی یه لغتنامه,مدخل القاموس
+Export Lexicon,Salida del diccionario,Wörterbuchausgabe,خروجی از لغتنامه,مخرجات القاموس
 Request Submit,Enviar solicitud,Anfrage senden,درخواست ارسال,طلب إرسال
 The short slogan of the website,Eslogan corto para un sitio web,Kurzslogan der Website,شعار کوتاه وب سایت,شعار الموقع القصير
 Azmaresan Kavir Yazd Co.,Azmaresan Kavir Yazd Co.,Azmaresan Kavir Yazd Co.,شرکت آزمرسان کویر یزد,شركة أزمارسان كافير يزد
@@ -97,7 +99,7 @@ Unable to retrieve your location,No se puede recuperar tu ubicación. Por favor,
 Develop websites by <0>a seq<1>uence-<0>base<1>d framework,Desarrollar sitios web mediante un marco basado en secuencias,Entwickeln Sie Websites mit einem sequenzbasierten Framework,توسعه وب سایت ها با استفاده از چارچوب توسعه برپایه دنباله‌ها,تطوير مواقع الويب من خلال إطار عمل قائم على التسلسل
 <0>a seq<1>uence-<0>base<1>d framework,un marco basado en secuencias,ein sequenzbasiertes Framework,چارچوب توسعه برپایه دنباله‌ها,إطار عمل قائم على التسلسل
 Well Known Appspecific Com Chrome Devtools Json,Well Known Appspecific Com Chrome Devtools JSON,Bekannte appspezifische Com Chrome Devtools Json,ابزارهای توسعه کروم (Chrome Devtools) شناخته شده برای اپ های خاص (Appspecific) و جیسون (Json),تطبيقات معروفة خاصة بمطوري Chrome بتنسيق Json
-Export Lexicon,Exportar léxico,Lexikon exportieren,واژگان صادرات,تصدير المعجم
+Export Lexicon,Léxico de exportación,Lexikon exportieren,صادر کردن واژه نامه,تصدير القاموس
 Search engine optimization (SEO),Optimización de motores de búsqueda (SEO),Suchmaschinenoptimierung (SEO),بهینه سازی موتور جستجو (SEO),تحسين محركات البحث (SEO)
 Track your request,Seguimiento de tu solicitud,Verfolgen Sie Ihre Anfrage,پیگیری درخواست شما,تتبع طلبك
 Track your latest refferals,Seguimiento de tus últimas referencias,Verfolgen Sie Ihre neuesten Empfehlungen,آخرین پیشنهادات خود را پیگیری کنید,تتبع أحدث الإحالات الخاصة بك
@@ -108,7 +110,7 @@ Complete the forward steps...,Completa los pasos siguientes...,Führen Sie die n
 The main members and personnel of the website,Miembros y personal del sitio web principal,Hauptmitglieder und Mitarbeiter der Website,اعضا و پرسنل اصلی وب سایت,أعضاء الموقع الرئيسيون وفريق العمل
 I know exactly what I want to be.,Desde hace un minuto les dejo con una sonrisa.,"Ich weiß genau, was ich werden will.",من دقیقاً می دانم می خواهم چه باشم.,أعرف تمامًا ما أريد أن أكون.
 I know roughly what I want to be.,Casi en mitad de la noche.,"Ich weiß ungefähr, was ich werden will.",تقریباً می دانم چه می خواهم باشم.,أعرف تقريبًا ما أريد أن أكون.
-Add another item,,Weiteren Eintrag hinzufügen,اضافه کردن یک آیتم دیگر,إضافة عنصر آخر
+Add another item,Añadir otro elemento,Weiteren Eintrag hinzufügen,اضافه کردن یک آیتم دیگر,إضافة عنصر آخر
 Add your first item,,Ersten Eintrag hinzufügen,اضافه کردن اولین آیتم شما,إضافة العنصر الأول
 Add Fuel To Fire,Añadir Leña Al Fuego,Öl Ins Feuer Gießen,به آتش سوخت اضافه کنید,إضافة الوقود إلى النار
 Add Fuel To The Fire,Echar Leña Al Fuego,Öl Ins Feuer Gießen,به آتش سوخت اضافه کنید,زاد الطين بلة
@@ -152,7 +154,10 @@ Discover your strengths,Descubre tus fortalezas,Entdecken Sie Ihre Stärken,نق
 "Your full name, you will known by this around the site","Tu nombre completo, por este nombre eres conocido en el sistema.","Ihr vollständiger Name, unter diesem Namen sind Sie im System bekannt.","نام کامل شما، شما را با این نام در سامانه می شناسند","اسمك الكامل، أنت معروف بهذا الاسم في النظام."
 Your first name,Tu nombre,Ihr Vorname,نام کوچک شما,اسمك الأول
 Your last name,Tu apellido,Ihr Nachname,نام خانوادگی شما,اسمك الأخير
-Import Lexicon,Importar léxico,Lexikon importieren,واژه نامه ی واردات,استيراد المعجم
+Your transaction verified successfully!,¡Su transacción se verificó correctamente!,Ihre Transaktion wurde erfolgreich verifiziert!,تراکش شما با موفقیت تایید شد!,تم التحقق من معاملتك بنجاح!
+Refer to complete the process,Consulte para completar el proceso,Weitere Informationen zum Abschluss des Vorgangs finden Sie hier,تکمیل فرایند,راجع لإكمال العملية
+This bill was paid before!,¡Esta factura ya fue pagada antes!,Diese Rechnung wurde bereits bezahlt!,این صورتحساب قبلا پرداخت شده است!,لقد تم دفع هذه الفاتورة من قبل!
+Import Lexicon,,Lexikon importieren,وارد کردن واژه نامه,استيراد القاموس
 Leave a message to Us!,¡Envíanos un mensaje!,Hinterlassen Sie uns eine Nachricht!,برای ما پیام بگذارید!,اترك لنا رسالة!
 Leave a message,¡Déjanos un mensaje!,Hinterlasse uns eine Nachricht!,پیامی بگذارید...,اترك لنا رسالة!
 Search for suitable apprenticeships,Simplemente dime qué ciclo es adecuado para ti.,Suche nach passenden Ausbildungsplätzen,جستجوی دوره های کارآموزی مناسب,ابحث عن فرص تدريب مناسبة
@@ -173,3 +178,16 @@ Please wait...,Espere por favor...,Bitte warten...,لطفا منتظر بمان�
 Please wait,Espere por favor,Bitte warten,لطفا منتظر بمانید,انتظر من فضلك
 Are you sure you want to cancel this item?,¿Estás segura de que deseas cancelar este artículo?,Möchten Sie diesen Artikel wirklich stornieren?,آیا از حذف این ایتم اطمینان دارید؟,هل أنت متأكد أنك تريد إلغاء هذا العنصر؟
 There is no Item to show!,¡No hay ningún artículo para mostrar!,Es gibt keinen Artikel zum Anzeigen!,هیچ موردی برای نمایش وجود ندارد!,لا يوجد عنصر لإظهاره!
+You have enough balance in your wallet!,¡Tienes suficiente saldo en tu billetera!,Sie haben ausreichend Guthaben in Ihrem Wallet!,شما موجودی کافی در کیف پول خود دارید,لديك رصيد كافٍ في محفظتك!
+Are you sure you want to transfer <0> to the <1>?,¿Seguro que quieres transferir <0> a <1>?,Möchten Sie wirklich <0> auf <1> übertragen?,آیا از انتقال <0> به <1> کاملا مطمین هستید؟,هل أنت متأكد من رغبتك في تحويل <0> إلى <1>؟
+This bill paid before!,¡Esta factura ya fue pagada!,Diese Rechnung wurde bereits bezahlt!,این صورتحساب قبلا پرداخت شده است!,تم دفع هذه الفاتورة من قبل!
+<0> remains to send again,<0> queda por enviar nuevamente,<0> bleibt zum erneuten Senden übrig,<0> باقی مانده تا امکان ارسال مجدد,<0> يبقى أن نرسل مرة أخرى
+Sending to partners,Envío a socios,Senden an Partner,ارسال به همکاران,إرسال إلى الشركاء
+There are <0> active requests related to this one!,¡Hay <0> solicitudes activas relacionadas con esta!,Es gibt <0> aktive Anfragen zu dieser Anfrage!,تعداد <0> درخواست فعال مرتبط با این مورد وجود دارد!,هناك <0> طلبات نشطة متعلقة بهذا!
+Request an <0> service,Solicitar un servicio <0>,Fordern Sie einen <0>-Dienst an,درخواست خدمات <0>,طلب خدمة <0>
+Website terms and policies,Términos y políticas del sitio web,Website-Bedingungen und -Richtlinien,قوانین و مقررات وبسایت,شروط وسياسات الموقع
+The <0> added successfully!,¡El <0> se agregó correctamente!,Die <0> wurde erfolgreich hinzugefügt!,<0> مورد نظر با موفقیت اضافه شد!,تمت إضافة <0> بنجاح!
+The <0> removed successfully!,¡El <0> se eliminó correctamente!,Die <0> wurde erfolgreich entfernt!,<0> مورد نظر با موفقیت حذف شد!,تمت إزالة <0> بنجاح!
+The <0> updated successfully!,¡El <0> se actualizó correctamente!,Die <0> wurde erfolgreich aktualisiert!,<0> مورد نظر با موفقیت بروزرسانی شد!,تم تحديث <0> بنجاح!
+The <0> found successfully!,¡El <0> se encontró correctamente!,Die <0> wurde erfolgreich gefunden!,<0> مورد نظر با موفقیت یافت شد!,تم العثور على <0> بنجاح!
+The <0> <1> successfully!,¡El <0> se <1> correctamente!,Die <0> wurde <1> gefunden!,<0> مورد نظر با موفقیت <1> شد!,تم <1> على <0> بنجاح!

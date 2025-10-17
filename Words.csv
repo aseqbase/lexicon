@@ -38,8 +38,8 @@ Amorously,romance,Romantik,عاشقانه,الرومانسية
 Amorphous,No cristalino,Nicht kristallin,غیر متبلور,غير متبلور
 Amortization, Depreciado, Abgeschrieben,"مستهلک	", مُستهلك
 Amortized,Depreciado,Abgeschrieben,مستهلک,مُستهلك
-Amount,Cantidad,Menge,مقدار,كمية
-Amounts,Valores,Werte,مقادیر,قيم
+Amount,Cantidad,Menge,مبلغ,كمية
+Amounts,Cantidades,Beträge,مبالغ,المبالغ
 Amperage,Miliamperio,Milliampere,میلیآمپر,ملي أمبير
 Ampere,Amperio,Ampere,آمپر,أمبير
 Amphetamine,Anfetamina,Amphetamin,آمفتامین,الأمفيتامين
@@ -58,6 +58,9 @@ Anachronism,Inoportunidad,Unpünktlichkeit,نابهنگامی,عدم التوق�
 Anaclitic,Confiando en,Verlassen auf,متکی به,الاعتماد على
 Anacreontic,poesía lírica,Lyrische Poesie,شعر بزمی,الشعر الغنائي
 Anadem,Collar,Halskette,گردن بند,قلادة
+Apply,Aplicar,Anwenden,اعمال,يتقدم
+Do,Hacer,Tun,انجام,يفعل
+Notice,Aviso,Beachten,اعلان,يلاحظ
 Shark,Tiburón,Hai,کوسه ماهی,سمك القرش
 Sharon,Sharon,Sharon,شارون,شارون
 Sharp,Escozor,Stechen,نیشدار,لاذع
@@ -547,6 +550,7 @@ Slake, Templado, Temperiert,"آبدیده	", مُقسّى
 Slam,Golpe fuerte,Schwerer Schlag,ضربت سنگین,ضربة ثقيلة
 Slander,Culpa,Beschuldigen,عیب گوئی,لوم
 Slanderous,Difamatorio,Verleumderisch,بدگویانه,افترائي
+Begin,Comenzar,Beginnen,آغاز,يبدأ
 Slang,término de jerga,Slang-Begriff,اصطلاح عامیانه,مصطلح عامي
 Slant,Milla,Meile,مایل,ميل
 Slanting,Oblicuo,Schräg,اریب,منحرف
@@ -1381,7 +1385,7 @@ Startle,Para asustar,Erschrecken,هول دادن,لتخويف
 Starvation,Hambruna,Hungersnot,قحطی زدگی,المجاعة
 Starve,El hambre come,Hunger essen,گرسنگی خوردن,أكل الجوع
 Starveling,Azotado por la hambruna,Von Hungersnot heimgesucht,قحطی زده,مجاعة
-State, Declaración, Stellungnahme,"اظهار	", إفادة
+State,Declaración,Stellungnahme,استان,إفادة
 Statecraft,Categoría de estado,Staatlichkeit,کشور داری,الدولة
 Statehouse,Casa del Estado,State House,مجلس ایالتی,دار الدولة
 Stateless,Sin gobierno,Ohne Regierung,بی دولت,بدون حكومة
@@ -1903,10 +1907,10 @@ Subversive,Subversivo,Subversiv,خرابکارانه,تخريبي
 Subvert,Para volcar,Umkippen,واژگون ساختن,لقلب
 Subverter,Subversivo,Subversiv,واژگونگر,تخريبي
 Subway,Metro,Metro,مترو,مترو
-Succeed,Para satisfacer el corazón,Um das Herz zu befriedigen,به کام دل رسیدن,لإرضاء القلب
+Succeed,Para satisfacer el corazón,Um das Herz zu befriedigen,موفق شد,لإرضاء القلب
 Succeedable,Subsiguiente,Erfolgreich,توفیق یافتنی,النجاح
-Success,Amistad,Freundschaft,دوستکامی,الصداقة
-Successful,Buena suerte.,Viel Glück.,عاقبت بخیر,حظ سعيد.
+Success,Amistad,Freundschaft,موفق,الصداقة
+Successful,Buena suerte.,Viel Glück.,موفق,حظ سعيد.
 Successfully,Exitosamente,Erfolgreich,با موفقیت,بنجاح
 Succession,Sucesión,Folge,جانشینی,خلافة
 Successively,Mutawatra,Mutawatra,متواترا,متاواترا
@@ -1995,7 +1999,7 @@ Sultana,Sultana,Sultanin,سلطانه,سلطانة
 Sultanate,Reino del sultán,Reich des Sultans,قلمرو سلطان,مملكة السلطان
 Sultaness,Sultana,Sultanin,سلطانه,سلطانة
 Sultans,Sultanes,Sultane,سلاطین,السلاطين
-Sum,Total,Gesamt,مجموع,المجموع
+Sum,Total,Gesamt,جمع‌کل,المجموع
 Sumac,Zumaque,Sumach,سماق,السماق
 Sumatra,Sumatra,Sumatra,سوماترا,سومطرة
 Sumerian,Sumerio,Sumerisch,سومری,السومرية
@@ -2008,6 +2012,7 @@ Summer,Verano,Sommer,تابستان,صيف
 Summersault,Dar la vuelta,Umdrehen,پشتک زدن,للتدحرج
 Summery,Como el verano,Wie im Sommer,شبیه تابستان,مثل الصيف
 Summit,Cima,Gipfel,قله,قمة
+Inform,Informar,Informieren,فراخوان,يخبر
 Summon,citación legal,Gerichtliche Vorladung,احضار قانونی کردن,الاستدعاء القانوني
 Summonable,Llamable,Abrufbar,فراخواندنی,قابلة للاستدعاء
 Summoner,Invocador,Beschwörer,فراخواننده,المستدعي
@@ -3286,7 +3291,7 @@ Toryism,Conservatismo,Konservatismus,محافظه کاری,المحافظة
 Toss, Turbulento, Turbulent,"متلاطم	", مضطرب
 Tosser,Lanzador,Werfer,پرت کننده,رامي
 Tot,Nota breve,Kurze Notiz,یادداشت مختصر,ملاحظة موجزة
-Total,A lo sumo,Maximal,بحداکثر,على الأكثر
+Total,Total,Total,کل,المجموع
 Totality,Importe total,Gesamtbetrag,مقدار کلی,المبلغ الإجمالي
 Totally,Colectivamente,Gemeinsam,بطور سرجمع,جماعيا
 Totaly,Beckley,Beckley,بکلی,بيكلي
@@ -3409,7 +3414,7 @@ Transcutaneal,Transdérmico,Transdermal,ماوراء پوستی,عبر الجل�
 Transcutaneous,Transdérmico,Transdermal,ماوراء پوستی,عبر الجلد
 Transect,Sección transversal,Querschnitt,برش عرضی کردن,المقطع العرضي
 Transept,Facción de la iglesia,Kirchenfraktion,جناح کلیسا,فصيل الكنيسة
-Transfer,Para asignar,Zuweisen,واگذارکردن,لتعيين
+Transfer,Para asignar,Zuweisen,انتقال,لتعيين
 Transferable,Transferible,Übertragbar,قابل واگذاری,قابلة للتحويل
 Transferee,Transferido a,Übertragen nach,منتقل الیه,تم نقله إلى
 Transference,Vraberry,Vraberry,ورابری,فرابيري
@@ -4326,8 +4331,8 @@ Unkindness,Indiferencia,Gleichgültigkeit,بی التفاتی,اللامبالا
 Unknit, Tejido, Gewebt,"وابافته	", منسوج
 Unknowable,No lo sabías.,Du wusstest es nicht.,ندانستی,لم تكن تعلم.
 Unknowing,Infeliz,Unzufrieden,نابلد,تعيس
-Unknown,Desconocido,Unbekannt,نادانسته,مجهول
-Unlatch, Abrir alzando el picaporte, Entriegeln,"چفت راباز	", افتح القفل
+Unknown,Desconocido,Unbekannt,ناشناس,مجهول
+Unlatch,Abrir alzando el picaporte,Entriegeln,چفت راباز,افتح القفل
 Unlawful,Contra las regulaciones,Gegen die Vorschriften,برخلاف مقررات,ضد اللوائح
 Unlawfulness,Harami,Harami,حرامی,حرامي
 Unleaded,Sin plomo,Bleifrei,بی سرب,خالي من الرصاص
@@ -6183,6 +6188,7 @@ A Handful,Un puñado,Eine Handvoll,یک مشت,حفنة
 A Little,Un poco,Ein wenig,اندکی,قليلا
 A Lot,Mucho,Eine Menge,بمقدار زیاد,كثيراً
 A While,Un poco,Ein wenig,اندکی,قليلا
+Bill,Factura,Rechnung,صورتحساب,فاتورة
 Category,Categoría,Kategorie,دسته بندی,الفئات
 COMMENTS,Comentarios,KOMMENTARE,نظرات,التعليقات
 Contacts,correlación,Kontakte,ارتباط,جهات الاتصال
@@ -6228,8 +6234,11 @@ Slogan,eslogan,Slogan,شعار,الشعار
 Status,Estado,Status,وضعیت,الحالة
 Submit,enviar,Senden,تایید,إرسال
 SWITCH,Cambiar,SWITCH,سوئیچ,تبديل
+Unspecified,Incierto,Unsicher,نامشخص,غير مؤكد
 Update,Actualizar,Aktualisierung,به روزرسانی,تحديث
-ABOUT,Acerca de,ÜBER,درباره,حول
+Visit,Vista,Sicht,مشاهده,منظر
+Visit Card,Tarjeta de presentación,Visitenkarte,کارت ویزیت,بطاقة عمل
+About,Acerca de,ÜBER,درباره,حول
 Retry,Rever,Wiederholen,تلاش مجدد,إعادة المحاولة
 Email,Correo Electrónico,E-Mail,رایانامه,بريد إلكتروني
 First,Primero,Vorname,اولین,الأول
@@ -6242,6 +6251,8 @@ Posts,Pasados,Posts,پست ها,المنشورات
 Reset,Reiniciar,Zurücksetzen,بازنشانی,إعادة تعيين
 Super,Súper,Super,سوپر,مشرف
 Title,Título,Titel,عنوان,العنوان
+Port,Puerto,Hafen,درگاه,ميناء
+Ports,Puerto,Hafen,درگاه‌ها,ميناء
 USERS,Usuarios,BENUTZER,کاربران,المستخدمون
 BASE,Base,BASIS,پایه,أساسي
 HOME,Casa,STARTSEITE,خانه,الصفحة الرئيسية
@@ -6280,3 +6291,8 @@ Incompleted,Incompleto,Unvollständig,ناقص,غير مُكتمل
 Completed,Completado,Abgeschlossen,تکمیل‌شده,مُكتمل
 Finished,Terminado,Beendet,پایان‌یافته,انتهى
 Refund,Reembolso,Erstattung,مسترد‌شده,استرداد
+Import,Importar,Import,ورودی,يستورد
+Imported,Importado,Importiert,وارد شده,مستورد
+Export,Exportar,Export,خروجی,يصدّر
+Exported,Exportado,Exportiert,خارج شده,يصدّر
+Greeting,Saludo,Gruß,با احترام,تحية

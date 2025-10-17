@@ -1126,10 +1126,10 @@ Amortization Of Capital,Amortización De Capital,Amortisierung Des Kapitals,اس
 Amortization Of Debt,Amortización De Deuda,Tilgung Von Schulden,استهلاک بدهی,استهلاك الديون
 Amortized,Amortizado,Amortisiert,مستهلک شده,مستهلك
 Amos Nikhs,Amos Nikhs,Amos Nikhs,آموس نیکس,آموس نيخس
-Amount,Cantidad,Menge,مبلغ,كمية
+Amount,Cantidad,Menge,مقدار,كمية
+Amounts,Valores,Werte,مقادیر,قيم
 Amount To,Equivaler A,Betragen,مقدار به,المبلغ إلى
 Amounting To,Ascendiendo A,In Höhe Von,بالغ بر,تبلغ قيمتها
-Amounts,Cantidades,Beträge,مبالغ,المبالغ
 Amperage,Amperaje,Stromstärke,آمپراژ,الأمبير
 Ampere,Amperio,Ampere,آمپر,أمبير
 Amphetamine,Anfetamina,Amphetamin,آمفتامین,الأمفيتامين
@@ -2033,13 +2033,8 @@ At The Same Time As,Al Mismo Tiempo Que,Gleichzeitig Mit,همزمان با,في 
 At The Time Of,Cuando,Zum Zeitpunkt Der,در زمان,في ذلك الوقت
 At The Very Moment,En El Mismo Momento,Im Augenblick,در همان لحظه,في نفس اللحظة
 At Work,En El Trabajo,Bei Der Arbeit,در محل کار,في العمل
-Ata Muhammad,Ata Muhammad,Ata Muhammad,عطا محمد,عطا محمد
-Atabak,Atabak,Atabak,اتابک,أتابك
 Atacker,Atacante,Angreifer,آتاکر,مهاجم
-Ataollah,Ataollah,Ataollah,عطاالله,عطا الله
 Atash,Atash,Atash,آتش,أتاش
-Ataturk,Atatürk,Atatürk,آتاتورک,أتاتورك
-Atefeh,Atefeh,Atefeh,عاطفه,عاطفة
 Atelier,Taller,Atelier,آتلیه,ورشة عمل
 Atheism,Ateísmo,Atheismus,الحاد,الإلحاد
 Atheist,Ateo,Atheist,خداناباور,الملحد
@@ -4649,7 +4644,7 @@ Californian,Californiano,Kalifornisch,کالیفرنیایی,كاليفورني�
 Caliper,Calibrar,Bremssattel,کولیس,الفرجار
 Caliph,Califa,Kalif,خلیفه,الخليفة
 Caliphs,Califas,Kalifen,خلفا,الخلفاء
-Call,Llamar,Anruf,تماس بگیرید,يتصل
+Call,Llamar,Anruf,تماس,يتصل
 Call Processing,Procesamiento De Llamadas,Anrufverarbeitung,پردازش تماس,معالجة المكالمات
 Call To Prayer,Llamado A La Oración,Aufruf Zum Gebet,اذان گفتن,دعوة للصلاة
 Call To Witness,Llamado A Testificar,Aufruf Zum Zeugen,فراخوان به شهادت,دعوة للشهادة
@@ -10747,7 +10742,6 @@ Explosive,Explosivo,Explosiv,مواد منفجره,متفجر
 Explosives,Explosivos,Sprengstoffe,مواد منفجره,المتفجرات
 Exponential,Exponencial,Exponentiell,نمایی,أسي
 Export,Exportar,Export,صادرات,يصدّر
-Export Lexicon,,Lexikon exportieren,صادر کردن واژه نامه,تصدير القاموس
 Exporter,Exportador,Exporteur,صادرکننده,مصدر
 Exports,Exportaciones,Exporte,صادرات,صادرات
 Expose,Exponer,Exponieren,افشا کردن,يفضح
@@ -10940,7 +10934,7 @@ Fahimeh,Fahimeh,Fahimeh,فهیمه,فهيمة
 Fahrenheit,Fahrenheit,Fahrenheit,فارنهایت,فهرنهايت
 Fahrenheit Scale,Escala Fahrenheit,Fahrenheit-Skala,مقیاس فارنهایت,مقياس فهرنهايت
 Fail,Fallar,Scheitern,شکست,يفشل
-Failed,Fallido,Fehlgeschlagen,شکست خورده,فشل
+Failed,Fallido,Fehlgeschlagen,ناموفق,فشل
 Failure,Falla,Versagen,شکست,فشل
 Failure Rate,Porcentaje De Averías,Ausfallrate,نرخ شکست,معدل الفشل
 Faint,Débil,Schwach,کم نور,إِغماء
@@ -13595,7 +13589,7 @@ Greenland,Tierra Verde,Grönland,گرینلند,جرينلاند
 Greenness,Verdura,Grün,سبزی,خضرة
 Greenwich,Greenwich,Greenwich,گرینویچ,غرينتش
 Greet,Hola,Hallo,سلام,مرحبًا
-Greeting,Saludo,Gruß,احوالپرسی,تحية
+Greeting,Saludo,Gruß,با احترام,تحية
 Grenade,Granada,Granate,نارنجک,قنبلة يدوية
 Grey,Gris,Grau,خاکستری,رمادي
 Grey Cloth,Tela Gris,Graues Tuch,پارچه خاکستری,قماش رمادي
@@ -15167,6 +15161,7 @@ Identification,Identificación,Identifikation,شناسایی,تعريف
 Identification Marks,Marcas De Identificación,Erkennungszeichen,علائم شناسایی,علامات التعريف
 Identify,Identificar,Identifizieren,شناسایی,تعريف
 Identity,Identidad,Identität,هویت,هوية
+Identifier,Identidad,Identität,شناسه,هوية
 Ideograph,Ideograma,Ideogramm,ایدئوگراف,إيديوغراف
 Ideology,Ideología,Ideologie,ایدئولوژی,أيديولوجية
 Idiocy,Idiotez,Idiotie,حماقت,حماقة
@@ -15443,7 +15438,6 @@ Impolitic,Impolítico,Unklug,بی سیاست,غير حكيم
 Imponderability,Imponderabilidad,Unwägbarkeit,غیرقابل سنجش بودن,عدم القدرة على التنبؤ
 Imponderable,Imponderable,Unwägbar,غیرقابل سنجش,غير قابل للقياس
 Import,Importar,Import,واردات,يستورد
-Import Lexicon,,Lexikon importieren,وارد کردن واژه نامه,استيراد القاموس
 Importable,Importable,Importierbar,قابل وارد کردن,قابلة للاستيراد
 Importance,Importancia,Bedeutung,اهمیت,أهمية
 Important,Importante,Wichtig,مهم,مهم
@@ -16886,32 +16880,17 @@ Jacques Chirac,Jacques Chirac,Jacques Chirac,ژاک شیراک,جاك شيراك
 Jactation,Jactancia,Jakulation,جکتاسیون,التنشيط
 Jactitation,Impostura,Jakulation,جکتاسیون,تبجح
 Jade,Jade,Jade,یشم,يشم
-Jadeite,Jadeíta,Jadeit,جیدیت,اليشم
-Jaeger,Cazador,Jaeger,جیگر,جايجر
-Jafar,Jafar,Dschafar,جعفر,جعفر
-Jag,Punta,Jag,جاگ,جاغا
+Jadeite,Jadeíta,Jadeit,یشم اعلی,اليشم
+Jaeger,Cazador,Jaeger,شکارچی,جايجر
+Jag,Punta,Jag,جاک,جاغا
 Jagged,Dentado,Gezackt,دندانه دار,مسنن
 Jaggery,Azúcar De Palmera,Palmzucker,شکر زرد,جاجري
-Jahad,Sí,Ja,بله,نعم
-Jahan,Jahan,Jahan,جهان,جهان
-Jahanbxsh,Jahanbxsh,Jahanbxsh,جهانبخش,جهانبكسش
-Jahandar,Jahandar,Jahandar,جهاندار,جهاندار
-Jahangir,Jahangir,Jahangir,جهانگیر,جهانجير
-Jahanpur,Jahanpur,Jahanpur,جهانپور,جهانبور
-Jahanshah,Jahanshah,Jahanshah,جهانشاه,جهانشاه
-Jahanshir,Jahanshir,Jahanshir,جهانشیر,جهانشير
 Jahiliyyah,Jahiliyah,Jahiliyya,جاهلیت,الجاهلية
 Jail,En Prisión,Im Gefängnis,در زندان,في السجن
 Jailor,Carcelero,Gefängniswärter,زندانبان,سجان
 Jailors,Carceleros,Gefängniswärter,زندانبانان,السجانون
 Jakarta,Jacarta,Jakarta,جاکارتا,جاكرتا
 Jakes,Gatos,Buchsen,جک ها,الرافعات
-Jalal,A Pie,Zu Fuß,پیاده,على الأقدام
-Jalal Abad,Jalal Abad,Jalal Abad,جلال آباد,جلال آباد
-Jalal Talebani,Jalal Talebani,Jalal Talebani,جلال طالبانی,جلال طالباني
-Jalap,Jalapa,Jalapeño,ژالاپ,جالاب
-Jalil,Jalil,Jalil,جلیل,جليل
-Jalili,Jalili,Dschalili,جلیلی,جليلي
 Jam,Atasco,Marmelade,مربا,مربى
 Jamadi Al Aval,Jamadi Al Aval,Jamadi Al Aval,جمادی الاول,جمادى الأولى
 Jamadi Al Sani,Jamadi Al Sani,Jamadi Al Sani,جمادی الثانی,جمادي الثاني
@@ -22089,7 +22068,7 @@ Optometrist,Optometrista,Optiker,بینایی سنج,طبيب عيون
 Optometry,Optometría,Optometrie,بینایی سنجی,قياس البصر
 Opus,Opus,Opus,اوپوس,عمل
 Oqaf,Oqaf,Oqaf,اوقاف,الأوقاف
-Or,Oro,Gold,طلا,ذهب
+Or,O,Oder,یا,أو
 Oracular,Profético,Orakel,وحیانی,نبوئي
 Oracularly,Oracularmente,Orakelhaft,به طور شفاهی,بشكل نبوئي
 Oral,Oral,Oral-,شفاهی,شفوي
@@ -24100,6 +24079,8 @@ Post Processing,Posprocesamiento,Nachbearbeitung,پس پردازش,مرحلة م
 Postage,Franqueo,Porto,هزینه پستی,رسوم البريد
 Postage Stamp,Sello,Briefmarke,تمبر پستی,طابع بريدي
 Postal,Postal,Post-,پستی,بريدي
+Postal Code,Postal Code,Post-Code,کدپستی,بريدي
+Post Code,Postal Code,Post-Code,کدپستی,بريدي
 Postal Service,Servicio Postal,Postdienst,خدمات پستی,الخدمة البريدية
 Poster,Póster,Poster,پوستر,ملصق
 Posterior,Posterior,Hintere,خلفی,خلفي
@@ -30834,7 +30815,7 @@ Subvert,Subvertir,Untergraben,واژگون کردن,تخريب
 Subverter,Subvertidor,Unterwanderer,واژگون کننده,مقلب
 Subway,Metro,U-Bahn,مترو,مترو
 Sub-Zero Temprature,Temperatura Bajo Cero,Temperaturen Unter Null,دمای زیر صفر,درجة حرارة تحت الصفر
-Succeed,Tener Éxito,Gelingen,موفق شدن,ينجح
+Succeed,Tener Éxito,Gelingen,موفق شد,ينجح
 Succeedable,Exitoso,Erfolgreich,موفق,ناجح
 Success,Éxito,Erfolg,موفقیت,نجاح
 Successful,Exitoso,Erfolgreich,موفق,ناجح
