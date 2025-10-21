@@ -1,5 +1,10 @@
 ﻿en,es,de,fa,ar
 A,Uno,Eins,یک,واحد
+A Few,Un poco,Ein wenig,کمی,قليلا
+A Handful,Un puñado,Eine Handvoll,یک مشت,حفنة
+A Little,Un poco,Ein wenig,اندکی,قليلا
+A Lot,Mucho,Eine Menge,بمقدار زیاد,كثيراً
+A While,Un poco,Ein wenig,اندکی,قليلا
 A.D.,gregoriano,Gregorian,میلادی,الميلادي
 Aba,Abaya,Abaya,عبا,عباية
 Abacus,Hacia,Etwa,چرکه,حوالي
@@ -20,6 +25,16 @@ Abbreviation,Abreviaturas,Abkürzungen,علامات اختصاری,الاختص�
 Abc,Libro del alfabeto,Alphabetbuch,کتاب الفبا,كتاب الأبجدية
 Abdicate,Delegar,Delegieren,تفویض کردن,مندوب
 Abdication,Retiro,Rückzug,کنارهگیری,انسحاب
+About,Acerca de,ÜBER,درباره,حول
+ACADEMY,Academia,AKADEMIE,آکادمی,الأكاديمية
+Access,Acceso,Zugang,دسترسی,الوصول
+Account,Cuenta,Konto,حساب,حساب
+Activated,Activo,Aktiv,فعال,نشيط
+Addbox,Cuadro de complementos,Add-ons-Box,صندوق افزوده ها,صندوق الإضافات
+ADDED,Agregado,Hinzugefügt,اضافه شده,تمت الإضافة
+Addeds,Adiciones,Ergänzungen,افزوده ها,إضافات
+Address,DIRECCIÓN,Adresse,نشانی,عنوان
+Advertisement,Anuncio,Werbung,تبلیغات,إعلان
 Amjad,Amjad,Amjad,امجد,أمجد
 Ammeter,Amperímetro,Amperemeter,آمپرسنج,الأميتر
 Ammonia,Amoníaco,Ammoniak,آمونیاک,الأمونيا
@@ -58,9 +73,236 @@ Anachronism,Inoportunidad,Unpünktlichkeit,نابهنگامی,عدم التوق�
 Anaclitic,Confiando en,Verlassen auf,متکی به,الاعتماد على
 Anacreontic,poesía lírica,Lyrische Poesie,شعر بزمی,الشعر الغنائي
 Anadem,Collar,Halskette,گردن بند,قلادة
+APPEARANCES,Apariencia,Aussehen,ظاهر,مظهر
 Apply,Aplicar,Anwenden,اعمال,يتقدم
+Archived,Archivado,Archiviert,بایگانی‌شده,مؤرشفة
+ARTICLE,Artículo,ARTIKEL,مقاله,مقالة
+Attaches,Archivos adjuntos,Anlagen,ضمائم,المرفقات
+Authenticate,Autenticar,Authentifizieren,احراز هویت,المصادقة
+Authenticating,Autenticar,Authentifizieren,احراز هویت کردن,المصادقة
+Authentication,Autenticar,Authentifizieren,احراز هویت,المصادقة
+Author,Autor,Autor,نویسنده,المؤلف
+Average,Promedio,Durchschnitt,میانگین,متوسط
+Back,Devolver,Zurückkehren,بازگشت,يعود
+Ban,Bandera,Banner,بنر,اللافتة
+BASE,Base,BASIS,پایه,أساسي
+Begin,Comenzar,Beginnen,آغاز,يبدأ
+Bill,Factura,Rechnung,صورتحساب,فاتورة
+Bio,Biografía,Bio,بیوگرافی,السيرة الذاتية
+Blocked,Obstruido,Blockiert,مسدود,محظور
+Box,Financiar,Fonds,صندوق,تمويل
+Cancel,Cancelar,Stornieren,لغو,يلغي
+Canceled,Cancelado,Abgebrochen,انصراف‌داده,ألغيت
+CATEGORIES,Categorías,Kategorien,دسته بندی ها,فئات
+Category,Categoría,Kategorie,دسته بندی,الفئات
+Category,Categoría,Kategorie,دسته,فئة
+Change,Cambiar,Ändern,تغییر,يتغير
+CHANGEBOX,Fondo de Cambios,Fonds der Änderungen,صندوق تغییر ها,صندوق التغييرات
+Changed,Cambió,Geändert,تغییریافته,تم التغيير
+Changeds,Cambios,Änderungen,تغییر ها,التغييرات
+Children,Niños,Kinder,فرزندان,أطفال
+Class,Clase,Klasse,کلاس,فصل
+Close,Cerca,Schließen,بستن,يغلق
+COMMENTS,Comentarios,KOMMENTARE,نظرات,التعليقات
+Complete,Terminación,Fertigstellung,تکمیل,انتهاء
+Completebox,Caja de artículos completados,Feld „Abgeschlossene Elemente“,صندوق تکمیل شده ها,صندوق العناصر المكتملة
+Completed,Completado,Abgeschlossen,تکمیل‌شده,مُكتمل
+COMPLETED,Terminado,Vollendet,تکمیل شده ها,مكتمل
+Completeds,Finalizaciones,Abschlüsse,تکمیل ها,الإكمالات
+Configuration,Configuración,Konfiguration,پیکربندی,إعدادات
+CONFIGURATIONS,Configuración,Konfiguration,پیکربندی,إعدادات
+Confirmed,Confirmado,Bestätigt,تاییدشده,أُكدت
+CONTACT,Contacto,KONTAKT,تماس,اتصل بنا
+Contacts,correlación,Kontakte,ارتباط,جهات الاتصال
+Content,Contenido,Inhalt,محتوا,محتوى
+CONTENTS,Su contenido,INHALT,محتواها,المحتويات
+CONTENTS,Lista,Liste,فهرست,قائمة
+Contradiction,Contradicción,Widerspruch,مغایرت,تناقض
+Count,Número,Nummer,تعداد,رقم
+Create,Creado en,Erstellt in,ایجاد شده در,تم إنشاؤه في
+CreateTime,Creado en,Erstellt in,ایجاد شده در,تم إنشاؤه في
+Credit,Acreedor,Gläubiger,بستانکار,الدائن
+CURRENT,Actual,Aktuell,جاری,حاضِر
+Currentbox,Cuenta corriente,Girokonto,صندوق جاری ها,الحساب الجاري
+Currents,Corrientes,Strömungen,جاری ها,التيارات
+Damage,Falla,Versagen,خرابی,فشل
+DamageBox,Caja de daños,Schadensbox,صندوق خرابی ها,صندوق الضرر
+Damaged,Dañado,Beschädigt,آسیب دیده,متضرر
+DamagedByPerson,Dañado por defecto personal,Beschädigung durch persönlichen Defekt,آسیب دیده بدلیل نقص شخص,تضررت بسبب عيب شخصي
+DamagedByProduct,Dañado debido a un defecto en el producto.,Beschädigt aufgrund eines Defekts am Produkt,آسیب دیده بدلیل نقص در محصول,تالف بسبب عيب في المنتج
+DamagedByTool,Dañado debido a un defecto en la herramienta,Beschädigt durch einen Defekt am Werkzeug,آسیب دیده بدلیل نقص در ابزار,تالف بسبب عيب في الأداة
+DamagedByUnit,Dañado debido a un defecto en la unidad,Beschädigt durch einen Defekt am Gerät,آسیب دیده بدلیل نقص در واحد,تالف بسبب عيب في الوحدة
+Damageds,Fallas,Fehler,خرابی ها,الأعطال
+Damages,Fallas,Fehler,خرابی ها,الأعطال
+Dashboard,Panel,Armaturenbrett,داشبورد,لوحة القيادة
+Deactivated,Inactivo,Inaktiv,غیرفعال,غير نشط
+Debit,Deudor,Schuldner,بدهکار,المدين
+Delay,Demora,Verzögerung,تاخیر,تأخير
+Description,Descripción,Beschreibung,شرح,وصف
 Do,Hacer,Tun,انجام,يفعل
+Done,Listo,Erledigt,انجام‌شده,تمّ
+Done,Hecho,Erledigt,انجام شده,منتهي
+DRAFT,Documento,Dokumentieren,سند,وثيقة
+DRAFTS,Documentos,Unterlagen,سند ها,وثائق
+EDIT,Editar,Bearbeiten,ویرایش,يحرر
+Editor,Editor,Editor,ویرایشگر,المحرر
+Email,Correo Electrónico,E-Mail,رایانامه,بريد إلكتروني
+Email/Phone,Correo electrónico / Teléfono,E-Mail / Telefon,ایمیل / تلفن,البريد الإلكتروني / الهاتف
+Email/Phone/UserName,Correo electrónico / Teléfono / Nombre de usuario,E-Mail / Telefon / Benutzername,ایمیل / تلفن / نام کاربری,البريد الإلكتروني / الهاتف / اسم المستخدم
+Entered,Importado,Importiert,واردشده,مستورد
+ERP,Planificación de recursos empresariales (ERP),ERP,ای آر پی,تخطيط موارد المؤسسات
+Error,Error,Fehler,خطا,خطأ
+Exited,Remoto,ENTFERNT,خارج شده,تمت الإزالة
+Export,Exportar,Export,خروجی,يصدّر
+Exported,Exportado,Exportiert,خارج شده,يصدّر
+Failbox,El Fondo de los Fracasados,Der Fonds der Erfolglosen,صندوق ناموفق ها,صندوق الفاشلين
+FAILED,Fracasado,Erfolglos,ناموفق,غير ناجح
+Fails,Los fracasados,Die Erfolglosen,ناموفق ها,غير الناجحين
+Female,Señor,Herr,آقا,سيد
+Finished,Terminado,Beendet,پایان‌یافته,انتهى
+First,Primero,Vorname,اولین,الأول
+First,Primero,Erste,ابتدا,أولاً
+FORUM,Tenemos éxito,FORUM,انجمن,المجتمع
+Fr,do,C,ج,ج
+g,Cálido,Warm,گرم,دافيء
+Gender,Género,Geschlecht,جنسیت,جنس
+GMS,GMS,GMS,جی ام اس,جي إم إس
+Good,Bienes,Waren,کالا ها,بضائع
+GoodName,Nombre del producto,Produktname,نام کالا,اسم المنتج
+GOODS,Bienes,Waren,کالاها,بضائع
+Greeting,Saludo,Gruß,با احترام,تحية
+Group,Grupo,Gruppe,گروه,المجموعات
+GROUPS,Grupos,GRUPPEN,گروه ها,المجموعات
+Guest,Importante,Gäste,مهمان,الضيف
+h,Reloj,Uhr,ساعت,ساعة
+HandBook,Tu libro es nuestra guía,Handbuch,کتابچه راهنما,الأدلة
+Hinge,Articulación,Gemeinsam,مفصل,مشترك
+HOME,Casa,STARTSEITE,خانه,الصفحة الرئيسية
+HOME,Página de inicio,Startseite,صفحه اصلی,الصفحة الرئيسية
+Id,¿Qué te pasa?,ID,شناسه,الهوية
+Image,Fotografía,Bild,تصویر,الصورة
+Import,Importar,Import,ورودی,يستورد
+Imported,Importado,Importiert,وارد شده,مستورد
+Inbox,Bandeja de entrada,Posteingang,صندوق ورودی ها,صندوق الوارد
+Incompleted,Incompleto,Unvollständig,ناقص,غير مُكتمل
+Inform,Informar,Informieren,فراخوان,يخبر
+INFORMATIONS,Información,Information,اطلاعات,معلومة
+Input,Aporte,Eingang,ورودی,مدخل
+Inputs,Entradas,Eingänge,ورودی ها,المدخلات
+iRMS,IRAMS,IRAMS,آی آرام اس,إيرامز
+Item,Caso,Artikel,مورد,حول
+KeyCode,Código clave,Schlüsselcode,کد کلیدی,رمز المفتاح
+Laboratories,Laboratorios,Labore,آزمایشگاه ها,المختبرات
+Last,Último,Letzte,آخرین,الأحدث
+Last,El fin,Das Ende,انتها,النهاية
+Latest,El último,Letzte,اخیر,أحدث
+Latests,Lo último,Aktuelles,اخیرها,أحدث الأخبار
+LETS GO!,¡Comencemos!,LOS GEHT'S!,بیایید شروع کنیم!,هيا بنا!
+Limitation,Rango,Reichweite,محدوده,يتراوح
+Listen,Audiencia,Anhörung,شنیدن,السمع
+Loading...,Cargando...,Laden...,درحال بارگذاری...,تحميل...
+Location,Lugar,Standort,مکان,الموقع
+Location,Ubicación,Standort,محل,موقع
+Look,Vista,Sicht,مشاهده,منظر
+Lost,Desaparecido,Fehlen,مفقودشده,مفتقد
+m,Minuto,Minute,دقیقه,دقيقة
+Main,Original,Hauptmenü,اصلی,الرئيسية
+Male,Señora.,Frau,خانم,السّيدة.
+Management,Gestión,Management,مدیریت,إدارة
+Manager,Gerente,Manager,مدیر,المدير
+MARKET,Mercado,Markt,بازار,سوق
+Meister,Director General,Meister,مدیر ارشد,المدير الأول
+Melting,Fusión,Schmelzen,ذوب شدن,ذوبان
+Members,Miembros,Mitglieder,اعضا,الأعضاء
+MENU,¿OMS?,MENÜ,منو,القائمة
+Message,Mensaje,Nachricht,پیام,الرسالة
+MESSAGES,mensajes,NACHRICHTEN,پیام ها,الرسائل
+Metting,Reunión,Treffen,ملاقات,مقابلة
+MiMFa,MiMFa,MiMFa,میم فا,ميمفا
+Mo,D,D,د,د
+More,Más,Mehr,بیشتر,أكثر
+More...,Más...,Mehr...,بیشتر...,المزيد...
+n,Número,Nummer,عدد,رقم
+Name,Dormir,Name,نام,الاسم
+NEWS,noticias,NACHRICHTEN,اخبار,الأخبار
+Next,Después de mí,Weiter,بعدی,التالي
+Next,Próximo,Nächste,بعد,التالي
 Notice,Aviso,Beachten,اعلان,يلاحظ
+Noticed,Notificado,Bemerkt,فراخوان‌شده,أُشير إليها
+NULL,Ninguno,Keiner,هیچ,لا أحد
+Numbers,Número,Nummer,تعداد,رقم
+Order,Orden,Befehl,ترتیب,طلب
+Organization,Organización,Organisation,سازمان,منظمة
+Origin,Objetivo,Zweck,مقصود,غاية
+Other,Otro,Andere,دیگر,آخر
+Others,Otro,Andere,سایر,آخر
+Outbox,Bandeja de salida,Postausgang,صندوق خروجی ها,صندوق الصادر
+Output,Producción,Ausgabe,خروجی,الناتج
+Outputs,Salidas,Ausgänge,خروجی ها,المخرجات
+Owner,Dueño,Inhaber,مالک,المالك
+Paid,Pagado,Bezahlt,پرداخت‌شده,دُفعت
+Parent,padre,Übergeordneter,والد,الرئيسي
+ParentId,Identificación de base,Basis-ID,شناسه پایه,معرف القاعدة
+Partialbox,Fondo de asuntos pendientes,Fonds für unerledigte Geschäfte,صندوق نیمه کاره ها,صندوق الأعمال غير المكتملة
+Partials,Productos semiacabados,Halbfertigprodukte,نیمه کاره ها,المنتجات نصف المصنعة
+Password,Código de acceso,Passwort,رمز عبور,كلمة المرور
+Password,Contraseña,Passwort,کلمه عبور,كلمة المرور
+Path,camino,Pfad,مسیر,المسار
+Pause,Detener,Stoppen,توقف,قف
+Paused,Interrumpido,Gestoppt,متوقف,متوقف
+Person,Persona,Person,شخص,شخص
+PERSONNEL,Gente,Menschen,اشخاص,الناس
+Phone,Teléfono,Telefon,تلفن,الهاتف
+PLUGINS,Complementos,Plugins,افزونه ها,المكونات الإضافية
+Pole,Eje,Achse,محور,محور
+POLEBOX,Fondo Pivotal,Pivotal Fund,صندوق محوری ها,صندوق بيفوتال
+Poles,Pivotes,Drehpunkte,محوری ها,محاور
+Port,Puerto,Hafen,درگاه,ميناء
+Ports,Puerto,Hafen,درگاه‌ها,ميناء
+Post,Pasado,Post,پست,المنشور
+Posts,Pasados,Posts,پست ها,المنشورات
+POSTS,Escritos,Schriften,نوشته ها,كتابات
+Previous,tribal,Zurück,قبلی,السابق
+Previous,Antes,Vor,قبل,قبل
+Priority,Prioridad,Priorität,اولویت,الأولوية
+Processing,Tratamiento,Verarbeitung,در حال پردازش,يعالج
+Product,Producto,Produkt,محصول,منتج
+ProductName,Nombre del producto,Produktname,نام محصول,اسم المنتج
+PRODUCTS,Productos,Produkte,محصولات,منتجات
+Rate,Rango,Rang,رتبه,رتبة
+Received,Recibió,Erhalten,دریافت شده,تلقى
+Recycle,Reciclaje,Recycling,بازیافت,إعادة التدوير
+RecycleBox,Caja de reciclaje,Recyclingbox,صندوق بازیافت ها,صندوق إعادة التدوير
+Recycled,Reciclado,Recycelt,بازیافت شده,مُعاد تدويرها
+Recycleds,Reciclaje,Recycling,بازیافت ها,إعادة التدوير
+Recycles,Reciclaje,Recycling,بازیافت ها,إعادة التدوير
+Referrals,Referencias,Empfehlungen,ارجاعات,الإحالات
+Refund,Reembolso,Erstattung,مسترد‌شده,استرداد
+Reg,Registro,Anmeldung,ثبت,تسجيل
+Register,Registro,Registrieren,ثبت نام,يسجل
+Registerbox,Caja de registro,Registrierungsfeld,صندوق ثبتی ها,صندوق التسجيل
+Registered,Registrado,Eingetragen,ثبت شده,مسجل
+Registereds,Inscripciones,Anmeldungen,ثبتی ها,التسجيلات
+Rejected,Rechazado,Abgelehnt,ردشده,رُفضت
+REPORT,Informe,Bericht,گزارش,تقرير
+Reset,Reiniciar,Zurücksetzen,بازنشانی,إعادة تعيين
+Restore,Recuperación,Wiederherstellen,بازیابی,استعادة
+Restore,Devolver,Zurückkehren,بازگردانی,يعود
+Resume,Continuar,Weitermachen,ادامه,يكمل
+Retry,Rever,Wiederholen,تلاش مجدد,إعادة المحاولة
+Return,Atrás,Zurück,برگشت,خلف
+Ring<0>,Anillo<0>,Ring<0>,حلقه<0>,خاتم<0>
+Route,Ruta,Route,مسیر,طريق
+s,Artículos de segunda clase,Sekunden,ثانیه,ثواني
+Sa,Ella,Sch,ش,ش
+Schedule,Calendario,Planen,برنامه زمانی,جدولة
+Score,Puntaje,Punktzahl,نمره,نتيجة
+Search,Buscar,Suchen,جستجو,بحث
+Search: ,Sólo ve:,Suche:,جستجو:,بحث:
+See More,Ver más,Mehr sehen,بیشتر ببین,شاهد المزيد
+Sent,Enviado,Gesendet,ارسال شده,مرسل
+Sequence,Secuencia,Sequenz,دنباله,تسلسل
+Services,Servicios,Leistungen,خدمات,الخدمات
 Shark,Tiburón,Hai,کوسه ماهی,سمك القرش
 Sharon,Sharon,Sharon,شارون,شارون
 Sharp,Escozor,Stechen,نیشدار,لاذع
@@ -223,6 +465,7 @@ Short,Corto,Kurz,کوتاه,قصير
 Shortage,Escasez,Mangel,کمبود,نقص
 Shortcake,Galleta crujiente,Knuspriger Keks,کلوچه ترد,كوكيز مقرمش
 Shortchanger,Bajas ventas,Geringe Umsätze,کم فروش,انخفاض المبيعات
+Shortcuts,Atajos,Verknüpfungen,میانبرها,اختصارات
 Shorten, Enano, Zwerg,"کوتوله	", قزم
 Shortened,Moqza Al-Maram,Moqza Al-Maram,مقضی المرام,مقضّة المرام
 Shortener,Acrónimo,Akronym,مختصر کننده,اختصار
@@ -244,6 +487,7 @@ Shout,Rugir,Brüllen,خروش بر آوردن,للزئير
 Shove,Emprendedor,Schieben,تنه زدن,الدفع
 Shovel,Palear,Schaufeln,بیلچه زدن,جرف
 Show,Espectáculo,Zeigen,نشان دادن,يعرض
+Show,Espectáculo,Zeigen,نمایش,يعرض
 Showcase,Escaparate,Schaufenster,درویترین نمایش دادن,عرض
 Showdown,Prueba de fuerza,Krafttest,آزمایش نیرو,اختبار القوة
 Shower,Lluvia Pesada,Starker Regen,درشت باران,أمطار غزيرة
@@ -341,6 +585,9 @@ Sight,Visión, Vision,"رویت	", رؤية
 Sighting,Señalando,Zeigen,نشانه روی,الإشارة
 Sigil,Signo astrológico,Sternzeichen,علامت نجومی,علامة فلكية
 Sign,Firmar,Zeichen,نشانه,لافتة
+Sign In,Entrada al sistema,Anmelden,ورود به سیستم,تسجيل الدخول
+Sign Out,Salir del sistema,Abmelden,خروج از سیستم,تسجيل الخروج
+Sign Up,Regístrate ahora,Registrieren,ثبت نام,تسجيل
 Signal,Hacer un sonido al señalar,Einen Ton erzeugen durch Zeigen,بااشارهصدا زدن,إصدار صوت عن طريق الإشارة
 Signatory,Signatario,Unterzeichner,امضا کننده,الموقع
 Signatur,Autenticidad,Authentizität,صحه,أصالة
@@ -550,7 +797,6 @@ Slake, Templado, Temperiert,"آبدیده	", مُقسّى
 Slam,Golpe fuerte,Schwerer Schlag,ضربت سنگین,ضربة ثقيلة
 Slander,Culpa,Beschuldigen,عیب گوئی,لوم
 Slanderous,Difamatorio,Verleumderisch,بدگویانه,افترائي
-Begin,Comenzar,Beginnen,آغاز,يبدأ
 Slang,término de jerga,Slang-Begriff,اصطلاح عامیانه,مصطلح عامي
 Slant,Milla,Meile,مایل,ميل
 Slanting,Oblicuo,Schräg,اریب,منحرف
@@ -625,6 +871,7 @@ Sliver,Mecha de hilo,Garndocht,فتیله نخ,فتيل الغزل
 Slobber,llanto infantil,Kindliches Weinen,گریه بچگانه,بكاء طفولي
 Slog,Trabajo duro,Harte Arbeit,کوشش سخت,العمل الجاد
 Slogan,Tekye Kalam,Tekye Kalam,تکیه کلام,تكية كلام
+Slogan,eslogan,Slogan,شعار,الشعار
 Sloganeer,Escribir lemas,Slogans schreiben,شعار نویسی کردن,لكتابة الشعارات
 Sloop,Buque de guerra,Kriegsschiff,قایق جنگی,سفينة حربية
 Slop,Pantalones holgados,Baggy-Hosen,شلوار گشاد,بنطلون فضفاض
@@ -1380,6 +1627,7 @@ Starry,Estrellado,Sternenklar,پرستاره,مرصع بالنجوم
 Stars,Roshanán,Roshanan,روشنان,روشانان
 Star-Shaped,Estelar,Stellar,ستارهای,ممتاز
 Start, Comenzar, Start,"شروع	", يبدأ
+Started,Iniciado,Begonnen,آغازشده,بدأت
 Starter,Lanzacohetes,Startprogramm,راه انداز,المشغل
 Startle,Para asustar,Erschrecken,هول دادن,لتخويف
 Starvation,Hambruna,Hungersnot,قحطی زدگی,المجاعة
@@ -1390,6 +1638,7 @@ Statecraft,Categoría de estado,Staatlichkeit,کشور داری,الدولة
 Statehouse,Casa del Estado,State House,مجلس ایالتی,دار الدولة
 Stateless,Sin gobierno,Ohne Regierung,بی دولت,بدون حكومة
 Statement,Anuncio,Bekanntmachung,اعلامیه,إعلان
+Statements,Excursiones,Ausflüge,گردش ها,الرحلات
 Statesmanship,Mundanería,Weltlichkeit,دنیاداری,عالمية
 Statgnate,Podrido,Faul,گندیده شده,فاسد
 Static,Inmóvil,Bewegungslos,بی حرکت,بلا حراك
@@ -1404,6 +1653,7 @@ Statue,Estatua,Statue,تندیس,تمثال
 Statuesque,Como una estatua,Wie eine Statue,شبیه مجسمه,مثل التمثال
 Statuette,Disco T,T-Scheibe,تندیسک,قرص تي
 Stature,Valor y valía,Wert und Nutzen,قدر وقیمت,القيمة والأهمية
+Status,Estado,Status,وضعیت,الحالة
 Statutory,Según la ley,Nach dem Gesetz,طبق قانون,وفقا للقانون
 Staunch,Cierre,Schließen,بندآوردن,إغلاق
 Stave,Con un palo,Mit einem Verein,با چماق زدن,مع النادي
@@ -1534,11 +1784,15 @@ Stitch,Sutura quirúrgica,Chirurgisches Nahtmaterial,بخیه جراحی,الخ�
 Stitched,Una puntada,Ein Stich,بخیه ای,غرزة
 Stitcher,Puntada punzante,Stechender Seitenstich,بخیه زننده,غرزة لاذعة
 Stock,Para almacenar,Aufbewahren,ذخیره سازی کردن,للتخزين
+Stock,Inventario,Inventar,موجودی,جرد
 Stockade,Bloqueo,Blockierung,مسدود ساختن,حجب
+STOCKBOX,Fondo de inventario,Inventarfonds,صندوق موجودی ها,صندوق المخزون
+Stocked,Disponible,Verfügbar,موجود,متاح
 Stockholder,Propietario del inventario,Inventarbesitzer,صاحب موجودی,مالك المخزون
 Stockholm,Estocolmo,Stockholm,استکهلم,ستوكهولم
 Stocking,Medias,Strümpfe,جوراب ساقه بلند,جوارب
 Stockpile, Apilado, Gestapelt,"انباشته	", مكدسة
+Stocks,Inventarios,Vorräte,موجودی ها,المخزونات
 Stockyard,corral de ganado,Viehhof,محوطه دامداری,حظيرة الماشية
 Stodgy,Pesado y voluminoso,Schwer und sperrig,سنگین وکندرو,ثقيلة وضخمة
 Stogie,Zapatos ásperos,Grobe Schuhe,کفش زمخت,أحذية خشنة
@@ -1778,6 +2032,7 @@ Stylization,Crear estilo,Stil erstellen,ایجاد سبک,إنشاء أسلوب
 Stylize,Elegante,Stilvoll,سبک وار,أنيق
 Stylus,Punta de aguja,Nadelspitze,نوک سوزنی,رأس الإبرة
 Styptic,Sanguijuela,Blutsauger,خون بند,مصاص دماء
+Su,Y,Y,ی,ي
 Subacid,Paranormal,Paranormal,سکنجبینی,خارق للطبيعة
 Subacute,Subaguda,Subakut,زیرحاد,شبه حاد
 Subadult,Semi maduro,Halbreif,نیمه بالغ,شبه ناضج
@@ -1814,6 +2069,7 @@ Subfamily,Subfamilia,Unterfamilie,تیره فرعی,الفصيلة الفرعي�
 Subgenus,Subgénero,Untergattung,جنس فرعی,الجنس الفرعي
 Subgroup,Subgrupo,Untergruppe,زیرگروه,المجموعة الفرعية
 Subject,Sujeto (activo),Betreff (aktiv),موضوع (فاعل),الموضوع (نشط)
+Subject,tema,Betreff,موضوع,الموضوع
 Subjectivism,Pertinencia,Relevanz,موضوعیت,الصلة
 Subjectivity,Estar activo,Aktiv sein,فاعلی بودن,أن تكون نشطًا
 Subjectless,Irrelevante,Irrelevant,بیموضوع,عَرَضِيّ
@@ -1836,6 +2092,7 @@ Submission,Obediencia,Gehorsam,فرمانبرداری,طاعة
 Submissive,Sin cabeza,Kopflos,سربزیر,بدون رأس
 Submissively,opresivamente,drückend,مظلومانه,بشكل قمعي
 Submissiveness,Barbijo,Kopftuch,سربزیری,الحجاب
+Submit,enviar,Senden,تایید,إرسال
 Submodule,Submetro,Unterzähler,زیرپیمانه,متر فرعي
 Submontane,Estribaciones,Vorgebirge,کوهپایهای,سفوح التلال
 Subnormal,Subnormal,Unterdurchschnittlich,مادون عادی,دون الطبيعي
@@ -1895,6 +2152,9 @@ Subtilize,Para exaltar,Erhöhen,متعال ساختن,لتمجيد
 Subtlety,Astucia,Klugheit,زیرکی,ذكاء
 Subtotal,Parte plural,Mehrzahl,جمع جزء,جزء الجمع
 Subtract, menos, Minus,"منها	", ناقص
+Subtractbox,Fondo de Déficit,Defizitfonds,صندوق کسری ها,صندوق العجز
+SUBTRACTED,Deducido,Abgezogen,کسر شده,تم خصمها
+Subtracteds,Déficits,Defizite,کسری ها,العجز
 Subtraction,Sustracción,Subtraktion,تفریق,الطرح
 Subtractive,Sustracción,Subtraktion,تفریقی,الطرح
 Subtrahend,Marfuq,Marfuq,مفروق,مرفوق
@@ -2012,7 +2272,6 @@ Summer,Verano,Sommer,تابستان,صيف
 Summersault,Dar la vuelta,Umdrehen,پشتک زدن,للتدحرج
 Summery,Como el verano,Wie im Sommer,شبیه تابستان,مثل الصيف
 Summit,Cima,Gipfel,قله,قمة
-Inform,Informar,Informieren,فراخوان,يخبر
 Summon,citación legal,Gerichtliche Vorladung,احضار قانونی کردن,الاستدعاء القانوني
 Summonable,Llamable,Abrufbar,فراخواندنی,قابلة للاستدعاء
 Summoner,Invocador,Beschwörer,فراخواننده,المستدعي
@@ -2042,6 +2301,7 @@ Sunshine,Luz del sol,Sonnenlicht,نور آفتاب,ضوء الشمس
 Sunstroke,Bronceado,Sonnenbrand,آفتاب زدگی,حروق الشمس
 Sunstruck,Quemado por el sol,Sonnenbrand,آفتاب زده,حروق الشمس
 Super,Elevación,Elevation,اعلاء,ارتفاع
+Super,Súper,Super,سوپر,مشرف
 Superabundance,Uso,Verwendung,استفاضه,الاستخدام
 Superadd, Arriba, Gemeinkosten,"سربار	", النفقات العامة
 Superb,Muy bien,Sehr gut,بسیار خوب,جيد جدًا
@@ -2178,6 +2438,7 @@ Suspect,Tener sospechas,Verdacht hegen,سوء ظن داشتن,أن يكون لد
 Suspected,Sospechar,Verdächtig,مظنون,يشتبه
 Suspend, Desempleado temporal, Vorübergehend arbeitslos,"موقتا بیکار	", عاطل عن العمل مؤقتًا
 Suspended,Suspendido,Ausgesetzt,تعلیقی,معلق
+Suspended,Suspendido,Ausgesetzt,معلق,مُعلّقة
 Suspender,Correa para calcetines,Sockenband,بند جوراب,حزام الجورب
 Suspense,Suspendido,Ausgesetzt,معلق,معلق
 Suspension,Irresponsabilidad,Verantwortungslosigkeit,بی تکلیفی,عدم المسؤولية
@@ -2271,6 +2532,7 @@ Swirly,Torbellino,Whirlpool,گردابی,دوامة
 Swish,Pyromod,Pyromod,پیرومد,بايرومود
 Swiss,suizo,Schweizer,سویسی,سويسري
 Switch,Elegir un camino,Einen Weg wählen,راه گزیدن,اختيار المسار
+SWITCH,Cambiar,SWITCH,سوئیچ,تبديل
 Switchblade,Cuchillo con mango,Messer mit Griff,چاقوی زامن دار,سكين بمقبض
 Switchboard,Página de opciones,Optionsseite,صفحه گزینه,صفحة الخيار
 Switchman,Costurera,Näherin,سوزن بان,المشتغلة بالإ برة
@@ -2372,6 +2634,8 @@ Systematization,Molestia,Ärger,همست کاری,متاعب
 Systematize,Para estilizar,Stylen,اسلوبی کردن,لتصفيف الشعر
 Systemic,Unión,Zusammengehörigkeit,همستی,الترابط
 Systemization,Estilización,Stilisierung,اسلوب سازی,أسلوب
+SYSTEMS,Sistemas,SYSTEME,سیستم ها,أنظمة
+SYSTEMS,Sistema,System,سامانه,نظام
 Systole,Contracción del corazón,Herzkontraktion,انقباض قلب,انقباض القلب
 Syzygy,par simétrico,Symmetrisches Paar,جفت متقارن,زوج متماثل
 Tab,Factura,Rechnung,صورت حساب,فاتورة
@@ -2414,6 +2678,8 @@ Tadpole,Renacuajo,Kaulquappe,بچه قورباغه,الشرغوف
 Tag,Calificación,Markierung,علامت زدن,وضع العلامات
 Tagalong,pelos de la nariz,Nasenhaare,موی دماغ,شعر الأنف
 Taghi,Taqi,Taqi,تقی,تقي
+TAGS,Etiquetas,TAGS,برچسب ها,الوسوم
+Tags,Etiquetas,Labels,برچسپ ها,العلامات
 Taher,Tahir,Tahir,طاهر,طاهر
 Tahereh,Tahereh,Tahereh,طاهره,طاهرة
 Tahmaseb,Tahmasp,Tahmasp,طهماسب,طهماسب
@@ -2652,6 +2918,8 @@ Temperence,Mediación,Mediation,میانگیری,وساطة
 Tempest,Hierve y hierve,Furunkel und Furunkel,جوش وخروش,الدمامل والدمامل
 Tempestuous,Cañón y flecha,Kanone und Pfeil,پرتوپ وتشر,المدفع والسهم
 Templar,Relacionado con el templo,Tempelbezogen,وابسته بمعبد,متعلق بالمعبد
+Template,Plantilla,Vorlage,قالب,نموذج
+TEMPLATES,Patrones,Muster,الگوها,أنماط
 Temple,Temporal,Zeitlich,گیجگاه,زمني
 Temples,Ihram,Ihram,احرام,الإحرام
 Temporal,Afiliado a la ciudad,Verbunden mit der Stadt,وابسته بگیجگاه,تابعة للمدينة
@@ -2757,6 +3025,7 @@ Terse,Breve y útil,Kurz und nützlich,مختصر ومفید,مختصر ومفي
 Tertian,Tres uno,Drei eins,سه یک,ثلاثة واحد
 Tertiary,Tercera parte,Teil Drei,قسمت سوم,الجزء الثالث
 Test,Examen,Prüfung,امتحان,امتحان
+TEST,Prueba,TEST,آزمون,اختبار
 Testa,Kozel,Kozel,کوزل,كوزيل
 Testable,Comprobable,Testbar,امتحان پذیر,قابلة للاختبار
 Testaceous,Mariscos,Schalentiere,صدف دار,المحار
@@ -2790,6 +3059,7 @@ Textile,Tejido de punto,Gewebe,پارچه بافته,قماش منسوج
 Textual,Textual,Textuell,متنی,نصي
 Texture,Tejido de punto,Gewebe,پارچه منسوج,قماش منسوج
 Teymur,Timur,Timur,تیمور,تيمور
+Th,PAG,P,پ,ص
 Thai,tailandés,Thai,تایلندی,التايلاندية
 Thailand,Tailandia,Thailand,تایلند,تايلاند
 Thallophyta,Filamentoso,Filamentös,ریسه داران,خيطي
@@ -3157,6 +3427,7 @@ Tithe,Diezmo,Der Zehnte,عشریه,العشور
 Tither,Receptor del diezmo,Zehntenempfänger,عشر گیرنده,متلقي العُشر
 Titillation,Cosquillas,Kitzeln,غلغلک آوری,دغدغة
 Title,Título de la escritura,Titel schreiben,عنوان نوشتن,كتابة العنوان
+Title,Título,Titel,عنوان,العنوان
 Titleholder,Noble,Betitelt,لقب دار,عنوان
 Titles,Títulos,Titel,عناوین,العناوين
 Titlist,Noble,Betitelt,لقب دار,عنوان
@@ -3232,6 +3503,7 @@ Toolbox,Caja de instrumento,Werkzeugkasten,جعبه ابزار,صندوق الأ
 Toolhouse,almacén de herramientas,Werkzeuglager,انبار ابزار,مستودع الأدوات
 Toolroom,Sala de herramientas,Werkzeugraum,اتاق ابزار,غرفة الأدوات
 Tools,Herramientas,Werkzeuge,ابزار,أدوات
+TOOLS,Herramientas,Werkzeuge,ابزارها,أدوات
 Toom,baja inteligencia,Geringe Intelligenz,کم هوش,انخفاض الذكاء
 Toosy,Gris,Grau,طوسی,رمادي
 Tooter,trompetista,Trompetenspieler,شیپور زن,عازف البوق
@@ -3338,6 +3610,7 @@ Toy,Juguete,Spielzeug,اسباب بازی,لعبة
 Trabeculate,Vara,Stange,میله دار,عصا
 Trablos,Trípoli,Tripolis,طرابلس,طرابلس
 Trace,Redondo,Runden,گرد,دائري
+TRACE,Seguimiento,Sendungsverfolgung,ردیابی,التتبع
 Traceable,Rastreable,Verfolgbar,قابل تعقیب,قابلة للتتبع
 Tracer,Cartógrafo,Kartograph,نقشه کش,رسام خرائط
 Traces,Obras,Werke,آثار,أعمال
@@ -3418,6 +3691,7 @@ Transfer,Para asignar,Zuweisen,انتقال,لتعيين
 Transferable,Transferible,Übertragbar,قابل واگذاری,قابلة للتحويل
 Transferee,Transferido a,Übertragen nach,منتقل الیه,تم نقله إلى
 Transference,Vraberry,Vraberry,ورابری,فرابيري
+Transfering,Transferencia,Übertragen,درحال انتقال,نقل
 Transferor,Transmisor,Sender,منتقل کننده,جهاز الإرسال
 Transferred,Asignado,Zugewiesen,واگذار شده,مُكَلَّف
 Transfigure,Cambiar la apariencia,Das Aussehen verändern,تغییر صورت دادن,لتغيير مظهرك
@@ -3446,6 +3720,7 @@ Translatable,Para darle sentido,Sinnvoll machen,قابل معنی کردن,لج�
 Translate,Traducción, Übersetzung,ترجمه,ترجمة
 Translated,doble,doppelt,دوبله,مزدوج
 Translation,Traducción y adaptación,Übersetzung und Adaption,ترجمه,الترجمة
+TRANSLATIONS,Traducciones,Übersetzungen,ترجمه ها,الترجمات
 Translative,Traducción,Übersetzung,ترجمهای,ترجمة
 Translator,Traductor escrito,Schriftlicher Übersetzer,مترجم کتبی,مترجم مكتوب
 Translators,Traductores,Übersetzer,مترجمان,المترجمون
@@ -3753,6 +4028,7 @@ Truths,Hechos,Fakten,حقایق,حقائق
 Try,Intentando,Versuchen,سعی کردن,محاولة
 T-Shirt,Camiseta,Unterhemd,زیرپیراهنی,قميص داخلي
 T-Stop,Tres maneras,Drei Wege,سه راه,ثلاث طرق
+Tu,S,S,س,س
 Tub,Plato,Gericht,طشت,طبق
 Tuba,Tuba,Tuba,طوبی,توبا
 Tubate,En forma de tubo,Röhrenartig,لوله مانند,على شكل أنبوب
@@ -3845,6 +4121,7 @@ Tutelary,Dependiente de tutela,Abhängig von der Vormundschaft,وابسته بق
 Tutor,Tutor a domicilio,Hauslehrer,معلم سر خانه,مدرس منزلي
 Tutoress,Maestra,Lehrerin,آموزگار زن,معلمة
 Tutorial,Profesora Sorkhaneh,Lehrerin Sorkhaneh,خودآموز,المعلمة سورخانة
+TUTORIAL,Educación,Ausbildung,آموزش,تعليم
 Tutorship,Custodia,Gewahrsam,حضانت,كفالة
 Tutty,Totia,Totia,توتیا,توتيا
 Tux,Ropa formal,Abendgarderobe,لباس رسمی,ملابس رسمية
@@ -3899,6 +4176,7 @@ Tympanum,Tímpano,Trommelfell,پرده صماخ,طبلة الأذن
 Tympany,Voz pesada,Schwere Stimme,صدای سنگین,صوت ثقيل
 Typal,Un ejemplo,Ein Beispiel,نمونه ای,مثال
 Type,Máquina de escribir,Schreibmaschine,ماشین تحریر,آلة كاتبة
+Type,Tipo,Typ,نوع,النوع
 Typeface,Estilo de fuente,Schriftstil,سبک حروف,نمط الخط
 Types,Tipos,Arten,انواع,أنواع
 Typeset,Ordenar letras,Briefe sortieren,حروف چیدن,فرز الحروف
@@ -4163,6 +4441,7 @@ Undetectable,Inencontrable,Unfindbar,نایافتنی,غير قابل للعثو
 Undetected,Sin descubrir,Unentdeckt,کشف نشده,غير مكتشف
 Undetermined,Indefinido,Unbestimmt,غیر معین,غير محدد
 Undeviating,Sin desviación,Keine Abweichung,بدون انحراف,لا انحراف
+Undifined,No definido,Nicht definiert,تعریف نشده,غير محدد
 Undirected,Sin guía,Ungeführt,هدایت نشده,غير موجه
 Undisciplined,Indisciplinado,Undiszipliniert,بی انضبات,غير منضبط
 Undisputed,Sin objeción,Ohne Einwände,بی مخالفت,بدون اعتراض
@@ -4309,7 +4588,9 @@ Unitarianism,Monoteísmo,Monotheismus,یکتا پرستی,التوحيد
 Unite,Unir las manos,Reichen Sie sich die Hände,دست یکی کردن,انضموا إلى أيدينا
 United,Compañía Unida,Vereinigte Gesellschaft,شرکت یونایتد,شركة يونايتد
 Unitive,Unificando,Vereinigend,متحد کننده,توحيد
+UnitName,Nombre de la unidad,Einheitenname,نام واحد,اسم الوحدة
 Units,Unidades,Einheiten,آحاد,الوحدات
+UNITS,Unidades,Einheiten,واحدها,الوحدات
 Unity,Unidad,Einheit,وحدانیت,الوحدة
 Univalent,Una fundación,Eine Stiftung,یک بنیانی,مؤسسة
 Univalve,Una escotilla,Eine Luke,یک دریچه ای,فتحة
@@ -4472,6 +4753,7 @@ Unsought,No probado,Unversucht,کوشش نشده,لم يتم تجربته
 Unsoundness,Malsano,Ungesund,ناتندرستی,غير صحي
 Unspeakable,Inexpresable,Unaussprechlich,غیرقابل بیان,لا يمكن التعبير عنه
 Unspecialized,No capacitado,Ungelernt,بی تخصص,غير ماهر
+Unspecified,Incierto,Unsicher,نامشخص,غير مؤكد
 Unspotted,No deshonrado,Nicht blamiert,ننگین نشده,لم يُخزى
 Unsprung,Sin primavera,Ohne Feder,بدون فنر,بدون ربيع
 Unstable,Fundación suelta,Lockeres Fundament,سست بنیاد,أساس فضفاض
@@ -4552,6 +4834,7 @@ Unwritten,Oralmente,Oral,بطور شفاهی,عن طريق الفم
 Unyielding,Rebelde,Rebellisch,سرکش,متمرد
 Up,Arriba,Spitze,بالا,قمة
 Upcoming,En un futuro próximo,In naher Zukunft,درآتیه نزدیک,في المستقبل القريب
+Update,Actualizar,Aktualisierung,به روزرسانی,تحديث
 Updating,Eliminación oportuna,Rechtzeitige Entfernung,بهنگام درآوری,الإزالة في الوقت المناسب
 Uphill,Cuesta arriba,Bergauf,سربالایی,صعودًا
 Upholster,Para retumbar,Rumpeln,رومبلی زدن,للدحرجة
@@ -4637,6 +4920,10 @@ Usefulness,Rentabilidad,Rentabilität,سودبخشی,الربحية
 Useless,No usado,Unbenutzt,بلا استفاده,غير مستخدم
 Uselessness,Inutilidad,Nutzlosigkeit,بی فایدگی,عدم الجدوى
 User,Usuario,Benutzer,کاربر,مستخدم
+UserId,ID de usuario,Benutzer-ID,شناسه کاربر,معرف المستخدم
+UserName,Nombre de usuario,Benutzername,نام کاربری,اسم المستخدم
+USERS,Usuarios,BENUTZER,کاربران,المستخدمون
+USERS,Gente,Menschen,اشخاص,الناس
 Usher,Para hacer preguntas,Fragen stellen,یساولی کردن,لطرح الأسئلة
 Using,Usar,Verwenden,بکارگیری,يستخدم
 Usual,Normal,Normal,عادی,طبيعي
@@ -4729,6 +5016,7 @@ Valuator,Evaluador,Gutachter,ارزیاب,المُقيِّم
 Value,Valioso,Wertvoll,ارزشمندی,قيّم
 Valued,Rico,Reich,مغتنم,ثري
 Valueless,Inestimable,Unbezahlbar,بی قیمت,نفيس
+ValueOptions,Opciones de traducción,Übersetzungsoptionen,گزینه های ترجمه,خيارات الترجمة
 Valuer,Cambiador de precios,Preiswechsler,قیمت گذار,مُغيّر الأسعار
 Valvate,Válvula,Ventil,سوپاپ,صمام
 Valve,Válvula,Ventil,دریچه,صمام
@@ -5014,6 +5302,7 @@ Vienna,Viena,Wien,وین,فيينا
 Vietnam,Vietnam,Vietnam,ویتنام,فيتنام
 Vietnamese,vietnamita,Vietnamesisch,ویتنامی,الفيتنامية
 View,Comentario,Kommentar,نظر انداختن,تعليق
+View,Perspectiva,Ausblick,چشم انداز,التوقعات
 Viewer,Espectador,Zuschauer,تماشا گر,المشاهد
 Viewless,Sin vistas,Ohne Aussicht,بی منظره,بدون منظر
 Viewpoint,Punto de vista,Standpunkt,نقطه نظر,وجهة نظر
@@ -5106,6 +5395,8 @@ Visional,Teorético,Theoretisch,نظری,نظري
 Visionary,Soñador,Träumer,رویا گرای,حالم
 Visionless,Falta de visión,Mangelnde Vision,فاقد دید,عدم وجود الرؤية
 Visit,Reunión,Treffen,بازدید,مشاهده
+Visit,Vista,Sicht,مشاهده,منظر
+Visit Card,Tarjeta de presentación,Visitenkarte,کارت ویزیت,بطاقة عمل
 Visitation,migración monzónica,Monsunwanderung,مهاجرت موسمی,هجرة الرياح الموسمية
 Visitational,migración monzónica,Monsunwanderung,مهاجرت موسمی,هجرة الرياح الموسمية
 Visitatorial,Visita,Besuchen,عیادتی,يزور
@@ -5148,6 +5439,7 @@ Vocal,Lectura especial,Besondere Lektüre,ویژه خواندن,قراءة خا�
 Vocalist,Compositor de canciones,Songwriter,نغمه سرا,كاتب أغاني
 Vocalization,Pronunciación de audio,Audio-Aussprache,تلفظ صوتی,النطق الصوتي
 Vocational,Conservatorio,Wintergarten,هنرستانی,المعهد الموسيقي
+VOCATIONS,Misiones,Missionen,ماموریت ها,البعثات
 Vocative,DIRECCIÓN,Adresse,خطابی,عنوان
 Vociferant,Un grito,Ein Schrei,نعرهای,صيحة
 Vociferate, Alto, Laut,"بلند صدا	", عالي
@@ -5272,6 +5564,7 @@ Walking,Caminando,Gehen,پیاده روی,المشي
 Walkway,Paseo,Promenade,گردشگاه,تنزه
 Wall,Muro,Wand,دیوار,حائط
 Wallet,Bolsa de bolsillo,Taschenbeutel,کیف جیبی,حقيبة جيب
+Wallet,Billetera,Geldbörse,کیف پول,محفظة
 Wallflower,Shabat,Schabbat,شببو,السبت
 Wallower,Laminación,Rollen,غلت خور,التدحرج
 Wallpaper,Papel pintado,Tapete,کاغذ دیواری,ورق الجدران
@@ -5360,6 +5653,7 @@ Waster,Dañado,Beschädigt,متلف,متضرر
 Wasting,Desperdiciar,Abfall,اتلاف,يضيع
 Wastrel,Desperdicio de trabajo,Verschwendung von Arbeit,تلف کار,هدر العمل
 Watch, Mirar, Betrachten,"تماشا	", يشاهد
+Watch,Mirar,Betrachten,تماشا,يشاهد
 Watchband,Correa de reloj,Uhrarmband,بند ساعت,حزام الساعة
 Watchcase,Caja de reloj,Uhrenbox,جعبه ساعت,صندوق الساعة
 Watchdog,Guardia, Bewachen,"نگهبان	", يحمي
@@ -5419,6 +5713,7 @@ Wayless,Sin camino,Ohne einen Weg,بی راه,بدون طريق
 Ways,Maneras,Wege,طرق,طرق
 Wayside,Borde del camino,Straßenrand,کنار جاده,جانب الطريق
 We,Nosotros,Wir,ما,نحن
+We,¿Qué?,Was?,چ,ماذا؟
 Weak,Débil,Schwach,ضعیفالحال,ضعيف
 Weakbodied,De cuerpo débil,Schwacher Körper,ضعیفالجثه,ضعيف الجسم
 Weaken, Deterioro del crecimiento, Wachstumsstörungen,"تضعیف رشد	", ضعف النمو
@@ -5998,6 +6293,7 @@ Wrongdoing,Marcha mala,Fehlverhalten,غلط کاری,مخالفة
 Wrongful,Ilegal,Illegal,غیر قانونی,غير قانوني
 Wrongheaded,Tenaz,Hartnäckig,سر سخت,عنيد
 Wry,Irónico,Ironisch,کنایه آمیز,ساخر
+X,Hacha,Axt,اکس,الفأس
 Xanthic,Xántico,Xanthisch,گزانتیک,زانثيك
 Xanthin,Xantina,Xanthin,گزانتین,زانثين
 X-Chromosome,Color X,Farbe X,رنگینتن ایکس,اللون X
@@ -6181,118 +6477,5 @@ Zymology,Ciencia de la levadura,Hefewissenschaft,مخمرشناسی,علم ال�
 Zymoplastic,Generador de diastasa,Diastasegenerator,مولد دیاستاز,مولد الدياستاز
 Zymurgy,Fermentación,Fermentation,تخمیرشناسی,التخمير
 Zyvr,Ornamento,Ornament,زیور,زخرفة
-False,Falso,False,غلط,غلط
-True,Correcto,True,صحیح,صحيح
-A Few,Un poco,Ein wenig,کمی,قليلا
-A Handful,Un puñado,Eine Handvoll,یک مشت,حفنة
-A Little,Un poco,Ein wenig,اندکی,قليلا
-A Lot,Mucho,Eine Menge,بمقدار زیاد,كثيراً
-A While,Un poco,Ein wenig,اندکی,قليلا
-Bill,Factura,Rechnung,صورتحساب,فاتورة
-Category,Categoría,Kategorie,دسته بندی,الفئات
-COMMENTS,Comentarios,KOMMENTARE,نظرات,التعليقات
-Contacts,correlación,Kontakte,ارتباط,جهات الاتصال
-CONTENTS,Su contenido,INHALT,محتواها,المحتويات
-HandBook,Tu libro es nuestra guía,Handbuch,کتابچه راهنما,الأدلة
-LETS GO!,¡Comencemos!,LOS GEHT'S!,بیایید شروع کنیم!,هيا بنا!
-Location,Lugar,Standort,مکان,الموقع
-MESSAGES,mensajes,NACHRICHTEN,پیام ها,الرسائل
-Password,Código de acceso,Passwort,رمز عبور,كلمة المرور
-Previous,tribal,Zurück,قبلی,السابق
-Priority,Prioridad,Priorität,اولویت,الأولوية
-Schedule,Calendario,Planen,برنامه زمانی,جدولة
-Search: ,Sólo ve:,Suche:,جستجو:,بحث:
-Services,Servicios,Leistungen,خدمات,الخدمات
-Sign Out,Salir del sistema,Abmelden,خروج از سیستم,تسجيل الخروج
-See More,Ver más,Mehr sehen,بیشتر ببین,شاهد المزيد
-See More,Ver más,Mehr sehen,بیشتر ببین,شاهد المزيد
-ACADEMY,Academia,AKADEMIE,آکادمی,الأكاديمية
-ARTICLE,Artículo,ARTIKEL,مقاله,مقالة
-CONTACT,Contacto,KONTAKT,تماس,اتصل بنا
-Manager,Gerente,Manager,مدیر,المدير
-Meister,Director General,Meister,مدیر ارشد,المدير الأول
-Members,Miembros,Mitglieder,اعضا,الأعضاء
-Message,Mensaje,Nachricht,پیام,الرسالة
-More...,Más...,Mehr...,بیشتر...,المزيد...
-Restore,Recuperación,Wiederherstellen,بازیابی,استعادة
-Sign In,Entrada al sistema,Anmelden,ورود به سیستم,تسجيل الدخول
-Sign Up,Regístrate ahora,Registrieren,ثبت نام,تسجيل
-Special,Wizah,Spezial,ویژه,خاص
-Subject,tema,Betreff,موضوع,الموضوع
-SYSTEMS,Sistemas,SYSTEME,سیستم ها,أنظمة
-Access,Acceso,Zugang,دسترسی,الوصول
-Author,Autor,Autor,نویسنده,المؤلف
-Authenticate,Autenticar,Authentifizieren,احراز هویت,المصادقة
-Authentication,Autenticar,Authentifizieren,احراز هویت,المصادقة
-Authenticating,Autenticar,Authentifizieren,احراز هویت کردن,المصادقة
-BASE,Base,BASIS,پایه,أساسي
-Editor,Editor,Editor,ویرایشگر,المحرر
-GROUPS,Grupos,GRUPPEN,گروه ها,المجموعات
-Parent,padre,Übergeordneter,والد,الرئيسي
-Search,Buscar,Suchen,جستجو,بحث
-Slogan,eslogan,Slogan,شعار,الشعار
-Status,Estado,Status,وضعیت,الحالة
-Submit,enviar,Senden,تایید,إرسال
-SWITCH,Cambiar,SWITCH,سوئیچ,تبديل
-Unspecified,Incierto,Unsicher,نامشخص,غير مؤكد
-Update,Actualizar,Aktualisierung,به روزرسانی,تحديث
-Visit,Vista,Sicht,مشاهده,منظر
-Visit Card,Tarjeta de presentación,Visitenkarte,کارت ویزیت,بطاقة عمل
-About,Acerca de,ÜBER,درباره,حول
-Retry,Rever,Wiederholen,تلاش مجدد,إعادة المحاولة
-Email,Correo Electrónico,E-Mail,رایانامه,بريد إلكتروني
-First,Primero,Vorname,اولین,الأول
-FORUM,Tenemos éxito,FORUM,انجمن,المجتمع
-Group,Grupo,Gruppe,گروه,المجموعات
-Guest,Importante,Gäste,مهمان,الضيف
-Image,Fotografía,Bild,تصویر,الصورة
-Owner,Dueño,Inhaber,مالک,المالك
-Posts,Pasados,Posts,پست ها,المنشورات
-Reset,Reiniciar,Zurücksetzen,بازنشانی,إعادة تعيين
-Super,Súper,Super,سوپر,مشرف
-Title,Título,Titel,عنوان,العنوان
-Port,Puerto,Hafen,درگاه,ميناء
-Ports,Puerto,Hafen,درگاه‌ها,ميناء
-USERS,Usuarios,BENUTZER,کاربران,المستخدمون
-BASE,Base,BASIS,پایه,أساسي
-HOME,Casa,STARTSEITE,خانه,الصفحة الرئيسية
-Item,Caso,Artikel,مورد,حول
-Last,Último,Letzte,آخرین,الأحدث
-Latest,El último,Letzte,اخیر,أحدث
-Latests,Lo último,Aktuelles,اخیرها,أحدث الأخبار
-Laboratories,Laboratorios,Labore,آزمایشگاه ها,المختبرات
-Main,Original,Hauptmenü,اصلی,الرئيسية
-MENU,¿OMS?,MENÜ,منو,القائمة
-Name,Dormir,Name,نام,الاسم
-NEWS,noticias,NACHRICHTEN,اخبار,الأخبار
-Next,Después de mí,Weiter,بعدی,التالي
-Path,camino,Pfad,مسیر,المسار
-Post,Pasado,Post,پست,المنشور
-Referrals,Referencias,Empfehlungen,ارجاعات,الإحالات
-TAGS,Etiquetas,TAGS,برچسب ها,الوسوم
-TEAM,Equipo,TEAM,تیم,الفريق
-TEST,Prueba,TEST,آزمون,اختبار
-Type,Tipo,Typ,نوع,النوع
-Ban,Bandera,Banner,بنر,اللافتة
-Bio,Biografía,Bio,بیوگرافی,السيرة الذاتية
-Id,¿Qué te pasa?,ID,شناسه,الهوية
-Wallet,Billetera,Geldbörse,کیف پول,محفظة,
-X,Hacha,Axt,اکس,الفأس
-Started,Iniciado,Begonnen,آغازشده,بدأت
-Rejected,Rechazado,Abgelehnt,ردشده,رُفضت
-Confirmed,Confirmado,Bestätigt,تاییدشده,أُكدت
-Suspended,Suspendido,Ausgesetzt,معلق,مُعلّقة
-Noticed,Notificado,Bemerkt,فراخوان‌شده,أُشير إليها
-Canceled,Cancelado,Abgebrochen,انصراف‌داده,ألغيت
-Paid,Pagado,Bezahlt,پرداخت‌شده,دُفعت
-Archived,Archivado,Archiviert,بایگانی‌شده,مؤرشفة
-Done,Listo,Erledigt,انجام‌شده,تمّ
-Incompleted,Incompleto,Unvollständig,ناقص,غير مُكتمل
-Completed,Completado,Abgeschlossen,تکمیل‌شده,مُكتمل
-Finished,Terminado,Beendet,پایان‌یافته,انتهى
-Refund,Reembolso,Erstattung,مسترد‌شده,استرداد
-Import,Importar,Import,ورودی,يستورد
-Imported,Importado,Importiert,وارد شده,مستورد
-Export,Exportar,Export,خروجی,يصدّر
-Exported,Exportado,Exportiert,خارج شده,يصدّر
-Greeting,Saludo,Gruß,با احترام,تحية
+FALSE,Falso,FALSE,غلط,غلط
+TRUE,Correcto,TRUE,صحیح,صحيح

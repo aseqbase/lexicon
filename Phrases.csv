@@ -1,11 +1,5 @@
 ﻿en,es,de,fa,ar
- Instagram,Instagram,Instagram,اینستاگرام,إنستغرام
- Telegram,Telegrama,Telegram,تلگرام,تليجرام
 < Previous Step,< Paso anterior,< Vorheriger Schritt,< مرحله قبل,< الخطوة السابقة
-< Previous Step,< Previous Step,< Vorheriger Schritt,< مرحله قبل,< الخطوة السابقة
-<0><1> AUTOADVICE,<0><1> Autoaprendizaje,<0><1> SELBSTBEDIENUNG,<0><1> خودآموزی,<0><1> التعلم الذاتي
-<0><1> CONSULTANCY,<0><1> Consultoría,<0><1> BERATUNG,<0><1> مشاوره,<0><1> الاستشارات
-<0><1> FORUM,<0><1> Foro,<0><1> FORUM,<0><1> انجمن,<0><1> المنتدى
 A Great Deal Of,Un mundo,Eine Welt,یک دنیا,عالم واحد
 A La Garconne,Alagarcén,Alagarcen,آلاگارسن,ألاغارسين
 A Little While Later,Un poco más tarde,Etwas später,اندکی بعد,بعد قليل
@@ -15,7 +9,11 @@ A While Ago,Hace un tiempo,Vor einiger Zeit,چندی قبل,منذ بعض الو
 A While Later,Algún tiempo después,Einige Zeit später,مدتی بعد,بعد مرور بعض الوقت
 Abandoned Place,Abandonado,Verlassen,متروکه,متروك
 ABOUT<0><1>,Acerca de <0><1>,ÜBER <0><1>,درباره<0><1>,حول<0><1>
+Account Balance,Saldo de la cuenta,Kontostand,موجودی حساب,رصيد الحساب
 Account Recovery,Recuperación de cuenta,Kontowiederherstellung,بازیابی نمایه,استعادة الحساب
+Account Recovery,Recuperación de cuenta,Kontowiederherstellung,بازیابی حساب کاربری,استعادة الحساب
+Add Impact,Efecto añadido,Hinzugefügter Effekt,تاثیر اضافه,تأثير مضاف
+Added Statements,Circulación de adiciones,Verbreitung von Ergänzungen,گردش افزوده ها,تداول الإضافات
 Administrator,Gerente,Administrator,مدیر,المسؤول
 Ammonium Chloride,Nashadar,Nashadar,نشادر,نشادار
 Ammunition Depot,Depósito de municiones,Munitionsdepot,انبار مهمات,مستودع الذخيرة
@@ -29,6 +27,7 @@ Amounting To,Encima,Über,بالغ بر,زيادة
 Amusement Park,Complejo,Resort,تفریحگاه,ملجأ
 Ana Novak,Anna Novak,Anna Novak,آنا نوواک,آنا نوفاك
 Ausbildung,Educación,Ausbildung,Ausbildung,التدريب
+Auto Fill,Autocompletar,AutoFill,پرکردن خودکار,التعبئة التلقائية
 AUTOADVICE,AUTOASESORAMIENTO,AUTOADVICE,AUTOADVICE,نصائح تلقائية
 AUTOADVICE<0><1>,AUTOASESORAMIENTO<0><1>,AUTOADVICE<0><1>,AUTOADVICE<0><1>,نصائح تلقائية<0><1>
 Back to Home,Volver a la página de inicio,Zurück zur Startseite,بازگشت به صفحه اصلی,العودة إلى الصفحة الرئيسية
@@ -36,80 +35,188 @@ Banner Path,Ruta del banner,Bannerpfad,مسیر بنر,مسار اللافتة
 Be in Touch with us,Manténgase en contacto con nosotros.,Kontaktieren Sie uns,با ما در تماس باشید,اتصل بنا
 Browse Categories,Explorar categorías,Kategorien durchsuchen,مرور دسته بندی ها,تصفح الفئات
 Businessplan,Plan de negocios,Businessplan,طرح کسب و کار,خطة العمل
+By wallet,Por billetera,Per Brieftasche,با کیف‌پول,بالمحفظة
 CATEGORIES,Categorías,KATEGORIEN,دسته بندی ها,الفئات
+Categories Management,Administrar categorías,Kategorien verwalten,مدیریت دسته بندی ها,إدارة الفئات
+Change Count,Número de cambios,Anzahl der Änderungen,تعداد تغییر,عدد التغييرات
+Changed Count,Cambio de número,Änderung der Anzahl,تغییر در تعداد,التغيير في العدد
+Changed Drafts,Edición de remesas modificadas,Geänderte Überweisungen bearbeiten,ویرایش حواله های تغییریافته,تحرير التحويلات المتغيرة
+Changed Weight,Cambio de peso,Gewichtsveränderung,تغییر وزن,تغير الوزن
 Clear Lexicon,Diccionario claro,Lexikon löschen,پاک کردن واژه نامه,مسح المصطلحات
+Clear Lexicon,Diccionario claro,Wörterbuch löschen,پاک کردن لغتنامه,قاموس واضح
+Close <0><1>,Cerrar <0><1>,Schließen <0><1>,بستن <0><1>,إغلاق <0><1>
 Comments Management,Gestión de vistas,Kommentarverwaltung,مدیریت نظرات,إدارة التعليقات
+Complete Impact, El impacto de la finalización, Die Auswirkungen der Fertigstellung,تاثیر تکمیل , تأثير الإكمال
+Completed Drafts,Documentos completados,Ausgefüllte Dokumente,سند های تکمیل شده,المستندات المكتملة
+Completed Statements,Circulación completada,Abgeschlossene Auflage,گردش تکمیل شده ها,تم الانتهاء من التداول
+Confirm Password,Confirmación de contraseña,Passwortbestätigung,تاییدیه رمز عبور,تأكيد كلمة المرور
 CONSULTANCY,Consulta,BERATUNG,مشاوره,نصائح
 CONSULTANCY<0><1>,Consulta<0><1>,BERATUNG<0><1>,مشاوره<0><1>,نصائح<0><1>
 CONTACT<0><1>,Contacto <0><1>,KONTAKT<0><1>,تماس<0><1>,اتصل بنا<0><1>
 Contents Management,Gestión de contenidos,Inhaltsverwaltung,مدیریت محتواها,إدارة المحتوى
 Copy Right,Derechos de autor,Urheberrecht,کپی رایت,حقوق النشر
-CreateTime,Es hora de crear,Erstellungszeit,زمان ایجاد,وقت الإنشاء
+Count Threshold,Umbral numérico,Anzahlschwelle,آستانه تعداد,عتبة الرقم
+Count Unit,Unidad de conteo,Zähleinheit,واحد شمارش,وحدة العد
+Country Code,Código del país,Landesvorwahl,کد کشور,رمز الدولة
 Create an account,Ein Konto erstellen,Crear una cuenta,ایجاد حساب کاربری جدید,إنشاء حساب
+Create Time,Creado en,Erstellt in,ایجاد شده در,تم إنشاؤه في
+CreateTime,Es hora de crear,Erstellungszeit,زمان ایجاد,وقت الإنشاء
+Credit Count,Número de acreedores,Anzahl der Gläubiger,تعداد بستانکار,عدد الدائنين
+Credit Weight,Peso del acreedor,Gläubigergewicht,وزن بستانکار,وزن الدائن
+Current Drafts,Documentos en proceso,Dokumente in Bearbeitung,سند های درحال پردازش,المستندات قيد التقدم
+Current Statements,Circulación actual,Aktuelle Auflage,گردش جاری ها,التداول الحالي
+Current Weight,Nuevo peso,Neues Gewicht,وزن جدید,وزن جديد
+Damage <0><1>,Fracaso <0><1>,Fehler <0><1>,خرابی <0><1>,فشل <0><1>
+Damage Impact,Impacto del daño,Schadensauswirkungen,تاثیر آسیب,تأثير الضرر
 DASHBOARD,Panel,DASHBOARD,داشبورد,لوحة التحكم
+Debit Count,Número de deudores,Anzahl der Schuldner,تعداد بدهکار,عدد المدينين
+Debit Weight,Peso del deudor,Gewicht des Schuldners,وزن بدهکار,وزن المدين
+Decimal Precision,Precisión decimal,Dezimalgenauigkeit,دقت اعشار,الدقة العشرية
+Delay (<0>),Retraso (<0>),Verzögerung (<0>),تاخیر (<0>),التأخير (<0>)
 Description,Descripción,Beschreibung,توضیحات,الوصف
+Dest Person,Persona de destino,Zielperson,شخص مقصد,الشخص الوجهة
+Dest Unit,Unidad de destino,Zieleinheit,واحد مقصد,وحدة الوجهة
+Destination Person,Persona de destino,Zielperson,شخص مقصد,الشخص الوجهة
+Destination Unit,Unidad de destino,Zieleinheit,واحد مقصد,وحدة الوجهة
+Destination Units,Unidades de destino,Zieleinheiten,واحدهای مقصد,وحدات الوجهة
 Developed By:,,,توسعه یافته توسط:,
 Developer,Revelador,Entwickler,توسعه دهنده,المطور
 Double click to hide,Haga doble clic para ocultar.,Doppelklicken zum Ausblenden,برای مخفی کردن دوبار کلیک کنید,انقر نقرًا مزدوجًا للإخفاء
 Download Path,Ruta de descarga,Download-Pfad,مسیر دانلود,مسار التنزيل
+Drafts Management,Gestión de documentos,Dokumentenmanagement,مدیریت سند ها,إدارة المستندات
+Drafts Report,Informe del documento,Dokumentbericht,گزارش سند ها,تقرير الوثيقة
+Edit Drafts,Edición de documentos,Dokumente bearbeiten,ویرایش سند ها,تحرير المستندات
+Edit Goods,Editar productos,Produkte bearbeiten,ویرایش کالا ها,تحرير المنتجات
 Edit Lexicon,Editar el diccionario,Lexikon bearbeiten,ویرایش واژه نامه,تعديل القاموس
+Edit Lexicon,Edición de diccionarios,Wörterbuchbearbeitung,ویرایش لغتنامه,تحرير القاموس
+Edit Products,Editar productos,Produkte bearbeiten,ویرایش محصولات,تحرير المنتجات
 Edit Profile,Editar perfil,Profil bearbeiten,ویرایش نمایه,تعديل الملف الشخصي
+Edit Profile,Editar perfil,Profil bearbeiten,ویرایش پروفایل,تعديل الملف الشخصي
+Edit Statements,Edición de tours,Touren bearbeiten,ویرایش گردش ها,جولات التحرير
+Edit System,Sistema de edición,System bearbeiten,ویرایش سیستم,تحرير النظام
+Edit Tools,Herramientas de edición,Bearbeitungswerkzeuge,ویرایش ابزارها,أدوات التحرير
+Edit Units,Unidades de edición,Einheiten bearbeiten,ویرایش واحدها,وحدات التحرير
+Edit Users,Editar personas,Personen bearbeiten,ویرایش اشخاص,تعديل الأشخاص
+Edit Vocation,Editar misión,Mission bearbeiten,ویرایش ماموریت,تحرير المهمة
+Email Address,Dirección de correo electrónico,E-Mail-Adresse,آدرس ایمیل,عنوان البريد الإلكتروني
 Email/Phone,Recupera tu cuenta,Stellen Sie Ihr Konto wieder her,رایانامه/تلفن,البريد الإلكتروني/الهاتف
 Email/Phone/UserName,Correo electrónico/Teléfono/Nombre de usuario,E-Mail/Telefon/Benutzername,ایمیل/تلفن/نام کاربری,البريد الإلكتروني/الهاتف/اسم المستخدم
+Entire Management,Dirección general,Geschäftsführung,مدیریت کل,الإدارة العامة
 Error Symbol Path,Ruta del símbolo de error,Fehlersymbol-Pfad,مسیر نماد خطا,مسار رمز الخطأ
 Export Lexicon,Exportar un diccionario,Lexikon exportieren,صادر کردن واژه نامه,تصدير القاموس
+Failed Drafts,Documentos fallidos,Nicht erfolgreiche Dokumente,سند های ناموفق,وثائق غير ناجحة
+Failed Statements,Ciclo de fallas,Fehlerzyklus,گردش خرابی ها,دورة الفشل
+Filter: ,Filtrar:,Filter:,فیلتر:,فلتر:
+First Name,Nombre (sustantivo),Name (Substantiv),نام (اسم),الاسم (الاسم)
+From Time,De la historia,Aus der Geschichte,از تاریخ,من التاريخ
 Full Banner Path,Marcha con pancartas completas,Bannerpfad,مسیر کامل بنر,مسار البانر الكامل
 Full Description,Explicaciones completas,Beschreibung,توضیحات کامل,الوصف الكامل
+Full Description,Descripción completa,Vollständige Beschreibung,شرح کامل,الوصف الكامل
+Full Good,Título completo del producto,Vollständiger Titel des Produkts,عنوان کامل کالا,العنوان الكامل للمنتج
 Full Logo Path,Ruta completa del logotipo,Logopfad,مسیر کامل لوگو,مسار الشعار الكامل
 Full Name,Nombre completo,Name,نام کامل,الاسم الكامل
+Full Name,Nombre y apellido,Vor- und Nachname,نام و نام خانوادگی,الاسم الأول والأخير
 Full Owner,Propietario completo,Inhaber,مالک کامل,المالك الكامل
+Full Owner,Título completo del propietario,Vollständiger Titel des Eigentümers,عنوان کامل مالک,اللقب الكامل للمالك
+Full Product,Título completo del producto,Vollständiger Produkttitel,عنوان کامل محصول,عنوان المنتج الكامل
 Full Slogan,Logotipo completo,Slogan,شعار کامل,الشعار الكامل
+Goods Management,Gestión de mercancías,Warenwirtschaft,مدیریت کالا ها,إدارة البضائع
+GOODS REPORT,Informe de mercancías,Warenmeldung,گزارش کالا ها,تقرير البضائع
 Home Path,camino de la casa,Startseite,مسیر خانه,مسار الصفحة الرئيسية
+Home Path,Ruta de la página de inicio,Startseitenpfad,مسیر صفحه اصلی,مسار الصفحة الرئيسية
 Import Lexicon,Entra el idioma kurdo,Lexikon importieren,وارد کردن واژه نامه,استيراد القاموس
 Impressum,Imprimir,Impressum,چاپ,طباعة
 Incorrect value,Valor Incorrecto,Falschwert,مقدار نادرست,غير صحيح
 Information,Información,Informationen,اطلاعات,معلومات
 INFORMATIONS,Información,INFORMATIONEN,اطلاعات,معلومات
+Input Drafts,Documentos entrantes,Eingehende Dokumente,سند های ورودی,المستندات الواردة
+Input Statements,Flujo de entrada,Eingangsfluss,گردش ورودی ها,تدفق الإدخال
+Instagram,Instagram,Instagram,اینستاگرام,إنستغرام
+Introduction Method,Método de familiarización,Einarbeitungsmethode,روش آشنایی,طريقة التعرف
+Is Active,Activo,Aktiv,فعال,نشيط
 Join to a Forum,Únase a una comunidad,Forum beitreten,به یک انجمن بپیوندید,انضم إلى مجتمع
+Key Code,Código clave,Schlüsselcode,کد کلیدی,رمز المفتاح
 Key Words,Palabras clave,Schlüsselwörter,کلمات کلیدی,الكلمات المفتاحية
+Key Words,Palabras clave,Schlüsselwörter,کلید واژه ها,الكلمات الرئيسية
 Know Others,Conocer a otros,Mehr erfahren,بیشتر بدان,تعرّف على الآخرين
 Know Others...,Conocer a otros...,Mehr erfahren...,بیشتر بدان...,تعرّف على الآخرين...
+Last Name,Apellido,Nachname,نام خانوادگی (فامیل),الاسم الأخير (اللقب)
 Latest Guides,Guías más recientes,Neueste Anleitungen,آخرین راهنماها,أحدث الأدلة
+Latest Time,Periodo de trabajo más reciente,Jüngste Arbeitsperiode,اخیرترین مدت کار,أحدث فترة عمل
 Learn More,Aprender más,Mehr erfahren,بیشتر یادبگیر,تعرّف على المزيد
 Learn More...,Aprender más...,Mehr erfahren...,بیشتر یادبگیر...,تعرّف على المزيد...
 Loading...,Cargando...,Wird geladen...,در حال بارگذاری...,جاري التحميل...
 Logo Path,Ruta del logotipo,Logopfad,مسیر لوگو,الشعار
 Look Further,Mirar más allá,Mehr sehen,بیشتر ببین,انطلق إلى أبعد من ذلك
 Look Further...,Mirar más allá...,Mehr sehen...,بیشتر ببین...,انطلق إلى أبعد من ذلك...
+Lose Impact,El impacto de la desaparición,Die Auswirkungen fehlender,تاثیر مفقودی,تأثير المفقودين
 Main Menus,Menú original,Hauptmenüs,منوهای اصلی,القوائم الرئيسية
+Merge Drafts,Consolidación de documentos,Dokumentenkonsolidierung,تجمیع سند ها,توحيد المستندات
 Message Us,Mensaje para nosotros,Nachricht an uns,پیام به ما,راسلنا
+Messages Management,Gestión de mensajes,Nachrichtenverwaltung,مدیریت پیام ها,إدارة الرسائل
+Meta Data,Metadatos,Metadaten,فراداده,البيانات الوصفية
 Middle Name,Segundo nombre,Zweiter Vorname,نام میانی,الاسم الأوسط
+MiMFa aseqbase,Base de datos MiMFa,MiMFa aseqbase,میم فا اسِک بِیس,ميمفا إسك بيس
 New request,Nueva solicitud,Neue Anfrage,درخواست جدید,طلبًا جديدًا
+New User...,Nuevo usuario...,Neuer Benutzer...,کاربر جدید...,مستخدم جديد...
 Next step,Siguiente paso,Nächster Schritt,گام بعد,الخطوة التالية
-Previous step,Paso anterior,Vorheriger Schritt,گام قبل,الخطوة السابقة
 No items available,No hay ningún recurso disponible,Keine Einträge verfügbar,هیچ موردی موجود نیست,لم يتم العثور على أي عناصر
+Numbers (<0>),Número (<0>),Nummer (<0>),تعداد (<0>),الرقم (<0>)
+Numbers (n),Número (n),Zahl (n),تعداد (n),العدد (ن)
+On Location,En el lugar,Vor Ort,در محل,في الموقع
 Our Mission,Nuestra misión,Unsere Mission,ماموریت ما,مهمتنا
 Our Services,Servicios,Unsere Leistungen,خدمات ما,خدماتنا
+Output Drafts,Documentos de salida,Ausgabedokumente,سند های خروجی,مستندات الإخراج
+Output Statements,Circulación de productos,Verbreitung der Ergebnisse,گردش خروجی ها,تداول المخرجات
 Owner Description,Las explicaciones de Malik,Beschreibung des Inhabers,توضیحات مالک,وصف المالك
+Partial Drafts,Documentos inacabados,Unfertige Dokumente,سند های نیمه کاره,وثائق غير مكتملة
+Partial Statements,Circulación de productos semiacabados,Zirkulation von Halbzeugen,گردش نیمه کاره ها,تداول المنتجات شبه المصنعة
 Password Confirmation,Confirmar Contraseña,Passwort bestätigen,تایید رمز عبور,تأكيد كلمة المرور
+Pause <0><1>,Detener <0><1>,Stopp <0><1>,توقف <0><1>,توقف <0><1>
+Pause processing...,Deteniendo el procesamiento temporalmente...,Die Verarbeitung wird vorübergehend gestoppt...,توقف موقتی پردازش...,إيقاف المعالجة مؤقتًا...
+Pay by wallet,Por billetera,Per Brieftasche,پرداخت از کیف پول,بالمحفظة
+Payment Content,Contenido del pago,Zahlungsinhalt,محتوای پرداخت,محتوى الدفع
+Payment Path,Método de pago,Zahlungsmethode,مسیر پرداخت,طريقة الدفع
+Personnel Report,Informes individuales,Einzelberichte,گزارش اشخاص,التقارير الفردية
+Phone Number,Número de teléfono,Telefonnummer,شماره تلفن,رقم التليفون
+Poled Drafts,Remesas fundamentales,Wichtige Überweisungen,حواله های محوری,التحويلات المالية المحورية
+Posts Management,Administrar publicaciones,Beiträge verwalten,مدیریت پست ها,إدارة المشاركات
+Powered By, Desarrollado por, Entwickelt von,توسعه داده شده توسط , تم تطويره بواسطة
 Powered By:,Desarrollado por:,Angetrieben von:,قدرت گرفته از:,مدعوم بواسطة:
-On Location,En el lugar,Vor Ort,در محل,في الموقع
+Powered By:, Desarrollado por, Entwickelt von,توسعه داده شده توسط , تم تطويره بواسطة
+Previous step,Paso anterior,Vorheriger Schritt,گام قبل,الخطوة السابقة
 Process Symbol Path,Ruta del icono del proceso,Prozesssymbolpfad,مسیر نماد فرآیند,رمز عملية المسار
+Products Management,Gestión de productos,Produktmanagement,مدیریت محصولات,إدارة المنتجات
+PRODUCTS REPORT,Informe de producto,Produktbericht,گزارش محصولات,تقرير المنتج
 Quick Access,Acceso rápido,Schnellzugriff,دسترسی سریع,الوصول السريع
 Quick Links,Enlaces rápidos,Schnellzugriffe,لینک های سریع,روابط سريعة
-Update Time,Hora de actualización,Letztes Update,زمان به روزرسانی,وقت التحديث
-UpdateTime,Editado en,Bearbeitet in,ویرایش شده در,تم التحرير في
 Read More,Leer más,Mehr lesen,بیشتر بخوان,اقرأ المزيد
 Read More...,Leer más...,Mehr lesen...,بیشتر بخوانید...,اقرأ المزيد...
-Messages Management,Gestión de mensajes,Nachrichtenverwaltung,مدیریت پیام ها,إدارة الرسائل
-Related Requests,Solicitudes relacionadas,Verwandte Anfragen,درخواست‌های مرتبط,الطلبات ذات الصلة
+Receive Impact,El impacto de recibir,Die Auswirkungen des Empfangs,تاثیر دریافت,تأثير الاستلام
 Receiver Email,Correo electrónico del destinatario,Empfänger-E-Mail,ایمیل گیرنده,بريد المستلم
 Recover account for,Recuperar cuenta,Konto wiederherstellen,حساب کاربری خود را بازیابی کن,تم إعادة تشغيل حسابك
+Recycle <0><1>,Reciclaje <0><1>,Recycling <0><1>,بازیافت <0><1>,إعادة التدوير <0><1>
+Recycle Impact,El impacto del reciclaje,Die Auswirkungen des Recyclings,تاثیر بازیافت,تأثير إعادة التدوير
+Refund Commission,Comisión de reembolso,Rückerstattungskommission,عودت کمیسیون,لجنة استرداد الأموال
+Refund Payment,Pago de reembolso,Rückerstattungszahlung,عودت وجه,استرداد المبلغ
+Refund Referral,Referencia de reembolso,Rückerstattungsempfehlung,عودت ارجاع,إحالة استرداد الأموال
 Registered,Registrado,Registriert,ثبت شده,مسجل
+Registered Drafts,Documentos de registro,Anmeldeunterlagen,اسناد ثبتی,وثائق التسجيل
+Related Requests,Solicitudes relacionadas,Verwandte Anfragen,درخواست‌های مرتبط,الطلبات ذات الصلة
 Reset Password,Restablecer contraseña,Passwort zurücksetzen,بازنشانی رمز عبور,إعادة تعيين كلمة المرور
+Responsible Person,Persona responsable,Verantwortlicher,شخص مسئول,الشخص المسؤول
+Responsible Unit,Unidad responsable,Verantwortliche Stelle,واحد مسئول,الوحدة المسؤولة
+Resume <0><1>,Continuar <0><1>,Weiter <0><1>,ادامه <0><1>,متابعة <0><1>
+Return <0><1>,Atrás <0><1>,Zurück <0><1>,برگشت <0><1>,العودة <0><1>
 Search again,Busca de nuevo,Busca de nuevo,جستجو مجدد,ابحث مرة أخرى
+Search Engine,Motor de búsqueda,Suchmaschine,موتور جستجو,محرك البحث
+Search Results,Resultados de la búsqueda,Suchergebnisse,نتایج جستجو,نتائج البحث
+Search: , Buscar:, Suchen:,جستجو: , يبحث:
 See More...,Ver más...,Mehr sehen...,بیشتر ببین...,شاهد المزيد...
+See More...,Ver más...,Mehr sehen...,بیشتر ببینید...,شاهد المزيد...
 Select on Map,Seleccionar en el mapa,Auf der Karte auswählen,انتخاب روی نقشه,حدد على الخريطة
+Send Again,Enviar de nuevo,Erneut senden,ارسال مجدد,أرسل مرة أخرى
+Send Impact,Impacto de la publicación,Auswirkungen der Veröffentlichung,تاثیر ارسال,تأثير النشر
 Sender Email,Correo electrónico Farestandeh,Absender-E-Mail,ایمیل فرستنده,بريد المرسل
 Sharp End,Afilado,Scharf,تیزه,حاد
 Sharp Eyed,Ojo agudo,Scharfäugig,تیز چشم,حاد البصر
@@ -195,6 +302,7 @@ Side Arm,Pistola,Pistole,اسلحه کمری,مسدس
 Side Effect,Efecto secundario,Nebenwirkung,نتیجه جانبی,أثر جانبي
 Side Glance,Descripción general,Überblick,نظر اجمالی,ملخص
 Side Menus,Menús canarios,Seitenmenüs,منوهای کناری,القوائم الجانبية
+Side Menus,Menús laterales,Seitenmenüs,منوهای جانبی,القوائم الجانبية
 Side Step,Swigam,Swigam,سویگام,سويجام
 Side With,Para favorecer,Zu begünstigen,طرفداری کردن,لتفضيل
 Sideways Sum,Suma lateral,Seitensumme,مجموع جانبی,المجموع الجانبي
@@ -202,11 +310,14 @@ Sight Check,Confrontación teórica,Theoretische Konfrontation,مقابله نظ
 Sight Draft,Comprobación visual,Sichtprüfung,برات دیداری,فحص بصري
 Sight Seeing,Deder,Deder,ددر,ديدر
 Sign Dashboard,Rosas en el tablero,Dashboard anmelden,ورود به داشبورد,تسجيل الدخول إلى لوحة التحكم
+Sign In,Acceso,Login,ورود,تسجيل الدخول
 Sign Language,Lenguaje por señas,Gebärdensprache,زبان اشاره,لغة الإشارة
 Sign Of Defeat In Corpus,Apareciendo,Erscheinen,نمایان گردیدن,الظهور
 Sign Of Gratitude,Gracias.,Danke schön.,شکرانه,شكرًا لك.
 Sign Of Guilt,El efecto del pecado,Die Wirkung der Sünde,اثر گناه,تأثير الخطيئة
 Sign Of Multiplication,Cruz,Kreuzen,ضربدر,يعبر
+Sign Out,Finalizar la sesión,Ausloggen,خروج از سیستم,تسجيل الخروج
+Sign Up,Registro,Registrieren,ثبت نام,يسجل
 Silk Industry,Industria de la seda,Seidenindustrie,صنعت ابریشم,صناعة الحرير
 Silk Like,tejedores de seda,Seidenweber,حریرباف,نساج الحرير
 Silk Weaver,tejedores de seda,Seidenweber,حریرباف,نساج الحرير
@@ -345,6 +456,7 @@ Social Democracy,Libertad social,Soziale Freiheit,آزادی اجتماعی,ال
 Social Democrat,Socialdemócrata,Sozialdemokratisch,سوسیال دموکراتیک,الحزب الديمقراطي الاجتماعي
 Social Disease,Enfermedades de transmisión sexual,Sexuell übertragbare Krankheiten,بیماریهای مقاربتی,الأمراض المنقولة جنسيا
 Social Gathering,La casa de Anas,Das Haus von Anas,مجلس انس,بيت أنس
+Social Media,Redes sociales,Soziale Medien,رسانه های اجتماعی,وسائل التواصل الاجتماعي
 Social Problems,Problemas sociales,Soziale Probleme,مسائل اجتمائی,القضايا الاجتماعية
 Social Science,Sociología,Soziologie,علمالاجتماع,علم الاجتماع
 Social Security,Seguro social,Sozialversicherung,بیمه اجتماعی,التأمين الاجتماعي
@@ -394,6 +506,8 @@ Sour Cherry,Manzana,Apfel,آلوبالو,تفاحة
 Sour Grapes,Mejor,Am besten,غوره,أفضل
 Sour Orange,Naranja,Orange,نارنج,البرتقالي
 Sour Temper,Irritabilidad,Reizbarkeit,کج خلقی,التهيج
+Source Person,Autor,Urheber,شخص مبدا,المنشئ
+Source Unit,Unidad de origen,Herkunftseinheit,واحد مبدا,وحدة المنشأ
 South Africa,Sudáfrica,Südafrika,آفریقای جنوبی,جنوب أفريقيا
 South East Asia,Sudeste Asiático,Südostasien,آسیای جنوب شرقی,جنوب شرق آسيا
 South Hampton,Southampton,Southampton,ساوت همپتون,ساوثهامبتون
@@ -558,6 +672,7 @@ Stiff Necked,Matón,Schikanieren,گردن کلفت,متنمر
 Stirrup Bone,Hueso de estribo,Steigbügelknochen,استخوان رکابی,عظم الركاب
 Stirrup Holder,Estribo,Bügel,رکاب دار,ركاب
 Stock Certificate,Certificado de acciones,Aktienzertifikat,گواهی سهم,شهادة الأسهم
+Stock Drafts,Remesas disponibles,Verfügbare Überweisungen,حواله های موجود,التحويلات المالية المتاحة
 Stock Exchange,Mercado de valores,Börse,بورس,البورصة
 Stock In Trade,Propiedad comercial,Gewerbeimmobilie,مال التجاره,العقارات التجارية
 Stomach Cramp,Dolor abdominal,Bauchschmerzen,درد شکم,ألم في البطن
@@ -614,11 +729,14 @@ Study Room,Sala de estudio,Arbeitszimmer,اطاق مطالعه,غرفة الدر
 Stumbling Block,Resbaladizo,Rutschig,موجب لغزش,زلق
 Subject To,Sujeto,Thema,مشمول,موضوع
 Submachine Gun,Ametralladora,Maschinengewehr,مسلسل دستی,مدفع رشاش
+Submit <0>,Registrarse <0>,Registrieren <0>,ثبت <0>,سجل <0>
 Submit a new request,Enviar una nueva solicitud,Neue Anfrage senden,ثبت درخواست جدید,أرسل طلبًا جديدًا
 Submit a request,Enviar una solicitud,Anfrage senden,ثبت درخواست,أرسل طلبًا
 Subscription Rights,Fondos compartidos,Gemeinsame Mittel,وجهاشتراک,الصناديق المشتركة
 Subterranean Canal,Kariz,Kariz,کاریز,كاريز
 Subtle Difference,Pequeño desacuerdo,Kleinere Meinungsverschiedenheit,اختلاف مختصر,خلاف بسيط
+Subtract Impact,Impacto del déficit,Auswirkungen des Defizits,تاثیر کسری,تأثير العجز
+Subtracted Statements,Circulación de déficits,Zirkulation von Defiziten,گردش کسری ها,تداول العجز
 Sub-Zero Temprature,Bajo cero,Unter Null,زیر صفر,تحت الصفر
 Such A,Mucho,So viel,آنچنان,الكثير جدا
 Such As,Como,Wie zum Beispiel,از قبیل,مثل
@@ -699,6 +817,8 @@ Synthetic Fibers,fibras sintéticas,Synthetische Fasern,الیاف مصنوعی,
 Synthetic Rubber,Junta de goma,Gummigelenk,لاستیک همگذاشت,مفصل مطاطي
 Syrian Mallow,Malvarrosa arbórea,Stockrose,خطمی درختی,شجرة الخطمي
 System Check,Confrontación del sistema,Systemkonfrontation,مقابله سیستم,مواجهة النظام
+System Management,Gestión del sistema,Systemverwaltung,مدیریت سیستم,إدارة النظام
+System Report,Informe del sistema,Systembericht,گزارش سیستم,تقرير النظام
 System Resource,Dispositivo del sistema,Systemgerät,وسیله سیستم,جهاز النظام
 System Standard,Estándar del sistema,Systemstandard,استاندارد سیستم,معيار النظام
 Table Of Contents,Tabla de contenido,Inhaltsverzeichnis,فهرست مندرجات,جدول المحتويات
@@ -708,6 +828,7 @@ Tabula Rasa,Pizarra blanca,Whiteboard,سپید لوح,السبورة البيض�
 Tacit Consent,Consentimiento implícito,Stillschweigende Zustimmung,رضایت ضمنی,الموافقة الضمنية
 Tag Line,Punto sensible,Empfindlicher Punkt,نقطه حساس,نقطة حساسة
 Tags Management,Gestión de etiquetas,Tags-Verwaltung,مدیریت برچسب ها,إدارة الوسوم
+Tags Management,Gestión de etiquetas,Tag-Verwaltung,مدیریت برچسپ ها,إدارة العلامات
 Tailless Sheep,Zil,Zil,زیل,زيل
 Take A Bath,Tomando un baño,Ein Bad nehmen,حمام گرفتن,الاستحمام
 Take A Chance,Estar desconsolado,Mit gebrochenem Herzen,دل بدریا زدن,أن تكون محطم القلب
@@ -777,6 +898,8 @@ Tape Drive,barra giratoria,Drehstange,نوار چرخان,شريط دوار
 Tape Measure,Cinta métrica,Bandmaß,نوار متر,شريط قياس
 Tape Recorder,Grabación de audio,Audioaufnahme,ضبط صوت,تسجيل صوتي
 Taper Off,Estrechamiento,Verengung,باریک شونده,تضييق
+Target Person,La persona de quien hablamos,Die betreffende Person,شخص موردنظر,الشخص المعني
+Target Unit,Unidad deseada,Gewünschte Einheit,واحد موردنظر,الوحدة المطلوبة
 Tariq Aziz,Querido Tariq,Lieber Tariq,طارق عزیز,عزيزي طارق
 Tartar Emetic,El Gran Trinchamiento,Die große Verschanzung,انتجمون مقی,التحصن العظيم
 Tartaric Acid,ácido tartárico,Weinsäure,اسید تارتاریک,حمض الطرطريك
@@ -809,6 +932,7 @@ Technical School,Galería de arte,Kunstgalerie,هنرسرا,معرض فني
 Teddy Bear,Oso de peluche,Teddybär,خرس عروسکی,دمية دب
 Tee Shirt,Camiseta,Unterhemd,زیر پیراهنی,قميص داخلي
 Tel Aviv,Tel Aviv,Tel Aviv,تل آویو,تل أبيب
+Telegram,Telegrama,Telegram,تلگرام,تليجرام
 Telegraph Office,Casa del telégrafo,Telegraphenhaus,تلگراف خانه,بيت التلغراف
 Telegraph Operator,¿Qué es el telégrafo?,Was ist der Telegraph?,تلگراف چی,ما هو التلغراف؟
 Telephone Booth,Cabina telefónica,Telefonzelle,کابین تلفن,كابينة الهاتف
@@ -945,12 +1069,17 @@ Tied With A Rope,Giro de cuerda,Seildrehung,طناب پیچ,لف الحبل
 Tiger Cat,Tigres,Tiger,ببرسان,النمور
 Tiger Cub,Tigre bebé,Tigerbaby,بچه ببر,نمر صغير
 Tigris River,Tigris,Tigris,دجله,نهر دجلة
+Time (<0>),Tiempo (<0>),Zeit (<0>),زمان (<0>),الوقت (<0>)
+Time (m),Tiempo (minutos),Zeit (Minuten),زمان (دقیقه),الوقت (بالدقائق)
 Time And Place,Tiempo y lugar,Zeit und Ort,زمان و مکان,الزمان والمكان
 Time Bill,Ha pasado mucho tiempo para ti.,Für dich ist das eine lange Zeit.,برات مدت دار,لقد مر وقت طويل بالنسبة لك.
 Time Bomb,bomba de tiempo,Zeitbombe,بمب ساعتی,قنبلة موقوتة
 Time Killer,Asesino del tiempo,Zeitkiller,وقت کش,قاتل الوقت
 Time Saver,"A veces, a veces.","Manchmal, manchmal.",گاه اندوز,"أحيانًا، أحيانًا."
+Time Sequences,Secuencia - Tiempo,Sequenz - Zeit,توالی - زمان,التسلسل - الوقت
+Time Threshold,Umbral de tiempo,Zeitschwelle,آستانه زمانی,عتبة الوقت
 Time To Speak,Es tu turno de hablar.,Jetzt sind Sie an der Reihe zu sprechen.,نوبت حرف زدن,الآن دورك للتحدث.
+Time Unit,Unidad de tiempo,Zeiteinheit,واحد زمان,وحدة الزمن
 Times More,Igual,Gleich,برابر,متساوي
 Timothy Sekliz,Timothy Sickles,Timothy Sickles,تیموتی سیکلز,تيموثي سيكلز
 Tin Can,Lata de hojalata,Blechdose,قوطی حلبی,علبة صفيح
@@ -982,6 +1111,7 @@ To Some Extent,Hasta cierto punto,Bis zu einem gewissen Grad,تاحدودی,إل
 To Summon,Convocar,Beschwörung,احضارکردن,استدعاء
 To The Highest End,Gracias por el título.,Vielen Dank für den Abschluss.,بمنتها درجه,شكرا على الدرجة العلمية.
 To The Position Of,Hacia,In Richtung,به سمت,تجاه
+To Time,Hasta la fecha,Miteinander ausgehen,تا تاریخ,حتى الآن
 To Use As An Exuse,Poniendo excusas,Ausreden erfinden,بهانهکردن,اختلاق الأعذار
 To Wit,En otras palabras,Mit anderen Worten,بعبارت دیگر,بعبارة أخرى
 Toasted Seed,Nueces quemadas,Gebrannte Nüsse,آجیل سوخته,المكسرات المحروقة
@@ -1000,6 +1130,12 @@ Tony Hall,Tony Hall,Tony Hall,تونی هال,توني هول
 Too Good To Be True,Sopa deliciosa,Köstliche Suppe,آش دهن سوز,حساء شهي
 Too Many,Mucho,Eine Menge,زیاد,كثيراً
 Too Much,Mucho,Eine Menge,زیاد,كثيراً
+Tools Count,Herramientas - Cantidad,Werkzeuge - Menge,ابزار - تعداد,الأدوات - الكمية
+Tools Management,Gestión de herramientas,Werkzeugverwaltung,مدیریت ابزارها,إدارة الأدوات
+Tools Report,Informe de herramientas,Werkzeugbericht,گزارش ابزار,تقرير الأداة
+Tools Status,Estado de la herramienta,Werkzeugstatus,وضعیت ابزارها,حالة الأداة
+Tools Time,Herramienta - Tiempo,Werkzeug - Zeit,ابزار - زمان,الأداة - الوقت
+Tools Weight,Herramientas - Peso,Werkzeuge - Gewicht,ابزار - وزن,الأدوات - الوزن
 Tooth Enamel,Esmalte dental,Zahnschmelz,مینای دندان,مينا الأسنان
 Top Billing,Jefe del anuncio,Leiter der Ankündigung,صدر اعلان,رئيس قسم الإعلان
 Top Boot,bocina de coche,Autohupe,کروک اتومبیل,بوق السيارة
@@ -1013,16 +1149,9 @@ Torment To Death, Atormentador, Peiniger,"زجر کش	", المعذب
 Torn Rope,Rebaño,Herde,رمه,قطيع
 Torn Up,Desgarrado en pedazos,In Stücke gerissen,تکه پاره شده,ممزق إلى قطع
 Tornado Like,Tornado,Tornado,گردبادی,إعصار
-By wallet,Por billetera,Per Brieftasche,با کیف‌پول,بالمحفظة
-Pay by wallet,Por billetera,Per Brieftasche,پرداخت از کیف پول,بالمحفظة
-Refund Payment,Pago de reembolso,Rückerstattungszahlung,عودت وجه,استرداد المبلغ
-Refund Commission,Comisión de reembolso,Rückerstattungskommission,عودت کمیسیون,لجنة استرداد الأموال
-Refund Referral,Referencia de reembolso,Rückerstattungsempfehlung,عودت ارجاع,إحالة استرداد الأموال
-Total Earnings,Ganancias totales,Gesamteinnahmen,درآمد کل,إجمالي الأرباح
-Account Balance,Saldo de la cuenta,Kontostand,موجودی حساب,رصيد الحساب
 Torpedo Boat,Lanzador de torpedos,Torpedowerfer,اژدر انداز,قاذفة طوربيد
+Total Earnings,Ganancias totales,Gesamteinnahmen,درآمد کل,إجمالي الأرباح
 Touch Up,Manipulación,Manipulation,دستکاری,تلاعب
-Send Again,Enviar de nuevo,Erneut senden,ارسال مجدد,أرسل مرة أخرى
 Tow Truck,Grúa,Kran,جرثقیل,رافعة
 Tower Of Pizza,Torre inclinada de Pisa,Schiefer Turm von Pisa,برج کج پیزا,برج بيزا المائل
 Towing Ship,Remolcador,Schlepper,کشتی یدک کش,قاطرة
@@ -1030,9 +1159,10 @@ Town Council,Asociación Baladi,Baladi-Vereinigung,انجمن بلدی,جمعي�
 Town Crier,¿Qué es el tarro?,Was ist das Glas?,جار چی,ما هي الجرة؟
 Town House,Casa del mendigo,Bettlerhaus,گدا خانه,بيت المتسول
 Town Meeting,Ayuntamiento,Stadtrat,شورای شهری,مجلس المدينة
+Trace Managers,Seguimiento del gerente,Manager-Tracking,ردیابی مدیران,تتبع المدير
+Track your request,Seguimiento de su solicitud,Anfrage verfolgen,پیگیری درخواست‌های سابق,تتبع طلبك
 Tracking Code,Código Seguimiento,Sendungsverfolgungcode,کدپیگیری,رمز التتبع
 Traction Service,Jariya,Jariya,جریه,جارية
-Track your request,Seguimiento de su solicitud,Anfrage verfolgen,پیگیری درخواست‌های سابق,تتبع طلبك
 Trade Center,Centro comercial,Einkaufszentrum,مرکزبازرگانی,مركز تسوق
 Trade Union,Sindicato,Gewerkschaft,اتحادیه صنفی,نقابة عمالية
 Traditional Gymnasium,Zurkhaneh,Zurkhaneh,زورخانه,الزورخانة
@@ -1045,6 +1175,7 @@ Trained Horse,Caballo erudito,Gelerntes Pferd,اسب آموخته,حصان مت�
 Training Center,Preparación,Vorbereitung,آمادگاه,تحضير
 Training School,Trabajo escolar,Schularbeiten,کار آموزگاه,العمل المدرسي
 Tranlation Office,Agencia de traducción,Übersetzungsagentur,دارالترجمه,وكالة الترجمة
+Transfer <0><1>,Transferencia <0><1>,Überweisung <0><1>,انتقال <0><1>,نقل <0><1>
 Transfer Time,Periodo de transferencia,Übertragungszeitraum,مدت انتقال,فترة الانتقالات
 Transit Time,Tiempo de tránsito,Transitzeit,مدت عبور,وقت العبور
 Transition Diagram,Gráfico de transiciones,Übergangsdiagramm,نمودار گذارها,مخطط الانتقالات
@@ -1170,6 +1301,7 @@ Unemployment Crisis,Crisis del desempleo,Arbeitslosigkeitskrise,بحران بی�
 Unheard Of,Inaudible,Unverständlich,نامسموع,غير مسموع
 Union Shop,Hazte miembro,Mitglied werden,عضو شوند,كن عضوا
 Unique Child,Doloroso,Schmerzhaft,دردانه,مؤلم
+Unit Effect,Eficaz con los colegas,Effektiv im Umgang mit Kollegen,موثر در همکاران,فعال مع الزملاء
 Unit Of Prayer,Rak'ah,Rakʿah,رکعت,ركعة
 Unite Retention,Retención urinaria,Harnverhalt,حبس البول,احتباس البول
 United Arab Emirates,Emiratos Árabes Unidos,Vereinigte Arabische Emirate,امارات عربی متحده,الإمارات العربية المتحدة
@@ -1179,6 +1311,12 @@ United Press,Prensa unida,Vereinigte Presse,یونایتد پرس,يونايتد
 United States,Estados Unidos,Vereinigte Staaten,ایالات متحده,الولايات المتحدة
 United States Congress,Congreso de los Estados Unidos,US-Kongress,کنگره آمریکا,الكونجرس الأمريكي
 United States Congressman,Congresista estadounidense,US-Kongressabgeordneter,نماینده کنگره آمریکا,عضو الكونجرس الأمريكي
+Units Management,Gestión de unidades,Einheitenverwaltung,مدیریت واحدها,إدارة الوحدة
+Units Personnel,Unidad - Individuos,Einheit - Einzelpersonen,واحد - اشخاص,الوحدة - الأفراد
+Units Rate,Unidad - Rango,Einheit - Rang,واحد - رتبه,الوحدة - الرتبة
+Units Report,Informes de unidad,Einheitenberichte,گزارش واحدها,تقارير الوحدة
+Units Score,Unidad - Puntuación,Einheit - Punktzahl,واحد - نمره,الوحدة - النتيجة
+Units Users,Persona - Unidad,Person - Einheit,شخص - واحد,الشخص - الوحدة
 Unity Party,Partido de la Unidad,Einheitspartei,حزب وحدت,حزب الوحدة
 Universal Joint,Articulación giratoria,Drehgelenk,مفصل چرخنده,مفصل دوار
 Universal Set,Colección global,Globale Sammlung,مجموعه جهانی,المجموعة العالمية
@@ -1204,6 +1342,9 @@ Up And Down,Vaivenes,Höhen und Tiefen,فراز ونشیب,الصعود واله
 Up To,Hasta cierto punto,Bis zu einem gewissen Grad,تاحدود,إلى حد ما
 Up To Date,Azur,Azurblau,آژور,أزور
 Up Tp,Hasta cierto punto,Bis zu einem gewissen Grad,تاحدود,إلى حد ما
+Update <0><1>,Cambiar <0><1>,Ändern <0><1>,تغییر <0><1>,تغيير <0><1>
+Update Time,Hora de actualización,Letztes Update,زمان به روزرسانی,وقت التحديث
+UpdateTime,Editado en,Bearbeitet in,ویرایش شده در,تم التحرير في
 UpdateTime,Hora de actualización,Aktualisierungszeit,زمان به روزرسانی,وقت التحديث
 Upon Collection,A llegado,Bei der Ankunft,عندالوصول,عند الوصول
 Upper Body,Parte superior del cuerpo,Oberkörper,بالاتنه,الجزء العلوي من الجسم
@@ -1226,9 +1367,18 @@ Use Mascara,De fumar,Rauchen,وسمه کشیدن,تدخين
 Use Of Influence,Influencia,Beeinflussen,اعمال نفوز,تأثير
 Use Trickery,Para jugar trucos,Streiche spielen,حیله بازی کردن,للعب الحيل
 Use Up In Advance, Aperitivo, Appetizer,"پیشخور	", المقبلات
+Used Count,Número utilizado,Verwendete Nummer,تعداد استفاده شده,الرقم المستخدم
 Used For Smoking,Tabaco,Tabak,دخانی,التبغ
+Used Time,Tiempo utilizado,Nutzungsdauer,زمان استفاده شده,الوقت المستخدم
+Used Tools,Herramientas utilizadas,Verwendete Werkzeuge,ابزارهای مورداستفاده,الأدوات المستخدمة
 Used Up In Advance,Aperitivo,Appetizer,پیشخور,المقبلات
+Used Vocations,Misiones utilizadas,Verwendete Missionen,ماموریت های مورداستفاده,البعثات المستخدمة
+Used Weight,Peso utilizado,Verwendetes Gewicht,وزن استفاده شده,الوزن المستخدم
+User Name,Nombre de usuario,Benutzername,نام کاربری,اسم المستخدم
 Users Management,Gestión de usuarios,Benutzerverwaltung,مدیریت کاربران,إدارة المستخدمين
+Users Management,Gestión de personas,Personalmanagement,مدیریت اشخاص,إدارة الأفراد
+Users Rate,Persona - Rango,Person - Rang,شخص - رتبه,الشخص - الرتبة
+Users Score,Persona - Puntuación,Person - Punktzahl,شخص - نمره,الشخص - النتيجة
 Using Force,Uso de la fuerza,Gewaltanwendung,اعمال زور,استخدام القوة
 Utter Truism, Explicación de lo obvio, Erklärung des Offensichtlichen,"توضیح واضحات	", شرح الواضح
 Vacant Position,Sin supervisor,Ohne Betreuer,بی متصدی,بدون مشرف
@@ -1236,6 +1386,7 @@ Vaginal Coat,Cortina de vaina,Etuivorhang,پرده غلافی,ستارة غمد
 Vain Hope,Esperanza cruda,Rohe Hoffnung,امید خام,الأمل الخام
 Valid Document,Documento válido,Gültiges Dokument,سند معتبر,وثيقة صالحة
 Validity Check,Verificación de crédito,Bonitätsprüfung,بررسی اعتبار,التحقق من الائتمان
+Value Options,Opciones de traducción,Übersetzungsoptionen,گزینه های ترجمه,خيارات الترجمة
 Valve Grinding,Sellado de válvulas,Ventildichtung,آب بندی سوپاب,ختم الصمام
 Vehicle Manufacturing,Automotor,Automobilindustrie,خودرو سازی,السيارات
 Veiled Woman,Mujer con velo,Frau mit Schleier,زن چادری,امرأة في حجاب
@@ -1275,6 +1426,7 @@ Victory Sign,Señal de victoria,Zeichen des Sieges,نشانه پیروزی,عل�
 Victory Song,Orgullo,Stolz,رجز,فخر
 View As A Model,Establecer una intención,Eine Absicht festlegen,نصبالعین قرار دادن,لتحديد النية
 View Lexicon,,Lexikon Sicht,نمایش واژه نامه,انظر القاموس
+View Lexicon,Mostrar diccionario,Wörterbuch anzeigen,نمایش لغتنامه,عرض القاموس
 View Point,Punto de vista,Standpunkt,نقطه نظر,وجهة نظر
 Vincent Mckenzie,Vincent Mackenzie,Vincent Mackenzie,وینسنت مکنزی,فينسنت ماكنزي
 Violate A Contract,Rompiendo el pacto,Den Pakt brechen,پیمان شکستن,كسر العهد
@@ -1298,6 +1450,12 @@ Vladimir Lenin,Vladímir Lenin,Wladimir Lenin,ولادیمیر لنین,فلاد
 Vladimir Putin,Vladímir Putin,Wladimir Putin,ولادیمیر پوتین,فلاديمير بوتن
 Vocatinal School,Escuela vocacional,Berufsschule,مدرسه حرفه ای,مدرسة مهنية
 Vocational School,Escuela vocacional,Berufsschule,مدرسه حرفه ای,مدرسة مهنية
+Vocations Count,Misiones - Número,Missionen - Anzahl,ماموریت ها - تعداد,البعثات - العدد
+Vocations Management,Gestión de misiones,Missionsmanagement,مدیریت ماموریتها,إدارة المهمة
+Vocations Report,Informes de misión,Einsatzberichte,گزارش ماموریت ها,تقارير المهمة
+Vocations Status,Estado de la misión,Missionsstatus,وضعیت ماموریت ها,حالة المهمة
+Vocations Time,Misión - Tiempo,Mission - Zeit,ماموریت - زمان,المهمة - الوقت
+Vocations Weight,Misión - Peso,Mission - Gewicht,ماموریت - وزن,المهمة - الوزن
 Void Result,Resultado no válido,Ungültiges Ergebnis,نتیجه بی اعتبار,نتيجة غير صالحة
 Volcanic Activity,erupción volcánica,Vulkanausbruch,آتش فشانی,ثوران بركاني
 Voltage Regulator,Aftamat,Aphthamat,آفتامات,أفثامات
@@ -1396,6 +1554,12 @@ Weekly Magazine,Revista semanal,Wochenmagazin,مجله هفتگی,مجلة اس�
 Weeping Willow,Sauce loco,Verrückte Weide,بید مجنون,ماد ويلو
 Weght Lifter,levantador de pesas,Gewichtheber,وزنه بردار,رافع الأثقال
 Weght Lifting,Levantamiento de pesas,Gewichtheben,وزنه برداری,رفع الأثقال
+Weight (<0>),Peso (<0>),Gewicht (<0>),وزن (<0>),الوزن (<0>)
+Weight (g),Peso (gramos),Gewicht (Gramm),وزن (گرم),الوزن (جرام)
+Weight Precision,Precisión de pesaje,Wiegegenauigkeit,دقت وزن,دقة الوزن
+Weight Sequences,Secuencia - Peso,Sequenz - Gewicht,توالی - وزن,التسلسل - الوزن
+Weight Threshold,Umbral de peso,Gewichtsschwelle,آستانه وزن,حد الوزن
+Weight Unit,Unidad de peso,Gewichtseinheit,واحد وزن,وحدة الوزن
 Weld With Oxygen,Soldadura con oxígeno,Sauerstoffschweißen,جوش اکسیژن زدن,لحام الأكسجين
 Welding Fluxes,Polvo de soldadura,Schweißpulver,پودر جوشکاری,مسحوق اللحام
 Welfare Work,Caridad,Wohltätigkeit,امور خیریه,صدقة

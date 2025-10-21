@@ -1,314 +1,105 @@
 ﻿en,es,de,fa,ar
-(filtered from _MAX_ total entries),(Seleccionado entre _MAX_ elementos),(Ausgewählt aus _MAX_ Elementen),(انتخاب شده از میان کل _MAX_ مورد),(مختارة من _MAX_ عناصر)
-: activate to sort column ascending,:Habilitado para ordenar elementos en orden ascendente.,": Aktiviert, um Elemente in aufsteigender Reihenfolge zu sortieren.",: فعال برای مرتب  کردن موارد بصورت صعودی,:تم تمكين فرز العناصر بترتيب تصاعدي.
-: activate to sort column descending,:Habilitado para ordenar elementos en orden descendente.,": Aktiviert, um Elemente in absteigender Reihenfolge zu sortieren.",: فعال برای مرتب  کردن موارد بصورت نزولی,:تم تمكين فرز العناصر بالترتيب التنازلي.
-<0>,<0>,<0>,<0>,<0>
-<0> greater than limitation,<0> Más de lo permitido,<0> Mehr als zulässig,<0> بیشتر از حدمجاز,<0> أكثر من المسموح به
-<0> lesser than limitation,<0> Menos del límite permitido,<0> Weniger als das zulässige Limit,<0> کمتر از حدمجاز,<0> أقل من الحد المسموح به
-<0><1> Add a new Draft,<0><1> Agregar un nuevo documento,<0><1> Neues Dokument hinzufügen,<0><1> افزودن یک سند جدید,<0><1> إضافة مستند جديد
-"A goldsmith management system, is special for an aseqbase website...","Sistema de gestión de talleres de orfebrería, basado en el marco de trabajo del sitio web asqbase...","Managementsystem für Goldschmiedewerkstätten, basierend auf dem asqbase-Website-Framework …","سیستم مدیریت کارگاه های طلاسازی، مبتنی بر بستر چارچوب وب سایت asqbase ...","نظام إدارة ورشة صياغة الذهب، يعتمد على إطار عمل موقع asqbase..."
-A phone number with your national code,Número de teléfono móvil con prefijo,Handynummer mit Vorwahl,شماره تلفن همراه با پیش شماره,رقم الهاتف المحمول مع البادئة
-"A special framework for web development called <0> (a sequence-based framework) has been developed to implement safe, flexible, fast, and strong pure websites based on that, since <1><2><3><4> so far."," Un marco de desarrollo web especial de código abierto llamado <0> (un marco basado en secuencias) para implementar sitios web puros, seguros, flexibles, rápidos y robustos, desarrollado desde <1><2><3><4>"," Ein spezielles Open-Source-Webentwicklungsframework namens <0> (ein sequenzbasiertes Framework) zur Implementierung reiner, sicherer, flexibler, schneller und robuster Websites, entwickelt seit <1><2><3><4>","یک چارچوب ویژه متن باز توسعه وب به نام <0> (یک چارچوب مبتنی بر توالی) برای پیاده سازی وب سایت های خالص، ایمن، انعطاف پذیر، سریع و قوی، توسعه یافته از سال <1><2><3><4> "," إطار عمل خاص مفتوح المصدر لتطوير الويب يسمى <0> (إطار عمل قائم على التسلسل) لتنفيذ مواقع ويب نقية وآمنة ومرنة وسريعة وقوية، تم تطويره منذ <1><2><3><4>"
-A Special Goldsmith Management System,Un sistema especial de gestión de la minería de oro,Ein spezielles Goldminen-Managementsystem,یک سیستم مدیریت طلاسازی ویژه,نظام خاص لإدارة تعدين الذهب
-A Special Integrated Management System,Un sistema especial de gestión integrado,Ein spezielles integriertes Managementsystem,یک سامانه یکپارچه مدیریت ویژه,نظام إدارة متكامل خاص
-A Special Integrated Resources Management System,Un sistema integrado de gestión de recursos especiales,Ein integriertes Spezialressourcenmanagementsystem,یک سامانه یکپارچه مدیریت منابع ویژه,نظام متكامل لإدارة الموارد الخاصة
-A unique name exclusive for this profile,Un nombre de perfil único,Ein eindeutiger Profilname,یک نام منحصر به فرد پروفایل,اسم ملف تعريف فريد
-About,Acerca de,Um,درباره,عن
 About - GMS,Acerca de - GMS,Über uns - GMS,درباره - GMS,حول - GMS
-Access,Acceso,Zugang,دسترسی,وصول
-Account,Cuenta,Konto,حساب,حساب
 Account Activation Request,Solicitud de activación de cuenta,Kontoaktivierungsanfrage,درخواست فعالسازی حساب,طلب تفعيل الحساب
-Account Recovery,Recuperación de cuenta,Kontowiederherstellung,بازیابی حساب کاربری,استعادة الحساب
 Account Recovery Request,Solicitud de recuperación de cuenta,Anfrage zur Kontowiederherstellung,درخواست بازیابی حساب کاربری,طلب استرداد الحساب
-Activate auto filling data in some fields,Relleno automático de datos en algunas partes del sistema,Automatische Datenbefüllung in einigen Teilen des Systems,پر گردن خودکار داده در بعضی قسمتهای سامانه,ملء البيانات تلقائيًا في بعض أجزاء النظام
-Activated,Activo,Aktiv,فعال,نشيط
-Add ,Agregar,Hinzufügen,اضافه کردن,يضيف
-Add a new Draft,Agregar un nuevo documento,Neues Dokument hinzufügen,افزودن یک سند جدید,إضافة مستند جديد
-Add Impact,Efecto añadido,Hinzugefügter Effekt,تاثیر اضافه,تأثير مضاف
-Add your first item <0><1>,Añade tu primer artículo <0><1>,Fügen Sie Ihren ersten Artikel hinzu <0><1>,اولین مورد خود را اضافه کنید <0><1>,أضف العنصر الأول الخاص بك <0><1>
-Addbox,Cuadro de complementos,Add-ons-Box,صندوق افزوده ها,صندوق الإضافات
-ADDED,Agregado,Hinzugefügt,اضافه شده,تمت الإضافة
 Added Drafts Report,Documentos añadidos,Hinzugefügte Dokumente,سند های افزوده,المستندات المضافة
-Added Drafts Report,Informar de documentos añadidos,Hinzugefügte Dokumente melden,گزارش سند های افزوده,الإبلاغ عن المستندات المضافة
-Added Statements,Circulación de adiciones,Verbreitung von Ergänzungen,گردش افزوده ها,تداول الإضافات
-Addeds,Adiciones,Ergänzungen,افزوده ها,إضافات
-"Additional Children of the object
-",Elementos añadidos al objeto,Dem Objekt hinzugefügte Elemente,موارد اضافه شده به شی,العناصر المضافة إلى الكائن
-Address,DIRECCIÓN,Adresse,نشانی,عنوان
-Advertisement,Anuncio,Werbung,تبلیغات,إعلان
-An activation email sent successfully to your account (<0>)! Please check your email and click on the link.,Se ha enviado correctamente un correo electrónico de activación a tu cuenta (<0>). Revisa tu correo electrónico y haz clic en el enlace.,Eine Aktivierungs-E-Mail wurde erfolgreich an Ihr Konto (<0>) gesendet! Bitte überprüfen Sie Ihre E-Mail und klicken Sie auf den Link.,یک ایمیل فعال سازی با موفقیت به حساب شما ارسال شد (<0>)! لطفا ایمیل خود را بررسی کنید و روی لینک کلیک کنید.,تم إرسال رسالة تفعيل إلى حسابك بنجاح (<0>)! يُرجى التحقق من بريدك الإلكتروني والنقر على الرابط.
-"An integrated management system, is special for an aseqbase website...","Sistema de gestión integrado, basado en la plataforma framework sitio web asqbase...","Integriertes Managementsystem, basierend auf der asqbase Website-Framework-Plattform ...","سیستم یکپارچه مدیریت، مبتنی بر بستر چارچوب وب سایت asqbase ...",نظام إدارة متكامل يعتمد على منصة إطار عمل موقع الويب asqbase...
-APPEARANCES,Apariencia,Aussehen,ظاهر,مظهر
-Are you sure you want to duplicate this item?,¿Estás seguro de que deseas hacer una copia de esto?,Möchten Sie hiervon wirklich eine Kopie erstellen?,آیا مطمئن هستید که می خواهید از این مورد یک نسخه کپی تهیه نمایید؟,هل أنت متأكد أنك تريد عمل نسخة من هذا؟
-Are you sure you want to remove this item?,¿Está seguro que desea eliminar este elemento?,Möchten Sie diesen Artikel wirklich löschen?,آیا مطمئن هستید که می خواهید این مورد را حذف کنید؟,هل أنت متأكد أنك تريد حذف هذا العنصر؟
-Are you sure you want to return this draft to the currentbox?,¿Está seguro de que desea devolver este documento a la carpeta actual?,Möchten Sie dieses Dokument wirklich in den aktuellen Ordner zurückverschieben?,آیا مطمئن هستید که می خواهید این سند را به صندوق جاری برگردانید؟,هل أنت متأكد أنك تريد إرجاع هذا المستند إلى المجلد الحالي؟
-Are you sure you want to set this draft as completed?,¿Está seguro de que desea marcar este documento como completado?,Möchten Sie dieses Dokument wirklich als erledigt markieren?,آیا مطمئن هستید که می خواهید این سند را به عنوان تکمیل شده تنظیم کنید؟,هل أنت متأكد أنك تريد وضع علامة على هذا المستند كمكتمل؟
-Are you sure you want to set this draft as damaged?,¿Está seguro de que desea marcar este documento como dañado?,Möchten Sie dieses Dokument wirklich als beschädigt markieren?,آیا مطمئن هستید که می خواهید این سند را به عنوان آسیب دیده تنظیم کنید؟,هل أنت متأكد أنك تريد وضع علامة على هذا المستند على أنه تالف؟
-Are you sure you want to set this draft as lost?,¿Estás seguro de que deseas marcar este documento como faltante? (Esto tendrá un impacto muy negativo en tu calificación).,Möchten Sie dieses Dokument wirklich als fehlend markieren? (Dies wird sich sehr negativ auf Ihre Note auswirken.),آیا مطمئنید که می خواهید این سند را به عنوان مفقود شده تنظیم کنید؟ (این کار تاثیر منفی بسیار زیادی روی معدل شما خواهد گذاشت),هل أنت متأكد أنك تريد وضع علامة على هذه الوثيقة كمفقودة؟ (سيكون لهذا تأثير سلبي جدًا على درجتك.)
-aseqbase,Escapista,Eskapist,اسِک بِیس,هارب
-aseqbase is a project sponsored by MiMFa. Designed by: MiMFa aseqbase Pure Web Design Framework,aseqbase es un proyecto respaldado por expertos en desarrollo tecnológico de MiMFa. Marco propietario de aseqbase de MiMFa.,"aseqbase ist ein Projekt, das von MiMFa-Technologieentwicklungsexperten unterstützt wird. MiMFa aseqbase ist ein proprietäres Framework",اسِک بِیس پروژه ای است که توسط متخصصین توسعه فناوری میم فا حمایت می شود. فریموک اختصاصی میم فا اسِک بِیس,aseqbase هو مشروع مدعوم من خبراء تطوير تكنولوجيا میم فا. إطار عمل MiMFa aseqbase الخاص
-Attaches,Archivos adjuntos,Anlagen,ضمائم,المرفقات
-Author,Autor,Autor,نویسنده,مؤلف
-Auto Fill,Autocompletar,AutoFill,پرکردن خودکار,التعبئة التلقائية
-Average,Promedio,Durchschnitt,میانگین,متوسط
-Back,Devolver,Zurückkehren,بازگشت,يعود
 Back to Home,Regresar a la página de inicio,Zurück zur Startseite,بازگشت به صفحه اصلی,العودة إلى الصفحة الرئيسية
-Banner Path,Ruta del banner,Bannerpfad,مسیر بنر,مسار اللافتة
-Bio,Biografía,Biographie,بیوگرافی,سيرة
-Blocked,Obstruido,Blockiert,مسدود,محظور
-Box,Financiar,Fonds,صندوق,تمويل
-Cancel,Cancelar,Stornieren,لغو,يلغي
-Cancel and return to the currentbox!,Cancelar y volver al cuadro actual!,Abbrechen und zur aktuellen Box zurückkehren!,لغو و بازگشت به جعبه فعلی!,إلغاء والعودة إلى المربع الحالي!
-CATEGORIES,Categorías,Kategorien,دسته بندی ها,فئات
-Categories Management,Administrar categorías,Kategorien verwalten,مدیریت دسته بندی ها,إدارة الفئات
-Category,Categoría,Kategorie,دسته,فئة
-Change,Cambiar,Ändern,تغییر,يتغير
-Change Count,Número de cambios,Anzahl der Änderungen,تعداد تغییر,عدد التغييرات
-CHANGEBOX,Fondo de Cambios,Fonds der Änderungen,صندوق تغییر ها,صندوق التغييرات
-Changed,Cambió,Geändert,تغییریافته,تم التغيير
-Changed Count,Cambio de número,Änderung der Anzahl,تغییر در تعداد,التغيير في العدد
-Changed Drafts,Edición de remesas modificadas,Geänderte Überweisungen bearbeiten,ویرایش حواله های تغییریافته,تحرير التحويلات المتغيرة
 Changed Drafts Report,Informe de remesas modificadas,Meldung geänderter Überweisungen,گزارش حواله های تغییریافته,تقرير عن التحويلات المتغيرة
-Changed Weight,Cambio de peso,Gewichtsveränderung,تغییر وزن,تغير الوزن
-Changeds,Cambios,Änderungen,تغییر ها,التغييرات
-Children,Niños,Kinder,فرزندان,أطفال
-Class,Clase,Klasse,کلاس,فصل
-Clear Lexicon,Diccionario claro,Wörterbuch löschen,پاک کردن لغتنامه,قاموس واضح
-CLICK ON THIS LINK,Haga clic en este enlace,Klicken Sie auf diesen Link,بر روی این لینک کلیک کنید,انقر على هذا الرابط
-Click to change the image!,¡Haga clic para cambiar la imagen!,"Klicken Sie hier, um das Bild zu ändern!",برای تغییر تصویر کلیک کنید!,انقر لتغيير الصورة!
-Close,Cerca,Schließen,بستن,يغلق
-Close <0><1>,Cerrar <0><1>,Schließen <0><1>,بستن <0><1>,إغلاق <0><1>
 COMPL\_::$Configکمیل شده ها,,,,
-Complete,Terminación,Fertigstellung,تکمیل,انتهاء
-Complete Impact, El impacto de la finalización, Die Auswirkungen der Fertigstellung,تاثیر تکمیل , تأثير الإكمال
-Completebox,Caja de artículos completados,Feld „Abgeschlossene Elemente“,صندوق تکمیل شده ها,صندوق العناصر المكتملة
-COMPLETED,Terminado,Vollendet,تکمیل شده ها,مكتمل
-Completed Drafts,Documentos completados,Ausgefüllte Dokumente,سند های تکمیل شده,المستندات المكتملة
 Completed Drafts Report,Informe del documento de salida,Ausgabedokumentbericht,گزارش سند های خروجی,تقرير مستند الإخراج
-Completed Statements,Circulación completada,Abgeschlossene Auflage,گردش تکمیل شده ها,تم الانتهاء من التداول
-Completeds,Finalizaciones,Abschlüsse,تکمیل ها,الإكمالات
-Config Units - ERP,Unidades de edición - ERP,Bearbeitungseinheiten - ERP,ویرایش واحدها - ای آر پی,وحدات التحرير - تخطيط موارد المؤسسات
-Configuration,Configuración,Konfiguration,پیکربندی,إعدادات
-CONFIGURATIONS,Configuración,Konfiguration,پیکربندی,إعدادات
-Confirm Password,Confirmación de contraseña,Passwortbestätigung,تاییدیه رمز عبور,تأكيد كلمة المرور
-Content,Contenido,Inhalt,محتوا,محتوى
-CONTENTS,Lista,Liste,فهرست,قائمة
-Contradiction,Contradicción,Widerspruch,مغایرت,تناقض
-Could not update tools usage!,¡El uso de herramientas no se pudo actualizar!,Bei der Verwendung von Tools ist ein Update fehlgeschlagen!,استفاده از ابزارها به روزرسانی نشد!,فشل استخدام الأدوات للتحديث!
-Count,Número,Nummer,تعداد,رقم
-Count of damaged work (<0>)!,¡Número de trabajos afectados (<0>)!,Anzahl der betroffenen Jobs (<0>)!,تعداد کارهای آسیب دیده (<0>)!,عدد الوظائف المتأثرة (<0>)!
-Count of lost work (<0>)!<1>Do not change this value without coordination!,Número de documentos faltantes (<0>)!<1>¡No cambie este valor sin coordinación!,Anzahl fehlender Dokumente (<0>)!<1>Diesen Wert nicht ohne Abstimmung ändern!,تعداد سند های مفقود شده (<0>)!<1>این مقدار را بدون هماهنگی تغییر ندهید!,عدد المستندات المفقودة (<0>)!<1>لا تغير هذه القيمة بدون تنسيق!
-Count of works in draft (<0>)!,Número de tareas en el documento enviado (<0>),Anzahl der Aufgaben im eingereichten Dokument (<0>),تعداد کار در سند ارسالی (<0>),عدد المهام في المستند المقدم (<0>)
-Count Threshold,Umbral numérico,Anzahlschwelle,آستانه تعداد,عتبة الرقم
-Count Unit,Unidad de conteo,Zähleinheit,واحد شمارش,وحدة العد
-Country Code,Código del país,Landesvorwahl,کد کشور,رمز الدولة
-Create,Creado en,Erstellt in,ایجاد شده در,تم إنشاؤه في
-Create Time,Creado en,Erstellt in,ایجاد شده در,تم إنشاؤه في
-CreateTime,Creado en,Erstellt in,ایجاد شده در,تم إنشاؤه في
-Credit,Acreedor,Gläubiger,بستانکار,الدائن
-Credit Count,Número de acreedores,Anzahl der Gläubiger,تعداد بستانکار,عدد الدائنين
-Credit Weight,Peso del acreedor,Gläubigergewicht,وزن بستانکار,وزن الدائن
-CURRENT,Actual,Aktuell,جاری,حاضِر
-Current Drafts,Documentos en proceso,Dokumente in Bearbeitung,سند های درحال پردازش,المستندات قيد التقدم
 Current Drafts Report,Informe sobre documentos en trámite,Bericht über in Bearbeitung befindliche Dokumente,گزارش سند های درحال پردازش,تقرير عن الوثائق قيد التنفيذ
-Current Statements,Circulación actual,Aktuelle Auflage,گردش جاری ها,التداول الحالي
-Current Weight,Nuevo peso,Neues Gewicht,وزن جدید,وزن جديد
-Current weight of work (<0>)!,¡Peso de trabajo actual (<0>)!,Aktuelles Arbeitsgewicht (<0>)!,وزن فعلی کار (<0>)!,وزن العمل الحالي (<0>)!
-Currentbox,Cuenta corriente,Girokonto,صندوق جاری ها,الحساب الجاري
-Currents,Corrientes,Strömungen,جاری ها,التيارات
-Damage,Falla,Versagen,خرابی,فشل
-Damage <0><1>,Fracaso <0><1>,Fehler <0><1>,خرابی <0><1>,فشل <0><1>
-Damage By Good Impact,Impacto del daño debido a mercancías defectuosas,Auswirkungen von Schäden aufgrund mangelhafter Ware,تاثیر آسیب بدلیل نقص کالا,تأثير الضرر الناجم عن البضائع المعيبة
-Damage By Person Impact,El impacto del daño por defecto personal,Die Auswirkungen eines Schadens aufgrund eines persönlichen Defekts,تاثیر آسیب بدلیل نقص شخص,أثر الضرر الناتج عن العيب الشخصي
-Damage By Tool Impact,Impacto del daño debido a fallas de la herramienta,Auswirkungen von Schäden durch Werkzeugversagen,تاثیر آسیب بدلیل نقص ابزار,تأثير الضرر الناتج عن فشل الأداة
-Damage By Unit Impact,Impacto del daño debido a un defecto de la unidad,Auswirkungen von Schäden durch Gerätedefekt,تاثیر آسیب بدلیل نقص واحد,تأثير الضرر الناجم عن عيب الوحدة
-Damage By Vocation Impact,Impacto de los daños debido al fallo de la misión,Auswirkungen von Schäden aufgrund eines Missionsversagens,تاثیر آسیب بدلیل نقص ماموریت,تأثير الضرر الناجم عن فشل المهمة
-Damage Impact,Impacto del daño,Schadensauswirkungen,تاثیر آسیب,تأثير الضرر
-DamageBox,Caja de daños,Schadensbox,صندوق خرابی ها,صندوق الضرر
-Damaged,Dañado,Beschädigt,آسیب دیده,متضرر
 Damaged By Person,Defecto en la persona,Defekt in der Person,نقص در  شخص,عيب في الشخص
 Damaged By Product,Defecto del producto,Produktfehler,نقص در محصول,عيب المنتج
 Damaged By Tool,Defecto en la herramienta,Defekt im Werkzeug,نقص در  ابزار,عيب في الأداة
 Damaged By Unit,Defecto en la unidad,Defekt im Gerät,نقص در  واحد,عيب في الوحدة
 Damaged By Vocation,Falla de misión,Missionsfehler,نقص در  ماموریت ,عيب المهمة
-DamagedByPerson,Dañado por defecto personal,Beschädigung durch persönlichen Defekt,آسیب دیده بدلیل نقص شخص,تضررت بسبب عيب شخصي
-DamagedByProduct,Dañado debido a un defecto en el producto.,Beschädigt aufgrund eines Defekts am Produkt,آسیب دیده بدلیل نقص در محصول,تالف بسبب عيب في المنتج
-DamagedByTool,Dañado debido a un defecto en la herramienta,Beschädigt durch einen Defekt am Werkzeug,آسیب دیده بدلیل نقص در ابزار,تالف بسبب عيب في الأداة
-DamagedByUnit,Dañado debido a un defecto en la unidad,Beschädigt durch einen Defekt am Gerät,آسیب دیده بدلیل نقص در واحد,تالف بسبب عيب في الوحدة
-Damageds,Fallas,Fehler,خرابی ها,الأعطال
-Damages,Fallas,Fehler,خرابی ها,الأعطال
-Dashboard,Panel,Armaturenbrett,داشبورد,لوحة القيادة
-Deactivated,Inactivo,Inaktiv,غیرفعال,غير نشط
-"Dear <0>, you have logged in successfully","<0>Estimado, has iniciado sesión correctamente.","<0> Sehr geehrte Damen und Herren, Sie haben sich erfolgreich angemeldet.","<0> عزیز، شما با موفقیت وارد سیستم شدید","<0>عزيزي، لقد قمت بتسجيل الدخول بنجاح."
-"Dear <0>, You registered successfully","Estimado <0>, usted se ha registrado exitosamente.","Sehr geehrte/r <0>, Sie haben sich erfolgreich registriert.","عزیز <0>، شما با موفقیت ثبت نام کردید","عزيزي <0>، لقد قمت بالتسجيل بنجاح."
-"Dear user, the reset password sent to your email successfully!","Estimado usuario, ¡su correo electrónico de restablecimiento de contraseña ha sido enviado exitosamente!","Sehr geehrter Benutzer, Ihre E-Mail zum Zurücksetzen des Passworts wurde erfolgreich gesendet!",کاربر گرامی ایمیل بازنشانی رمز ورود شما با موفقیت ارسال شد!,"عزيزي المستخدم، لقد تم إرسال بريدك الإلكتروني لإعادة تعيين كلمة المرور بنجاح!"
-Debit,Deudor,Schuldner,بدهکار,المدين
-Debit Count,Número de deudores,Anzahl der Schuldner,تعداد بدهکار,عدد المدينين
-Debit Weight,Peso del deudor,Gewicht des Schuldners,وزن بدهکار,وزن المدين
-Decimal Precision,Precisión decimal,Dezimalgenauigkeit,دقت اعشار,الدقة العشرية
 Default From Time,Fecha de inicio predeterminada,Standard-Ab-Datum,پیشفرض از تاریخ,افتراضيًا من التاريخ
 Default To Time,Fecha predeterminada,Standarddatum,پیشفرض تا تاریخ,تاريخ افتراضي
-Delay,Demora,Verzögerung,تاخیر,تأخير
-Delay (<0>),Retraso (<0>),Verzögerung (<0>),تاخیر (<0>),التأخير (<0>)
-Description,Descripción,Beschreibung,شرح,وصف
-"Descriptions about the website owner
-",Descripción sobre el propietario del sitio web,Beschreibung des Websitebesitzers,توضیحاتی در مورد صاحب وب سایت,وصف عن صاحب الموقع
-Designed by: MiMFa aseqbase Pure Web Design Framework,Diseñado por: MiMFa aseqbase Pure Web Design Framework,Entworfen von: MiMFa aseqbase Pure Web Design Framework,طراحی شده توسط: MiMFa aseqbase Pure Web Design Framework,تم التصميم بواسطة: MiMFa aseqbase Pure Web Design Framework
-Dest Person,Persona de destino,Zielperson,شخص مقصد,الشخص الوجهة
-Dest Unit,Unidad de destino,Zieleinheit,واحد مقصد,وحدة الوجهة
-Destination Person,Persona de destino,Zielperson,شخص مقصد,الشخص الوجهة
-Destination Unit,Unidad de destino,Zieleinheit,واحد مقصد,وحدة الوجهة
-Destination Units,Unidades de destino,Zieleinheiten,واحدهای مقصد,وحدات الوجهة
-Display _MENU_ items per page,Mostrar el elemento _MENU_ en cada página,_MENÜ_-Element auf jeder Seite anzeigen,نمایش _MENU_ مورد در هر صفحه,إظهار عنصر القائمة في كل صفحة
-Do not have an account?,¿No tienes una cuenta?,Sie haben noch kein Konto?,حساب کاربری ندارید؟,ليس لديك حساب؟
-Do you have an account?,¿Tienes una cuenta?,Besitzen Sie bereits ein Konto?,حساب کاربری دارید؟,هل لديك حساب؟
-Done,Hecho,Erledigt,انجام شده,منتهي
-Double click to hide,Haga doble clic para ocultar.,Zum Ausblenden doppelklicken.,برای پنهان کردن دوبار کلیک کنید,انقر نقرًا مزدوجًا لإخفاء.
-Download Path,Ruta de descarga,Downloadpfad,مسیر دانلود,مسار التنزيل
-DRAFT,Documento,Dokumentieren,سند,وثيقة
-DRAFTS,Documentos,Unterlagen,سند ها,وثائق
-Drafts Management,Gestión de documentos,Dokumentenmanagement,مدیریت سند ها,إدارة المستندات
-Drafts Report,Informe del documento,Dokumentbericht,گزارش سند ها,تقرير الوثيقة
-EDIT,Editar,Bearbeiten,ویرایش,يحرر
 Edit - ERP,Editar - ERP,Bearbeiten – ERP,ویرایش - ای آر پی,تعديل - تخطيط موارد المؤسسات
 Edit - GMS,Editar - GMS,Bearbeiten - GMS,ویرایش - GMS,تعديل - GMS
 Edit Added Drafts,Administrar documentos añadidos,Hinzugefügte Dokumente verwalten,مدیریت سند های افزوده,إدارة المستندات المضافة
 Edit Changed Drafts,Remesas modificadas,Modifizierte Überweisungen,حواله های تغییریافته,التحويلات المعدلة
 Edit Completed Drafts,Gestión de documentos de salida,Verwalten von Ausgabedokumenten,مدیریت سند های خروجی,إدارة مستندات الإخراج
 Edit Current Drafts,Gestión de documentos en curso,Verwalten von Dokumenten in Bearbeitung,مدیریت سند های درحال پردازش,إدارة المستندات قيد التقدم
-Edit Drafts,Edición de documentos,Dokumente bearbeiten,ویرایش سند ها,تحرير المستندات
-Edit Drafts - ERP,Edición de documentos - ERP,Dokumente bearbeiten - ERP,ویرایش سند ها - ای آر پی,تحرير المستندات - تخطيط موارد المؤسسات
-Edit Drafts - GMS,Edición de remesas - GMS,Überweisungen bearbeiten - GMS,ویرایش حواله ها - GMS,تحرير الحوالات المالية - GMS
 Edit Failed Drafts,Gestión de documentos fallidos,Verwalten fehlgeschlagener Dokumente,مدیریت سند های ناموفق,إدارة المستندات الفاشلة
-Edit Goods,Editar productos,Produkte bearbeiten,ویرایش کالا ها,تحرير المنتجات
-Edit Goods - ERP,Editar productos - ERP,Produkte bearbeiten - ERP,ویرایش کالا ها - ای آر پی,تحرير المنتجات - تخطيط موارد المؤسسات
 Edit Input Drafts,Gestión de documentos entrantes,Eingehende Dokumentenverwaltung,مدیریت سند های ورودی,إدارة المستندات الواردة
-Edit Lexicon,Edición de diccionarios,Wörterbuchbearbeitung,ویرایش لغتنامه,تحرير القاموس
 Edit Output Drafts,Gestión de documentos de salida,Verwalten von Ausgabedokumenten,مدیریت سند های خروجی,إدارة مستندات الإخراج
 Edit Partial Drafts,Gestión de documentos completados,Verwaltung ausgefüllter Dokumente,مدیریت سند های تکمیل شده,إدارة الوثائق المكتملة
-Edit Personnel - ERP,Editar Personas - ERP,Personen bearbeiten - ERP,ویرایش اشخاص - ای آر پی,تعديل الأشخاص - تخطيط موارد المؤسسات
-Edit Personnel - GMS,Editar personas - GMS,Personen bearbeiten - GMS,ویرایش اشخاص - GMS,تعديل الأشخاص - GMS
 Edit Poled Drafts,Edición de remesas pivote,Pivot-Überweisungen bearbeiten,ویرایش حواله های محوری,تحرير التحويلات المحورية
-Edit Products,Editar productos,Produkte bearbeiten,ویرایش محصولات,تحرير المنتجات
-Edit Products - GMS,Editar productos - GMS,Produkte bearbeiten - GMS,ویرایش محصولات - GMS,تحرير المنتجات - GMS
-Edit Profile,Editar perfil,Profil bearbeiten,ویرایش پروفایل,تعديل الملف الشخصي
 Edit Registered Drafts,Edición de documentos de registro,Bearbeiten von Registrierungsdokumenten,ویرایش اسناد ثبتی,تحرير مستندات التسجيل
-Edit Statements,Edición de tours,Touren bearbeiten,ویرایش گردش ها,جولات التحرير
 Edit Stock Drafts,Editar remesas existentes,Vorhandene Überweisungen bearbeiten,ویرایش حواله های موجود,تعديل التحويلات المالية الحالية
 Edit Subtracted Drafts,Gestión de documentos deficitarios,Defizit-Dokumentenmanagement,مدیریت سند های کسری,إدارة مستندات العجز
-Edit System,Sistema de edición,System bearbeiten,ویرایش سیستم,تحرير النظام
-Edit System - ERP,Edición de sistemas - ERP,Systembearbeitung - ERP,ویرایش سیستم - ای آر پی,تحرير النظام - تخطيط موارد المؤسسات
-Edit System - GMS,Edición del sistema - GMS,Systembearbeitung - GMS,ویرایش سیستم - GMS,تحرير النظام - GMS
-Edit Tools,Herramientas de edición,Bearbeitungswerkzeuge,ویرایش ابزارها,أدوات التحرير
-Edit Tools - GMS,Herramientas de edición - GMS,Bearbeitungswerkzeuge – GMS,ابزار ویرایش - GMS,أدوات التحرير - GMS
-Edit Units,Unidades de edición,Einheiten bearbeiten,ویرایش واحدها,وحدات التحرير
-Edit Units - GMS,Unidades de edición - GMS,Bearbeitungseinheiten - GMS,ویرایش واحدها - GMS,وحدات التحرير - GMS
-Edit Users,Editar personas,Personen bearbeiten,ویرایش اشخاص,تعديل الأشخاص
-Edit Vocation,Editar misión,Mission bearbeiten,ویرایش ماموریت,تحرير المهمة
-Edit Vocations - ERP,Misiones de edición - ERP,Missionen bearbeiten – ERP,ویرایش ماموریت ها - ای آر پی,مهام التحرير - تخطيط موارد المؤسسات
-Editor,Editor,Editor,ویرایشگر,محرر
-Elapsed Delay for this Work (<0>),Retraso registrado al procesar este documento (<0>),Bei der Verarbeitung dieses Dokuments ist eine Verzögerung aufgetreten (<0>),تاخیر ثبت شده حین پردازش این سند (<0>),التأخير المسجل أثناء معالجة هذه الوثيقة (<0>)
-Elapsed Time for this Work (<0>),Tiempo transcurrido para procesar este documento (<0>),Verstrichene Zeit zur Verarbeitung dieses Dokuments (<0>),زمان سپری شده برای پردازش این سند (<0>),الوقت المنقضي لمعالجة هذه الوثيقة (<0>)
-Email,Correo electrónico,E-Mail,رایانامه,بريد إلكتروني
-Email Address,Dirección de correo electrónico,E-Mail-Adresse,آدرس ایمیل,عنوان البريد الإلكتروني
-Email/Phone,Correo electrónico / Teléfono,E-Mail / Telefon,ایمیل / تلفن,البريد الإلكتروني / الهاتف
-Email/Phone/UserName,Correo electrónico / Teléfono / Nombre de usuario,E-Mail / Telefon / Benutzername,ایمیل / تلفن / نام کاربری,البريد الإلكتروني / الهاتف / اسم المستخدم
-Entered,Importado,Importiert,واردشده,مستورد
-Entire Management,Dirección general,Geschäftsführung,مدیریت کل,الإدارة العامة
-ERP,Planificación de recursos empresariales (ERP),ERP,ای آر پی,تخطيط موارد المؤسسات
-Error,Error,Fehler,خطا,خطأ
 Error Symbol Path,Ruta del símbolo de error,Fehlersymbolpfad,مسیر نماد خطا,مسار رمز الخطأ
-Exited,Remoto,ENTFERNT,خارج شده,تمت الإزالة
-Failbox,El Fondo de los Fracasados,Der Fonds der Erfolglosen,صندوق ناموفق ها,صندوق الفاشلين
-FAILED,Fracasado,Erfolglos,ناموفق,غير ناجح
-Failed Drafts,Documentos fallidos,Nicht erfolgreiche Dokumente,سند های ناموفق,وثائق غير ناجحة
 Failed Drafts Report,Informar documentos fallidos,Fehlerhafte Dokumente melden,گزارش سند های ناموفق,الإبلاغ عن المستندات الفاشلة
-Failed Statements,Ciclo de fallas,Fehlerzyklus,گردش خرابی ها,دورة الفشل
-Fails,Los fracasados,Die Erfolglosen,ناموفق ها,غير الناجحين
-Female,Señor,Herr,آقا,سيد
-File Symbol Document - Aseqbase,Documento de símbolos de archivo - Aseqbase,Dateisymboldokument - Aseqbase,سند نماد فایل - Aseqbase,رمز الملف - Aseqbase
-File Symbol Home - Aseqbase,Página de inicio de símbolos de archivo - Aseqbase,Dateisymbol-Homepage – Aseqbase,صفحه اصلی نماد فایل - Aseqbase,الصفحة الرئيسية لرموز الملفات - Aseqbase
-File Symbol Menu - Aseqbase,Menú de iconos de archivo - Aseqbase,Dateisymbolmenü - Aseqbase,منوی نماد فایل - Aseqbase,قائمة أيقونة الملف - Aseqbase
-File Symbol Operation - Aseqbase,Operación de símbolos de archivo - Aseqbase,Dateisymboloperation - Aseqbase,عملیات نماد فایل - Aseqbase,عملية رمز الملف - Aseqbase
-File Symbol User - Aseqbase,Icono de archivo de usuario - Aseqbase,Dateisymbol Benutzer - Aseqbase,کاربر نماد فایل - Aseqbase,مستخدم أيقونة الملف - Aseqbase
-Filter: ,Filtrar:,Filter:,فیلتر:,فلتر:
-Finished processing and send this draft to the target unit!,¡Termina de procesar y envía el documento a la siguiente unidad!,Beenden Sie die Bearbeitung und senden Sie das Dokument an die nächste Einheit!,اتمام پردازش و ارسال سند به واحد بعد!,إنهاء المعالجة وإرسال المستند إلى الوحدة التالية!
-Finished processing and set this draft as completed!,¡El procesamiento está completo y este documento se marca como completado!,Die Bearbeitung ist abgeschlossen und dieses Dokument wird als erledigt markiert!,پردازش پایان یافته و تنظیم این سند به عنوان تکمیل شده!,تمت المعالجة وتم تعيين هذه الوثيقة على أنها مكتملة!
-First,Primero,Erste,ابتدا,أولاً
-First Name,Nombre (sustantivo),Name (Substantiv),نام (اسم),الاسم (الاسم)
-Floor of the accepted subtracted weight factor!,¡Coeficiente de peso fraccionario máximo admisible!,Maximal zulässiger Gewichtsanteilskoeffizient!,ضریب حداکثر وزن کسری مجاز!,الحد الأقصى المسموح به لمعامل الوزن الكسري!
 Forgot your password?,¿Olvidaste tu contraseña?,Passwort vergessen?,رمز عبور خود را فراموش کرده اید؟,نسيت كلمة السر؟
-"Fortunately, you received a <0> mark due to the this work!
-Here added <1> marks to each person of your units.","¡Afortunadamente, recibiste una puntuación de <0> por esto!
- Además, se agregaron <1> puntos positivos a cada persona de tu unidad.","Glücklicherweise haben Sie hierfür die Punktzahl <0> erhalten!
- Außerdem wurden jeder Person in Ihrer Einheit <1> Pluspunkte gutgeschrieben.","خوشبختانه به دلیل این کار نمره <0> دریافت کردید!
-همچنین <1>  امتیاز مثبت به هر فرد از واحد شما اضافه شده است.","لحسن الحظ، لقد حصلت على درجة <0> لهذا!
- كما تمت إضافة <1> نقطة إيجابية لكل شخص في وحدتك."
-Found <0><1><2> results for searching <0><3><2>!,<0><1><2> ¡Resultados encontrados para la búsqueda <0><3><2>!,<0><1><2> Ergebnisse für Suche <0><3><2> gefunden!,تعداد <0><1><2> نتیجه برای جستجوی <0><3><2> یافت شد!,<0><1><2> تم العثور على نتائج البحث <0><3><2>!
-Fr,do,C,ج,ج
-From Time,De la historia,Aus der Geschichte,از تاریخ,من التاريخ
 Full Banner Path,Ruta completa del banner,Vollständiger Bannerpfad,مسیر بنر کامل,مسار اللافتة الكامل
-Full Description,Descripción completa,Vollständige Beschreibung,شرح کامل,الوصف الكامل
-Full Good,Título completo del producto,Vollständiger Titel des Produkts,عنوان کامل کالا,العنوان الكامل للمنتج
 Full Logo Path,Ruta completa del logotipo,Vollständiger Logopfad,مسیر لوگو کامل,مسار الشعار الكامل
-Full Name,Nombre y apellido,Vor- und Nachname,نام و نام خانوادگی,الاسم الأول والأخير
-Full Owner,Título completo del propietario,Vollständiger Titel des Eigentümers,عنوان کامل مالک,اللقب الكامل للمالك
 Full postal address,Dirección postal completa,Vollständige Postanschrift,آدرس پستی کامل,العنوان البريدي الكامل
-Full Product,Título completo del producto,Vollständiger Produkttitel,عنوان کامل محصول,عنوان المنتج الكامل
-Full Slogan,Eslogan completo,Vollständiger Slogan,شعار کامل,الشعار الكامل
-g,Cálido,Warm,گرم,دافيء
-Gender,Género,Geschlecht,جنسیت,جنس
-GMS,GMS,GMS,جی ام اس,جي إم إس
 Goldsmith Management System,Sistema de Gestión de Orfebrería,Goldschmiede-Managementsystem,سیستم مدیریت طلاسازی,نظام إدارة صياغة الذهب
-Good,Bienes,Waren,کالا ها,بضائع
-GoodName,Nombre del producto,Produktname,نام کالا,اسم المنتج
-GOODS,Bienes,Waren,کالاها,بضائع
-Goods Management,Gestión de mercancías,Warenwirtschaft,مدیریت کالا ها,إدارة البضائع
-GOODS REPORT,Informe de mercancías,Warenmeldung,گزارش کالا ها,تقرير البضائع
-GROUPS,Grupos,Gruppen,گروه ها,المجموعات
-Guest,Invitado,Gast,مهمان,ضيف
-h,Reloj,Uhr,ساعت,ساعة
 Has Count Error,Sujeto a discrepancia en número,Vorbehaltlich Zahlenabweichungen,مشمول مغایرت در تعداد,مع مراعاة الاختلاف في العدد
 Has Weight Error,Sujeto a discrepancia de peso,Gewichtsabweichungen vorbehalten,مشمول مغایرت در وزن,خاضع لاختلاف الوزن
-Hinge,Articulación,Gemeinsam,مفصل,مشترك
-HOME,Página de inicio,Startseite,صفحه اصلی,الصفحة الرئيسية
 Home - GMS,Inicio - GMS,Startseite - GMS,صفحه اصلی - GMS,الصفحة الرئيسية - GMS
-Home Path,Ruta de la página de inicio,Startseitenpfad,مسیر صفحه اصلی,مسار الصفحة الرئيسية
-I have Received and submitted this draft!,¡Recibo y apruebo este documento!,Ich erhalte und genehmige dieses Dokument!,من این سند را دریافت و تایید می کنم!,أتلقى وأوافق على هذه الوثيقة!
-Id,IDENTIFICACIÓN,AUSWEIS,شناسه,بطاقة تعريف
-Image,Imagen,Bild,تصویر,صورة
-Inbox,Bandeja de entrada,Posteingang,صندوق ورودی ها,صندوق الوارد
-Indicate all used Tools for this Draft,Agregue todas las herramientas utilizadas para este documento.,Fügen Sie alle für dieses Dokument verwendeten Tools hinzu.,تمام ابزارهای استفاده شده برای این سند را اضافه نمایید,أضف جميع الأدوات المستخدمة لهذه الوثيقة.
-Indicate all used Vocations for this Draft,Agregue todas las misiones utilizadas para este documento.,Fügen Sie alle für dieses Dokument verwendeten Missionen hinzu.,تمام ماموریت های استفاده شده برای این سند را اضافه نمایید,أضف جميع المهام المستخدمة لهذه الوثيقة.
-INFORMATIONS,Información,Information,اطلاعات,معلومة
-Input,Aporte,Eingang,ورودی,مدخل
-Input Drafts,Documentos entrantes,Eingehende Dokumente,سند های ورودی,المستندات الواردة
 Input Drafts Report,Informe de documentos entrantes,Bericht zu eingehenden Dokumenten,گزارش سند های ورودی,تقرير المستندات الواردة
-Input Statements,Flujo de entrada,Eingangsfluss,گردش ورودی ها,تدفق الإدخال
-Inputs,Entradas,Eingänge,ورودی ها,المدخلات
 Integrated Management System,Sistema de gestión integrado,Integriertes Managementsystem,سامانه یکپارچه مدیریت,نظام الإدارة المتكامل
-Integrated Resources Management System,Sistema integrado de gestión de recursos,Integriertes Ressourcenmanagementsystem,سامانه یکپارچه مدیریت منابع,نظام إدارة الموارد المتكامل
-Introduction Method,Método de familiarización,Einarbeitungsmethode,روش آشنایی,طريقة التعرف
-iRMS,IRAMS,IRAMS,آی آرام اس,إيرامز
-Is Active,Activo,Aktiv,فعال,نشيط
-Key Code,Código clave,Schlüsselcode,کد کلیدی,رمز المفتاح
-Key Words,Palabras clave,Schlüsselwörter,کلید واژه ها,الكلمات الرئيسية
-KeyCode,Código clave,Schlüsselcode,کد کلیدی,رمز المفتاح
-Last,El fin,Das Ende,انتها,النهاية
-Last Name,Apellido,Nachname,نام خانوادگی (فامیل),الاسم الأخير (اللقب)
-Latest Time,Periodo de trabajo más reciente,Jüngste Arbeitsperiode,اخیرترین مدت کار,أحدث فترة عمل
-Limitation,Rango,Reichweite,محدوده,يتراوح
-Listen,Audiencia,Anhörung,شنیدن,السمع
-Loading...,Cargando...,Laden...,درحال بارگذاری...,تحميل...
-Location,Ubicación,Standort,محل,موقع
-Logo Path,Ruta del logotipo,Logopfad,مسیر لوگو,مسار الشعار
-Look,Vista,Sicht,مشاهده,منظر
-Lose Impact,El impacto de la desaparición,Die Auswirkungen fehlender,تاثیر مفقودی,تأثير المفقودين
-Lost,Desaparecido,Fehlen,مفقودشده,مفتقد
-m,Minuto,Minute,دقیقه,دقيقة
-Main Menus,Menús principales,Hauptmenüs,منوهای اصلی,القوائم الرئيسية
-Male,Señora.,Frau,خانم,السّيدة.
 Manage All Drafts,Gestionar todos los documentos,Verwalten Sie alle Dokumente,مدیریت تمامی اسناد,إدارة جميع المستندات
+Minimal Members Factory,Profesionales de la tecnología,Technologieexperten,متخصصین فناوری,متخصصو التكنولوجيا
+No items available,No se encontraron elementos para mostrar.,Keine Elemente zum Anzeigen gefunden.,موردی برای نمایش یافت نشد,لم يتم العثور على أي عناصر لعرضها.
+Numbers  N,Número n,Nummer n,تعداد n,الرقم ن
+Output Drafts Report,Informe del documento de salida,Ausgabedokumentbericht,گزارش سند های خروجی,تقرير مستند الإخراج
+Partial Drafts Report,Informe de documentos completados,Bericht über ausgefüllte Dokumente,گزارش سند های تکمیل شده,تقرير الوثائق المكتملة
+Poled Drafts Report,Informe fundamental sobre remesas,Zentraler Überweisungsbericht,گزارش حواله های محوری,تقرير التحويلات المحورية
+Process Symbol Path,Ruta del símbolo del proceso,Prozesssymbolpfad,مسیر نماد پردازش,مسار رمز العملية
+Profile updated successfully!,¡Perfil actualizado exitosamente!,Profil erfolgreich aktualisiert!,پروفایل با موفقیت به روز شد!,تم تحديث الملف الشخصي بنجاح!
+Registered Drafts Report,Informe de documentos de registro,Bericht zu Registrierungsunterlagen,گزارش اسناد ثبتی,تقرير وثائق التسجيل
+Report - GMS,Informe - GMS,Bericht - GMS,گزارش - GMS,تقرير - GMS
+Show count errors!,Visualización de errores relacionados con discrepancias en los números,Anzeige von Fehlern im Zusammenhang mit Zahlenabweichungen,نمایش خطاهای مربوط به مغایرت در تعداد,عرض الأخطاء المتعلقة بالتناقضات في الأرقام
+Show weight errors!,Errores de visualización relacionados con discrepancias de peso,Anzeigefehler im Zusammenhang mit Gewichtsabweichungen,نمایش خطاهای مربوط به مغایرت در وزن,أخطاء العرض المتعلقة باختلافات الوزن
+Sign - ERP,Firma - ERP,Sign - ERP,علامت - ای آر پی,تسجيل الدخول - تخطيط موارد المؤسسات
+Sign - GMS,Señal - GMS,Zeichen - GMS,علامت - GMS,علامة - GMS
+Something went wrong!,¡Algo salió mal!,Etwas ist schiefgelaufen!,مشکلی پیش آمد!,لقد حدث خطأ ما!
+Stock Drafts Report,Informe sobre las remesas existentes,Bericht über bestehende Überweisungen,گزارش حواله های موجود,تقرير عن التحويلات المالية الحالية
+Subtracted Drafts Report,Documentos de déficit,Defizitdokumente,سند های کسری,وثائق العجز
+Target Person Output,La persona que recibirá la salida,"Die Person, die die Ausgabe erhalten soll",شخص موردنظر برای دریافت خروجی,الشخص الذي سيستلم الناتج
+Target Unit Output,La unidad deseada para recibir la salida.,Die gewünschte Einheit zum Empfangen der Ausgabe.,واحد موردنظر برای دریافت خروجی,الوحدة المطلوبة لاستقبال الإخراج.
+"The main path
+",Ruta principal,Hauptroute,مسیر اصلی,الطريق الرئيسي
+"The website name
+",Nombre del sitio web,Websitename,نام وب سایت,اسم الموقع
+Time  M,Tiempo Minuto,Zeitminute,زمان دقیقه,الوقت الدقيقة
+Tutorial - GMS,Capacitación - GMS,Schulung - GMS,آموزش - GMS,التدريب - GMS
+Unit Management System,Sistema de Gestión de Unidades,Einheitenverwaltungssystem,سیستم مدیریت واحد,نظام إدارة الوحدات
+Used Count (%),Número utilizado (%),Verwendete Anzahl (%),تعداد استفاده شده (%),العدد المستخدم (%)
+Used Time (%),Tiempo utilizado (%),Nutzungsdauer (%),زمان استفاده شده (%),الوقت المستخدم (%)
+Used Weight (%),Peso utilizado (%),Verwendetes Gewicht (%),وزن استفاده شده (%),الوزن المستخدم (%)
+Wait Symbol Path,Ruta del símbolo de espera,Wartesymbolpfad,مسیر نماد انتظار,مسار رمز الانتظار
+Weight  G,Peso en gramos,Gewicht in Gramm,وزن به گرم,الوزن بالجرام
+Weight Down Tolerance,Umbral de pérdida de peso,Gewichtsverlustschwelle,آستانه کاهش وزن,عتبة فقدان الوزن
+Weight Up Tolerance,Umbral de aumento de peso,Gewichtszunahmeschwelle,آستانه افزایش وزن,عتبة زيادة الوزن
+Work Max Tolerance,El mayor trabajo,Die meiste Arbeit,بیشترین میزان کار,اكثر عمل
+Work Min Tolerance,La menor cantidad de trabajo,Der geringste Arbeitsaufwand,کمترین میزان کار,أقل قدر من العمل
+<0> greater than limitation,<0> Más de lo permitido,<0> Mehr als zulässig,<0> بیشتر از حدمجاز,<0> أكثر من المسموح به
+<0> lesser than limitation,<0> Menos del límite permitido,<0> Weniger als das zulässige Limit,<0> کمتر از حدمجاز,<0> أقل من الحد المسموح به
+Add a new Draft,Agregar un nuevo documento,Neues Dokument hinzufügen,افزودن یک سند جدید,إضافة مستند جديد
+CLICK ON THIS LINK,Haga clic en este enlace,Klicken Sie auf diesen Link,بر روی این لینک کلیک کنید,انقر على هذا الرابط
+Config Units - ERP,Unidades de edición - ERP,Bearbeitungseinheiten - ERP,ویرایش واحدها - ای آر پی,وحدات التحرير - تخطيط موارد المؤسسات
+Damage By Good Impact,Impacto del daño debido a mercancías defectuosas,Auswirkungen von Schäden aufgrund mangelhafter Ware,تاثیر آسیب بدلیل نقص کالا,تأثير الضرر الناجم عن البضائع المعيبة
+Damage By Person Impact,El impacto del daño por defecto personal,Die Auswirkungen eines Schadens aufgrund eines persönlichen Defekts,تاثیر آسیب بدلیل نقص شخص,أثر الضرر الناتج عن العيب الشخصي
+Damage By Tool Impact,Impacto del daño debido a fallas de la herramienta,Auswirkungen von Schäden durch Werkzeugversagen,تاثیر آسیب بدلیل نقص ابزار,تأثير الضرر الناتج عن فشل الأداة
+Damage By Unit Impact,Impacto del daño debido a un defecto de la unidad,Auswirkungen von Schäden durch Gerätedefekt,تاثیر آسیب بدلیل نقص واحد,تأثير الضرر الناجم عن عيب الوحدة
+Damage By Vocation Impact,Impacto de los daños debido al fallo de la misión,Auswirkungen von Schäden aufgrund eines Missionsversagens,تاثیر آسیب بدلیل نقص ماموریت,تأثير الضرر الناجم عن فشل المهمة
+Double click to hide,Haga doble clic para ocultar.,Zum Ausblenden doppelklicken.,برای پنهان کردن دوبار کلیک کنید,انقر نقرًا مزدوجًا لإخفاء.
+Edit Drafts - ERP,Edición de documentos - ERP,Dokumente bearbeiten - ERP,ویرایش سند ها - ای آر پی,تحرير المستندات - تخطيط موارد المؤسسات
+Edit Drafts - GMS,Edición de remesas - GMS,Überweisungen bearbeiten - GMS,ویرایش حواله ها - GMS,تحرير الحوالات المالية - GMS
+Edit Goods - ERP,Editar productos - ERP,Produkte bearbeiten - ERP,ویرایش کالا ها - ای آر پی,تحرير المنتجات - تخطيط موارد المؤسسات
+Edit Personnel - ERP,Editar Personas - ERP,Personen bearbeiten - ERP,ویرایش اشخاص - ای آر پی,تعديل الأشخاص - تخطيط موارد المؤسسات
+Edit Personnel - GMS,Editar personas - GMS,Personen bearbeiten - GMS,ویرایش اشخاص - GMS,تعديل الأشخاص - GMS
+Edit Products - GMS,Editar productos - GMS,Produkte bearbeiten - GMS,ویرایش محصولات - GMS,تحرير المنتجات - GMS
+Edit System - ERP,Edición de sistemas - ERP,Systembearbeitung - ERP,ویرایش سیستم - ای آر پی,تحرير النظام - تخطيط موارد المؤسسات
+Edit System - GMS,Edición del sistema - GMS,Systembearbeitung - GMS,ویرایش سیستم - GMS,تحرير النظام - GMS
+Edit Tools - GMS,Herramientas de edición - GMS,Bearbeitungswerkzeuge – GMS,ابزار ویرایش - GMS,أدوات التحرير - GMS
+Edit Units - GMS,Unidades de edición - GMS,Bearbeitungseinheiten - GMS,ویرایش واحدها - GMS,وحدات التحرير - GMS
+Edit Vocations - ERP,Misiones de edición - ERP,Missionen bearbeiten – ERP,ویرایش ماموریت ها - ای آر پی,مهام التحرير - تخطيط موارد المؤسسات
+Integrated Resources Management System,Sistema integrado de gestión de recursos,Integriertes Ressourcenmanagementsystem,سامانه یکپارچه مدیریت منابع,نظام إدارة الموارد المتكامل
 Manage Drafts - ERP,Gestión Documental - ERP,Dokumentenmanagement - ERP,مدیریت سند ها - ای آر پی,إدارة المستندات - تخطيط موارد المؤسسات
 Manage Drafts - GMS,Gestión de remesas - GMS,Überweisungsmanagement - GMS,مدیریت حواله ها - GMS,إدارة التحويلات المالية - GMS
 Manage Entire - GMS,Gerencia General - GMS,Geschäftsführung - GMS,مدیریت کل - GMS,الإدارة العامة - GMS
@@ -317,132 +108,14 @@ Manage System - GMS,Gestión del sistema - GMS,Systemverwaltung - GMS,مدیری
 Manage Tools - GMS,Gestión de herramientas - GMS,Werkzeugverwaltung - GMS,مدیریت ابزارها - GMS,إدارة الأدوات - GMS
 Manage Units - GMS,Gestión de Unidades - GMS,Einheitenverwaltung - GMS,مدیریت واحدها - GMS,إدارة الوحدة - GMS
 Manage Users - GMS,Gestión de Personas - GMS,Personalmanagement - GMS,مدیریت اشخاص - GMS,إدارة الأفراد - GMS
-Management,Gestión,Management,مدیریت,إدارة
-MARKET,Mercado,Markt,بازار,سوق
-"Maximum weight, which can works per each one time unit!",¡El peso máximo que una fuerza puede trabajar por unidad de tiempo!,"Das maximale Gewicht, das eine Kraft pro Zeiteinheit leisten kann!","حداکثر وزن، که نیرو می تواند در هر واحد زمانی کار کند!",الحد الأقصى للوزن الذي تستطيع القوة أن تعمله في وحدة الزمن!
-Melting,Fusión,Schmelzen,ذوب شدن,ذوبان
-Members,Miembros,Mitglieder,اعضا,أعضاء
-Menu,Menú,Speisekarte,منو,قائمة طعام
-Merge all similar in processing drafts,Consolidar todos los documentos similares que se están procesando,"Konsolidieren Sie alle ähnlichen Dokumente, die verarbeitet werden",تجمیع همه سند های مشابه درحال پردازش,دمج جميع المستندات المتشابهة التي يتم معالجتها
-Merge Drafts,Consolidación de documentos,Dokumentenkonsolidierung,تجمیع سند ها,توحيد المستندات
-Meta Data,Metadatos,Metadaten,فراداده,البيانات الوصفية
-Metting,Reunión,Treffen,ملاقات,مقابلة
-Middle Name,Segundo nombre,Zweiter Vorname,نام میانی,الاسم الأوسط
-MiMFa,MiMFa,MiMFa,میم فا,ميمفا
-MiMFa aseqbase,Base de datos MiMFa,MiMFa aseqbase,میم فا اسِک بِیس,ميمفا إسك بيس
 MiMFa Enterprise Resource Planning,Sistema de planificación de recursos empresariales MiMFa,MiMFa Enterprise-Ressourcenplanungssystem,سامانه برنامه ریزی منابع سازمانی میم فا,نظام تخطيط موارد المؤسسة MiMFa
 MiMFa Goldsmith Management System,Sistema de gestión de talleres de orfebrería,Goldschmiedewerkstatt-Managementsystem,سیستم مدیریت کارگاه طلاسازی,نظام إدارة ورشة الصياغة
 MiMFa Integrated Management System,Sistema de gestión integrado,Integriertes Managementsystem,سامانه یکپارچه مدیریت,نظام الإدارة المتكامل
-MiMFa Integrated Resources Management System,Sistema Integrado de Gestión de Recursos MiMFa,MiMFa Integriertes Ressourcenmanagementsystem,سامانه یکپارچه مدیریت منابع میم فا,نظام إدارة الموارد المتكامل MiMFa
 MiMFa Unit Management System,Sistema de Gestión de Unidades MiMFa,MiMFa-Einheitenverwaltungssystem,سیستم مدیریت واحدهای میم فا,نظام إدارة وحدات MiMFa
-Minimal Members Factory,Profesionales de la tecnología,Technologieexperten,متخصصین فناوری,متخصصو التكنولوجيا
-Minimum Numbers of Goods to Done this Vocation (n),Número mínimo de bienes para completar esta misión (n),Mindestanzahl an Waren zum Abschließen dieser Mission (n),حداقل تعداد کالا برای انجام این ماموریت (n),الحد الأدنى لعدد البضائع لإكمال هذه المهمة (ن)
-Minimum Numbers of Products to Use this Tool (n),Número mínimo de productos para utilizar esta herramienta (n),Mindestanzahl von Produkten zur Verwendung dieses Tools (n),حداقل تعداد محصولات برای استفاده از این ابزار (n),الحد الأدنى لعدد المنتجات لاستخدام هذه الأداة (ن)
-Minimum Time of Goods to Done this Vocation (m),Tiempo mínimo para completar esta misión (m),Mindestzeit zum Abschließen dieser Mission (m),حداقل زمان انجام این ماموریت (متر),الحد الأدنى للوقت لإكمال هذه المهمة (م)
-Minimum Time of Products to Use this Tool (m),Tiempo mínimo de uso de esta herramienta (m),Mindestnutzungsdauer dieses Werkzeugs (m),حداقل زمان استفاده از این ابزار (متر),الحد الأدنى لوقت استخدام هذه الأداة (م)
-Minimum Weight of Goods to Done this Vocation  (g),Peso mínimo de la mercancía para completar esta misión (gramos),Mindestgewicht der Waren zur Erfüllung dieser Mission (Gramm),حداقل وزن کالا برای انجام این ماموریت (گرم),الحد الأدنى لوزن البضائع لإكمال هذه المهمة (جرام)
-Minimum Weight of Products to Use this Tool  (g),Peso mínimo del producto para utilizar esta herramienta (gramos),Mindestproduktgewicht zur Verwendung dieses Werkzeugs (Gramm),حداقل وزن محصولات برای استفاده از این ابزار (گرم),الحد الأدنى لوزن المنتج لاستخدام هذه الأداة (جرام)
-"Minimum weight, which can works per each one time unit!",¡El peso mínimo que una fuerza puede ejercer por unidad de tiempo!,"Das Mindestgewicht, auf das eine Kraft pro Zeiteinheit einwirken kann!","حداقل وزن، که نیرو می تواند در هر واحد زمانی کار کند!",أقل وزن يمكن للقوة أن تؤثر عليه في وحدة الزمن!
-Mo,D,D,د,د
-More,Más,Mehr,بیشتر,أكثر
-More...,Más...,Mehr...,بیشتر...,أكثر...
-n,Número,Nummer,عدد,رقم
-Name,Nombre,Name,نام,اسم
-New User...,Nuevo usuario...,Neuer Benutzer...,کاربر جدید...,مستخدم جديد...
-Next,Próximo,Nächste,بعد,التالي
-No items available,No se encontraron elementos para mostrar.,Keine Elemente zum Anzeigen gefunden.,موردی برای نمایش یافت نشد,لم يتم العثور على أي عناصر لعرضها.
 No matching items found,No se encontraron artículos.,Keine Elemente gefunden.,موردی یافت نشد,لم يتم العثور على أي عناصر.
-NULL,Ninguno,Keiner,هیچ,لا أحد
-Numbers,Número,Nummer,تعداد,رقم
-Numbers  N,Número n,Nummer n,تعداد n,الرقم ن
-Numbers (<0>),Número (<0>),Nummer (<0>),تعداد (<0>),الرقم (<0>)
-Numbers (n),Número (n),Zahl (n),تعداد (n),العدد (ن)
-Numbers of Goods Used in this Vocation (n),Número de bienes utilizados en esta misión (n),Anzahl der in dieser Mission verwendeten Güter (n),تعداد کالا استفاده شده در این ماموریت (n),عدد البضائع المستخدمة في هذه المهمة (ن)
-Numbers of Products Used this Tool (n),Número de productos utilizados con esta herramienta (n),Anzahl der mit diesem Werkzeug verwendeten Produkte (n),تعداد محصولات استفاده شده از این ابزار (n),عدد المنتجات المستخدمة مع هذه الأداة (ن)
-Numbers of this Tool (n),Número de estas herramientas (n),Anzahl dieser Werkzeuge (n),تعداد این ابزار (n),عدد هذه الأدوات (ن)
-Numbers of this Vocation (n),Número de esta misión (n),Nummer dieser Mission (n),تعداد این ماموریت (n),عدد هذه المهمة (ن)
-Numbers of this Work Pieces (<0>),Número de partes de este documento (<0>),Anzahl der Teile in diesem Dokument (<0>),تعداد قطعات این سند (<0>),عدد الأجزاء في هذه الوثيقة (<0>)
-Numbers Of Used  N,Número de n utilizados,Anzahl der verwendeten n,تعداد n استفاده شده,عدد n المستخدمة
 Numbers of Used (n),Número utilizado (n),Verwendete Anzahl (n),تعداد استفاده شده (n),العدد المستخدم (ن)
-Numbers Of Works  N,Número de tareas n,Anzahl der Aufgaben n,تعداد کارها n,عدد المهام n
 Numbers of Works (n),Número de puestos de trabajo (n),Anzahl der Arbeitsplätze (n),تعداد کار (n),عدد الوظائف (ن)
-Order,Orden,Befehl,ترتیب,طلب
-Organization,Organización,Organisation,سازمان,منظمة
-Origin,Objetivo,Zweck,مقصود,غاية
-Other,Otro,Andere,دیگر,آخر
-Others,Otro,Andere,سایر,آخر
-Outbox,Bandeja de salida,Postausgang,صندوق خروجی ها,صندوق الصادر
-Output,Producción,Ausgabe,خروجی,الناتج
-Output Drafts,Documentos de salida,Ausgabedokumente,سند های خروجی,مستندات الإخراج
-Output Drafts Report,Informe del documento de salida,Ausgabedokumentbericht,گزارش سند های خروجی,تقرير مستند الإخراج
-Output Statements,Circulación de productos,Verbreitung der Ergebnisse,گردش خروجی ها,تداول المخرجات
-Outputs,Salidas,Ausgänge,خروجی ها,المخرجات
-Owner,Dueño,Eigentümer,مالک,مالك
-Owner Description,Descripción del propietario,Beschreibung des Eigentümers,توضیحات مالک,وصف المالك
-Parent,Padre,Elternteil,والد,الوالد
-ParentId,Identificación de base,Basis-ID,شناسه پایه,معرف القاعدة
-Partial Drafts,Documentos inacabados,Unfertige Dokumente,سند های نیمه کاره,وثائق غير مكتملة
-Partial Drafts Report,Informe de documentos completados,Bericht über ausgefüllte Dokumente,گزارش سند های تکمیل شده,تقرير الوثائق المكتملة
-Partial Statements,Circulación de productos semiacabados,Zirkulation von Halbzeugen,گردش نیمه کاره ها,تداول المنتجات شبه المصنعة
-Partialbox,Fondo de asuntos pendientes,Fonds für unerledigte Geschäfte,صندوق نیمه کاره ها,صندوق الأعمال غير المكتملة
-Partials,Productos semiacabados,Halbfertigprodukte,نیمه کاره ها,المنتجات نصف المصنعة
-Password,Contraseña,Passwort,کلمه عبور,كلمة المرور
-Password Confirmation,Confirmar Contraseña,Passwort bestätigen,تایید رمز عبور,تأكيد كلمة المرور
-Path,Ruta,Route,مسیر,طريق
-Pause,Detener,Stoppen,توقف,قف
-Pause <0><1>,Detener <0><1>,Stopp <0><1>,توقف <0><1>,توقف <0><1>
-Pause processing...,Deteniendo el procesamiento temporalmente...,Die Verarbeitung wird vorübergehend gestoppt...,توقف موقتی پردازش...,إيقاف المعالجة مؤقتًا...
-Paused,Interrumpido,Gestoppt,متوقف,متوقف
-Payment Content,Contenido del pago,Zahlungsinhalt,محتوای پرداخت,محتوى الدفع
-Payment Path,Método de pago,Zahlungsmethode,مسیر پرداخت,طريقة الدفع
-Person,Persona,Person,شخص,شخص
-PERSONNEL,Gente,Menschen,اشخاص,الناس
-Personnel Report,Informes individuales,Einzelberichte,گزارش اشخاص,التقارير الفردية
-Phone,Teléfono,Telefon,تلفن,الهاتف
-Phone Number,Número de teléfono,Telefonnummer,شماره تلفن,رقم التليفون
-Please complete all required parameters,Por favor complete todos los parámetros requeridos.,Bitte füllen Sie alle erforderlichen Parameter aus.,لطفا تمام پارامترهای مورد نیاز را تکمیل کنید,يرجى استكمال كافة المعلمات المطلوبة.
-PLUGINS,Complementos,Plugins,افزونه ها,المكونات الإضافية
-Pole,Eje,Achse,محور,محور
-POLEBOX,Fondo Pivotal,Pivotal Fund,صندوق محوری ها,صندوق بيفوتال
-Poled Drafts,Remesas fundamentales,Wichtige Überweisungen,حواله های محوری,التحويلات المالية المحورية
-Poled Drafts Report,Informe fundamental sobre remesas,Zentraler Überweisungsbericht,گزارش حواله های محوری,تقرير التحويلات المحورية
-Poles,Pivotes,Drehpunkte,محوری ها,محاور
-POSTS,Escritos,Schriften,نوشته ها,كتابات
-Posts Management,Administrar publicaciones,Beiträge verwalten,مدیریت پست ها,إدارة المشاركات
-Powered By, Desarrollado por, Entwickelt von,توسعه داده شده توسط , تم تطويره بواسطة
-Powered By:, Desarrollado por, Entwickelt von,توسعه داده شده توسط , تم تطويره بواسطة
-Previous,Antes,Vor,قبل,قبل
-Priority,Prioridad,Priorität,اولویت,أولوية
-Process Symbol Path,Ruta del símbolo del proceso,Prozesssymbolpfad,مسیر نماد پردازش,مسار رمز العملية
-Processing,Tratamiento,Verarbeitung,در حال پردازش,يعالج
-Product,Producto,Produkt,محصول,منتج
-ProductName,Nombre del producto,Produktname,نام محصول,اسم المنتج
-PRODUCTS,Productos,Produkte,محصولات,منتجات
-Products Management,Gestión de productos,Produktmanagement,مدیریت محصولات,إدارة المنتجات
-PRODUCTS REPORT,Informe de producto,Produktbericht,گزارش محصولات,تقرير المنتج
 Profile picture modifyed successfully!,¡Foto de perfil modificada exitosamente!,Profilbild erfolgreich geändert!,تصویر نمایه با موفقیت اصلاح شد!,تم تعديل الصورة الشخصية بنجاح!
-Profile updated successfully!,¡Perfil actualizado exitosamente!,Profil erfolgreich aktualisiert!,پروفایل با موفقیت به روز شد!,تم تحديث الملف الشخصي بنجاح!
-Public Images Logoformal_ <0><1><2><3><0><0><0><4><5><3> - Aseqbase,Imágenes públicas Logoformal_ <0><1><2><3><0><0><0><4><5><3> - Aseqbase,Öffentliche Bilder Logoformal_ <0><1><2><3><0><0><0><4><5><3> - Aseqbase,تصاویر عمومی Logoformal_ <0><1><2><3><0><0><0><4><5><3> - Aseqbase,الصور العامة Logoformal_ <0><1><2><3><0><0><0><4><5><3> - Aseqbase
-Rate,Rango,Rang,رتبه,رتبة
-Receive Impact,El impacto de recibir,Die Auswirkungen des Empfangs,تاثیر دریافت,تأثير الاستلام
-Received,Recibió,Erhalten,دریافت شده,تلقى
-Recycle,Reciclaje,Recycling,بازیافت,إعادة التدوير
-Recycle <0><1>,Reciclaje <0><1>,Recycling <0><1>,بازیافت <0><1>,إعادة التدوير <0><1>
-Recycle Impact,El impacto del reciclaje,Die Auswirkungen des Recyclings,تاثیر بازیافت,تأثير إعادة التدوير
-RecycleBox,Caja de reciclaje,Recyclingbox,صندوق بازیافت ها,صندوق إعادة التدوير
-Recycled,Reciclado,Recycelt,بازیافت شده,مُعاد تدويرها
-Recycleds,Reciclaje,Recycling,بازیافت ها,إعادة التدوير
-Recycles,Reciclaje,Recycling,بازیافت ها,إعادة التدوير
-Reg,Registro,Anmeldung,ثبت,تسجيل
-Register,Registro,Registrieren,ثبت نام,يسجل
-Registerbox,Caja de registro,Registrierungsfeld,صندوق ثبتی ها,صندوق التسجيل
-Registered,Registrado,Eingetragen,ثبت شده,مسجل
-Registered Drafts,Documentos de registro,Anmeldeunterlagen,اسناد ثبتی,وثائق التسجيل
-Registered Drafts Report,Informe de documentos de registro,Bericht zu Registrierungsunterlagen,گزارش اسناد ثبتی,تقرير وثائق التسجيل
-Registereds,Inscripciones,Anmeldungen,ثبتی ها,التسجيلات
-related to <0> with <1> of weight,Para cantidad <0> con peso total <1>,Für Menge <0> mit Gesamtgewicht <1>,برای تعداد <0> با وزن کل <1>,للكمية <0> ذات الوزن الإجمالي <1>
-REPORT,Informe,Bericht,گزارش,تقرير
-Report - GMS,Informe - GMS,Bericht - GMS,گزارش - GMS,تقرير - GMS
 Report Drafts - ERP,Informe de documentos - ERP,Dokumentenbericht - ERP,گزارش سند - ای آر پی,تقرير مستند - تخطيط موارد المؤسسات
 Report Drafts - GMS,Informe de remesas - GMS,Überweisungsbericht - GMS,گزارش حواله - GMS,تقرير التحويلات - GMS
 Report Personnel - ERP,Informe de persona - ERP,Personenbericht - ERP,گزارش اشخاص - ای آر پی,تقرير الشخص - تخطيط موارد المؤسسات
@@ -455,42 +128,6 @@ Report Trace - GMS,Informe de seguimiento - GMS,Tracking-Bericht - GMS,گزار�
 Report Units - ERP,Unidades de Informe - ERP,Berichtseinheiten - ERP,واحدهای گزارش - ای آر پی,وحدات التقارير - تخطيط موارد المؤسسات
 Report Units - GMS,Unidades de informe - GMS,Berichtseinheiten - GMS,واحدهای گزارش - GMS,وحدات إعداد التقارير - GMS
 Report Vocations - ERP,Informe de misión - ERP,Missionsbericht - ERP,گزارش ماموریت ها - ای آر پی,تقرير المهمة - تخطيط موارد المؤسسات
-Reset,Reiniciar,Zurücksetzen,بازنشانی,إعادة ضبط
-Reset Password,Restablecer contraseña,Passwort zurücksetzen,بازنشانی رمز عبور,إعادة تعيين كلمة المرور
-Responsible Person,Persona responsable,Verantwortlicher,شخص مسئول,الشخص المسؤول
-Responsible Unit,Unidad responsable,Verantwortliche Stelle,واحد مسئول,الوحدة المسؤولة
-Restore,Devolver,Zurückkehren,بازگردانی,يعود
-Resume,Continuar,Weitermachen,ادامه,يكمل
-Resume <0><1>,Continuar <0><1>,Weiter <0><1>,ادامه <0><1>,متابعة <0><1>
-Resume and return to the currentbox!,¡Continúe procesando este documento!,Fahren Sie mit der Bearbeitung dieses Dokuments fort!,ادامه دادن به پردازش روی این سند!,متابعة معالجة هذه الوثيقة!
-Return,Atrás,Zurück,برگشت,خلف
-Return <0><1>,Atrás <0><1>,Zurück <0><1>,برگشت <0><1>,العودة <0><1>
-Ring<0>,Anillo<0>,Ring<0>,حلقه<0>,خاتم<0>
-Roof of the accepted added weight factor!,¡Coeficiente máximo de peso añadido admisible!,Maximal zulässiger Zusatzgewichtsbeiwert!,ضریب حداکثر وزن افزوده مجاز!,الحد الأقصى المسموح به لمعامل الوزن المضاف!
-Route,Ruta,Route,مسیر,طريق
-s,Artículos de segunda clase,Sekunden,ثانیه,ثواني
-Sa,Ella,Sch,ش,ش
-Score,Puntaje,Punktzahl,نمره,نتيجة
-Search,Buscar,Suchen,جستجو,يبحث
-Search Engine,Motor de búsqueda,Suchmaschine,موتور جستجو,محرك البحث
-Search Results,Resultados de la búsqueda,Suchergebnisse,نتایج جستجو,نتائج البحث
-Search: , Buscar:, Suchen:,جستجو: , يبحث:
-See More...,Ver más...,Mehr sehen...,بیشتر ببینید...,شاهد المزيد...
-Send Impact,Impacto de la publicación,Auswirkungen der Veröffentlichung,تاثیر ارسال,تأثير النشر
-Send recovery email for the acoount,Enviar un correo electrónico de recuperación para la cuenta,Senden Sie eine Wiederherstellungs-E-Mail für das Konto,ارسال ایمیل بازیابی برای اکانت,إرسال بريد إلكتروني لاسترداد الحساب
-Sent,Enviado,Gesendet,ارسال شده,مرسل
-Sequence,Secuencia,Sequenz,دنباله,تسلسل
-Services,Servicios,Leistungen,خدمات,خدمات
-Shortcuts,Atajos,Verknüpfungen,میانبرها,اختصارات
-Show,Espectáculo,Zeigen,نمایش,يعرض
-Show count errors!,Visualización de errores relacionados con discrepancias en los números,Anzeige von Fehlern im Zusammenhang mit Zahlenabweichungen,نمایش خطاهای مربوط به مغایرت در تعداد,عرض الأخطاء المتعلقة بالتناقضات في الأرقام
-Show Profile,Ver perfil,Profil ansehen,نمایش پروفایل,عرض الملف الشخصي
-Show weight errors!,Errores de visualización relacionados con discrepancias de peso,Anzeigefehler im Zusammenhang mit Gewichtsabweichungen,نمایش خطاهای مربوط به مغایرت در وزن,أخطاء العرض المتعلقة باختلافات الوزن
-Showing _FROM_ to _TO_ of _TOTAL_ entries,Mostrar _DESDE_ a _HASTA_ de _TOTAL_ entradas,Zeige _VON_ bis _BIS_ von _GESAMTEN_ Einträgen,نمایش _FROM_ تا _TO_ از _TOTAL_ ورودی,عرض _FROM_ إلى _TO_ من إجمالي _TOTAL_ الإدخالات
-Showing _START_ to _END_ of _TOTAL_ entries,Mostrando artículos del _INICIO_ al _FIN_ de _TOTAL_ artículos.,Es werden die Elemente _START_ bis _END_ von _TOTAL_ Elementen angezeigt.,نمایش موارد _START_ تا _END_ از کل _TOTAL_ مورد,عرض العناصر من _START_ إلى _END_ من إجمالي _TOTAL_ العناصر.
-Side Menus,Menús laterales,Seitenmenüs,منوهای جانبی,القوائم الجانبية
-Sign - ERP,Firma - ERP,Sign - ERP,علامت - ای آر پی,تسجيل الدخول - تخطيط موارد المؤسسات
-Sign - GMS,Señal - GMS,Zeichen - GMS,علامت - GMS,علامة - GMS
 Sign Active - ERP,Firma Activa - ERP,Sign Active - ERP,Sign Active - ای آر پی,تسجيل الدخول النشط - تخطيط موارد المؤسسات
 Sign Active - GMS,Firma activa - GMS,Zeichen aktiv - GMS,Sign Active - GMS,تسجيل الدخول نشط - GMS
 Sign Dashboard - ERP,Panel de firmas - ERP,Signature Dashboard – ERP,داشبورد امضا - ای آر پی,لوحة معلومات التوقيع - تخطيط موارد المؤسسات
@@ -498,296 +135,250 @@ Sign Dashboard - GMS,Panel de firmas - GMS,Signatur-Dashboard – GMS,داشبو
 Sign Edit - Aseqbase,Edición de firma - Aseqbase,Signatur bearbeiten – Aseqbase,امضا ویرایش - Aseqbase,تعديل التوقيع - Aseqbase
 Sign Edit - ERP,Edición de firmas - ERP,Signaturbearbeitung - ERP,ویرایش امضا - ای آر پی,تحرير التوقيع - تخطيط موارد المؤسسات
 Sign Edit - GMS,Edición de firmas - GMS,Signaturbearbeitung - GMS,ویرایش امضا - GMS,تحرير التوقيع - GMS
-Sign In,Acceso,Login,ورود,تسجيل الدخول
 Sign In - Aseqbase,Iniciar sesión - Aseqbase,Anmelden – Aseqbase,ورود - Aseqbase,تسجيل الدخول - Aseqbase
 Sign In - ERP,Iniciar sesión - ERP,Anmeldung - ERP,ورود به سیستم - ای آر پی,تسجيل الدخول - تخطيط موارد المؤسسات
 Sign In - GMS,Iniciar sesión - GMS,Anmelden - GMS,ورود به سیستم - GMS,تسجيل الدخول - GMS
-Sign Out,Finalizar la sesión,Ausloggen,خروج از سیستم,تسجيل الخروج
 Sign Out - ERP,Cerrar sesión - ERP,Abmelden - ERP,خروج از سیستم - ای آر پی,تسجيل الخروج - تخطيط موارد المؤسسات
 Sign Out - GMS,Cerrar sesión - GMS,Abmelden - GMS,خروج از سیستم - GMS,تسجيل الخروج - GMS
 Sign Recover - ERP,Recuperación de señales - ERP,Signalwiederherstellung - ERP,بازیابی علامت - ای آر پی,استعادة الإشارة - تخطيط موارد المؤسسات
 Sign Recover - GMS,Recuperación de señal - GMS,Signalwiederherstellung - GMS,بازیابی علامت - GMS,استعادة الإشارة - GMS
-Sign Up,Registro,Registrieren,ثبت نام,يسجل
 Sign Up - ERP,Registro - ERP,Registrierung - ERP,ثبت نام - ای آر پی,التسجيل - تخطيط موارد المؤسسات
 Sign Up - GMS,Registrarse - GMS,Registrieren - GMS,ثبت نام - GMS,سجل - GMS
 Sign View - Aseqbase,Vista de señal - Aseqbase,Zeichenansicht - Aseqbase,Sign View - Aseqbase,عرض اللافتات - Aseqbase
-Signature,Firma,Unterschrift,امضا,إمضاء
-Slogan,Eslogan,Slogan,شعار,شعار
-Social Media,Redes sociales,Soziale Medien,رسانه های اجتماعی,وسائل التواصل الاجتماعي
-Source Person,Autor,Urheber,شخص مبدا,المنشئ
-Source Unit,Unidad de origen,Herkunftseinheit,واحد مبدا,وحدة المنشأ
-SQLSTATE[<0><1><2><2><2>]: Integrity constraint violation: <3><2><4><0> Duplicate entry <5> for key <6>,SQLSTATE[<0><1><2><2><2>]: Violación de la restricción de integridad: <3><2><4><0> Entrada duplicada <5> para la clave <6>,SQLSTATE[<0><1><2><2><2>]: Verletzung der Integritätsbedingung: <3><2><4><0> Doppelter Eintrag <5> für Schlüssel <6>,SQLSTATE[<0><1><2><2><2>]: نقض محدودیت یکپارچگی: <3><2><4><0> ورودی تکراری <5> برای کلید <6>,SQLSTATE[<0><1><2><2><2>]: انتهاك قيد السلامة: <3><2><4><0> إدخال مكرر <5> للمفتاح <6>
-SQLSTATE[<0><1>S<2><1>]: Base table or view not found: <3><3><0><4> Table <5> doesn<6>t exist,SQLSTATE[<0><1>S<2><1>]: No se encontró la tabla base o la vista: <3><3><0><4> La tabla <5><6> no existe.,SQLSTATE[<0><1>S<2><1>]: Basistabelle oder Ansicht nicht gefunden: <3><3><0><4> Tabelle <5><6> existiert nicht.,SQLSTATE[<0><1>S<2><1>]: جدول یا نمای پایه یافت نشد: <3><3><0><4> جدول <5><6>وجود ندارد,SQLSTATE[<0><1>S<2><1>]: لم يتم العثور على الجدول الأساسي أو العرض: <3><3><0><4> الجدول <5><6> غير موجود.
-SQLSTATE[<0><1>S<2><1>]: Base table or view not found: <3><3><0><4> Table <5> doesn't exist,SQLSTATE[<0><1>S<2><1>]: No se encontró la tabla base o vista: <3><3><0><4> La tabla <5> no existe,SQLSTATE[<0><1>S<2><1>]: Basistabelle oder Ansicht nicht gefunden: <3><3><0><4> Tabelle <5> existiert nicht,SQLSTATE[<0><1>S<2><1>]: جدول یا نمای پایه یافت نشد: <3><3><0><4> جدول <5> وجود ندارد,SQLSTATE[<0><1>S<2><1>]: لم يتم العثور على الجدول الأساسي أو العرض: <3><3><0><4> الجدول <5> غير موجود
-Statements,Excursiones,Ausflüge,گردش ها,الرحلات
-Status,Estado,Status,وضعیت,حالة
-Stock,Inventario,Inventar,موجودی,جرد
-Stock Drafts,Remesas disponibles,Verfügbare Überweisungen,حواله های موجود,التحويلات المالية المتاحة
-Stock Drafts Report,Informe sobre las remesas existentes,Bericht über bestehende Überweisungen,گزارش حواله های موجود,تقرير عن التحويلات المالية الحالية
-STOCKBOX,Fondo de inventario,Inventarfonds,صندوق موجودی ها,صندوق المخزون
-Stocked,Disponible,Verfügbar,موجود,متاح
-Stocks,Inventarios,Vorräte,موجودی ها,المخزونات
-Su,Y,Y,ی,ي
-Submit,Confirmación,Bestätigung,تایید,تأكيد
-Submit <0>,Registrarse <0>,Registrieren <0>,ثبت <0>,سجل <0>
-Subtract Impact,Impacto del déficit,Auswirkungen des Defizits,تاثیر کسری,تأثير العجز
-Subtractbox,Fondo de Déficit,Defizitfonds,صندوق کسری ها,صندوق العجز
-SUBTRACTED,Deducido,Abgezogen,کسر شده,تم خصمها
-Subtracted Drafts Report,Documentos de déficit,Defizitdokumente,سند های کسری,وثائق العجز
-Subtracted Drafts Report,Informe de documentos de déficit,Bericht über Defizitdokumente,گزارش سند های کسری,تقرير وثائق العجز
-Subtracted Statements,Circulación de déficits,Zirkulation von Defiziten,گردش کسری ها,تداول العجز
-Subtracteds,Déficits,Defizite,کسری ها,العجز
-SYSTEM,Sistema,System,سیستم,نظام
-System Management,Gestión del sistema,Systemverwaltung,مدیریت سیستم,إدارة النظام
-System Report,Informe del sistema,Systembericht,گزارش سیستم,تقرير النظام
 System Translation - Aseqbase,Traducción del sistema - Aseqbase,Systemübersetzung – Aseqbase,ترجمه سیستم - Aseqbase,ترجمة النظام - Aseqbase
 System Translation - GMS,Sistema de traducción - GMS,Übersetzungssystem - GMS,ترجمه سیستم - GMS,نظام الترجمة - GMS
 System Translator - GMS,Sistema de traducción - GMS,Übersetzersystem - GMS,مترجم سیستم - GMS,نظام المترجم - GMS
-SYSTEMS,Sistema,System,سامانه,نظام
-Tags,Etiquetas,Labels,برچسپ ها,العلامات
-Tags Management,Gestión de etiquetas,Tag-Verwaltung,مدیریت برچسپ ها,إدارة العلامات
-Target Person,La persona de quien hablamos,Die betreffende Person,شخص موردنظر,الشخص المعني
-Target Person Output,La persona que recibirá la salida,"Die Person, die die Ausgabe erhalten soll",شخص موردنظر برای دریافت خروجی,الشخص الذي سيستلم الناتج
-Target Unit,Unidad deseada,Gewünschte Einheit,واحد موردنظر,الوحدة المطلوبة
-Target Unit Output,La unidad deseada para recibir la salida.,Die gewünschte Einheit zum Empfangen der Ausgabe.,واحد موردنظر برای دریافت خروجی,الوحدة المطلوبة لاستقبال الإخراج.
-Tell a public intorduction about yourself,Da una introducción general sobre ti.,Geben Sie eine allgemeine Vorstellung Ihrer Person.,یک معرفی عمومی در مورد خودتان بگویید,أعط مقدمة عامة عن نفسك.
-Template,Plantilla,Vorlage,قالب,نموذج
-TEMPLATES,Patrones,Muster,الگوها,أنماط
-Th,PAG,P,پ,ص
-"The <0> damaged draft, registered successfully!",<0>¡El documento dañado fue guardado exitosamente!,<0> Das beschädigte Dokument wurde erfolgreich gespeichert!,"<0> سند آسیب دیده، با موفقیت ثبت شد!",<0>تم حفظ المستند التالف بنجاح!
-"The <0> damaging draft, received successfully!",¡El documento de fallo <0> se recibió correctamente!,Absturzdokument <0> erfolgreich empfangen!,سند خرابی <0> با موفقیت دریافت شد!,تم استلام مستند الأعطال <0> بنجاح!
-"The <0> lost draft, received successfully!",¡El documento faltante <0> fue recibido exitosamente!,Das fehlende Dokument <0> wurde erfolgreich empfangen!,"سند گم شده <0>، با موفقیت دریافت شد!",تم استلام الوثيقة المفقودة <0> بنجاح!
-The <0> received in your current box!,<0> ¡Recibido en tu caja actual!,<0> in Ihrer aktuellen Box erhalten!,<0> در کادر فعلی شما دریافت شد!,<0> تم استلامه في صندوقك الحالي!
-The <0> returned to your current box!,<0>¡Regresó a su cuenta actual!,<0> Auf Ihr Girokonto zurückgebucht!,<0> به صندوق جاری شما بازگشت!,<0>تم إرجاعه إلى حسابك الحالي!
-The <0> sent to the next unit!,<0>¡Enviado a la siguiente unidad!,<0> An die nächste Einheit gesendet!,<0> به واحد بعدی ارسال شد!,<0>تم الإرسال إلى الوحدة التالية!
-"The default download links path
-",Ruta predeterminada para enlaces de descarga,Standardpfad für Download-Links,مسیر پیش فرض لینک های دانلود,المسار الافتراضي لروابط التنزيل
 "The default homepage path
 ",Ruta de la página de inicio predeterminada,Standardpfad der Startseite,مسیر پیش فرض صفحه اصلی,مسار الصفحة الرئيسية الافتراضية
-"The default payment contents to show for paying process
-",Contenido de pago predeterminado que se mostrará durante el pago,"Standardmäßige Zahlungsinhalte, die während des Bezahlvorgangs angezeigt werden",محتویات پرداخت پیش فرض برای نمایش در فرآیند پرداخت,محتويات الدفع الافتراضية التي سيتم عرضها أثناء الخروج
 "The default payment path
 ",Método de pago predeterminado,Standardzahlungsmethode,مسیر پرداخت پیش فرض,طريقة الدفع الافتراضية
-The destination unit to send this draft!,Unidad de destino a la que se enviará este documento,"Zieleinheit, an die dieses Dokument gesendet werden soll",واحد مقصد برای ارسال این سند,وحدة الوجهة التي سيتم إرسال هذه الوثيقة إليها
-The destination user to send this draft!,El usuario al que se enviará este documento.,"Der vorgesehene Benutzer, an den dieses Dokument gesendet werden soll.",کاربر مقصد برای ارسال این سند,المستخدم المقصود لإرسال هذه الوثيقة إليه.
-"The effective factor to all unit coligues
-",Factor que afecta a todos los individuos,"Faktor, der alle Individuen betrifft",فاکتور موثر بر همه اشخاص واحد,العوامل المؤثرة على جميع الأفراد
-The effective threshold for the numbers of good pieces in each draft,Umbral efectivo para cada pieza de un producto en cada documento,Effektiver Schwellenwert für jedes Stück einer Ware in jedem Dokument,آستانه موثر برای هر قطعه از یک کالا در هر سند,الحد الأقصى الفعال لكل قطعة من السلعة في كل وثيقة
-The effective threshold for the numbers of product pieces in each draft,Umbral efectivo para cada pieza de un producto en cada documento,Effektiver Schwellenwert für jedes Produktstück in jedem Dokument,آستانه موثر برای هر قطعه از یک محصول در هر سند,الحد الأقصى الفعال لكل قطعة من المنتج في كل وثيقة
-"The effective times for each draft
-",Tiempos efectivos para cada documento,Gültigkeitsdauer der einzelnen Dokumente,زمان های موثر برای هر سند,الأوقات الفعالة لكل وثيقة
-"The effective weight threshold of each piece in each draft
-",Umbral de peso efectivo para cada pieza en cada documento,Effektiver Gewichtsgrenzwert für jedes Stück in jedem Dokument,آستانه وزن موثر هر قطعه در هر سند,عتبة الوزن الفعالة لكل قطعة في كل وثيقة
 The form submitted successfully!,¡El formulario fue enviado exitosamente!,Das Formular wurde erfolgreich abgeschickt!,فرم با موفقیت ارسال شد!,تم إرسال النموذج بنجاح!
 The information added successfully!,¡Información añadida exitosamente!,Informationen erfolgreich hinzugefügt!,اطلاعات با موفقیت اضافه شد!,تمت إضافة المعلومات بنجاح!
 The information updated successfully!,¡Información actualizada exitosamente!,Informationen erfolgreich aktualisiert!,اطلاعات با موفقیت به روز شد!,تم تحديث المعلومات بنجاح!
 The items removed successfully!,¡Artículos eliminados exitosamente!,Elemente erfolgreich gelöscht!,موارد با موفقیت حذف شدند!,تم حذف العناصر بنجاح!
-"The location link on the map
-",Enlace de ubicación en el mapa,Standortlink auf der Karte,لینک مکان روی نقشه,رابط الموقع على الخريطة
-"The main contacts details to show on the most pages and contact page
-",Datos de contacto principales para mostrar en la mayoría de las páginas y página de contacto,Die wichtigsten Kontaktdaten werden auf den meisten Seiten und der Kontaktseite angezeigt.,جزئیات مخاطبین اصلی برای نمایش در بیشتر صفحات و صفحه تماس,تفاصيل الاتصال الرئيسية التي سيتم عرضها في معظم الصفحات وصفحة الاتصال
-"The main KeyWords of the website, these will effect on SEO and views
-",Las palabras clave principales del sitio web afectan al SEO y a las visitas.,Die wichtigsten Schlüsselwörter der Website wirken sich auf SEO und Besuche aus.,"کلمات کلیدی اصلی وب سایت، بر روی سئو و بازدیدها تأثیر می گذارد",الكلمات الرئيسية للموقع تؤثر على تحسين محركات البحث والزيارات.
-"The main members and personnel of the website
-",Miembros principales del sitio web,Hauptmitglieder der Website,اعضای اصلی وب سایت,الأعضاء الرئيسيين للموقع
-"The main menu items to show on the first page
-",Elementos del menú principal que se mostrarán en la primera página,Auf der ersten Seite anzuzeigende Hauptmenüelemente,موارد منوی اصلی برای نمایش در صفحه اول,عناصر القائمة الرئيسية التي سيتم عرضها في الصفحة الأولى
-"The main menu to show on the most pages
-",Menú principal para mostrar en la mayoría de las páginas,Hauptmenü zur Anzeige auf den meisten Seiten,منوی اصلی برای نمایش در بیشتر صفحات,القائمة الرئيسية لعرضها في معظم الصفحات
-The main name of the object  The website owner and name,El nombre del objeto principal del propietario del sitio web y el nombre,Der Hauptobjektname des Websitebesitzers und der Name,نام اصلی شی مالک وب سایت و نام,اسم الكائن الرئيسي لمالك الموقع والاسم
-"The main name of the object
-The website owner and name
-",El nombre real y apellido del propietario del sitio web,Der richtige Vor- und Nachname des Websitebesitzers,نام اصلی مالک وب سایت و نام,الاسم الحقيقي واسم العائلة لصاحب الموقع
-"The main path
-",Ruta principal,Hauptroute,مسیر اصلی,الطريق الرئيسي
-"The main shortcut menu to show on the most pages
-",Menú de acceso directo principal para mostrar en la mayoría de las páginas,Hauptkontextmenü zur Anzeige auf den meisten Seiten,منوی میانبر اصلی برای نمایش در بیشتر صفحات,القائمة المختصرة الرئيسية لعرضها على معظم الصفحات
-"The main symbol path to show on the errors
-",La ruta del símbolo principal a mostrar en caso de errores,"Der Pfad des Hauptsymbols, das bei Fehlern angezeigt werden soll",مسیر نماد اصلی برای نشان دادن روی خطاها,مسار الرمز الرئيسي الذي سيتم عرضه عند وجود أخطاء
-"The main symbol path to show while system is processing
-",La ruta al ícono principal que se mostrará durante el procesamiento del sistema.,"Der Pfad zum Hauptsymbol, das während der Systemverarbeitung angezeigt werden soll.",مسیر نماد اصلی برای نمایش در هنگام پردازش سیستم,المسار إلى الرمز الرئيسي الذي سيتم عرضه أثناء معالجة النظام.
-"The main symbol path to show while system is waiting
-",La ruta al ícono principal que se mostrará cuando el sistema esté esperando.,"Der Pfad zum Hauptsymbol, das angezeigt werden soll, wenn das System wartet.",مسیر نماد اصلی برای نمایش در زمانی که سیستم در انتظار است,المسار إلى الرمز الرئيسي الذي سيتم عرضه عندما يكون النظام في حالة انتظار.
-"The more detailed description of the website
-",Más información sobre el sitio web,Weitere Informationen zur Website,توضیحات بیشتر در مورد وب سایت,مزيد من المعلومات حول الموقع
-"The more detailed slogan of the website
-",Un eslogan más preciso para un sitio web,Präziserer Website-Slogan,شعار دقیق تر وب سایت,شعار موقع الويب الأكثر دقة
-The parent Draft which is related,Relacionado con el documento (documento principal),Bezogen auf das Dokument (Hauptdokument),مرتبط با سند (سند اصلی),متعلق بالوثيقة (الوثيقة الرئيسية)
-"The short description of the website
-",Breve descripción del sitio web,Kurze Website-Beschreibung,توضیحات کوتاه وب سایت,وصف مختصر للموقع
-"The short slogan of the website
-",Eslogan corto para un sitio web,Kurzer Website-Slogan,شعار کوتاه وب سایت,شعار موقع ويب قصير
-"The side menu to show on the most pages
-",Menú lateral para mostrar en la mayoría de las páginas,Seitenmenü zur Anzeige auf den meisten Seiten,منوی کناری برای نمایش در بیشتر صفحات,القائمة الجانبية لعرضها في معظم الصفحات
-The target Good to Process,Producto objetivo para procesamiento,Zielware für die Verarbeitung,کالا هدف برای پردازش,السلعة المستهدفة للمعالجة
-The target Product to Process,Producto objetivo para su procesamiento,Zielprodukt für die Verarbeitung,محصول هدف برای پردازش,المنتج المستهدف للمعالجة
-The user with these email or username could not register!,¡El usuario con este email o nombre de usuario no pudo registrarse!,Der Benutzer mit dieser E-Mail oder diesem Benutzernamen konnte sich nicht registrieren!,کاربر با این ایمیل یا نام کاربری نتوانست ثبت نام کند!,لم يتمكن المستخدم الذي لديه هذا البريد الإلكتروني أو اسم المستخدم من التسجيل!
 The username is incorrect!,¡El nombre de usuario es incorrecto!,Der Benutzername ist falsch!,نام کاربری اشتباه است!,اسم المستخدم غير صحيح!
-The username or password is incorrect!,¡El nombre de usuario o contraseña es incorrecto!,Der Benutzername oder das Passwort ist falsch!,نام کاربری یا رمز عبور اشتباه است!,اسم المستخدم أو كلمة المرور غير صحيحة!
-"The website full logo path
-",Ruta completa al logotipo del sitio web,Vollständiger Pfad zum Website-Logo,مسیر کامل لوگوی وب سایت,المسار الكامل لشعار الموقع
 "The website full name
 ",Nombre completo del sitio web,Vollständiger Websitename,نام کامل وب سایت,اسم الموقع الكامل
-"The website full owner and full name
-",Nombre completo del propietario del sitio web,Vollständiger Name des Websiteinhabers,نام کامل مالک وب سایت,الاسم الكامل لصاحب الموقع
+"The website owner name
+",Nombre del propietario del sitio web,Name des Website-Eigentümers,نام صاحب وب سایت,اسم مالك الموقع
+There a problem occurred!,¡Algo salió mal!,Etwas ist schiefgelaufen!,مشکلی پیش آمد!,لقد حدث خطأ ما!
+Time of Used (m),Tiempo de uso (minutos),Nutzungszeit (Minuten),زمان استفاده (دقیقه),وقت الاستخدام (بالدقائق)
+Time of Works (m),Tiempo para completar la tarea (minutos),Zeit zum Abschließen der Aufgabe (Minuten),زمان انجام کار (دقیقه),الوقت اللازم لإكمال المهمة (بالدقائق)
+Weight of changed (<0>)!,¡El peso ha cambiado (<0>)!,Gewicht hat sich verändert (<0>)!,وزن تغییر کرده (<0>)!,لقد تغير الوزن(<0>)!
+Weight of Draft (<0>)!,Peso del documento enviado (<0>),Gewicht des eingereichten Dokuments (<0>),وزن سند ارسالی (<0>),وزن الوثيقة المقدمة (<0>)
+Weight of Used (g),Peso utilizado (gramos),Verwendetes Gewicht (Gramm),وزن استفاده شده (گرم),الوزن المستخدم (جرام)
+Weight of Used (g)!,Peso utilizado (gramos),Verwendetes Gewicht (Gramm),وزن استفاده شده (گرم),الوزن المستخدم (جرام)
+Weight of Works (g),Peso de los artículos (gramos),Gewicht der Artikel (Gramm),وزن کارها (گرم),وزن العناصر (جرام)
+Weight of Works (g)!,Peso de los artículos (gramos),Gewicht der Artikel (Gramm),وزن کارها (گرم),وزن العناصر (جرام)
+You are logged in!,¡Has iniciado sesión!,Du bist angemeldet!,شما وارد شده اید!,لقد قمت بتسجيل الدخول!
+You signed out successfully!,¡Has cerrado sesión exitosamente!,Sie haben sich erfolgreich abgemeldet!,شما با موفقیت از سیستم خارج شدید!,لقد قمت بتسجيل الخروج بنجاح!
+(filtered from _MAX_ total entries),(Seleccionado entre _MAX_ elementos),(Ausgewählt aus _MAX_ Elementen),(انتخاب شده از میان کل _MAX_ مورد),(مختارة من _MAX_ عناصر)
+<0><1> Add a new Draft,<0><1> Agregar un nuevo documento,<0><1> Neues Dokument hinzufügen,<0><1> افزودن یک سند جدید,<0><1> إضافة مستند جديد
+A Special Goldsmith Management System,Un sistema especial de gestión de la minería de oro,Ein spezielles Goldminen-Managementsystem,یک سیستم مدیریت طلاسازی ویژه,نظام خاص لإدارة تعدين الذهب
+A Special Integrated Management System,Un sistema especial de gestión integrado,Ein spezielles integriertes Managementsystem,یک سامانه یکپارچه مدیریت ویژه,نظام إدارة متكامل خاص
+Add your first item <0><1>,Añade tu primer artículo <0><1>,Fügen Sie Ihren ersten Artikel hinzu <0><1>,اولین مورد خود را اضافه کنید <0><1>,أضف العنصر الأول الخاص بك <0><1>
+"Additional Children of the object
+",Elementos añadidos al objeto,Dem Objekt hinzugefügte Elemente,موارد اضافه شده به شی,العناصر المضافة إلى الكائن
+Click to change the image!,¡Haga clic para cambiar la imagen!,"Klicken Sie hier, um das Bild zu ändern!",برای تغییر تصویر کلیک کنید!,انقر لتغيير الصورة!
+Could not update tools usage!,¡El uso de herramientas no se pudo actualizar!,Bei der Verwendung von Tools ist ein Update fehlgeschlagen!,استفاده از ابزارها به روزرسانی نشد!,فشل استخدام الأدوات للتحديث!
+Count of damaged work (<0>)!,¡Número de trabajos afectados (<0>)!,Anzahl der betroffenen Jobs (<0>)!,تعداد کارهای آسیب دیده (<0>)!,عدد الوظائف المتأثرة (<0>)!
+Current weight of work (<0>)!,¡Peso de trabajo actual (<0>)!,Aktuelles Arbeitsgewicht (<0>)!,وزن فعلی کار (<0>)!,وزن العمل الحالي (<0>)!
+"Dear <0>, You registered successfully","Estimado <0>, usted se ha registrado exitosamente.","Sehr geehrte/r <0>, Sie haben sich erfolgreich registriert.","عزیز <0>، شما با موفقیت ثبت نام کردید","عزيزي <0>، لقد قمت بالتسجيل بنجاح."
+"Descriptions about the website owner
+",Descripción sobre el propietario del sitio web,Beschreibung des Websitebesitzers,توضیحاتی در مورد صاحب وب سایت,وصف عن صاحب الموقع
+Display _MENU_ items per page,Mostrar el elemento _MENU_ en cada página,_MENÜ_-Element auf jeder Seite anzeigen,نمایش _MENU_ مورد در هر صفحه,إظهار عنصر القائمة في كل صفحة
+Do not have an account?,¿No tienes una cuenta?,Sie haben noch kein Konto?,حساب کاربری ندارید؟,ليس لديك حساب؟
+Do you have an account?,¿Tienes una cuenta?,Besitzen Sie bereits ein Konto?,حساب کاربری دارید؟,هل لديك حساب؟
+File Symbol Document - Aseqbase,Documento de símbolos de archivo - Aseqbase,Dateisymboldokument - Aseqbase,سند نماد فایل - Aseqbase,رمز الملف - Aseqbase
+File Symbol Home - Aseqbase,Página de inicio de símbolos de archivo - Aseqbase,Dateisymbol-Homepage – Aseqbase,صفحه اصلی نماد فایل - Aseqbase,الصفحة الرئيسية لرموز الملفات - Aseqbase
+File Symbol Menu - Aseqbase,Menú de iconos de archivo - Aseqbase,Dateisymbolmenü - Aseqbase,منوی نماد فایل - Aseqbase,قائمة أيقونة الملف - Aseqbase
+File Symbol Operation - Aseqbase,Operación de símbolos de archivo - Aseqbase,Dateisymboloperation - Aseqbase,عملیات نماد فایل - Aseqbase,عملية رمز الملف - Aseqbase
+File Symbol User - Aseqbase,Icono de archivo de usuario - Aseqbase,Dateisymbol Benutzer - Aseqbase,کاربر نماد فایل - Aseqbase,مستخدم أيقونة الملف - Aseqbase
+MiMFa Integrated Resources Management System,Sistema Integrado de Gestión de Recursos MiMFa,MiMFa Integriertes Ressourcenmanagementsystem,سامانه یکپارچه مدیریت منابع میم فا,نظام إدارة الموارد المتكامل MiMFa
+Numbers of this Tool (n),Número de estas herramientas (n),Anzahl dieser Werkzeuge (n),تعداد این ابزار (n),عدد هذه الأدوات (ن)
+Numbers of this Vocation (n),Número de esta misión (n),Nummer dieser Mission (n),تعداد این ماموریت (n),عدد هذه المهمة (ن)
+Numbers Of Used  N,Número de n utilizados,Anzahl der verwendeten n,تعداد n استفاده شده,عدد n المستخدمة
+Numbers Of Works  N,Número de tareas n,Anzahl der Aufgaben n,تعداد کارها n,عدد المهام n
+Please complete all required parameters,Por favor complete todos los parámetros requeridos.,Bitte füllen Sie alle erforderlichen Parameter aus.,لطفا تمام پارامترهای مورد نیاز را تکمیل کنید,يرجى استكمال كافة المعلمات المطلوبة.
+"The default download links path
+",Ruta predeterminada para enlaces de descarga,Standardpfad für Download-Links,مسیر پیش فرض لینک های دانلود,المسار الافتراضي لروابط التنزيل
+The target Good to Process,Producto objetivo para procesamiento,Zielware für die Verarbeitung,کالا هدف برای پردازش,السلعة المستهدفة للمعالجة
+The target Product to Process,Producto objetivo para su procesamiento,Zielprodukt für die Verarbeitung,محصول هدف برای پردازش,المنتج المستهدف للمعالجة
+"The website full logo path
+",Ruta completa al logotipo del sitio web,Vollständiger Pfad zum Website-Logo,مسیر کامل لوگوی وب سایت,المسار الكامل لشعار الموقع
 "The website main banner path
 ",Ruta del banner principal del sitio web,Hauptbannerpfad der Website,مسیر بنر اصلی وب سایت,مسار البانر الرئيسي للموقع
 "The website main logo path
 ",La ruta al logotipo del sitio web principal,Der Pfad zum Logo der Hauptwebsite,مسیر لوگوی اصلی وب سایت,المسار إلى شعار الموقع الرئيسي
-"The website name
-",Nombre del sitio web,Websitename,نام وب سایت,اسم الموقع
 "The website owner full name
 ",Nombre completo del propietario del sitio web,Vollständiger Name des Websiteinhabers,نام کامل صاحب وب سایت,الاسم الكامل لصاحب الموقع
-"The website owner name
-",Nombre del propietario del sitio web,Name des Website-Eigentümers,نام صاحب وب سایت,اسم مالك الموقع
-There a problem occurred!,¡Algo salió mal!,Etwas ist schiefgelaufen!,مشکلی پیش آمد!,لقد حدث خطأ ما!
-Something went wrong!,¡Algo salió mal!,Etwas ist schiefgelaufen!,مشکلی پیش آمد!,لقد حدث خطأ ما!
-There could not find any drafts!,¡No se encontraron documentos!,Keine Dokumente gefunden!,هیچ سند ای پیدا نشد!,لم يتم العثور على أي مستندات!
-There had some changes in this draft!,¡Este documento tuvo algunos cambios!,Dieses Dokument weist einige Änderungen auf!,این سند تغییراتی داشت!,هذه الوثيقة بها بعض التغييرات!
-There is not received any changes!,¡No se recibieron cambios!,Keine Änderungen erhalten!,هیچ تغییری دریافت نشده است!,لم يتم تلقي أي تغييرات!
-There made some recycles in this draft!,¡Este documento contiene algo de reciclaje!,Dieses Dokument enthält einige Recyclingmöglichkeiten!,این سند حاوی مقداری بازیافت است!,تحتوي هذه الوثيقة على بعض المواد القابلة لإعادة التدوير!
-This account is not active yet!<0><1>Try to send the activation email again!<2>,¡Esta cuenta aún no está activa!<0><1>¡Reenvíe el correo electrónico de activación!<2>,Dieses Konto ist noch nicht aktiv!<0><1>Senden Sie die Aktivierungs-E-Mail erneut!<2>,این حساب هنوز فعال نیست!<0><1>دوباره ایمیل فعال سازی را ارسال کنید!<2>,هذا الحساب غير نشط بعد!<0><1>أعد إرسال بريد التفعيل!<2>
-This unit is effective on timing and working or not!,¿Es esta unidad eficaz para programar y trabajar?,Ist diese Einheit hinsichtlich Planung und Arbeit effektiv?,این واحد در زمان بندی و کارکردن موثر است یا خیر!,هل هذه الوحدة فعالة في الجدولة والعمل؟
-Time,Tiempo,Zeit,زمان,وقت
-Time  M,Tiempo Minuto,Zeitminute,زمان دقیقه,الوقت الدقيقة
-Time (<0>),Tiempo (<0>),Zeit (<0>),زمان (<0>),الوقت (<0>)
-Time (m),Tiempo (minutos),Zeit (Minuten),زمان (دقیقه),الوقت (بالدقائق)
-Time of Goods Used in this Vocation (m),Tiempo dedicado a esta misión (minutos),Für diese Mission aufgewendete Zeit (Minuten),زمان کالا استفاده شده از این ماموریت (دقیقه),الوقت المستغرق في هذه المهمة (بالدقائق)
-Time of Products Used this Tool (m),Tiempo de uso de los productos con esta herramienta (minutos),"Zeit, die die Produkte mit diesem Tool verwenden (Minuten)",زمان محصولات استفاده شده از این ابزار (دقیقه),وقت استخدام المنتجات مع هذه الأداة (بالدقائق)
 Time of this Tool (m),Tiempo de herramienta (minutos),Werkzeugzeit (Minuten),زمان این ابزار (دقیقه),وقت الأداة (بالدقائق)
 Time of this Vocation (m),Tiempo de misión (minutos),Missionszeit (Minuten),زمان این ماموریت (دقیقه),وقت المهمة (بالدقائق)
 Time Of Used  M,Tiempo de uso en minutos,Nutzungszeit Minuten,زمان استفاده دقیقه,وقت الاستخدام بالدقائق
-Time of Used (m),Tiempo de uso (minutos),Nutzungszeit (Minuten),زمان استفاده (دقیقه),وقت الاستخدام (بالدقائق)
 Time Of Works  M,Minutos de tiempo de trabajo,Arbeitszeit Minuten,زمان کار دقیقه,دقائق وقت العمل
-Time of Works (m),Tiempo para completar la tarea (minutos),Zeit zum Abschließen der Aufgabe (Minuten),زمان انجام کار (دقیقه),الوقت اللازم لإكمال المهمة (بالدقائق)
-Time Sequences,Secuencia - Tiempo,Sequenz - Zeit,توالی - زمان,التسلسل - الوقت
-Time Threshold,Umbral de tiempo,Zeitschwelle,آستانه زمانی,عتبة الوقت
-Time Unit,Unidad de tiempo,Zeiteinheit,واحد زمان,وحدة الزمن
-Title,Título,Titel,عنوان,عنوان
-"to manage day-to-day business activities such as accounting, procurement, project management, risk management and compliance, and supply chain operations.","Gestionar las actividades comerciales diarias, como contabilidad, adquisiciones, gestión de proyectos, gestión de riesgos y cumplimiento y operaciones de la cadena de suministro.","Zur Verwaltung alltäglicher Geschäftsaktivitäten wie Buchhaltung, Beschaffung, Projektmanagement, Risiko- und Compliance-Management sowie Lieferkettenabläufe.","برای مدیریت فعالیت های تجاری روزمره مانند حسابداری، تدارکات، مدیریت پروژه، مدیریت ریسک و انطباق، و عملیات زنجیره تامین.",لإدارة الأنشطة التجارية اليومية مثل المحاسبة والمشتريات وإدارة المشاريع وإدارة المخاطر والامتثال وعمليات سلسلة التوريد.
-To see the details of this Draft!,¡Vea los detalles de este documento!,Sehen Sie sich die Details dieses Dokuments an!,دیدن جزئیات این سند!,شاهد تفاصيل هذه الوثيقة!
-To send this draft to next step!,¡Envíe este documento a la siguiente etapa!,Senden Sie dieses Dokument an die nächste Stufe!,ارسال این سند به مرحله بعد!,أرسل هذه الوثيقة إلى المرحلة التالية!
-To set some changes on this draft!,¡Haciendo algunos cambios a este documento!,Ich nehme einige Änderungen an diesem Dokument vor!,تنظیم برخی تغییرات در این سند!,إجراء بعض التغييرات على هذه الوثيقة!
-To set this draft as damaged by person!,¡Establecer este documento como dañado debido a un defecto en la persona!,Dieses Dokument gilt als beschädigt aufgrund eines Defekts in der Person!,تنظیم این سند به عنوان آسیب دیده بدلیل اشکال در  شخص!,تعيين هذه الوثيقة على أنها تالفة بسبب عيب في الشخص!
-To set this draft as damaged by product!,¡Marque este documento como dañado debido a un defecto del producto!,Dieses Dokument wird aufgrund eines Produktfehlers als beschädigt eingestuft!,تنظیم این سند به عنوان آسیب دیده بدلیل اشکال در  محصول!,تعيين هذا المستند على أنه تالف بسبب عيب في المنتج!
-To set this draft as damaged by tool!,¡Establecer este documento como dañado debido a un error de herramienta!,Dieses Dokument wird aufgrund eines Werkzeugfehlers als beschädigt eingestuft!,تنظیم این سند به عنوان آسیب دیده بدلیل اشکال در ابزار!,تعيين هذا المستند على أنه تالف بسبب خطأ في الأداة!
-To set this draft as damaged by unit!,¡Marcando este documento como dañado debido a errores en la unidad!,Dieses Dokument gilt aufgrund von Fehlern im Gerät als beschädigt!,تنظیم این سند به عنوان آسیب دیده بدلیل اشکال در  واحد!,تعيين هذه الوثيقة على أنها تالفة بسبب أخطاء في الوحدة!
-To set this draft as damaged!,¡Marque este documento como dañado!,Markieren Sie dieses Dokument als beschädigt!,تنظیم این سند به عنوان آسیب دیده!,ضع هذه الوثيقة على أنها تالفة!
-To set this draft as damaged!,¡Marque este documento como dañado!,Markieren Sie dieses Dokument als beschädigt!,تنظیم این سند به عنوان آسیب دیده!,ضع هذه الوثيقة على أنها تالفة!
-To Time,Hasta la fecha,Miteinander ausgehen,تا تاریخ,حتى الآن
-TOOLS,Herramientas,Werkzeuge,ابزارها,أدوات
-Tools Count,Herramientas - Cantidad,Werkzeuge - Menge,ابزار - تعداد,الأدوات - الكمية
-Tools Management,Gestión de herramientas,Werkzeugverwaltung,مدیریت ابزارها,إدارة الأدوات
-Tools Report,Informe de herramientas,Werkzeugbericht,گزارش ابزار,تقرير الأداة
-Tools Status,Estado de la herramienta,Werkzeugstatus,وضعیت ابزارها,حالة الأداة
-Tools Time,Herramienta - Tiempo,Werkzeug - Zeit,ابزار - زمان,الأداة - الوقت
-Tools Weight,Herramientas - Peso,Werkzeuge - Gewicht,ابزار - وزن,الأدوات - الوزن
-TRACE,Seguimiento,Sendungsverfolgung,ردیابی,التتبع
-Trace Managers,Seguimiento del gerente,Manager-Tracking,ردیابی مدیران,تتبع المدير
-Transfer,Transferir,Überweisen,انتقال,تحويل
-Transfer <0><1>,Transferencia <0><1>,Überweisung <0><1>,انتقال <0><1>,نقل <0><1>
-Transfering,Transferencia,Übertragen,درحال انتقال,نقل
-Translation,Traducción,Übersetzung,ترجمه,ترجمة
-TRANSLATIONS,Traducciones,Übersetzungen,ترجمه ها,الترجمات
-Try to send the activation email again!,¡Intenta enviar el correo electrónico de activación nuevamente!,"Versuchen Sie erneut, die Aktivierungs-E-Mail zu senden!",سعی کنید دوباره ایمیل فعال سازی را ارسال کنید!,حاول إرسال رسالة التفعيل مرة أخرى!
-Trying to change the profile picture!,¡Intentando cambiar la foto de perfil!,"Versuche, das Profilbild zu ändern!",تلاش برای تغییر عکس پروفایل!,محاولة تغيير الصورة الشخصية!
-Tu,S,S,س,س
-TUTORIAL,Educación,Ausbildung,آموزش,تعليم
-Tutorial - GMS,Capacitación - GMS,Schulung - GMS,آموزش - GMS,التدريب - GMS
-Type,Tipo,Typ,نوع,يكتب
-Undifined,No definido,Nicht definiert,تعریف نشده,غير محدد
-"Unfortunately, you have no access to the site now!<0>Please try a few minutes later...","Lamentablemente, no tienes acceso al sistema en este momento.<0>Por favor, inténtalo de nuevo más tarde...",Leider haben Sie momentan keinen Zugriff auf das System!<0>Bitte versuchen Sie es später noch einmal...,"متأسفانه، در حال حاضر به سامانه دسترسی ندارید!<0>لطفا مدتی بعد مجدد تلاش فرمایید...","لسوء الحظ، ليس لديك إمكانية الوصول إلى النظام في الوقت الحالي!<0>يرجى المحاولة مرة أخرى لاحقًا..."
-"Unfortunately, you received a <0> mark due to the this work!","¡Lamentablemente, recibiste <0> puntos negativos por esto!",Leider gibt es hierfür <0> Minuspunkte!,"متأسفانه به دلیل این کار، <0> امتیاز منفی دریافت کردید!","لسوء الحظ، لقد حصلت على <0> نقطة سلبية لهذا!"
-"Unfortunately, you received a <0> mark due to the this work!
-Here added <1> marks to each person of your units.","¡Desafortunadamente, recibiste <0> puntos negativos por esta acción!
- Además, se han agregado <1> puntos negativos a cada persona en tus unidades.","Leider haben Sie für diese Aktion <0> Minuspunkte erhalten!
- Außerdem wurden jeder Person in Ihren Einheiten <1> Minuspunkte gutgeschrieben.","متأسفانه به دلیل این کار شما  <0> امتیاز منفی دریافت کردید!
-همچنین <1> امتیاز منفی به هر فرد در واحدهای شما اضافه شده است.","لسوء الحظ، لقد حصلت على <0> نقطة سلبية لهذا الإجراء!
- كما تمت إضافة <1> نقطة سلبية لكل شخص في وحداتك."
-Unit,Unidad,Einheit,واحد,وحدة
-Unit Effect,Eficaz con los colegas,Effektiv im Umgang mit Kollegen,موثر در همکاران,فعال مع الزملاء
-UnitName,Nombre de la unidad,Einheitenname,نام واحد,اسم الوحدة
-UNITS,Unidades,Einheiten,واحدها,الوحدات
-Unit Management System,Sistema de Gestión de Unidades,Einheitenverwaltungssystem,سیستم مدیریت واحد,نظام إدارة الوحدات
-Units Management,Gestión de unidades,Einheitenverwaltung,مدیریت واحدها,إدارة الوحدة
-Units Personnel,Unidad - Individuos,Einheit - Einzelpersonen,واحد - اشخاص,الوحدة - الأفراد
 Units Quality Control - GMS,Control de Calidad de Unidades - GMS,Qualitätskontrolle von Einheiten - GMS,کنترل کیفیت واحدها - GMS,مراقبة جودة الوحدات - GMS
-Units Rate,Unidad - Rango,Einheit - Rang,واحد - رتبه,الوحدة - الرتبة
-Units Report,Informes de unidad,Einheitenberichte,گزارش واحدها,تقارير الوحدة
-Units Score,Unidad - Puntuación,Einheit - Punktzahl,واحد - نمره,الوحدة - النتيجة
-Units Users,Persona - Unidad,Person - Einheit,شخص - واحد,الشخص - الوحدة
-Update <0><1>,Cambiar <0><1>,Ändern <0><1>,تغییر <0><1>,تغيير <0><1>
-Used Count,Número utilizado,Verwendete Nummer,تعداد استفاده شده,الرقم المستخدم
-Used Count (%),Número utilizado (%),Verwendete Anzahl (%),تعداد استفاده شده (%),العدد المستخدم (%)
-Used Time,Tiempo utilizado,Nutzungsdauer,زمان استفاده شده,الوقت المستخدم
-Used Time (%),Tiempo utilizado (%),Nutzungsdauer (%),زمان استفاده شده (%),الوقت المستخدم (%)
-Used Tools,Herramientas utilizadas,Verwendete Werkzeuge,ابزارهای مورداستفاده,الأدوات المستخدمة
-Used Vocations,Misiones utilizadas,Verwendete Missionen,ماموریت های مورداستفاده,البعثات المستخدمة
-Used Weight,Peso utilizado,Verwendetes Gewicht,وزن استفاده شده,الوزن المستخدم
-Used Weight (%),Peso utilizado (%),Verwendetes Gewicht (%),وزن استفاده شده (%),الوزن المستخدم (%)
-User Name,Nombre de usuario,Benutzername,نام کاربری,اسم المستخدم
-UserId,ID de usuario,Benutzer-ID,شناسه کاربر,معرف المستخدم
-UserName,Nombre de usuario,Benutzername,نام کاربری,اسم المستخدم
-USERS,Gente,Menschen,اشخاص,الناس
-Users Management,Gestión de personas,Personalmanagement,مدیریت اشخاص,إدارة الأفراد
-Users Rate,Persona - Rango,Person - Rang,شخص - رتبه,الشخص - الرتبة
-Users Score,Persona - Puntuación,Person - Punktzahl,شخص - نمره,الشخص - النتيجة
-Value Options,Opciones de traducción,Übersetzungsoptionen,گزینه های ترجمه,خيارات الترجمة
-ValueOptions,Opciones de traducción,Übersetzungsoptionen,گزینه های ترجمه,خيارات الترجمة
-View,Perspectiva,Ausblick,چشم انداز,التوقعات
-View Lexicon,Mostrar diccionario,Wörterbuch anzeigen,نمایش لغتنامه,عرض القاموس
-VOCATIONS,Misiones,Missionen,ماموریت ها,البعثات
-Vocations Count,Misiones - Número,Missionen - Anzahl,ماموریت ها - تعداد,البعثات - العدد
-Vocations Management,Gestión de misiones,Missionsmanagement,مدیریت ماموریتها,إدارة المهمة
-Vocations Report,Informes de misión,Einsatzberichte,گزارش ماموریت ها,تقارير المهمة
-Vocations Status,Estado de la misión,Missionsstatus,وضعیت ماموریت ها,حالة المهمة
-Vocations Time,Misión - Tiempo,Mission - Zeit,ماموریت - زمان,المهمة - الوقت
-Vocations Weight,Misión - Peso,Mission - Gewicht,ماموریت - وزن,المهمة - الوزن
-Wait Symbol Path,Ruta del símbolo de espera,Wartesymbolpfad,مسیر نماد انتظار,مسار رمز الانتظار
-Watch,Mirar,Betrachten,تماشا,يشاهد
-We,¿Qué?,Was?,چ,ماذا؟
-"We are a team has considered the idea as a small start-up project and has developed it through its financial and human resources. The start-up has gathered people from the professionals around a table. Our products are now ready to be presented to our dear users, and we are impatiently waiting to receive your comments.",Somos un equipo que tomó esta idea como un pequeño proyecto de startup y la desarrolló con nuestros propios recursos financieros y humanos. Esta startup ha reunido a profesionales en torno a una mesa. Nuestros productos ya están listos para ser presentados a nuestros estimados usuarios y esperamos con interés sus comentarios.,"Wir sind ein Team, das diese Idee als kleines Startup-Projekt aufgegriffen und mit eigenen finanziellen und personellen Ressourcen weiterentwickelt hat. Dieses Startup hat Experten an einen Tisch gebracht. Unsere Produkte sind nun bereit, unseren geschätzten Nutzern präsentiert zu werden, und wir warten gespannt auf Ihr Feedback.",ما تیمی هستیم که این ایده را یک پروژه کوچک استارت آپی در نظر گرفته و آن را از طریق منابع مالی و انسانی خود توسعه داده است. این استارت آپ افراد حرفه ای را دور یک میز جمع کرده است. محصولات ما هم اکنون آماده ارائه به کاربران عزیز می باشد و بی صبرانه منتظر دریافت نظرات شما هستیم.,"نحن فريقٌ أخذ هذه الفكرة كمشروعٍ ناشئٍ صغير، وطوّرناها بمواردنا المالية والبشرية الخاصة. جمع هذا المشروعُ المهنيينَ على طاولةٍ واحدة. منتجاتنا جاهزةٌ الآن لعرضها على مستخدمينا الأعزاء، وننتظر بفارغ الصبر ملاحظاتكم."
-Weight,Peso,Gewicht,وزن,وزن
-Weight  G,Peso en gramos,Gewicht in Gramm,وزن به گرم,الوزن بالجرام
-Weight (<0>),Peso (<0>),Gewicht (<0>),وزن (<0>),الوزن (<0>)
-Weight (g),Peso (gramos),Gewicht (Gramm),وزن (گرم),الوزن (جرام)
-Weight Down Tolerance,Umbral de pérdida de peso,Gewichtsverlustschwelle,آستانه کاهش وزن,عتبة فقدان الوزن
-Weight of changed (<0>)!,¡El peso ha cambiado (<0>)!,Gewicht hat sich verändert (<0>)!,وزن تغییر کرده (<0>)!,لقد تغير الوزن(<0>)!
 Weight of damaged work (<0>)!,¡Peso de trabajo dañado (<0>)!,Beschädigtes Arbeitsgewicht (<0>)!,وزن کار آسیب دیده (<0>)!,وزن العمل التالف (<0>)!
-Weight of Draft (<0>)!,Peso del documento enviado (<0>),Gewicht des eingereichten Dokuments (<0>),وزن سند ارسالی (<0>),وزن الوثيقة المقدمة (<0>)
-Weight of Goods Used in this Vocation (g)!,Peso de las mercancías utilizadas en esta misión (gramos),Gewicht der bei dieser Mission verwendeten Waren (Gramm),وزن کالا های استفاده شده در این ماموریت (گرم),وزن البضائع المستخدمة في هذه المهمة (جرام)
-Weight of Goods Used this Vocation (g),Peso de las mercancías utilizadas en esta misión (gramos),Gewicht der bei dieser Mission verwendeten Waren (Gramm),وزن کالا ها استفاده شده از این ماموریت  (گرم),وزن البضائع المستخدمة في هذه المهمة (جرام)
-Weight of Products Used this Tool (g),Peso de los productos utilizados con esta herramienta (gramos),Gewicht der mit diesem Werkzeug verwendeten Produkte (Gramm),وزن محصولات استفاده شده از این ابزار (گرم),وزن المنتجات المستخدمة مع هذه الأداة (جرام)
-Weight of Products Used this Tool (g)!,Peso de los productos utilizados con esta herramienta (gramos),Gewicht der mit diesem Werkzeug verwendeten Produkte (Gramm),وزن محصولات استفاده شده از این ابزار (گرم),وزن المنتجات المستخدمة مع هذه الأداة (جرام)
 Weight of this Tool (g),Peso de esta herramienta (gramos),Gewicht dieses Werkzeugs (Gramm),وزن این ابزار (گرم),وزن هذه الأداة (جرام)
 Weight of this Tool (g)!,Peso de esta herramienta (gramos),Gewicht dieses Werkzeugs (Gramm),وزن این ابزار (گرم),وزن هذه الأداة (جرام)
 Weight of this Vocation (g),Peso de esta misión (gramos),Gewicht dieser Mission (Gramm),وزن این ماموریت  (گرم),وزن هذه المهمة (جرام)
 Weight of this Vocation (g)!,Peso de esta misión (gramos),Gewicht dieser Mission (Gramm),وزن این ماموریت (گرم),وزن هذه المهمة (جرام)
 Weight of this Work (<0>),Peso total de este documento (<0>),Gesamtgewicht dieses Dokuments (<0>),وزن کل این سند (<0>),الوزن الإجمالي لهذه الوثيقة (<0>)
 Weight Of Used  G,Peso utilizado en gramos,Verwendetes Gewicht in Gramm,وزن استفاده شده به گرم,الوزن المستخدم بالجرام
-Weight of Used (g),Peso utilizado (gramos),Verwendetes Gewicht (Gramm),وزن استفاده شده (گرم),الوزن المستخدم (جرام)
-Weight of Used (g)!,Peso utilizado (gramos),Verwendetes Gewicht (Gramm),وزن استفاده شده (گرم),الوزن المستخدم (جرام)
 Weight Of Works  G,Peso de los artículos en gramos,Gewicht der Artikel in Gramm,وزن کارها به گرم,وزن العناصر بالجرام
-Weight of Works (g),Peso de los artículos (gramos),Gewicht der Artikel (Gramm),وزن کارها (گرم),وزن العناصر (جرام)
-Weight of Works (g)!,Peso de los artículos (gramos),Gewicht der Artikel (Gramm),وزن کارها (گرم),وزن العناصر (جرام)
-Weight Precision,Precisión de pesaje,Wiegegenauigkeit,دقت وزن,دقة الوزن
-Weight Sequences,Secuencia - Peso,Sequenz - Gewicht,توالی - وزن,التسلسل - الوزن
-Weight Threshold,Umbral de peso,Gewichtsschwelle,آستانه وزن,حد الوزن
-Weight Unit,Unidad de peso,Gewichtseinheit,واحد وزن,وحدة الوزن
-Weight Up Tolerance,Umbral de aumento de peso,Gewichtszunahmeschwelle,آستانه افزایش وزن,عتبة زيادة الوزن
-Welding,Soldadura,Schweißen,جوشکاری,اللحام
-Work Impact,Impacto del trabajo,Auswirkungen der Arbeit,تاثیر کار,تأثير العمل
-Work Max Tolerance,El mayor trabajo,Die meiste Arbeit,بیشترین میزان کار,اكثر عمل
-Work Min Tolerance,La menor cantidad de trabajo,Der geringste Arbeitsaufwand,کمترین میزان کار,أقل قدر من العمل
-Works Status,Estado de la obra,Stand der Arbeiten,وضعیت کارها,حالة العمل
-X,Hacha,Axt,اکس,الفأس
-X (Transexual),Ambos,Beide,هردو,كلاهما
-You are logged in!,¡Has iniciado sesión!,Du bist angemeldet!,شما وارد شده اید!,لقد قمت بتسجيل الدخول!
-You do not have enough access to this action!,¡No tienes suficiente acceso para realizar esta operación!,"Sie verfügen nicht über ausreichende Zugriffsrechte, um diesen Vorgang auszuführen!",شما دسترسی کافی برای انجام این عملیات را ندارید!,ليس لديك القدرة الكافية على إجراء هذه العملية!
-You signed out successfully!,¡Has cerrado sesión exitosamente!,Sie haben sich erfolgreich abgemeldet!,شما با موفقیت از سیستم خارج شدید!,لقد قمت بتسجيل الخروج بنجاح!
-"Your account will need to be activated if you change the field!","¡Si cambias este campo, tu cuenta debería ser activada!","Wenn Sie dieses Feld ändern, sollte Ihr Konto aktiviert werden!","اگر این فیلد را تغییر دهید، حساب شما باید فعال شود!","إذا قمت بتغيير هذا الحقل، سيتم تفعيل حسابك!"
-Your change draft for the <0> registered successfully!,¡Su documento de cambio para <0> se ha enviado correctamente!,Ihr Änderungsdokument für <0> wurde erfolgreich übermittelt!,سند تغییر شما برای <0> با موفقیت ثبت شد!,لقد تم إرسال مستند التغيير الخاص بك لـ <0> بنجاح!
-"Your full name, you will known by this around the site","Tu nombre completo, por este nombre eres conocido en el sistema.","Ihr vollständiger Name, unter diesem Namen sind Sie im System bekannt.","نام کامل شما، شما را با این نام در سامانه می شناسند","اسمك الكامل، أنت معروف بهذا الاسم في النظام."
 "Your organization, institute, company, etc.","Organización, institución, empresa, etc.","Organisation, Institution, Unternehmen usw.","سازمان، موسسه، شرکت و غیره","منظمة، مؤسسة، شركة، الخ."
 Your request is not valid!,¡Su solicitud no es válida!,Ihre Anfrage ist ungültig!,درخواست شما معتبر نیست!,طلبك غير صالح!
+: activate to sort column ascending,:Habilitado para ordenar elementos en orden ascendente.,": Aktiviert, um Elemente in aufsteigender Reihenfolge zu sortieren.",: فعال برای مرتب  کردن موارد بصورت صعودی,:تم تمكين فرز العناصر بترتيب تصاعدي.
+: activate to sort column descending,:Habilitado para ordenar elementos en orden descendente.,": Aktiviert, um Elemente in absteigender Reihenfolge zu sortieren.",: فعال برای مرتب  کردن موارد بصورت نزولی,:تم تمكين فرز العناصر بالترتيب التنازلي.
+A Special Integrated Resources Management System,Un sistema integrado de gestión de recursos especiales,Ein integriertes Spezialressourcenmanagementsystem,یک سامانه یکپارچه مدیریت منابع ویژه,نظام متكامل لإدارة الموارد الخاصة
+Cancel and return to the currentbox!,Cancelar y volver al cuadro actual!,Abbrechen und zur aktuellen Box zurückkehren!,لغو و بازگشت به جعبه فعلی!,إلغاء والعودة إلى المربع الحالي!
+Count of works in draft (<0>)!,Número de tareas en el documento enviado (<0>),Anzahl der Aufgaben im eingereichten Dokument (<0>),تعداد کار در سند ارسالی (<0>),عدد المهام في المستند المقدم (<0>)
+Elapsed Delay for this Work (<0>),Retraso registrado al procesar este documento (<0>),Bei der Verarbeitung dieses Dokuments ist eine Verzögerung aufgetreten (<0>),تاخیر ثبت شده حین پردازش این سند (<0>),التأخير المسجل أثناء معالجة هذه الوثيقة (<0>)
+Elapsed Time for this Work (<0>),Tiempo transcurrido para procesar este documento (<0>),Verstrichene Zeit zur Verarbeitung dieses Dokuments (<0>),زمان سپری شده برای پردازش این سند (<0>),الوقت المنقضي لمعالجة هذه الوثيقة (<0>)
+Found <0><1><2> results for searching <0><3><2>!,<0><1><2> ¡Resultados encontrados para la búsqueda <0><3><2>!,<0><1><2> Ergebnisse für Suche <0><3><2> gefunden!,تعداد <0><1><2> نتیجه برای جستجوی <0><3><2> یافت شد!,<0><1><2> تم العثور على نتائج البحث <0><3><2>!
+Merge all similar in processing drafts,Consolidar todos los documentos similares que se están procesando,"Konsolidieren Sie alle ähnlichen Dokumente, die verarbeitet werden",تجمیع همه سند های مشابه درحال پردازش,دمج جميع المستندات المتشابهة التي يتم معالجتها
+Numbers of this Work Pieces (<0>),Número de partes de este documento (<0>),Anzahl der Teile in diesem Dokument (<0>),تعداد قطعات این سند (<0>),عدد الأجزاء في هذه الوثيقة (<0>)
+Public Images Logoformal_ <0><1><2><3><0><0><0><4><5><3> - Aseqbase,Imágenes públicas Logoformal_ <0><1><2><3><0><0><0><4><5><3> - Aseqbase,Öffentliche Bilder Logoformal_ <0><1><2><3><0><0><0><4><5><3> - Aseqbase,تصاویر عمومی Logoformal_ <0><1><2><3><0><0><0><4><5><3> - Aseqbase,الصور العامة Logoformal_ <0><1><2><3><0><0><0><4><5><3> - Aseqbase
+Resume and return to the currentbox!,¡Continúe procesando este documento!,Fahren Sie mit der Bearbeitung dieses Dokuments fort!,ادامه دادن به پردازش روی این سند!,متابعة معالجة هذه الوثيقة!
+Send recovery email for the acoount,Enviar un correo electrónico de recuperación para la cuenta,Senden Sie eine Wiederherstellungs-E-Mail für das Konto,ارسال ایمیل بازیابی برای اکانت,إرسال بريد إلكتروني لاسترداد الحساب
+Tell a public intorduction about yourself,Da una introducción general sobre ti.,Geben Sie eine allgemeine Vorstellung Ihrer Person.,یک معرفی عمومی در مورد خودتان بگویید,أعط مقدمة عامة عن نفسك.
+"The <0> damaged draft, registered successfully!",<0>¡El documento dañado fue guardado exitosamente!,<0> Das beschädigte Dokument wurde erfolgreich gespeichert!,"<0> سند آسیب دیده، با موفقیت ثبت شد!",<0>تم حفظ المستند التالف بنجاح!
+"The <0> damaging draft, received successfully!",¡El documento de fallo <0> se recibió correctamente!,Absturzdokument <0> erfolgreich empfangen!,سند خرابی <0> با موفقیت دریافت شد!,تم استلام مستند الأعطال <0> بنجاح!
+"The <0> lost draft, received successfully!",¡El documento faltante <0> fue recibido exitosamente!,Das fehlende Dokument <0> wurde erfolgreich empfangen!,"سند گم شده <0>، با موفقیت دریافت شد!",تم استلام الوثيقة المفقودة <0> بنجاح!
+"The effective times for each draft
+",Tiempos efectivos para cada documento,Gültigkeitsdauer der einzelnen Dokumente,زمان های موثر برای هر سند,الأوقات الفعالة لكل وثيقة
+"The location link on the map
+",Enlace de ubicación en el mapa,Standortlink auf der Karte,لینک مکان روی نقشه,رابط الموقع على الخريطة
+The parent Draft which is related,Relacionado con el documento (documento principal),Bezogen auf das Dokument (Hauptdokument),مرتبط با سند (سند اصلی),متعلق بالوثيقة (الوثيقة الرئيسية)
+"The short description of the website
+",Breve descripción del sitio web,Kurze Website-Beschreibung,توضیحات کوتاه وب سایت,وصف مختصر للموقع
+"The short slogan of the website
+",Eslogan corto para un sitio web,Kurzer Website-Slogan,شعار کوتاه وب سایت,شعار موقع ويب قصير
+The username or password is incorrect!,¡El nombre de usuario o contraseña es incorrecto!,Der Benutzername oder das Passwort ist falsch!,نام کاربری یا رمز عبور اشتباه است!,اسم المستخدم أو كلمة المرور غير صحيحة!
+There could not find any drafts!,¡No se encontraron documentos!,Keine Dokumente gefunden!,هیچ سند ای پیدا نشد!,لم يتم العثور على أي مستندات!
+There is not received any changes!,¡No se recibieron cambios!,Keine Änderungen erhalten!,هیچ تغییری دریافت نشده است!,لم يتم تلقي أي تغييرات!
+To set this draft as damaged!,¡Marque este documento como dañado!,Markieren Sie dieses Dokument als beschädigt!,تنظیم این سند به عنوان آسیب دیده!,ضع هذه الوثيقة على أنها تالفة!
+Trying to change the profile picture!,¡Intentando cambiar la foto de perfil!,"Versuche, das Profilbild zu ändern!",تلاش برای تغییر عکس پروفایل!,محاولة تغيير الصورة الشخصية!
 Your Satisfaction is our Greatest Goal,Su satisfacción es nuestro mayor objetivo.,Ihre Zufriedenheit ist unser größtes Ziel.,رضایت شما بزرگترین هدف ماست,رضاكم هو هدفنا الأكبر.
+A phone number with your national code,Número de teléfono móvil con prefijo,Handynummer mit Vorwahl,شماره تلفن همراه با پیش شماره,رقم الهاتف المحمول مع البادئة
+A unique name exclusive for this profile,Un nombre de perfil único,Ein eindeutiger Profilname,یک نام منحصر به فرد پروفایل,اسم ملف تعريف فريد
+Activate auto filling data in some fields,Relleno automático de datos en algunas partes del sistema,Automatische Datenbefüllung in einigen Teilen des Systems,پر گردن خودکار داده در بعضی قسمتهای سامانه,ملء البيانات تلقائيًا في بعض أجزاء النظام
+"Dear <0>, you have logged in successfully","<0>Estimado, has iniciado sesión correctamente.","<0> Sehr geehrte Damen und Herren, Sie haben sich erfolgreich angemeldet.","<0> عزیز، شما با موفقیت وارد سیستم شدید","<0>عزيزي، لقد قمت بتسجيل الدخول بنجاح."
+Floor of the accepted subtracted weight factor!,¡Coeficiente de peso fraccionario máximo admisible!,Maximal zulässiger Gewichtsanteilskoeffizient!,ضریب حداکثر وزن کسری مجاز!,الحد الأقصى المسموح به لمعامل الوزن الكسري!
+I have Received and submitted this draft!,¡Recibo y apruebo este documento!,Ich erhalte und genehmige dieses Dokument!,من این سند را دریافت و تایید می کنم!,أتلقى وأوافق على هذه الوثيقة!
+Indicate all used Tools for this Draft,Agregue todas las herramientas utilizadas para este documento.,Fügen Sie alle für dieses Dokument verwendeten Tools hinzu.,تمام ابزارهای استفاده شده برای این سند را اضافه نمایید,أضف جميع الأدوات المستخدمة لهذه الوثيقة.
+Indicate all used Vocations for this Draft,Agregue todas las misiones utilizadas para este documento.,Fügen Sie alle für dieses Dokument verwendeten Missionen hinzu.,تمام ماموریت های استفاده شده برای این سند را اضافه نمایید,أضف جميع المهام المستخدمة لهذه الوثيقة.
+Numbers of Products Used this Tool (n),Número de productos utilizados con esta herramienta (n),Anzahl der mit diesem Werkzeug verwendeten Produkte (n),تعداد محصولات استفاده شده از این ابزار (n),عدد المنتجات المستخدمة مع هذه الأداة (ن)
+related to <0> with <1> of weight,Para cantidad <0> con peso total <1>,Für Menge <0> mit Gesamtgewicht <1>,برای تعداد <0> با وزن کل <1>,للكمية <0> ذات الوزن الإجمالي <1>
+Roof of the accepted added weight factor!,¡Coeficiente máximo de peso añadido admisible!,Maximal zulässiger Zusatzgewichtsbeiwert!,ضریب حداکثر وزن افزوده مجاز!,الحد الأقصى المسموح به لمعامل الوزن المضاف!
+Showing _FROM_ to _TO_ of _TOTAL_ entries,Mostrar _DESDE_ a _HASTA_ de _TOTAL_ entradas,Zeige _VON_ bis _BIS_ von _GESAMTEN_ Einträgen,نمایش _FROM_ تا _TO_ از _TOTAL_ ورودی,عرض _FROM_ إلى _TO_ من إجمالي _TOTAL_ الإدخالات
+Showing _START_ to _END_ of _TOTAL_ entries,Mostrando artículos del _INICIO_ al _FIN_ de _TOTAL_ artículos.,Es werden die Elemente _START_ bis _END_ von _TOTAL_ Elementen angezeigt.,نمایش موارد _START_ تا _END_ از کل _TOTAL_ مورد,عرض العناصر من _START_ إلى _END_ من إجمالي _TOTAL_ العناصر.
+The <0> received in your current box!,<0> ¡Recibido en tu caja actual!,<0> in Ihrer aktuellen Box erhalten!,<0> در کادر فعلی شما دریافت شد!,<0> تم استلامه في صندوقك الحالي!
+The <0> returned to your current box!,<0>¡Regresó a su cuenta actual!,<0> Auf Ihr Girokonto zurückgebucht!,<0> به صندوق جاری شما بازگشت!,<0>تم إرجاعه إلى حسابك الحالي!
+The <0> sent to the next unit!,<0>¡Enviado a la siguiente unidad!,<0> An die nächste Einheit gesendet!,<0> به واحد بعدی ارسال شد!,<0>تم الإرسال إلى الوحدة التالية!
+The destination unit to send this draft!,Unidad de destino a la que se enviará este documento,"Zieleinheit, an die dieses Dokument gesendet werden soll",واحد مقصد برای ارسال این سند,وحدة الوجهة التي سيتم إرسال هذه الوثيقة إليها
+The destination user to send this draft!,El usuario al que se enviará este documento.,"Der vorgesehene Benutzer, an den dieses Dokument gesendet werden soll.",کاربر مقصد برای ارسال این سند,المستخدم المقصود لإرسال هذه الوثيقة إليه.
+"The effective factor to all unit coligues
+",Factor que afecta a todos los individuos,"Faktor, der alle Individuen betrifft",فاکتور موثر بر همه اشخاص واحد,العوامل المؤثرة على جميع الأفراد
+"The more detailed description of the website
+",Más información sobre el sitio web,Weitere Informationen zur Website,توضیحات بیشتر در مورد وب سایت,مزيد من المعلومات حول الموقع
+"The more detailed slogan of the website
+",Un eslogan más preciso para un sitio web,Präziserer Website-Slogan,شعار دقیق تر وب سایت,شعار موقع الويب الأكثر دقة
+"The website full owner and full name
+",Nombre completo del propietario del sitio web,Vollständiger Name des Websiteinhabers,نام کامل مالک وب سایت,الاسم الكامل لصاحب الموقع
+There had some changes in this draft!,¡Este documento tuvo algunos cambios!,Dieses Dokument weist einige Änderungen auf!,این سند تغییراتی داشت!,هذه الوثيقة بها بعض التغييرات!
+There made some recycles in this draft!,¡Este documento contiene algo de reciclaje!,Dieses Dokument enthält einige Recyclingmöglichkeiten!,این سند حاوی مقداری بازیافت است!,تحتوي هذه الوثيقة على بعض المواد القابلة لإعادة التدوير!
+Time of Products Used this Tool (m),Tiempo de uso de los productos con esta herramienta (minutos),"Zeit, die die Produkte mit diesem Tool verwenden (Minuten)",زمان محصولات استفاده شده از این ابزار (دقیقه),وقت استخدام المنتجات مع هذه الأداة (بالدقائق)
+To see the details of this Draft!,¡Vea los detalles de este documento!,Sehen Sie sich die Details dieses Dokuments an!,دیدن جزئیات این سند!,شاهد تفاصيل هذه الوثيقة!
+To send this draft to next step!,¡Envíe este documento a la siguiente etapa!,Senden Sie dieses Dokument an die nächste Stufe!,ارسال این سند به مرحله بعد!,أرسل هذه الوثيقة إلى المرحلة التالية!
+To set some changes on this draft!,¡Haciendo algunos cambios a este documento!,Ich nehme einige Änderungen an diesem Dokument vor!,تنظیم برخی تغییرات در این سند!,إجراء بعض التغييرات على هذه الوثيقة!
+Try to send the activation email again!,¡Intenta enviar el correo electrónico de activación nuevamente!,"Versuchen Sie erneut, die Aktivierungs-E-Mail zu senden!",سعی کنید دوباره ایمیل فعال سازی را ارسال کنید!,حاول إرسال رسالة التفعيل مرة أخرى!
+Weight of Goods Used this Vocation (g),Peso de las mercancías utilizadas en esta misión (gramos),Gewicht der bei dieser Mission verwendeten Waren (Gramm),وزن کالا ها استفاده شده از این ماموریت  (گرم),وزن البضائع المستخدمة في هذه المهمة (جرام)
+Weight of Products Used this Tool (g),Peso de los productos utilizados con esta herramienta (gramos),Gewicht der mit diesem Werkzeug verwendeten Produkte (Gramm),وزن محصولات استفاده شده از این ابزار (گرم),وزن المنتجات المستخدمة مع هذه الأداة (جرام)
+Weight of Products Used this Tool (g)!,Peso de los productos utilizados con esta herramienta (gramos),Gewicht der mit diesem Werkzeug verwendeten Produkte (Gramm),وزن محصولات استفاده شده از این ابزار (گرم),وزن المنتجات المستخدمة مع هذه الأداة (جرام)
+Designed by: MiMFa aseqbase Pure Web Design Framework,Diseñado por: MiMFa aseqbase Pure Web Design Framework,Entworfen von: MiMFa aseqbase Pure Web Design Framework,طراحی شده توسط: MiMFa aseqbase Pure Web Design Framework,تم التصميم بواسطة: MiMFa aseqbase Pure Web Design Framework
+Finished processing and set this draft as completed!,¡El procesamiento está completo y este documento se marca como completado!,Die Bearbeitung ist abgeschlossen und dieses Dokument wird als erledigt markiert!,پردازش پایان یافته و تنظیم این سند به عنوان تکمیل شده!,تمت المعالجة وتم تعيين هذه الوثيقة على أنها مكتملة!
+Numbers of Goods Used in this Vocation (n),Número de bienes utilizados en esta misión (n),Anzahl der in dieser Mission verwendeten Güter (n),تعداد کالا استفاده شده در این ماموریت (n),عدد البضائع المستخدمة في هذه المهمة (ن)
+"The main members and personnel of the website
+",Miembros principales del sitio web,Hauptmitglieder der Website,اعضای اصلی وب سایت,الأعضاء الرئيسيين للموقع
+Time of Goods Used in this Vocation (m),Tiempo dedicado a esta misión (minutos),Für diese Mission aufgewendete Zeit (Minuten),زمان کالا استفاده شده از این ماموریت (دقیقه),الوقت المستغرق في هذه المهمة (بالدقائق)
+To set this draft as damaged by person!,¡Establecer este documento como dañado debido a un defecto en la persona!,Dieses Dokument gilt als beschädigt aufgrund eines Defekts in der Person!,تنظیم این سند به عنوان آسیب دیده بدلیل اشکال در  شخص!,تعيين هذه الوثيقة على أنها تالفة بسبب عيب في الشخص!
+To set this draft as damaged by product!,¡Marque este documento como dañado debido a un defecto del producto!,Dieses Dokument wird aufgrund eines Produktfehlers als beschädigt eingestuft!,تنظیم این سند به عنوان آسیب دیده بدلیل اشکال در  محصول!,تعيين هذا المستند على أنه تالف بسبب عيب في المنتج!
+To set this draft as damaged by tool!,¡Establecer este documento como dañado debido a un error de herramienta!,Dieses Dokument wird aufgrund eines Werkzeugfehlers als beschädigt eingestuft!,تنظیم این سند به عنوان آسیب دیده بدلیل اشکال در ابزار!,تعيين هذا المستند على أنه تالف بسبب خطأ في الأداة!
+To set this draft as damaged by unit!,¡Marcando este documento como dañado debido a errores en la unidad!,Dieses Dokument gilt aufgrund von Fehlern im Gerät als beschädigt!,تنظیم این سند به عنوان آسیب دیده بدلیل اشکال در  واحد!,تعيين هذه الوثيقة على أنها تالفة بسبب أخطاء في الوحدة!
+Weight of Goods Used in this Vocation (g)!,Peso de las mercancías utilizadas en esta misión (gramos),Gewicht der bei dieser Mission verwendeten Waren (Gramm),وزن کالا های استفاده شده در این ماموریت (گرم),وزن البضائع المستخدمة في هذه المهمة (جرام)
+Your change draft for the <0> registered successfully!,¡Su documento de cambio para <0> se ha enviado correctamente!,Ihr Änderungsdokument für <0> wurde erfolgreich übermittelt!,سند تغییر شما برای <0> با موفقیت ثبت شد!,لقد تم إرسال مستند التغيير الخاص بك لـ <0> بنجاح!
+Are you sure you want to duplicate this item?,¿Estás seguro de que deseas hacer una copia de esto?,Möchten Sie hiervon wirklich eine Kopie erstellen?,آیا مطمئن هستید که می خواهید از این مورد یک نسخه کپی تهیه نمایید؟,هل أنت متأكد أنك تريد عمل نسخة من هذا؟
+Are you sure you want to remove this item?,¿Está seguro que desea eliminar este elemento?,Möchten Sie diesen Artikel wirklich löschen?,آیا مطمئن هستید که می خواهید این مورد را حذف کنید؟,هل أنت متأكد أنك تريد حذف هذا العنصر؟
+Minimum Numbers of Goods to Done this Vocation (n),Número mínimo de bienes para completar esta misión (n),Mindestanzahl an Waren zum Abschließen dieser Mission (n),حداقل تعداد کالا برای انجام این ماموریت (n),الحد الأدنى لعدد البضائع لإكمال هذه المهمة (ن)
+Minimum Numbers of Products to Use this Tool (n),Número mínimo de productos para utilizar esta herramienta (n),Mindestanzahl von Produkten zur Verwendung dieses Tools (n),حداقل تعداد محصولات برای استفاده از این ابزار (n),الحد الأدنى لعدد المنتجات لاستخدام هذه الأداة (ن)
+Minimum Time of Goods to Done this Vocation (m),Tiempo mínimo para completar esta misión (m),Mindestzeit zum Abschließen dieser Mission (m),حداقل زمان انجام این ماموریت (متر),الحد الأدنى للوقت لإكمال هذه المهمة (م)
+Minimum Time of Products to Use this Tool (m),Tiempo mínimo de uso de esta herramienta (m),Mindestnutzungsdauer dieses Werkzeugs (m),حداقل زمان استفاده از این ابزار (متر),الحد الأدنى لوقت استخدام هذه الأداة (م)
+"The default payment contents to show for paying process
+",Contenido de pago predeterminado que se mostrará durante el pago,"Standardmäßige Zahlungsinhalte, die während des Bezahlvorgangs angezeigt werden",محتویات پرداخت پیش فرض برای نمایش در فرآیند پرداخت,محتويات الدفع الافتراضية التي سيتم عرضها أثناء الخروج
+"The main menu to show on the most pages
+",Menú principal para mostrar en la mayoría de las páginas,Hauptmenü zur Anzeige auf den meisten Seiten,منوی اصلی برای نمایش در بیشتر صفحات,القائمة الرئيسية لعرضها في معظم الصفحات
+"The main symbol path to show on the errors
+",La ruta del símbolo principal a mostrar en caso de errores,"Der Pfad des Hauptsymbols, das bei Fehlern angezeigt werden soll",مسیر نماد اصلی برای نشان دادن روی خطاها,مسار الرمز الرئيسي الذي سيتم عرضه عند وجود أخطاء
+"The side menu to show on the most pages
+",Menú lateral para mostrar en la mayoría de las páginas,Seitenmenü zur Anzeige auf den meisten Seiten,منوی کناری برای نمایش در بیشتر صفحات,القائمة الجانبية لعرضها في معظم الصفحات
+You do not have enough access to this action!,¡No tienes suficiente acceso para realizar esta operación!,"Sie verfügen nicht über ausreichende Zugriffsrechte, um diesen Vorgang auszuführen!",شما دسترسی کافی برای انجام این عملیات را ندارید!,ليس لديك القدرة الكافية على إجراء هذه العملية!
+"A goldsmith management system, is special for an aseqbase website...","Sistema de gestión de talleres de orfebrería, basado en el marco de trabajo del sitio web asqbase...","Managementsystem für Goldschmiedewerkstätten, basierend auf dem asqbase-Website-Framework …","سیستم مدیریت کارگاه های طلاسازی، مبتنی بر بستر چارچوب وب سایت asqbase ...","نظام إدارة ورشة صياغة الذهب، يعتمد على إطار عمل موقع asqbase..."
+"An integrated management system, is special for an aseqbase website...","Sistema de gestión integrado, basado en la plataforma framework sitio web asqbase...","Integriertes Managementsystem, basierend auf der asqbase Website-Framework-Plattform ...","سیستم یکپارچه مدیریت، مبتنی بر بستر چارچوب وب سایت asqbase ...",نظام إدارة متكامل يعتمد على منصة إطار عمل موقع الويب asqbase...
+"Dear user, the reset password sent to your email successfully!","Estimado usuario, ¡su correo electrónico de restablecimiento de contraseña ha sido enviado exitosamente!","Sehr geehrter Benutzer, Ihre E-Mail zum Zurücksetzen des Passworts wurde erfolgreich gesendet!",کاربر گرامی ایمیل بازنشانی رمز ورود شما با موفقیت ارسال شد!,"عزيزي المستخدم، لقد تم إرسال بريدك الإلكتروني لإعادة تعيين كلمة المرور بنجاح!"
+Finished processing and send this draft to the target unit!,¡Termina de procesar y envía el documento a la siguiente unidad!,Beenden Sie die Bearbeitung und senden Sie das Dokument an die nächste Einheit!,اتمام پردازش و ارسال سند به واحد بعد!,إنهاء المعالجة وإرسال المستند إلى الوحدة التالية!
+"Maximum weight, which can works per each one time unit!",¡El peso máximo que una fuerza puede trabajar por unidad de tiempo!,"Das maximale Gewicht, das eine Kraft pro Zeiteinheit leisten kann!","حداکثر وزن، که نیرو می تواند در هر واحد زمانی کار کند!",الحد الأقصى للوزن الذي تستطيع القوة أن تعمله في وحدة الزمن!
+Minimum Weight of Goods to Done this Vocation  (g),Peso mínimo de la mercancía para completar esta misión (gramos),Mindestgewicht der Waren zur Erfüllung dieser Mission (Gramm),حداقل وزن کالا برای انجام این ماموریت (گرم),الحد الأدنى لوزن البضائع لإكمال هذه المهمة (جرام)
+Minimum Weight of Products to Use this Tool  (g),Peso mínimo del producto para utilizar esta herramienta (gramos),Mindestproduktgewicht zur Verwendung dieses Werkzeugs (Gramm),حداقل وزن محصولات برای استفاده از این ابزار (گرم),الحد الأدنى لوزن المنتج لاستخدام هذه الأداة (جرام)
+"Minimum weight, which can works per each one time unit!",¡El peso mínimo que una fuerza puede ejercer por unidad de tiempo!,"Das Mindestgewicht, auf das eine Kraft pro Zeiteinheit einwirken kann!","حداقل وزن، که نیرو می تواند در هر واحد زمانی کار کند!",أقل وزن يمكن للقوة أن تؤثر عليه في وحدة الزمن!
+"The effective weight threshold of each piece in each draft
+",Umbral de peso efectivo para cada pieza en cada documento,Effektiver Gewichtsgrenzwert für jedes Stück in jedem Dokument,آستانه وزن موثر هر قطعه در هر سند,عتبة الوزن الفعالة لكل قطعة في كل وثيقة
+"The main menu items to show on the first page
+",Elementos del menú principal que se mostrarán en la primera página,Auf der ersten Seite anzuzeigende Hauptmenüelemente,موارد منوی اصلی برای نمایش در صفحه اول,عناصر القائمة الرئيسية التي سيتم عرضها في الصفحة الأولى
+"The main name of the object
+The website owner and name
+",El nombre real y apellido del propietario del sitio web,Der richtige Vor- und Nachname des Websitebesitzers,نام اصلی مالک وب سایت و نام,الاسم الحقيقي واسم العائلة لصاحب الموقع
+"The main shortcut menu to show on the most pages
+",Menú de acceso directo principal para mostrar en la mayoría de las páginas,Hauptkontextmenü zur Anzeige auf den meisten Seiten,منوی میانبر اصلی برای نمایش در بیشتر صفحات,القائمة المختصرة الرئيسية لعرضها على معظم الصفحات
+"The main symbol path to show while system is processing
+",La ruta al ícono principal que se mostrará durante el procesamiento del sistema.,"Der Pfad zum Hauptsymbol, das während der Systemverarbeitung angezeigt werden soll.",مسیر نماد اصلی برای نمایش در هنگام پردازش سیستم,المسار إلى الرمز الرئيسي الذي سيتم عرضه أثناء معالجة النظام.
+"The main symbol path to show while system is waiting
+",La ruta al ícono principal que se mostrará cuando el sistema esté esperando.,"Der Pfad zum Hauptsymbol, das angezeigt werden soll, wenn das System wartet.",مسیر نماد اصلی برای نمایش در زمانی که سیستم در انتظار است,المسار إلى الرمز الرئيسي الذي سيتم عرضه عندما يكون النظام في حالة انتظار.
+The user with these email or username could not register!,¡El usuario con este email o nombre de usuario no pudo registrarse!,Der Benutzer mit dieser E-Mail oder diesem Benutzernamen konnte sich nicht registrieren!,کاربر با این ایمیل یا نام کاربری نتوانست ثبت نام کند!,لم يتمكن المستخدم الذي لديه هذا البريد الإلكتروني أو اسم المستخدم من التسجيل!
+This unit is effective on timing and working or not!,¿Es esta unidad eficaz para programar y trabajar?,Ist diese Einheit hinsichtlich Planung und Arbeit effektiv?,این واحد در زمان بندی و کارکردن موثر است یا خیر!,هل هذه الوحدة فعالة في الجدولة والعمل؟
+Are you sure you want to set this draft as completed?,¿Está seguro de que desea marcar este documento como completado?,Möchten Sie dieses Dokument wirklich als erledigt markieren?,آیا مطمئن هستید که می خواهید این سند را به عنوان تکمیل شده تنظیم کنید؟,هل أنت متأكد أنك تريد وضع علامة على هذا المستند كمكتمل؟
+Are you sure you want to set this draft as damaged?,¿Está seguro de que desea marcar este documento como dañado?,Möchten Sie dieses Dokument wirklich als beschädigt markieren?,آیا مطمئن هستید که می خواهید این سند را به عنوان آسیب دیده تنظیم کنید؟,هل أنت متأكد أنك تريد وضع علامة على هذا المستند على أنه تالف؟
+Are you sure you want to set this draft as lost?,¿Estás seguro de que deseas marcar este documento como faltante? (Esto tendrá un impacto muy negativo en tu calificación).,Möchten Sie dieses Dokument wirklich als fehlend markieren? (Dies wird sich sehr negativ auf Ihre Note auswirken.),آیا مطمئنید که می خواهید این سند را به عنوان مفقود شده تنظیم کنید؟ (این کار تاثیر منفی بسیار زیادی روی معدل شما خواهد گذاشت),هل أنت متأكد أنك تريد وضع علامة على هذه الوثيقة كمفقودة؟ (سيكون لهذا تأثير سلبي جدًا على درجتك.)
+Count of lost work (<0>)!<1>Do not change this value without coordination!,Número de documentos faltantes (<0>)!<1>¡No cambie este valor sin coordinación!,Anzahl fehlender Dokumente (<0>)!<1>Diesen Wert nicht ohne Abstimmung ändern!,تعداد سند های مفقود شده (<0>)!<1>این مقدار را بدون هماهنگی تغییر ندهید!,عدد المستندات المفقودة (<0>)!<1>لا تغير هذه القيمة بدون تنسيق!
+SQLSTATE[<0><1><2><2><2>]: Integrity constraint violation: <3><2><4><0> Duplicate entry <5> for key <6>,SQLSTATE[<0><1><2><2><2>]: Violación de la restricción de integridad: <3><2><4><0> Entrada duplicada <5> para la clave <6>,SQLSTATE[<0><1><2><2><2>]: Verletzung der Integritätsbedingung: <3><2><4><0> Doppelter Eintrag <5> für Schlüssel <6>,SQLSTATE[<0><1><2><2><2>]: نقض محدودیت یکپارچگی: <3><2><4><0> ورودی تکراری <5> برای کلید <6>,SQLSTATE[<0><1><2><2><2>]: انتهاك قيد السلامة: <3><2><4><0> إدخال مكرر <5> للمفتاح <6>
+"Unfortunately, you received a <0> mark due to the this work!","¡Lamentablemente, recibiste <0> puntos negativos por esto!",Leider gibt es hierfür <0> Minuspunkte!,"متأسفانه به دلیل این کار، <0> امتیاز منفی دریافت کردید!","لسوء الحظ، لقد حصلت على <0> نقطة سلبية لهذا!"
+"Your full name, you will known by this around the site","Tu nombre completo, por este nombre eres conocido en el sistema.","Ihr vollständiger Name, unter diesem Namen sind Sie im System bekannt.","نام کامل شما، شما را با این نام در سامانه می شناسند","اسمك الكامل، أنت معروف بهذا الاسم في النظام."
+Are you sure you want to return this draft to the currentbox?,¿Está seguro de que desea devolver este documento a la carpeta actual?,Möchten Sie dieses Dokument wirklich in den aktuellen Ordner zurückverschieben?,آیا مطمئن هستید که می خواهید این سند را به صندوق جاری برگردانید؟,هل أنت متأكد أنك تريد إرجاع هذا المستند إلى المجلد الحالي؟
+SQLSTATE[<0><1>S<2><1>]: Base table or view not found: <3><3><0><4> Table <5> doesn<6>t exist,SQLSTATE[<0><1>S<2><1>]: No se encontró la tabla base o la vista: <3><3><0><4> La tabla <5><6> no existe.,SQLSTATE[<0><1>S<2><1>]: Basistabelle oder Ansicht nicht gefunden: <3><3><0><4> Tabelle <5><6> existiert nicht.,SQLSTATE[<0><1>S<2><1>]: جدول یا نمای پایه یافت نشد: <3><3><0><4> جدول <5><6>وجود ندارد,SQLSTATE[<0><1>S<2><1>]: لم يتم العثور على الجدول الأساسي أو العرض: <3><3><0><4> الجدول <5><6> غير موجود.
+SQLSTATE[<0><1>S<2><1>]: Base table or view not found: <3><3><0><4> Table <5> doesn't exist,SQLSTATE[<0><1>S<2><1>]: No se encontró la tabla base o vista: <3><3><0><4> La tabla <5> no existe,SQLSTATE[<0><1>S<2><1>]: Basistabelle oder Ansicht nicht gefunden: <3><3><0><4> Tabelle <5> existiert nicht,SQLSTATE[<0><1>S<2><1>]: جدول یا نمای پایه یافت نشد: <3><3><0><4> جدول <5> وجود ندارد,SQLSTATE[<0><1>S<2><1>]: لم يتم العثور على الجدول الأساسي أو العرض: <3><3><0><4> الجدول <5> غير موجود
+The effective threshold for the numbers of good pieces in each draft,Umbral efectivo para cada pieza de un producto en cada documento,Effektiver Schwellenwert für jedes Stück einer Ware in jedem Dokument,آستانه موثر برای هر قطعه از یک کالا در هر سند,الحد الأقصى الفعال لكل قطعة من السلعة في كل وثيقة
+The effective threshold for the numbers of product pieces in each draft,Umbral efectivo para cada pieza de un producto en cada documento,Effektiver Schwellenwert für jedes Produktstück in jedem Dokument,آستانه موثر برای هر قطعه از یک محصول در هر سند,الحد الأقصى الفعال لكل قطعة من المنتج في كل وثيقة
+The main name of the object  The website owner and name,El nombre del objeto principal del propietario del sitio web y el nombre,Der Hauptobjektname des Websitebesitzers und der Name,نام اصلی شی مالک وب سایت و نام,اسم الكائن الرئيسي لمالك الموقع والاسم
+This account is not active yet!<0><1>Try to send the activation email again!<2>,¡Esta cuenta aún no está activa!<0><1>¡Reenvíe el correo electrónico de activación!<2>,Dieses Konto ist noch nicht aktiv!<0><1>Senden Sie die Aktivierungs-E-Mail erneut!<2>,این حساب هنوز فعال نیست!<0><1>دوباره ایمیل فعال سازی را ارسال کنید!<2>,هذا الحساب غير نشط بعد!<0><1>أعد إرسال بريد التفعيل!<2>
+Your account will need to be activated if you change the field!,"¡Si cambias este campo, tu cuenta debería ser activada!","Wenn Sie dieses Feld ändern, sollte Ihr Konto aktiviert werden!","اگر این فیلد را تغییر دهید، حساب شما باید فعال شود!","إذا قمت بتغيير هذا الحقل، سيتم تفعيل حسابك!"
+"The main contacts details to show on the most pages and contact page
+",Datos de contacto principales para mostrar en la mayoría de las páginas y página de contacto,Die wichtigsten Kontaktdaten werden auf den meisten Seiten und der Kontaktseite angezeigt.,جزئیات مخاطبین اصلی برای نمایش در بیشتر صفحات و صفحه تماس,تفاصيل الاتصال الرئيسية التي سيتم عرضها في معظم الصفحات وصفحة الاتصال
+"The main KeyWords of the website, these will effect on SEO and views
+",Las palabras clave principales del sitio web afectan al SEO y a las visitas.,Die wichtigsten Schlüsselwörter der Website wirken sich auf SEO und Besuche aus.,"کلمات کلیدی اصلی وب سایت، بر روی سئو و بازدیدها تأثیر می گذارد",الكلمات الرئيسية للموقع تؤثر على تحسين محركات البحث والزيارات.
+"Unfortunately, you have no access to the site now!<0>Please try a few minutes later...","Lamentablemente, no tienes acceso al sistema en este momento.<0>Por favor, inténtalo de nuevo más tarde...",Leider haben Sie momentan keinen Zugriff auf das System!<0>Bitte versuchen Sie es später noch einmal...,"متأسفانه، در حال حاضر به سامانه دسترسی ندارید!<0>لطفا مدتی بعد مجدد تلاش فرمایید...","لسوء الحظ، ليس لديك إمكانية الوصول إلى النظام في الوقت الحالي!<0>يرجى المحاولة مرة أخرى لاحقًا..."
+aseqbase is a project sponsored by MiMFa. Designed by: MiMFa aseqbase Pure Web Design Framework,aseqbase es un proyecto respaldado por expertos en desarrollo tecnológico de MiMFa. Marco propietario de aseqbase de MiMFa.,"aseqbase ist ein Projekt, das von MiMFa-Technologieentwicklungsexperten unterstützt wird. MiMFa aseqbase ist ein proprietäres Framework",اسِک بِیس پروژه ای است که توسط متخصصین توسعه فناوری میم فا حمایت می شود. فریموک اختصاصی میم فا اسِک بِیس,aseqbase هو مشروع مدعوم من خبراء تطوير تكنولوجيا میم فا. إطار عمل MiMFa aseqbase الخاص
+An activation email sent successfully to your account (<0>)! Please check your email and click on the link.,Se ha enviado correctamente un correo electrónico de activación a tu cuenta (<0>). Revisa tu correo electrónico y haz clic en el enlace.,Eine Aktivierungs-E-Mail wurde erfolgreich an Ihr Konto (<0>) gesendet! Bitte überprüfen Sie Ihre E-Mail und klicken Sie auf den Link.,یک ایمیل فعال سازی با موفقیت به حساب شما ارسال شد (<0>)! لطفا ایمیل خود را بررسی کنید و روی لینک کلیک کنید.,تم إرسال رسالة تفعيل إلى حسابك بنجاح (<0>)! يُرجى التحقق من بريدك الإلكتروني والنقر على الرابط.
+"to manage day-to-day business activities such as accounting, procurement, project management, risk management and compliance, and supply chain operations.","Gestionar las actividades comerciales diarias, como contabilidad, adquisiciones, gestión de proyectos, gestión de riesgos y cumplimiento y operaciones de la cadena de suministro.","Zur Verwaltung alltäglicher Geschäftsaktivitäten wie Buchhaltung, Beschaffung, Projektmanagement, Risiko- und Compliance-Management sowie Lieferkettenabläufe.","برای مدیریت فعالیت های تجاری روزمره مانند حسابداری، تدارکات، مدیریت پروژه، مدیریت ریسک و انطباق، و عملیات زنجیره تامین.",لإدارة الأنشطة التجارية اليومية مثل المحاسبة والمشتريات وإدارة المشاريع وإدارة المخاطر والامتثال وعمليات سلسلة التوريد.
+"Fortunately, you received a <0> mark due to the this work!
+Here added <1> marks to each person of your units.","¡Afortunadamente, recibiste una puntuación de <0> por esto!
+ Además, se agregaron <1> puntos positivos a cada persona de tu unidad.","Glücklicherweise haben Sie hierfür die Punktzahl <0> erhalten!
+ Außerdem wurden jeder Person in Ihrer Einheit <1> Pluspunkte gutgeschrieben.","خوشبختانه به دلیل این کار نمره <0> دریافت کردید!
+همچنین <1>  امتیاز مثبت به هر فرد از واحد شما اضافه شده است.","لحسن الحظ، لقد حصلت على درجة <0> لهذا!
+ كما تمت إضافة <1> نقطة إيجابية لكل شخص في وحدتك."
+"Unfortunately, you received a <0> mark due to the this work!
+Here added <1> marks to each person of your units.","¡Desafortunadamente, recibiste <0> puntos negativos por esta acción!
+ Además, se han agregado <1> puntos negativos a cada persona en tus unidades.","Leider haben Sie für diese Aktion <0> Minuspunkte erhalten!
+ Außerdem wurden jeder Person in Ihren Einheiten <1> Minuspunkte gutgeschrieben.","متأسفانه به دلیل این کار شما  <0> امتیاز منفی دریافت کردید!
+همچنین <1> امتیاز منفی به هر فرد در واحدهای شما اضافه شده است.","لسوء الحظ، لقد حصلت على <0> نقطة سلبية لهذا الإجراء!
+ كما تمت إضافة <1> نقطة سلبية لكل شخص في وحداتك."
+"A special framework for web development called <0> (a sequence-based framework) has been developed to implement safe, flexible, fast, and strong pure websites based on that, since <1><2><3><4> so far."," Un marco de desarrollo web especial de código abierto llamado <0> (un marco basado en secuencias) para implementar sitios web puros, seguros, flexibles, rápidos y robustos, desarrollado desde <1><2><3><4>"," Ein spezielles Open-Source-Webentwicklungsframework namens <0> (ein sequenzbasiertes Framework) zur Implementierung reiner, sicherer, flexibler, schneller und robuster Websites, entwickelt seit <1><2><3><4>","یک چارچوب ویژه متن باز توسعه وب به نام <0> (یک چارچوب مبتنی بر توالی) برای پیاده سازی وب سایت های خالص، ایمن، انعطاف پذیر، سریع و قوی، توسعه یافته از سال <1><2><3><4> "," إطار عمل خاص مفتوح المصدر لتطوير الويب يسمى <0> (إطار عمل قائم على التسلسل) لتنفيذ مواقع ويب نقية وآمنة ومرنة وسريعة وقوية، تم تطويره منذ <1><2><3><4>"
+"We are a team has considered the idea as a small start-up project and has developed it through its financial and human resources. The start-up has gathered people from the professionals around a table. Our products are now ready to be presented to our dear users, and we are impatiently waiting to receive your comments.",Somos un equipo que tomó esta idea como un pequeño proyecto de startup y la desarrolló con nuestros propios recursos financieros y humanos. Esta startup ha reunido a profesionales en torno a una mesa. Nuestros productos ya están listos para ser presentados a nuestros estimados usuarios y esperamos con interés sus comentarios.,"Wir sind ein Team, das diese Idee als kleines Startup-Projekt aufgegriffen und mit eigenen finanziellen und personellen Ressourcen weiterentwickelt hat. Dieses Startup hat Experten an einen Tisch gebracht. Unsere Produkte sind nun bereit, unseren geschätzten Nutzern präsentiert zu werden, und wir warten gespannt auf Ihr Feedback.",ما تیمی هستیم که این ایده را یک پروژه کوچک استارت آپی در نظر گرفته و آن را از طریق منابع مالی و انسانی خود توسعه داده است. این استارت آپ افراد حرفه ای را دور یک میز جمع کرده است. محصولات ما هم اکنون آماده ارائه به کاربران عزیز می باشد و بی صبرانه منتظر دریافت نظرات شما هستیم.,"نحن فريقٌ أخذ هذه الفكرة كمشروعٍ ناشئٍ صغير، وطوّرناها بمواردنا المالية والبشرية الخاصة. جمع هذا المشروعُ المهنيينَ على طاولةٍ واحدة. منتجاتنا جاهزةٌ الآن لعرضها على مستخدمينا الأعزاء، وننتظر بفارغ الصبر ملاحظاتكم."

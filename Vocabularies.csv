@@ -1127,9 +1127,9 @@ Amortization Of Debt,Amortización De Deuda,Tilgung Von Schulden,استهلاک 
 Amortized,Amortizado,Amortisiert,مستهلک شده,مستهلك
 Amos Nikhs,Amos Nikhs,Amos Nikhs,آموس نیکس,آموس نيخس
 Amount,Cantidad,Menge,مقدار,كمية
-Amounts,Valores,Werte,مقادیر,قيم
 Amount To,Equivaler A,Betragen,مقدار به,المبلغ إلى
 Amounting To,Ascendiendo A,In Höhe Von,بالغ بر,تبلغ قيمتها
+Amounts,Valores,Werte,مقادیر,قيم
 Amperage,Amperaje,Stromstärke,آمپراژ,الأمبير
 Ampere,Amperio,Ampere,آمپر,أمبير
 Amphetamine,Anfetamina,Amphetamin,آمفتامین,الأمفيتامين
@@ -2185,7 +2185,7 @@ Authors Royalty',Derechos De Autor,Autoren-Königshaus',حق امتیاز نوی
 Author'S Royalty,,,حق التالیف,
 Auto,Auto,Auto,خودکار,آلي
 AUTOADVICE,AUTOADVICE,AUTOADVICE,راهنمای خودکار,نصائح تلقائية
-AUTOADVICE<0><1>,AUTOADVICE<0><1>,AUTOADVICE<0><1>,,راهنمای خودکار<0><1>,نصائح تلقائية<0><1>
+AUTOADVICE<0><1>,AUTOADVICE<0><1>,AUTOADVICE<0><1>,,راهنمای خودکار<0><1>
 Autobahn,Autopista,Autobahn,اتوبان,الطريق السريع
 Autobiographer,Autobiógrafo,Autobiograph,خودزندگی نامه نویس,الكاتب سيرته بنفسه
 Autobiographical,Autobiográfico,Autobiographisch,خودزندگی نامه ای,سيرة ذاتية
@@ -4717,9 +4717,9 @@ Canalize,Canalizar,Kanalisieren,کانالیزه کردن,قناة
 Canal-Like,Similar A Un Canal,Kanalartig,کانال مانند,شبيه بالقناة
 Cancel,Cancelar,Stornieren,لغو,يلغي
 Cancelation,Cancelación,Stornierung,لغو,الإلغاء
+Canceled,Cancelado,Abgesagt,لغو شد,تم الإلغاء
 Cancellate,Cancelar,Abbrechen,لغو کردن,إلغاء
 Cancellation,Cancelación,Stornierung,لغو,إلغاء
-Canceled,Cancelado,Abgesagt,لغو شد,تم الإلغاء
 Cancer,Cáncer,Krebs,سرطان,سرطان
 Cancerlogy,Cancerología,Krebslogie,سرطان شناسی,علم السرطان
 Cancerous,Canceroso,Krebsartig,سرطانی,سرطاني
@@ -10995,7 +10995,6 @@ Falling Star,Estrella Fugaz,Sternschnuppe,ستاره در حال سقوط,نيز
 Falloff,Caída,Abfall,ریزش,انخفاض
 Fallow,Barbecho,Brache,آیش,بور
 Fallujah,Faluya,Falludscha,فلوجه,الفلوجة
-False,False,False,غلط,غلط
 False Documents,Documentos Falsos,Gefälschte Dokumente,اسناد جعلی,وثائق مزورة
 False Labor Pain,Falso Dolor De Parto,Falsche Wehen,درد کاذب زایمان,ألم المخاض الكاذب
 Falsehood,Falsedad,Lüge,دروغ,الكذب
@@ -15159,9 +15158,9 @@ Identical,Idéntico,Identisch,یکسان,تطابق
 Identifiable,Identificable,Identifizierbar,قابل شناسایی,يمكن التعرف عليه
 Identification,Identificación,Identifikation,شناسایی,تعريف
 Identification Marks,Marcas De Identificación,Erkennungszeichen,علائم شناسایی,علامات التعريف
+Identifier,Identidad,Identität,شناسه,هوية
 Identify,Identificar,Identifizieren,شناسایی,تعريف
 Identity,Identidad,Identität,هویت,هوية
-Identifier,Identidad,Identität,شناسه,هوية
 Ideograph,Ideograma,Ideogramm,ایدئوگراف,إيديوغراف
 Ideology,Ideología,Ideologie,ایدئولوژی,أيديولوجية
 Idiocy,Idiotez,Idiotie,حماقت,حماقة
@@ -20773,12 +20772,12 @@ Nati,Nati,Nati,ناتی,ناتي
 Nati Bota,Nati Bota,Nati Bota,ناتی بوتا,ناتي بوتا
 Nation,Nación,Nation,ملت,أمة
 National,Nacional,Nationalmannschaft,ملی,وطني
-National ID,Nacional ID,NationalmannschaftId,کد ملی,الهوية الوطنيه
 National Anthem,Himno Nacional,Nationalhymne,سرود ملی,النشيد الوطني
 National Assembly,Asamblea Nacional,Nationalversammlung,مجلس ملی,الجمعية الوطنية
 National Congress,Congreso Nacional,Nationalkongress,کنگره ملی,المؤتمر الوطني
 National Congress Of Iraq,Congreso Nacional De Irak,Nationalkongress Des Irak,کنگره ملی عراق,المؤتمر الوطني العراقي
 National Guard,Guardia Nacional,Nationalgarde,گارد ملی,الحرس الوطني
+National ID,Nacional ID,NationalmannschaftId,کد ملی,الهوية الوطنيه
 National Income,Ingreso Nacional,Volkseinkommen,درآمد ملی,الدخل القومي
 National Iranian Oil Company,Compañía Nacional De Petróleo De Irán,Nationale Iranische Ölgesellschaft,شرکت ملی نفت ایران,الشركة الوطنية الإيرانية للنفط
 National Islamic Movement,Movimiento Islámico Nacional,Nationale Islamische Bewegung,جنبش ملی اسلامی,الحركة الإسلامية الوطنية
@@ -24074,13 +24073,13 @@ Possibility,Posibilidad,Wahrscheinlichkeit,امکان,إمكانية
 Possible,Posible,Möglich,ممکن است,ممكن
 Post,Correo,Post,پست,بريد
 Post Card,Tarjeta Postal,Postkarte,کارت پستال,بطاقة بريدية
+Post Code,Postal Code,Post-Code,کدپستی,بريدي
 Post Office,Oficina De Correos,Postamt,اداره پست,مكتب البريد
 Post Processing,Posprocesamiento,Nachbearbeitung,پس پردازش,مرحلة ما بعد المعالجة
 Postage,Franqueo,Porto,هزینه پستی,رسوم البريد
 Postage Stamp,Sello,Briefmarke,تمبر پستی,طابع بريدي
 Postal,Postal,Post-,پستی,بريدي
 Postal Code,Postal Code,Post-Code,کدپستی,بريدي
-Post Code,Postal Code,Post-Code,کدپستی,بريدي
 Postal Service,Servicio Postal,Postdienst,خدمات پستی,الخدمة البريدية
 Poster,Póster,Poster,پوستر,ملصق
 Posterior,Posterior,Hintere,خلفی,خلفي
@@ -33111,7 +33110,6 @@ Truck,Camión,LKW,کامیون,شاحنة
 Truculent,Agresivo,Trotzig,خشن,مشاكس
 Trudge,Caminar Penosamente,Stapfen,قدم زدن,مشى بصعوبة
 Trudger,Caminante,Stapfen,تراگر,متجول
-True,True,True,صحیح,صحیح
 True Friend,Verdadero Amigo,Wahrer Freund,دوست واقعی,صديق حقيقي
 True To Ones Promise',Fiel A Su Promesa,Seinem Versprechen Treu Bleiben',به وعده خود وفا می کنند,وفيا لوعده
 True To One'S Promise,Promesa verdadera,Wahres Versprechen,درست پیمان,
@@ -36162,3 +36160,5 @@ Zymology,Zimología,Zymologie,زایمولوژی,علم الزيمولوجيا
 Zymoplastic,Zimoplástico,Zymoplastisch,زیموپلاستیک,زيموبلاستيك
 Zymurgy,Zimurgia,Zymurgie,زیمورگی,زيمورجيا
 Zyvr,Zyvr,Zyvr,زیور,زيفر
+FALSE,FALSE,FALSE,غلط,غلط
+TRUE,TRUE,TRUE,صحیح,صحیح
