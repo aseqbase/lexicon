@@ -64,6 +64,7 @@ The side menu to show on the most pages,Menú lateral para mostrar en la mayorí
 The main menu of the website,Menú principal del sitio web,Hauptmenü der Website,منوی اصلی وب سایت,قائمة الموقع الرئيسية
 Tiles failed to load: Please check your internet connection.,Error al cargar los mosaicos: Comprueba tu conexión a internet.,Kacheln konnten nicht geladen werden: Bitte überprüfen Sie Ihre Internetverbindung.,کاشی ها بارگیری نشدند: لطفاً اتصال اینترنت خود را بررسی کنید.,فشلت عملية تحميل البلاط: يرجى التحقق من اتصالك بالإنترنت.
 Client Examination and Management,Examen y gestión de clientes,Klientenprüfung und -management,بررسی و مدیریت مشتریان,فحص وإدارة العملاء
+Cancel the <0>,Cancelar el <0>,Abbrechen der <0>,لغو کردن <0>,إلغاء <0>
 Patient Examination and Management,Examen y gestión de pacientes,Patientenuntersuchung und -management,معاینه و مدیریت بیمار,فحص المرضى وإدارتهم
 Your valid email address,Tu dirección de correo electrónico válida,Ihre gültige E-Mail-Adresse,آدرس ایمیل معتبر شما,عنوان بريدك الإلكتروني الصحيح
 "Dear <0>, you have logged in successfully","Estimado <0>, has iniciado sesión correctamente","Lieber <0>, Sie haben sich erfolgreich angemeldet","<0> عزیز، شما با موفقیت وارد شدید.","عزيزي <0>، لقد قمت بتسجيل الدخول بنجاح"
@@ -80,6 +81,7 @@ Request Submit,Enviar solicitud,Anfrage senden,درخواست ارسال,طلب 
 The short slogan of the website,Eslogan corto para un sitio web,Kurzslogan der Website,شعار کوتاه وب سایت,شعار الموقع القصير
 Azmaresan Kavir Yazd Co.,Azmaresan Kavir Yazd Co.,Azmaresan Kavir Yazd Co.,شرکت آزمرسان کویر یزد,شركة أزمارسان كافير يزد
 See all latest requests,Ver todas las solicitudes más recientes,Alle neuesten Anfragen anzeigen,مشاهده همه درخواست های اخیر,شاهد جميع الطلبات الأخيرة
+See all the <0> requests,Ver todas <0> más recientes,Alle neuesten <0> anzeigen,مشاهده همه درخواست های <0>,شاهد جميع الطلبات <0>
 "Koreei Alley, Motahari Street, Yazd, Iran","Callejón Koreei, Calle Motahari, Yazd, Irán","Koreei Alley, Motahari Street, Yazd, Iran","ایران، یزد، خیابان مطهری، کوچه کره ای","زقاق كوري، شارع مطهري، يزد، إيران"
 Tracking Code,Código de seguimiento,Tracking-Code,کد رهگیری,رمز التتبع
 A valid phone number,Un número de teléfono válido,Eine gültige Telefonnummer,یک شماره تلفن معتبر,رقم هاتف صالح
@@ -154,6 +156,7 @@ Discover your strengths,Descubre tus fortalezas,Entdecken Sie Ihre Stärken,نق
 "Your full name, you will known by this around the site","Tu nombre completo, por este nombre eres conocido en el sistema.","Ihr vollständiger Name, unter diesem Namen sind Sie im System bekannt.","نام کامل شما، شما را با این نام در سامانه می شناسند","اسمك الكامل، أنت معروف بهذا الاسم في النظام."
 Your first name,Tu nombre,Ihr Vorname,نام کوچک شما,اسمك الأول
 Your last name,Tu apellido,Ihr Nachname,نام خانوادگی شما,اسمك الأخير
+Your request sent successfully!,¡Su solicitud enviada exitosamente!,Ihre Anfrage wurde erfolgreich gesendet!,درخواست شما با موفقیت ارسال شد,تم ارسال طلبك بنجاح!
 Your transaction verified successfully!,¡Su transacción se verificó correctamente!,Ihre Transaktion wurde erfolgreich verifiziert!,تراکش شما با موفقیت تایید شد!,تم التحقق من معاملتك بنجاح!
 Refer to complete the process,Consulte para completar el proceso,Weitere Informationen zum Abschluss des Vorgangs finden Sie hier,تکمیل فرایند,راجع لإكمال العملية
 This bill was paid before!,¡Esta factura ya fue pagada antes!,Diese Rechnung wurde bereits bezahlt!,این صورتحساب قبلا پرداخت شده است!,لقد تم دفع هذه الفاتورة من قبل!
@@ -185,6 +188,7 @@ This bill paid before!,¡Esta factura ya fue pagada!,Diese Rechnung wurde bereit
 Sending to partners,Envío a socios,Senden an Partner,ارسال به همکاران,إرسال إلى الشركاء
 There are <0> active requests related to this one!,¡Hay <0> solicitudes activas relacionadas con esta!,Es gibt <0> aktive Anfragen zu dieser Anfrage!,تعداد <0> درخواست فعال مرتبط با این مورد وجود دارد!,هناك <0> طلبات نشطة متعلقة بهذا!
 Request an <0> service,Solicitar un servicio <0>,Fordern Sie einen <0>-Dienst an,درخواست خدمات <0>,طلب خدمة <0>
+Request an <0>,Solicitar un <0>,Fordern Sie einen <0> an,درخواست <0>,طلب <0>
 Website terms and policies,Términos y políticas del sitio web,Website-Bedingungen und -Richtlinien,قوانین و مقررات وبسایت,شروط وسياسات الموقع
 The <0> added successfully!,¡El <0> se agregó correctamente!,Die <0> wurde erfolgreich hinzugefügt!,<0> مورد نظر با موفقیت اضافه شد!,تمت إضافة <0> بنجاح!
 The <0> removed successfully!,¡El <0> se eliminó correctamente!,Die <0> wurde erfolgreich entfernt!,<0> مورد نظر با موفقیت حذف شد!,تمت إزالة <0> بنجاح!
@@ -192,6 +196,7 @@ The <0> updated successfully!,¡El <0> se actualizó correctamente!,Die <0> wurd
 The <0> modified successfully!,¡El <0> se actualizó correctamente!,Die <0> wurde erfolgreich aktualisiert!,<0> مورد نظر با موفقیت بروزرسانی شد!,تم تحديث <0> بنجاح!
 The <0> found successfully!,¡El <0> se encontró correctamente!,Die <0> wurde erfolgreich gefunden!,<0> مورد نظر با موفقیت یافت شد!,تم العثور على <0> بنجاح!
 The <0> <1> successfully!,¡El <0> se <1> correctamente!,Die <0> wurde <1> gefunden!,<0> مورد نظر با موفقیت <1> شد!,تم <1> على <0> بنجاح!
+The request time has expired!,¡El tiempo de espera para la solicitud ha expirado!,Die Anfragezeit ist abgelaufen!,زمان ارسال این درخواست به پایان رسیده است!,لقد انتهى الوقت المخصص للطلب!
 This <0> added successfully!,¡El <0> se agregó correctamente!,Die <0> wurde erfolgreich hinzugefügt!,<0> مورد نظر با موفقیت اضافه شد!,تمت إضافة <0> بنجاح!
 This <0> removed successfully!,¡El <0> se eliminó correctamente!,Die <0> wurde erfolgreich entfernt!,<0> مورد نظر با موفقیت حذف شد!,تمت إزالة <0> بنجاح!
 This <0> updated successfully!,¡El <0> se actualizó correctamente!,Die <0> wurde erfolgreich aktualisiert!,<0> مورد نظر با موفقیت بروزرسانی شد!,تم تحديث <0> بنجاح!
@@ -204,3 +209,4 @@ This <0> <1> successfully!,¡El <0> se <1> correctamente!,Die <0> wurde <1> gefu
 <0> modified successfully!,¡El <0> se actualizó correctamente!,Die <0> wurde erfolgreich aktualisiert!,<0> مورد نظر با موفقیت بروزرسانی شد!,تم تحديث <0> بنجاح!
 <0> found successfully!,¡El <0> se encontró correctamente!,Die <0> wurde erfolgreich gefunden!,<0> مورد نظر با موفقیت یافت شد!,تم العثور على <0> بنجاح!
 <0> <1> successfully!,¡El <0> se <1> correctamente!,Die <0> wurde <1> gefunden!,<0> مورد نظر با موفقیت <1> شد!,تم <1> على <0> بنجاح!
+You can not <0> this item!,¡No puedes <0> este artículo!,Sie können diesen Artikel nicht <0>!,شما امکان <0> این مورد را ندارید!,لا يمكنك <0> هذا العنصر!
