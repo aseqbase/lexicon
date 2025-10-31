@@ -75,7 +75,7 @@ Anacreontic,poesía lírica,Lyrische Poesie,شعر بزمی,الشعر الغن�
 Anadem,Collar,Halskette,گردن بند,قلادة
 APPEARANCES,Apariencia,Aussehen,ظاهر,مظهر
 Apply,Aplicar,Anwenden,اعمال,يتقدم
-Archived,Archivado,Archiviert,بایگانی‌شده,مؤرشفة
+Archived,Archivado,Archiviert,بایگانی شده,مؤرشفة
 ARTICLE,Artículo,ARTIKEL,مقاله,مقالة
 Attaches,Archivos adjuntos,Anlagen,ضمائم,المرفقات
 Authenticate,Autenticar,Authentifizieren,احراز هویت,المصادقة
@@ -92,7 +92,7 @@ Bio,Biografía,Bio,بیوگرافی,السيرة الذاتية
 Blocked,Obstruido,Blockiert,مسدود,محظور
 Box,Financiar,Fonds,صندوق,تمويل
 Cancel,Cancelar,Stornieren,لغو,يلغي
-Canceled,Cancelado,Abgebrochen,انصراف‌داده,ألغيت
+Canceled,Cancelado,Abgebrochen,انصراف داده,ألغيت
 CATEGORIES,Categorías,Kategorien,دسته بندی ها,فئات
 Category,Categoría,Kategorie,دسته بندی,الفئات
 Category,Categoría,Kategorie,دسته,فئة
@@ -106,7 +106,7 @@ Close,Cerca,Schließen,بستن,يغلق
 COMMENTS,Comentarios,KOMMENTARE,نظرات,التعليقات
 Complete,Terminación,Fertigstellung,تکمیل,انتهاء
 Completebox,Caja de artículos completados,Feld „Abgeschlossene Elemente“,صندوق تکمیل شده ها,صندوق العناصر المكتملة
-Completed,Completado,Abgeschlossen,تکمیل‌شده,مُكتمل
+Completed,Completado,Abgeschlossen,تکمیل شده,مُكتمل
 COMPLETED,Terminado,Vollendet,تکمیل شده ها,مكتمل
 Completeds,Finalizaciones,Abschlüsse,تکمیل ها,الإكمالات
 Configuration,Configuración,Konfiguration,پیکربندی,إعدادات
@@ -115,14 +115,13 @@ Confirmed,Confirmado,Bestätigt,تاییدشده,أُكدت
 CONTACT,Contacto,KONTAKT,تماس,اتصل بنا
 Contacts,correlación,Kontakte,ارتباط,جهات الاتصال
 Content,Contenido,Inhalt,محتوا,محتوى
-CONTENTS,Su contenido,INHALT,محتواها,المحتويات
-CONTENTS,Lista,Liste,فهرست,قائمة
+Contentس,Su contenido,Inhalt,محتواها,المحتويات
 Contradiction,Contradicción,Widerspruch,مغایرت,تناقض
 Count,Número,Nummer,تعداد,رقم
 Create,Creado en,Erstellt in,ایجاد شده در,تم إنشاؤه في
 CreateTime,Creado en,Erstellt in,ایجاد شده در,تم إنشاؤه في
 Credit,Acreedor,Gläubiger,بستانکار,الدائن
-CURRENT,Actual,Aktuell,جاری,حاضِر
+Current,Actual,Aktuell,جاری,حاضِر
 Currentbox,Cuenta corriente,Girokonto,صندوق جاری ها,الحساب الجاري
 Currents,Corrientes,Strömungen,جاری ها,التيارات
 Damage,Falla,Versagen,خرابی,فشل
@@ -140,7 +139,7 @@ Debit,Deudor,Schuldner,بدهکار,المدين
 Delay,Demora,Verzögerung,تاخیر,تأخير
 Description,Descripción,Beschreibung,شرح,وصف
 Do,Hacer,Tun,انجام,يفعل
-Done,Listo,Erledigt,انجام‌شده,تمّ
+Done,Listo,Erledigt,انجام شده,تمّ
 Done,Hecho,Erledigt,انجام شده,منتهي
 DRAFT,Documento,Dokumentieren,سند,وثيقة
 DRAFTS,Documentos,Unterlagen,سند ها,وثائق
@@ -159,7 +158,7 @@ Failbox,El Fondo de los Fracasados,Der Fonds der Erfolglosen,صندوق نامو
 FAILED,Fracasado,Erfolglos,ناموفق,غير ناجح
 Fails,Los fracasados,Die Erfolglosen,ناموفق ها,غير الناجحين
 Female,Señor,Herr,آقا,سيد
-Finished,Terminado,Beendet,پایان‌یافته,انتهى
+Finished,Terminado,Beendet,پایان یافته,انتهى
 First,Primero,Vorname,اولین,الأول
 First,Primero,Erste,ابتدا,أولاً
 FORUM,Tenemos éxito,FORUM,انجمن,المجتمع
@@ -172,13 +171,12 @@ GoodName,Nombre del producto,Produktname,نام کالا,اسم المنتج
 GOODS,Bienes,Waren,کالاها,بضائع
 Greeting,Saludo,Gruß,با احترام,تحية
 Group,Grupo,Gruppe,گروه,المجموعات
-GROUPS,Grupos,GRUPPEN,گروه ها,المجموعات
+Groups,Grupos,Gruppen,گروه ها,المجموعات
 Guest,Importante,Gäste,مهمان,الضيف
 h,Reloj,Uhr,ساعت,ساعة
 HandBook,Tu libro es nuestra guía,Handbuch,کتابچه راهنما,الأدلة
 Hinge,Articulación,Gemeinsam,مفصل,مشترك
-HOME,Casa,STARTSEITE,خانه,الصفحة الرئيسية
-HOME,Página de inicio,Startseite,صفحه اصلی,الصفحة الرئيسية
+Home,Casa,STARTSEITE,خانه,الصفحة الرئيسية
 Id,¿Qué te pasa?,ID,شناسه,الهوية
 Image,Fotografía,Bild,تصویر,الصورة
 Import,Importar,Import,ورودی,يستورد
@@ -186,7 +184,8 @@ Imported,Importado,Importiert,وارد شده,مستورد
 Inbox,Bandeja de entrada,Posteingang,صندوق ورودی ها,صندوق الوارد
 Incompleted,Incompleto,Unvollständig,ناقص,غير مُكتمل
 Inform,Informar,Informieren,فراخوان,يخبر
-INFORMATIONS,Información,Information,اطلاعات,معلومة
+Information,Información,Information,اطلاعات,معلومة
+Informations,Información,Information,اطلاعات,معلومة
 Input,Aporte,Eingang,ورودی,مدخل
 Inputs,Entradas,Eingänge,ورودی ها,المدخلات
 iRMS,IRAMS,IRAMS,آی آرام اس,إيرامز
@@ -228,7 +227,7 @@ NEWS,noticias,NACHRICHTEN,اخبار,الأخبار
 Next,Después de mí,Weiter,بعدی,التالي
 Next,Próximo,Nächste,بعد,التالي
 Notice,Aviso,Beachten,اعلان,يلاحظ
-Noticed,Notificado,Bemerkt,فراخوان‌شده,أُشير إليها
+Noticed,Notificado,Bemerkt,فراخوان شده,أُشير إليها
 NULL,Ninguno,Keiner,هیچ,لا أحد
 Numbers,Número,Nummer,تعداد,رقم
 Order,Orden,Befehl,ترتیب,طلب
@@ -240,25 +239,24 @@ Outbox,Bandeja de salida,Postausgang,صندوق خروجی ها,صندوق ال�
 Output,Producción,Ausgabe,خروجی,الناتج
 Outputs,Salidas,Ausgänge,خروجی ها,المخرجات
 Owner,Dueño,Inhaber,مالک,المالك
-Paid,Pagado,Bezahlt,پرداخت‌شده,دُفعت
+Paid,Pagado,Bezahlt,پرداخت شده,دُفعت
 Parent,padre,Übergeordneter,والد,الرئيسي
 ParentId,Identificación de base,Basis-ID,شناسه پایه,معرف القاعدة
 Partialbox,Fondo de asuntos pendientes,Fonds für unerledigte Geschäfte,صندوق نیمه کاره ها,صندوق الأعمال غير المكتملة
 Partials,Productos semiacabados,Halbfertigprodukte,نیمه کاره ها,المنتجات نصف المصنعة
 Password,Código de acceso,Passwort,رمز عبور,كلمة المرور
-Password,Contraseña,Passwort,کلمه عبور,كلمة المرور
 Path,camino,Pfad,مسیر,المسار
 Pause,Detener,Stoppen,توقف,قف
 Paused,Interrumpido,Gestoppt,متوقف,متوقف
 Person,Persona,Person,شخص,شخص
-PERSONNEL,Gente,Menschen,اشخاص,الناس
+Personnel,Gente,Menschen,اشخاص,الناس
 Phone,Teléfono,Telefon,تلفن,الهاتف
 PLUGINS,Complementos,Plugins,افزونه ها,المكونات الإضافية
 Pole,Eje,Achse,محور,محور
 POLEBOX,Fondo Pivotal,Pivotal Fund,صندوق محوری ها,صندوق بيفوتال
 Poles,Pivotes,Drehpunkte,محوری ها,محاور
 Port,Puerto,Hafen,درگاه,ميناء
-Ports,Puerto,Hafen,درگاه‌ها,ميناء
+Ports,Puerto,Hafen,درگاه ها,ميناء
 Post,Pasado,Post,پست,المنشور
 Posts,Pasados,Posts,پست ها,المنشورات
 POSTS,Escritos,Schriften,نوشته ها,كتابات
@@ -277,7 +275,7 @@ Recycled,Reciclado,Recycelt,بازیافت شده,مُعاد تدويرها
 Recycleds,Reciclaje,Recycling,بازیافت ها,إعادة التدوير
 Recycles,Reciclaje,Recycling,بازیافت ها,إعادة التدوير
 Referrals,Referencias,Empfehlungen,ارجاعات,الإحالات
-Refund,Reembolso,Erstattung,مسترد‌شده,استرداد
+Refund,Reembolso,Erstattung,مسترد شده,استرداد
 Reg,Registro,Anmeldung,ثبت,تسجيل
 Register,Registro,Registrieren,ثبت نام,يسجل
 Registerbox,Caja de registro,Registrierungsfeld,صندوق ثبتی ها,صندوق التسجيل
@@ -2258,7 +2256,7 @@ Sultana,Sultana,Sultanin,سلطانه,سلطانة
 Sultanate,Reino del sultán,Reich des Sultans,قلمرو سلطان,مملكة السلطان
 Sultaness,Sultana,Sultanin,سلطانه,سلطانة
 Sultans,Sultanes,Sultane,سلاطین,السلاطين
-Sum,Total,Gesamt,جمع‌کل,المجموع
+Sum,Total,Gesamt,جمع کل,المجموع
 Sumac,Zumaque,Sumach,سماق,السماق
 Sumatra,Sumatra,Sumatra,سوماترا,سومطرة
 Sumerian,Sumerio,Sumerisch,سومری,السومرية
@@ -4119,8 +4117,8 @@ Tussle,Competición física,Körperlicher Wettkampf,مسابقه جسمانی,ا
 Tutelary,Dependiente de tutela,Abhängig von der Vormundschaft,وابسته بقیمومت,يعتمد على الوصاية
 Tutor,Tutor a domicilio,Hauslehrer,معلم سر خانه,مدرس منزلي
 Tutoress,Maestra,Lehrerin,آموزگار زن,معلمة
-Tutorial,Profesora Sorkhaneh,Lehrerin Sorkhaneh,خودآموز,المعلمة سورخانة
-TUTORIAL,Educación,Ausbildung,آموزش,تعليم
+Tutorial,Profesora Sorkhaneh,Lehrerin Sorkhaneh,آموزش,المعلمة سورخانة
+Tutorials,Profesora Sorkhaneh,Lehrerin Sorkhaneh,آموزش ها,المعلمة سورخانة
 Tutorship,Custodia,Gewahrsam,حضانت,كفالة
 Tutty,Totia,Totia,توتیا,توتيا
 Tux,Ropa formal,Abendgarderobe,لباس رسمی,ملابس رسمية
@@ -4921,8 +4919,7 @@ Uselessness,Inutilidad,Nutzlosigkeit,بی فایدگی,عدم الجدوى
 User,Usuario,Benutzer,کاربر,مستخدم
 UserId,ID de usuario,Benutzer-ID,شناسه کاربر,معرف المستخدم
 UserName,Nombre de usuario,Benutzername,نام کاربری,اسم المستخدم
-USERS,Usuarios,BENUTZER,کاربران,المستخدمون
-USERS,Gente,Menschen,اشخاص,الناس
+Users,Usuarios,BENUTZER,کاربران,المستخدمون
 Usher,Para hacer preguntas,Fragen stellen,یساولی کردن,لطرح الأسئلة
 Using,Usar,Verwenden,بکارگیری,يستخدم
 Usual,Normal,Normal,عادی,طبيعي
@@ -5184,9 +5181,9 @@ Verdant,Verde,Grün,سبز رنگ,أخضر
 Verdict,Votar,Abstimmung,رای,تصويت
 Verdigris,Óxido de cobre,Kupferrost,زنگار مس,صدأ النحاس
 Verge,Honor,Ehre,شرف,شرف
-Verification,Confirmación,Bestätigung,تصدیق,تأكيد
-Verify, Investigador, Forscher,"محقق	", الباحث
-Verifying,Confrontación,Konfrontation,مقابله,المواجهة
+Verification,Confirmación,Bestätigung,تاییدیه,تأكيد
+Verify,Investigador,Forscher,تایید کردن,الباحث
+Verifying,Confrontación,Konfrontation,تایید,المواجهة
 Verily,Cada espejo,Jeder Spiegel,هر آینه,كل مرآة
 Verisimilar,Orientado a la derecha,Nach rechts gerichtet,راست نما,متجهًا إلى اليمين
 Verisimilarity,Honestidad,Ehrlichkeit,راست نمائی,الصدق
@@ -5399,7 +5396,7 @@ Visitation,migración monzónica,Monsunwanderung,مهاجرت موسمی,هجر�
 Visitational,migración monzónica,Monsunwanderung,مهاجرت موسمی,هجرة الرياح الموسمية
 Visitatorial,Visita,Besuchen,عیادتی,يزور
 Visiter,Visitante,Gast,دیدارگر,زائر
-Visiting,Besa tus pies,Küss deine Füße,مشاهده‌کردن,قبل قدميك
+Visiting,Besa tus pies,Küss deine Füße,مشاهده کردن,قبل قدميك
 Visitor,Visitante,Gast,مشاهده کننده,زائر
 Visits,Ver y volver a ver,Sehen und wiedersehen,مشاهدات,مشاهدات
 Visor,Girasol,Sonnenblume,آفتاب گردان,عباد الشمس
@@ -6475,5 +6472,3 @@ Zymology,Ciencia de la levadura,Hefewissenschaft,مخمرشناسی,علم ال�
 Zymoplastic,Generador de diastasa,Diastasegenerator,مولد دیاستاز,مولد الدياستاز
 Zymurgy,Fermentación,Fermentation,تخمیرشناسی,التخمير
 Zyvr,Ornamento,Ornament,زیور,زخرفة
-FALSE,Falso,FALSE,غلط,غلط
-TRUE,Correcto,TRUE,صحیح,صحيح

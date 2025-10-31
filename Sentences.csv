@@ -98,8 +98,8 @@ Found <0><1><2> results for searching <0><3><2>!,¡Se encontraron <0><1><2> resu
 Developed By:,Desarrollado por:,Entwickelt von:,توسعه داده شده توسط:,تم التطوير بواسطة:
 Unable to retrieve your location. Please allow location access.,"No se puede recuperar tu ubicación. Por favor, permite el acceso a la ubicación.",Ihr Standort konnte nicht abgerufen werden. Bitte erlauben Sie den Standortzugriff.,بازیابی موقعیت مکانی شما امکان پذیر نیست. لطفاً دسترسی به موقعیت مکانی را مجاز کنید.,تعذر استرداد موقعك. يُرجى السماح بالوصول إلى الموقع.
 Unable to retrieve your location,No se puede recuperar tu ubicación. Por favor,Ihr Standort konnte nicht abgerufen werden,بازیابی موقعیت مکانی شما امکان پذیر نیست,تعذر استرداد موقعك
-Develop websites by <0>a seq<1>uence-<0>base<1>d framework,Desarrollar sitios web mediante un marco basado en secuencias,Entwickeln Sie Websites mit einem sequenzbasierten Framework,توسعه وب سایت ها با استفاده از چارچوب توسعه برپایه دنباله‌ها,تطوير مواقع الويب من خلال إطار عمل قائم على التسلسل
-<0>a seq<1>uence-<0>base<1>d framework,un marco basado en secuencias,ein sequenzbasiertes Framework,چارچوب توسعه برپایه دنباله‌ها,إطار عمل قائم على التسلسل
+Develop websites by <0>a seq<1>uence-<0>base<1>d framework,Desarrollar sitios web mediante un marco basado en secuencias,Entwickeln Sie Websites mit einem sequenzbasierten Framework,توسعه وب سایت ها با استفاده از چارچوب توسعه برپایه دنباله ها,تطوير مواقع الويب من خلال إطار عمل قائم على التسلسل
+<0>a seq<1>uence-<0>base<1>d framework,un marco basado en secuencias,ein sequenzbasiertes Framework,چارچوب توسعه برپایه دنباله ها,إطار عمل قائم على التسلسل
 Well Known Appspecific Com Chrome Devtools Json,Well Known Appspecific Com Chrome Devtools JSON,Bekannte appspezifische Com Chrome Devtools Json,ابزارهای توسعه کروم (Chrome Devtools) شناخته شده برای اپ های خاص (Appspecific) و جیسون (Json),تطبيقات معروفة خاصة بمطوري Chrome بتنسيق Json
 Export Lexicon,Léxico de exportación,Lexikon exportieren,صادر کردن واژه نامه,تصدير القاموس
 Search engine optimization (SEO),Optimización de motores de búsqueda (SEO),Suchmaschinenoptimierung (SEO),بهینه سازی موتور جستجو (SEO),تحسين محركات البحث (SEO)
@@ -116,13 +116,16 @@ Add another item,Añadir otro elemento,Weiteren Eintrag hinzufügen,اضافه �
 Add your first item,,Ersten Eintrag hinzufügen,اضافه کردن اولین آیتم شما,إضافة العنصر الأول
 Add Fuel To Fire,Añadir Leña Al Fuego,Öl Ins Feuer Gießen,به آتش سوخت اضافه کنید,إضافة الوقود إلى النار
 Add Fuel To The Fire,Echar Leña Al Fuego,Öl Ins Feuer Gießen,به آتش سوخت اضافه کنید,زاد الطين بلة
-Indicate your current location on the map,Indica tu ubicación actual en el mapa,Geben Sie Ihren aktuellen Standort auf der Karte an,مکان فعلی خود را روی نقشه مشخص کنید,أشر إلى موقعك الحالي على الخريطة
-Indicate a unique username,Indica un nombre de usuario único,Geben Sie einen eindeutigen Benutzernamen an,یک نام کاربری منحصر به فرد را مشخص کنید,أشر إلى اسم مستخدم فريد
+Indicate your current location on the map,Indica tu ubicación actual en el mapa,Geben Sie Ihren aktuellen Standort auf der Karte an,مکان فعلی خود را روی نقشه مشخص نمایید,أشر إلى موقعك الحالي على الخريطة
+Indicate a unique username,Indica un nombre de usuario único,Geben Sie einen eindeutigen Benutzernamen an,یک نام کاربری منحصر به فرد را مشخص نمایید,أشر إلى اسم مستخدم فريد
 I want to go to the lab,Quiero ir al laboratorio,Ich möchte ins Labor gehen,من میخوام برم آزمایشگاه,أريد أن أذهب إلى المختبر
-Enter your password,Ingresa tu contraseña,Geben Sie Ihr Passwort ein,رمز عبور خود را وارد کنید,أدخل كلمة المرور الخاصة بك
-Enter your current complete address,Ingresa tu dirección completa actual,Geben Sie Ihre aktuelle vollständige Adresse ein,آدرس کامل فعلی خود را وارد کنید,أدخل عنوانك الكامل الحالي
-Enter the tracking code from your doctor,Ingresa el código de seguimiento de tu médico,Geben Sie den Tracking-Code Ihres Arztes ein,کد رهگیری پزشک خود را وارد کنید,أدخل رمز التتبع من طبيبك
-Enter your national Id,Ingresa tu documento nacional de identidad,Geben Sie Ihre nationale ID ein,کد ملی خود را وارد کنید,أدخل رقم هويتك الوطنية
+Enter your password,Ingresa tu contraseña,Geben Sie Ihr Passwort ein,رمز عبور خود را وارد نمایید,أدخل كلمة المرور الخاصة بك
+Enter your current complete address,Ingresa tu dirección completa actual,Geben Sie Ihre aktuelle vollständige Adresse ein,آدرس کامل فعلی خود را وارد نمایید,أدخل عنوانك الكامل الحالي
+Enter the tracking code from your doctor,Ingresa el código de seguimiento de tu médico,Geben Sie den Tracking-Code Ihres Arztes ein,کد رهگیری پزشک خود را وارد نمایید,أدخل رمز التتبع من طبيبك
+Enter your national Id,Ingresa tu documento nacional de identidad,Geben Sie Ihre nationale ID ein,کد ملی خود را وارد نمایید,أدخل رقم هويتك الوطنية
+Enter your <0>,Ingresa tu documento <0>,Geben Sie Ihre <0>,<0> خود را وارد نمایید,أدخل <0>
+Enter the <0>,Ingresa tu documento <0>,Geben Sie Ihre <0>,<0> را وارد نمایید,أدخل <0>
+Put the <0>,Ingresa tu documento <0>,Geben Sie Ihre <0>,<0> را وارد نمایید,أدخل <0>
 Tell us your request,Indícanos tu solicitud,Teilen Sie uns Ihr Anliegen mit,درخواست خود را به ما بگویید,أخبرنا بطلبك
 Deactive adding language,Desactivar la adición de idioma,Sprache hinzufügen deaktivieren,غیرفعال کردن افزودن زبان,إلغاء تنشيط إضافة اللغة
 Reset Password,Restablecer contraseña,Passwort zurücksetzen,بازنشانی رمز عبور,إعادة تعيين كلمة المرور
@@ -209,4 +212,11 @@ This <0> <1> successfully!,¡El <0> se <1> correctamente!,Die <0> wurde <1> gefu
 <0> modified successfully!,¡El <0> se actualizó correctamente!,Die <0> wurde erfolgreich aktualisiert!,<0> مورد نظر با موفقیت بروزرسانی شد!,تم تحديث <0> بنجاح!
 <0> found successfully!,¡El <0> se encontró correctamente!,Die <0> wurde erfolgreich gefunden!,<0> مورد نظر با موفقیت یافت شد!,تم العثور على <0> بنجاح!
 <0> <1> successfully!,¡El <0> se <1> correctamente!,Die <0> wurde <1> gefunden!,<0> مورد نظر با موفقیت <1> شد!,تم <1> على <0> بنجاح!
+You Can Have It,Puedes Tenerlo,Du Kannst Es Haben,تو میتونی داشته باشیش,يمكنك الحصول عليه
 You can not <0> this item!,¡No puedes <0> este artículo!,Sie können diesen Artikel nicht <0>!,شما امکان <0> این مورد را ندارید!,لا يمكنك <0> هذا العنصر!
+You can not <0> by these <1>,No puedes <0> por estos <1>,Sie können nicht <0> durch diese <1>,شما نمی توانید با این <1> <0> کنید,لا يمكنك <0> بواسطة هذه <1>
+You can not <0> by this <1>,No puedes <0> por estos <1>,Sie können nicht <0> durch diese <1>,شما نمی توانید با این <1> <0> کنید,لا يمكنك <0> بواسطة هذه <1>
+You are logged in!,¡Has iniciado sesión!,Du bist angemeldet!,شما وارد شده اید!,لقد قمت بتسجيل الدخول!
+Try to send the activation email again!,¡Intenta enviar el correo electrónico de activación nuevamente!,"Versuchen Sie erneut, die Aktivierungs-E-Mail zu senden!",سعی کنید دوباره ایمیل فعال سازی را ارسال کنید!,حاول إرسال رسالة التفعيل مرة أخرى!
+Send the <0>,Enviar el <0>,Sende die <0>,ارسال <0>,أرسل <0>
+Please verify your <0>,"Por favor, verifique su <0>",Bitte überprüfen Sie Ihre <0>,لطفا <0> خود را تایید نمایید,يرجى التحقق من <0> الخاص بك

@@ -6753,8 +6753,8 @@ Content,Contenido,Inhalt,محتوا,محتوى
 Contented,Contento,Zufrieden,راضی,قانع
 Contentious,Contencioso,Umstritten,ستیزه جویانه,مثير للجدل
 Contentment,Contentamiento,Zufriedenheit,قناعت,الرضا
-Contents,Contenido,Inhalt,محتویات,محتويات
-Contents Management,,Inhaltsverwaltung,مدیریت محتواها,إدارة المحتوى
+Contents,Contenido,Inhalt,مطالب,محتويات
+Contents Management,,Inhaltsverwaltung,مدیریت مطالب,إدارة المحتوى
 Conterminous,Limítrofe,Zusammenhängend,هم مرز,متجاور
 Contest,Concurso,Wettbewerb,مسابقه,منافسة
 Contestant,Concursante,Kandidat,شرکت کننده در مسابقه,المتسابق
@@ -36035,7 +36035,6 @@ Yong,Joven,Yong,یانگ,يونغ
 Yonker,Yonker,Yonker,یونکر,يونكر
 Yore,Antaño,Früher,گذشته,ماض
 You,Tú,Du,شما,أنت
-You Can Have It,Puedes Tenerlo,Du Kannst Es Haben,تو میتونی داشته باشیش,يمكنك الحصول عليه
 Young,Joven,Jung,جوان,شاب
 Young Cock,Gallo Joven,Junger Schwanz,خروس جوان,ديك صغير
 Young Looking,De Aspecto Joven,Jung Aussehend,جوان به نظر رسیدن,شاب المظهر
@@ -36159,5 +36158,5 @@ Zymology,Zimología,Zymologie,زایمولوژی,علم الزيمولوجيا
 Zymoplastic,Zimoplástico,Zymoplastisch,زیموپلاستیک,زيموبلاستيك
 Zymurgy,Zimurgia,Zymurgie,زیمورگی,زيمورجيا
 Zyvr,Zyvr,Zyvr,زیور,زيفر
-FALSE,FALSE,FALSE,غلط,غلط
-TRUE,TRUE,TRUE,صحیح,صحیح
+False,False,False,غلط,غلط
+True,True,True,صحیح,صحیح

@@ -12,6 +12,7 @@ ABOUT<0><1>,Acerca de <0><1>,ÜBER <0><1>,درباره<0><1>,حول<0><1>
 Account Balance,Saldo de la cuenta,Kontostand,موجودی حساب,رصيد الحساب
 Account Recovery,Recuperación de cuenta,Kontowiederherstellung,بازیابی نمایه,استعادة الحساب
 Account Recovery,Recuperación de cuenta,Kontowiederherstellung,بازیابی حساب کاربری,استعادة الحساب
+Activation Email,Correo electrónico de activación,Aktivierungs-E-Mail,ایمیل فعالسازی,بريد إلكتروني للتفعيل
 Add Impact,Efecto añadido,Hinzugefügter Effekt,تاثیر اضافه,تأثير مضاف
 Added Statements,Circulación de adiciones,Verbreitung von Ergänzungen,گردش افزوده ها,تداول الإضافات
 Administrator,Gerente,Administrator,مدیر,المسؤول
@@ -35,7 +36,7 @@ Banner Path,Ruta del banner,Bannerpfad,مسیر بنر,مسار اللافتة
 Be in Touch with us,Manténgase en contacto con nosotros.,Kontaktieren Sie uns,با ما در تماس باشید,اتصل بنا
 Browse Categories,Explorar categorías,Kategorien durchsuchen,مرور دسته بندی ها,تصفح الفئات
 Businessplan,Plan de negocios,Businessplan,طرح کسب و کار,خطة العمل
-By wallet,Por billetera,Per Brieftasche,با کیف‌پول,بالمحفظة
+By wallet,Por billetera,Per Brieftasche,با کیف پول,بالمحفظة
 CATEGORIES,Categorías,KATEGORIEN,دسته بندی ها,الفئات
 Categories Management,Administrar categorías,Kategorien verwalten,مدیریت دسته بندی ها,إدارة الفئات
 Change Count,Número de cambios,Anzahl der Änderungen,تعداد تغییر,عدد التغييرات
@@ -202,7 +203,7 @@ Refund Payment,Pago de reembolso,Rückerstattungszahlung,عودت وجه,است�
 Refund Referral,Referencia de reembolso,Rückerstattungsempfehlung,عودت ارجاع,إحالة استرداد الأموال
 Registered,Registrado,Registriert,ثبت شده,مسجل
 Registered Drafts,Documentos de registro,Anmeldeunterlagen,اسناد ثبتی,وثائق التسجيل
-Related Requests,Solicitudes relacionadas,Verwandte Anfragen,درخواست‌های مرتبط,الطلبات ذات الصلة
+Related Requests,Solicitudes relacionadas,Verwandte Anfragen,درخواست های مرتبط,الطلبات ذات الصلة
 Reset Password,Restablecer contraseña,Passwort zurücksetzen,بازنشانی رمز عبور,إعادة تعيين كلمة المرور
 Responsible Person,Persona responsable,Verantwortlicher,شخص مسئول,الشخص المسؤول
 Responsible Unit,Unidad responsable,Verantwortliche Stelle,واحد مسئول,الوحدة المسؤولة
@@ -1160,7 +1161,7 @@ Town Crier,¿Qué es el tarro?,Was ist das Glas?,جار چی,ما هي الجر�
 Town House,Casa del mendigo,Bettlerhaus,گدا خانه,بيت المتسول
 Town Meeting,Ayuntamiento,Stadtrat,شورای شهری,مجلس المدينة
 Trace Managers,Seguimiento del gerente,Manager-Tracking,ردیابی مدیران,تتبع المدير
-Track your request,Seguimiento de su solicitud,Anfrage verfolgen,پیگیری درخواست‌های سابق,تتبع طلبك
+Track your request,Seguimiento de su solicitud,Anfrage verfolgen,پیگیری درخواست های سابق,تتبع طلبك
 Tracking Code,Código Seguimiento,Sendungsverfolgungcode,کدپیگیری,رمز التتبع
 Traction Service,Jariya,Jariya,جریه,جارية
 Trade Center,Centro comercial,Einkaufszentrum,مرکزبازرگانی,مركز تسوق
@@ -1379,9 +1380,11 @@ Users Management,Gestión de usuarios,Benutzerverwaltung,مدیریت کاربر
 Users Management,Gestión de personas,Personalmanagement,مدیریت اشخاص,إدارة الأفراد
 Users Rate,Persona - Rango,Person - Rang,شخص - رتبه,الشخص - الرتبة
 Users Score,Persona - Puntuación,Person - Punktzahl,شخص - نمره,الشخص - النتيجة
+Username and Password,Nombre de usuario y contraseña,Benutzername und Passwort,نام کاربری و رمزعبور,اسم المستخدم وكلمة المرور
 Using Force,Uso de la fuerza,Gewaltanwendung,اعمال زور,استخدام القوة
 Utter Truism, Explicación de lo obvio, Erklärung des Offensichtlichen,"توضیح واضحات	", شرح الواضح
 Vacant Position,Sin supervisor,Ohne Betreuer,بی متصدی,بدون مشرف
+Try again,Intentar otra vez,Versuchen Sie es erneut,تلاش مجدد,حاول ثانية
 Vaginal Coat,Cortina de vaina,Etuivorhang,پرده غلافی,ستارة غمد
 Vain Hope,Esperanza cruda,Rohe Hoffnung,امید خام,الأمل الخام
 Valid Document,Documento válido,Gültiges Dokument,سند معتبر,وثيقة صالحة
@@ -1793,8 +1796,6 @@ Yes Votes,Calendario,Zeitplan,آراع مواق,الجدول الزمني
 Yield Profit,Para beneficiarse,Profitieren,نفع دادن,للاستفادة
 Yielding Jewels,Hogar,Heim,گهر بار,بيت
 Yogurt And Water,Masa,Teig,دوغ,عجين
-You are logged in!,¡Has iniciado sesión!,Du bist angemeldet!,شما وارد شده اید!,لقد قمت بتسجيل الدخول!
-You Can Have It,Xsm gratis^,Kostenloses Xsm^,مفت Xسم^,Xsm مجاني^
 Young Cock,Gallo,Hahn,جوجه خروس,ديك
 Young Looking,De aspecto joven,Jung aussehend,جوان نما,شاب المظهر
 Young Man,Gallo,Hahn,جوجه خروس,ديك
