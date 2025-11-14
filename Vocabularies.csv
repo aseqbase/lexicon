@@ -7272,12 +7272,9 @@ Creature,Criatura,Kreatur,مخلوق,مخلوق
 Creatures,Criaturas,Kreaturen,موجودات,مخلوقات
 Credential,Credencial,Anmeldeinformationen,اعتبارنامه,شهادة
 Credit,Crédito,Kredit,اعتبار,ائتمان
-Credit Card Fraud,Fraude Con Tarjetas De Crédito,Kreditkartenbetrug,کلاهبرداری کارت اعتباری,الاحتيال ببطاقة الائتمان
-Credit Transaction,Transacción De Crédito,Kredittransaktion,تراکنش اعتباری,معاملة ائتمانية
 Creditable,Loable,Kreditwürdig,قابل اعتبار,جدير بالثقة
 Creditor,Acreedor,Gläubiger,طلبکار,دائن
 Creditors,Acreedores,Gläubiger,طلبکاران,الدائنين
-Credits And Debits,Créditos Y Débitos,Gutschriften Und Belastungen,اعتبارات و بدهی ها,الائتمانات والخصومات
 Credulity,Credulidad,Leichtgläubigkeit,زودباوری,سذاجة
 Credulous,Crédulo,Leichtgläubig,زودباور,ساذج
 Creed,Credo,Glaube,عقیده,العقيدة
@@ -7827,7 +7824,6 @@ Deallocate,Desasignar,Zuordnung Aufheben,تخصیص زدایی,إلغاء الت
 Deallocation,Desasignación,Freigabe,جابجایی مجدد,إلغاء التخصيص
 Dean,Decano,Dean,دین,عميد
 Dear,Estimado,Liebling,عزیز,عزيزي
-"Dear <0>, you have logged in successfully",,"Lieber <0>, Sie haben sich erfolgreich angemeldet.","عزیز <0>، شما با موفقیت وارد سیستم شدید","عزيزي <0>، تم تسجيل دخولك بنجاح"
 Dear Child,Querido Niño,Liebes Kind,فرزند عزیز,طفلي العزيز
 Deasil,Deasil,Deasil,دیزیل,ديسيل
 Death,Muerte,Tod,مرگ,موت
@@ -28130,7 +28126,8 @@ Senario,Escenario,Szenario,سناریو,سيناريو
 Senate,Senado,Senat,سنا,مجلس الشيوخ
 Senator,Senador,Senator,سناتور,عضو مجلس الشيوخ
 Send,Enviar,Schicken,ارسال,يرسل
-Send A Message,Enviar Un Mensaje,Eine Nachricht Senden,پیام ارسال کنید,أرسل رسالة
+Send Message,Enviar Un Mensaje,Eine Nachricht Senden,پیام ارسال کنید,أرسل رسالة
+Send A Message,Enviar Un Mensaje,Eine Nachricht Senden,پیامی ارسال کنید,أرسل رسالة
 Send Back,Devolver,Zurückschicken,پس فرستادن,أرسل مرة أخرى
 Send In,Mandar,Einsenden,ارسال,أرسل
 Sender,Remitente,Absender,فرستنده,مرسل

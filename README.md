@@ -10,11 +10,12 @@ This document comprises a compilation of lexicons specifically intended for the 
     <tr><td> 3 </td><td> Phrases </td><td> All multipurpose phrases used on websites </td><td> All Supported </td><td> +1600 </td></tr>
     <tr><td> 4 </td><td> Words </td><td> All multipurpose words used on websites </td><td> All Supported </td><td> +6000 </td></tr>
     <tr><td> 5 </td><td> Punctuations </td><td> Defferent shapes of punctuations in supported languages </td><td> All Supported </td><td> +10 </td></tr>
-    <tr><td> 6 </td><td> Vocabularies </td><td> All general vocabularies in the real word </td><td> All Supported </td><td> +36000 </td></tr>
-    <tr><td> 7 </td><td> Miscellaneous </td><td> Miscellaneous words and phrases, in some special scopes </td><td> All Supported </td><td> +300 </td></tr>
-    <tr><td> 8 </td><td> Names </td><td> Spells names in all suported languages </td><td> All Supported </td><td> ~100 </td></tr>
+    <tr><td> 6 </td><td> Patterns </td><td> All multipurpose sentece synatxes used on websites </td><td> All Supported </td><td> +200 </td></tr>
+    <tr><td> 7 </td><td> Vocabularies </td><td> All general vocabularies in the real word </td><td> All Supported </td><td> +36000 </td></tr>
+    <tr><td> 8 </td><td> Miscellaneous </td><td> Miscellaneous words and phrases, in some special scopes </td><td> All Supported </td><td> +300 </td></tr>
+    <tr><td> 9 </td><td> Names </td><td> Spells names in all suported languages </td><td> All Supported </td><td> ~100 </td></tr>
 </table>
-Highly recommends import lexicons ordered by #1 to the #5 in each websites...
+Highly recommends import lexicons ordered by #1 to the #6 in each websites...
 
 ## Supported Languages
 <table>

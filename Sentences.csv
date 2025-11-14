@@ -125,6 +125,7 @@ Enter the tracking code from your doctor,Ingresa el código de seguimiento de tu
 Enter your national Id,Ingresa tu documento nacional de identidad,Geben Sie Ihre nationale ID ein,کد ملی خود را وارد نمایید,أدخل رقم هويتك الوطنية
 Enter your <0>,Ingresa tu documento <0>,Geben Sie Ihre <0>,<0> خود را وارد نمایید,أدخل <0>
 Enter the <0>,Ingresa tu documento <0>,Geben Sie Ihre <0>,<0> را وارد نمایید,أدخل <0>
+Put your <0>,Ingresa tu documento <0>,Geben Sie Ihre <0>,<0> خود را وارد نمایید,أدخل <0>
 Put the <0>,Ingresa tu documento <0>,Geben Sie Ihre <0>,<0> را وارد نمایید,أدخل <0>
 Tell us your request,Indícanos tu solicitud,Teilen Sie uns Ihr Anliegen mit,درخواست خود را به ما بگویید,أخبرنا بطلبك
 Deactive adding language,Desactivar la adición de idioma,Sprache hinzufügen deaktivieren,غیرفعال کردن افزودن زبان,إلغاء تنشيط إضافة اللغة
@@ -159,6 +160,7 @@ Discover your strengths,Descubre tus fortalezas,Entdecken Sie Ihre Stärken,نق
 "Your full name, you will known by this around the site","Tu nombre completo, por este nombre eres conocido en el sistema.","Ihr vollständiger Name, unter diesem Namen sind Sie im System bekannt.","نام کامل شما، شما را با این نام در سامانه می شناسند","اسمك الكامل، أنت معروف بهذا الاسم في النظام."
 Your first name,Tu nombre,Ihr Vorname,نام کوچک شما,اسمك الأول
 Your last name,Tu apellido,Ihr Nachname,نام خانوادگی شما,اسمك الأخير
+"If you already have a user account, please enter the password; otherwise, a new user account will be created using this password.","Si ya tiene una cuenta de usuario, introduzca la contraseña; de lo contrario, se creará una nueva cuenta de usuario con esta contraseña.","Falls Sie bereits ein Benutzerkonto besitzen, geben Sie bitte das Passwort ein; andernfalls wird mit diesem Passwort ein neues Benutzerkonto erstellt.","اگر با مشخصات وارد شده حساب کاربری داشته اید، لطفا رمز عبور آن را وارد نمایید، در غیر اینصورت حساب کاربری جدید با این رمز عبور ساخته خواهد شد.",
 Your request sent successfully!,¡Su solicitud enviada exitosamente!,Ihre Anfrage wurde erfolgreich gesendet!,درخواست شما با موفقیت ارسال شد,تم ارسال طلبك بنجاح!
 Your transaction verified successfully!,¡Su transacción se verificó correctamente!,Ihre Transaktion wurde erfolgreich verifiziert!,تراکش شما با موفقیت تایید شد!,تم التحقق من معاملتك بنجاح!
 Refer to complete the process,Consulte para completar el proceso,Weitere Informationen zum Abschluss des Vorgangs finden Sie hier,تکمیل فرایند,راجع لإكمال العملية
@@ -199,6 +201,12 @@ The <0> updated successfully!,¡El <0> se actualizó correctamente!,Die <0> wurd
 The <0> modified successfully!,¡El <0> se actualizó correctamente!,Die <0> wurde erfolgreich aktualisiert!,<0> مورد نظر با موفقیت بروزرسانی شد!,تم تحديث <0> بنجاح!
 The <0> found successfully!,¡El <0> se encontró correctamente!,Die <0> wurde erfolgreich gefunden!,<0> مورد نظر با موفقیت یافت شد!,تم العثور على <0> بنجاح!
 The <0> <1> successfully!,¡El <0> se <1> correctamente!,Die <0> wurde <1> gefunden!,<0> مورد نظر با موفقیت <1> شد!,تم <1> على <0> بنجاح!
+The <0> is <1> successfully!,¡El <0> se <1> correctamente!,Die <0> wurde <1> gefunden!,<0> مورد نظر با موفقیت <1> شد!,تم <1> على <0> بنجاح!
+Your <0> <1> successfully!,¡El <0> se <1> correctamente!,Die <0> wurde <1> gefunden!,<0> مورد نظر شما با موفقیت <1> شد!,تم <1> على <0> بنجاح!
+Your <0> is <1> successfully!,¡El <0> se <1> correctamente!,Die <0> wurde <1> gefunden!,<0> مورد نظر شما با موفقیت <1> شد!,تم <1> على <0> بنجاح!
+Your <0> is <1> <2>!,¡El <0> se <1> <2>!,Die <0> wurde <1> <2>!,<0> مورد نظر شما <1> <2> است!,تم <1> على <0> <2>!
+Your <0> is <1>!,¡El <0> se <1>!,Die <0> wurde <1>!,<0> مورد نظر شما <1> است!,تم <1> على <0>!
+This <0> will show to the <1>.,Este <0> se mostrará al <1>.,Dieses <0> wird dem <1> angezeigt.,این <0> به <1> نمایش داده خواهد شد.,سيتم عرض هذا <0> لـ <1>.
 The request time has expired!,¡El tiempo de espera para la solicitud ha expirado!,Die Anfragezeit ist abgelaufen!,زمان ارسال این درخواست به پایان رسیده است!,لقد انتهى الوقت المخصص للطلب!
 This <0> added successfully!,¡El <0> se agregó correctamente!,Die <0> wurde erfolgreich hinzugefügt!,<0> مورد نظر با موفقیت اضافه شد!,تمت إضافة <0> بنجاح!
 This <0> removed successfully!,¡El <0> se eliminó correctamente!,Die <0> wurde erfolgreich entfernt!,<0> مورد نظر با موفقیت حذف شد!,تمت إزالة <0> بنجاح!
@@ -206,12 +214,14 @@ This <0> updated successfully!,¡El <0> se actualizó correctamente!,Die <0> wur
 This <0> modified successfully!,¡El <0> se actualizó correctamente!,Die <0> wurde erfolgreich aktualisiert!,<0> مورد نظر با موفقیت بروزرسانی شد!,تم تحديث <0> بنجاح!
 This <0> found successfully!,¡El <0> se encontró correctamente!,Die <0> wurde erfolgreich gefunden!,<0> مورد نظر با موفقیت یافت شد!,تم العثور على <0> بنجاح!
 This <0> <1> successfully!,¡El <0> se <1> correctamente!,Die <0> wurde <1> gefunden!,<0> مورد نظر با موفقیت <1> شد!,تم <1> على <0> بنجاح!
+This <0> is <1> successfully!,¡El <0> se <1> correctamente!,Die <0> wurde <1> gefunden!,<0> مورد نظر با موفقیت <1> شد!,تم <1> على <0> بنجاح!
 <0> added successfully!,¡El <0> se agregó correctamente!,Die <0> wurde erfolgreich hinzugefügt!,<0> مورد نظر با موفقیت اضافه شد!,تمت إضافة <0> بنجاح!
 <0> removed successfully!,¡El <0> se eliminó correctamente!,Die <0> wurde erfolgreich entfernt!,<0> مورد نظر با موفقیت حذف شد!,تمت إزالة <0> بنجاح!
 <0> updated successfully!,¡El <0> se actualizó correctamente!,Die <0> wurde erfolgreich aktualisiert!,<0> مورد نظر با موفقیت بروزرسانی شد!,تم تحديث <0> بنجاح!
 <0> modified successfully!,¡El <0> se actualizó correctamente!,Die <0> wurde erfolgreich aktualisiert!,<0> مورد نظر با موفقیت بروزرسانی شد!,تم تحديث <0> بنجاح!
 <0> found successfully!,¡El <0> se encontró correctamente!,Die <0> wurde erfolgreich gefunden!,<0> مورد نظر با موفقیت یافت شد!,تم العثور على <0> بنجاح!
 <0> <1> successfully!,¡El <0> se <1> correctamente!,Die <0> wurde <1> gefunden!,<0> مورد نظر با موفقیت <1> شد!,تم <1> على <0> بنجاح!
+<0> is <1> successfully!,¡El <0> se <1> correctamente!,Die <0> wurde <1> gefunden!,<0> مورد نظر با موفقیت <1> شد!,تم <1> على <0> بنجاح!
 You Can Have It,Puedes Tenerlo,Du Kannst Es Haben,تو میتونی داشته باشیش,يمكنك الحصول عليه
 You can not <0> this item!,¡No puedes <0> este artículo!,Sie können diesen Artikel nicht <0>!,شما امکان <0> این مورد را ندارید!,لا يمكنك <0> هذا العنصر!
 You can not <0> by these <1>,No puedes <0> por estos <1>,Sie können nicht <0> durch diese <1>,شما نمی توانید با این <1> <0> کنید,لا يمكنك <0> بواسطة هذه <1>
@@ -225,3 +235,19 @@ Leave A Comment,Deja Un Comentario,Einen Kommentar Schreiben,نظر بدهید,�
 Leave a message to Us!,,Hinterlasse uns eine Nachricht!,برای ما پیام بگذارید!,اترك لنا رسالة!
 Leave Your Comment About This <0> Here!,¡Deja Tu Comentario Sobre Este <0> Aquí!,Hinterlassen Sie Hier Ihren Kommentar Zu Diesem <0>!,نظر خود را در مورد این <0> اینجا بنویسید!,اترك تعليقك حول هذه <0>!
 Leave Your Thought,Deja Tu Pensamiento,Hinterlassen Sie Ihre Gedanken,فکرت را رها کن,اترك فكرتك
+Waiting to <0> to the <1>,Esperando a <0> a la <1>,Warten auf <0> bis <1>,در حال <0> به <1>,في انتظار <0> إلى <1>
+"Dear <0>, you have logged in successfully",,"Lieber <0>, Sie haben sich erfolgreich angemeldet.","عزیز <0>، شما با موفقیت وارد سیستم شدید","عزيزي <0>، تم تسجيل دخولك بنجاح"
+The approval message and other related messages will be sent to this <0>.,El mensaje de aprobación y otros mensajes relacionados se enviarán a esta dirección de <0>.,Die Genehmigungsnachricht und weitere zugehörige Nachrichten werden an diese <0> gesendet.,پیام تاییدیه فرم و سایر پیام های مرتبط به این <0> ارسال خواهد شد.,سيتم إرسال رسالة الموافقة والرسائل الأخرى ذات الصلة إلى عنوان <0> هذا.
+The <0> sent to <1> successfully!,El mensaje <0> se envió a <1> correctamente.,Die Nachricht <0> wurde erfolgreich an <1> gesendet!,<0> با موفقیت به <1> ارسال شد!,تم إرسال الرسالة <0> إلى <1> بنجاح!
+<0> remains to <0> again,<0> permanece para <1> de nuevo,<0> bleibt weiterhin <1>,<0> تا <1> مجدد باقی مانده است,<0> يبقى على حاله ليعود <1> مرة أخرى،
+Could not <0> the <1>!,¡No se pudo <0> el <1>!,Das <0> konnte nicht <1> werden!,<0> <1> نشد!,تعذر <0> الـ <1>!
+"I agree to all the <0>, by submitting this form!","¡Acepto todos los términos y condiciones al <0> este formulario!","Ich stimme allen <0> zu, indem ich dieses Formular absende!","با تایید این فرم، اعلام میدارم که با تمامی <0> موافق هستم.","أوافق على جميع الشروط المذكورة أعلاه، من خلال تقديم هذه الاستمارة!"
+To manage all <0>,Para gestionar todo <0>,Um alles zu verwalten <0>,مدیریت تمام <0>,لإدارة كل شيء <0>
+To manage the <0>,Para gestionar todo <0>,Um alles zu verwalten <0>,مدیریت <0>,لإدارة كل شيء <0>
+Select your <0>,Seleccione su <0>,Wählen Sie Ihre <0>,<0> خود را انتخاب نمایید,اختر ما يناسبك <0>
+Select the <0>,Seleccione su <0>,Wählen Sie Ihre <0>,<0> را انتخاب نمایید,اختر ما يناسبك <0>
+You have a <0>,Tienes un <0>,Sie haben ein <0>,شما یک <0> دارید,لديك <0>
+Waiting to,Esperando a,Warten auf,در حال,في انتظار
+Waiting for,Esperando a,Warten auf,در حال,في انتظار
+A key code sent to <0> successfully,Se ha enviado un código clave a <0> correctamente,Ein wichtiger Code wurde erfolgreich an <0> gesendet,کد موردنظر برای <0> با موفقیت ارسال شد,تم إرسال رمز التحقق إلى <0> بنجاح.
+remains to send again,queda pendiente volver a enviar,muss noch einmal verschickt werden,باقیمانده تا ارسال مجدد,لا يزال يتعين إرسالها مرة أخرى

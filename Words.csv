@@ -697,8 +697,11 @@ Sinusoidal,Sinusoidal,Sinusförmig,سینوسی,جيبية
 Sip, Delicioso, Lecker,"مزهمزه	", لذيذ
 Siphon,Sifón,Siphon,سیفون,سيفون
 Sippet,Pequeño bocado,Kleiner Bissen,لقمه کوچک,لدغة صغيرة
-Sir,Alto funcionario,Hochrangiger Beamter,شخص والامقام,مسؤول رفيع المستوى
+Sir,Sir,Sir,جناب,جناب
+Transaction,Transacción,Transaktion,تراکنش,عملية
+Transactions,Actas,Transaktionen,تراکنش ها,المعاملات
 Sire,Al padre,Zum Vater,پدری کردن,الى الأب
+Undefined,indefinida,undefiniert,نامشخص,غير محدد
 Siren,Silbato de fábrica,Fabrikpfeife,سوت کارخانه,صفارة المصنع
 Sirenian,Encantador,Zauberhaft,مسحور کننده,ساحر
 Sirenic,Silbato de fábrica,Fabrikpfeife,سوت کارخانه,صفارة المصنع
@@ -2332,6 +2335,8 @@ Superphysical,Agujas corporales,Körpernadeln,ابر جسمی,ابر جسمی
 Superpower,Necesito a Nero.,Ich brauche Nero,ابر نیرو,ابر نیرو
 Superscript,Balanus,Balanoos,بالانویس,بالانویس
 Supersession,No me gusta hablar.,Ich rede nicht gern,لغو شدگی,لغو شدگی
+Sessions,Sesións,Sitzungen,نشست ها,حصة
+Session,Sesión,Sitzung,نشست,حصة
 Supersonic,Intuición,Farasot Shenasi,فراصوت شناسی,فراصوت شناسی
 Superstitions,Ilusiones,Wahnvorstellungen,موهومات,موهومات
 Superstitious,Adorador delirante,Wahnhafter Prest,موهوم پرست,موهوم پرست
