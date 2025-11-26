@@ -1,24 +1,23 @@
 ﻿en,es,de,fa,ar
 <0> <1>,<0> <1>,<0> <1>,<1> <0>,<1> <0>
 <0> are as the <1>:,<0> son como la <1>:,<0> sind wie die <1>:,<0> به شرح <1> می باشد:,<0> هي مثل <1>:
-<0> <1> <2>!,¡El <0> se <1> <2>!,Die <0> wurde <1> <2>!,<0> مورد نظر <2> <1> شد!,تم <1> على <0> <2>!
 <0> is <1> <2>!,¡El <0> se <1> <2>!,Die <0> wurde <1> <2>!,<0> مورد نظر <2> <1> شد!,تم <1> على <0> <2>!
 This <0> is <1>!,¡El <0> se <1>!,Die <0> wurde <1>!,<0> مورد نظر <1> شد!,تم <1> على <0> بنجاح!
 The <0> is <1>!,¡El <0> se <1>!,Die <0> wurde <1>!,<0> مورد نظر <1> شد!,تم <1> على <0> بنجاح!
-Can <0> <1>?,¿Puede <0> <1>?,Kan <0> <1>?,آیا <0> می‌تواند <1>؟,هل يمكن لـ <0> أن <1>؟
+Can <0> <1>?,¿Puede <0> <1>?,Kan <0> <1>?,آیا <0> می تواند <1>؟,هل يمكن لـ <0> أن <1>؟
 <0> has been <1>!,¡El <0> ha sido <1>!,<0> is <1> geworden!,<0> تاکنون <1> شده است!,لقد تم <1> لـ <0>!
 Please <0> the <1>!,¡Por favor <0> el <1>!,Gelieve de <1> te <0>!,لطفاً <1> را <0> کنید!,يرجى <0> الـ <1>!
 <0> was not <1>!,¡El <0> no fue <1>!,<0> was niet <1>!,<0> هرگز <1> نشد!,لم يتم <1> لـ <0>!
 Is <0> <1>?,¿Está <0> <1>?,Is <0> <1>?,آیا <0> <1> است؟,هل <0> هو <1>؟
 <0> must <1> <2>!,¡El <0> debe <1> <2>!,<0> moet <1> <2>!,<0> باید <1> <2> کند!,يجب على <0> أن <1> <2>!
 <0> will <1> <2>!,¡El <0> va a <1> <2>!,<0> zal <1> <2>!,<0> خواهد <1> <2>!,سوف يقوم <0> بـ <1> <2>!
-<0> can <1> <2>!,¡El <0> puede <1> <2>!,<0> kan <1> <2>!,<0> می‌تواند <1> <2> کند!,يمكن لـ <0> أن <1> <2>!
+<0> can <1> <2>!,¡El <0> puede <1> <2>!,<0> kan <1> <2>!,<0> می تواند <1> <2> کند!,يمكن لـ <0> أن <1> <2>!
 <0> should <1> <2>!,¡El <0> debería <1> <2>!,<0> zou moeten <1> <2>!,<0> باید <1> <2> کند!,ينبغي لـ <0> أن <1> <2>!
 <0> did not <1>!,¡El <0> no <1>!,<0> heeft niet <1>!,<0> هرگز <1> نکرد!,لم يقم <0> بـ <1>!
 Do not <0>!,¡No <0>!,Niet <0>!,<0> نکن!,لا تفعل <0>!
 Let’s <0> <1>!,¡Vamos a <0> <1>!,Laten we <0> <1>!,بیایید <0> <1> کنیم!,دعونا <0> <1>!
 Why did <0> <1>?,¿Por qué <0> <1>?,Waarom heeft <0> <1>?,چرا <0> <1> کرد؟,لماذا <0> <1>؟
-How can <0> <1>?,¿Cómo puede <0> <1>?,Hoe kan <0> <1>?,چگونه <0> می‌تواند <1>؟,كيف يمكن لـ <0> أن <1>؟
+How can <0> <1>?,¿Cómo puede <0> <1>?,Hoe kan <0> <1>?,چگونه <0> می تواند <1>؟,كيف يمكن لـ <0> أن <1>؟
 Where is the <0>?,¿Dónde está el <0>?,Waar is de <0>?,<0> کجاست؟,أين <0>؟
 When will <0> <1>?,¿Cuándo <0> va a <1>?,Wanneer zal <0> <1>?,چه زمانی <0> خواهد <1>؟,متى سيقوم <0> بـ <1>؟
 Who <1> the <0>?,¿Quién <1> el <0>?,Wie heeft de <0> <1>?,چه کسی <0> را <1> کرد؟,من <1> الـ <0>؟
@@ -35,7 +34,7 @@ Try to <0> <1>!,¡Intenta <0> <1>!,Probeer <0> <1>!,سعی کن <0> <1> کنی!,
 <0> failed to <1>!,¡El <0> no logró <1>!,<0> is er niet in geslaagd om te <1>!,<0> در <1> شکست خورد!,فشل <0> في <1>!
 <0> <1> <2> <3>!,¡<0> <1> <2> <3>!,<0> <1> <2> <3>!,<0> <1> <2> <3>!,<0> <1> <2> <3>!
 <0> must <1> <2> <3>!,¡<0> debe <1> <2> <3>!,<0> moet <1> <2> <3>!,<0> باید <1> <2> <3> کند!,يجب على <0> أن <1> <2> <3>!
-<0> can <1> <2> <3>!,¡<0> puede <1> <2> <3>!,<0> kan <1> <2> <3>!,<0> می‌تواند <1> <2> <3> کند!,يمكن لـ <0> أن <1> <2> <3>!
+<0> can <1> <2> <3>!,¡<0> puede <1> <2> <3>!,<0> kan <1> <2> <3>!,<0> می تواند <1> <2> <3> کند!,يمكن لـ <0> أن <1> <2> <3>!
 <0> will <1> <2> <3>!,¡<0> va a <1> <2> <3>!,<0> zal <1> <2> <3>!,<0> خواهد <1> <2> <3>!,سوف يقوم <0> بـ <1> <2> <3>!
 <0> should <1> <2> <3>!,¡<0> debería <1> <2> <3>!,<0> zou moeten <1> <2> <3>!,<0> باید <1> <2> <3> کند!,ينبغي لـ <0> أن <1> <2> <3>!
 <0> was <1> <2> <3>!,¡<0> fue <1> <2> <3>!,<0> werd <1> <2> <3>!,<0> <1> <2> <3> شد!,تم <1> <2> <3> لـ <0>!
@@ -48,22 +47,22 @@ Try to <0> <1>!,¡Intenta <0> <1>!,Probeer <0> <1>!,سعی کن <0> <1> کنی!,
 <0> failed to <1> <2> <3>!,¡<0> no logró <1> <2> <3>!,<0> is er niet in geslaagd om te <1> <2> <3>!,<0> در <1> <2> <3> شکست خورد!,فشل <0> في <1> <2> <3>!
 <0> was supposed to <1> <2> <3>!,¡Se suponía que <0> <1> <2> <3>!,<0> zou eigenlijk <1> <2> <3>!,قرار بود <0> <1> <2> <3> کند!,كان من المفترض أن <0> <1> <2> <3>!
 <0> might <1> <2> <3>!,¡Es posible que <0> <1> <2> <3>!,<0> zou kunnen <1> <2> <3>!,ممکن است <0> <1> <2> <3> کند!,قد <1> <2> <3> <0>!
-<0> wants to <1> <2> <3>!,¡<0> quiere <1> <2> <3>!,<0> wil <1> <2> <3>!,<0> می‌خواهد <1> <2> <3> کند!,يريد <0> أن <1> <2> <3>!
+<0> wants to <1> <2> <3>!,¡<0> quiere <1> <2> <3>!,<0> wil <1> <2> <3>!,<0> می خواهد <1> <2> <3> کند!,يريد <0> أن <1> <2> <3>!
 <0> was able to <1> <2> <3>!,¡<0> pudo <1> <2> <3>!,<0> kon <1> <2> <3>!,<0> توانست <1> <2> <3> کند!,تمكن <0> من <1> <2> <3>!
 <0> is trying to <1> <2> <3>!,¡<0> está intentando <1> <2> <3>!,<0> probeert <1> <2> <3>!,<0> در تلاش برای <1> <2> <3> است!,يحاول <0> أن <1> <2> <3>!
-<0> used to <1> <2> <3>!,¡<0> solía <1> <2> <3>!,<0> gebruikte om te <1> <2> <3>!,<0> قبلاً <1> <2> <3> می‌کرد!,كان <0> معتادًا على <1> <2> <3>!
+<0> used to <1> <2> <3>!,¡<0> solía <1> <2> <3>!,<0> gebruikte om te <1> <2> <3>!,<0> قبلاً <1> <2> <3> می کرد!,كان <0> معتادًا على <1> <2> <3>!
 <0> is not allowed to <1> <2> <3>!,¡<0> no tiene permitido <1> <2> <3>!,<0> mag niet <1> <2> <3>!,اجازه ندارد <0> که <1> <2> <3> کند!,لا يُسمح لـ <0> بـ <1> <2> <3>!
 <0> was asked to <1> <2> <3>!,¡Se pidió a <0> que <1> <2> <3>!,<0> werd gevraagd om te <1> <2> <3>!,از <0> خواسته شد که <1> <2> <3> کند!,طُلب من <0> أن <1> <2> <3>!
-<0> is expected to <1> <2> <3>!,¡Se espera que <0> <1> <2> <3>!,<0> wordt verwacht te <1> <2> <3>!,انتظار می‌رود <0> که <1> <2> <3> کند!,من المتوقع أن <0> <1> <2> <3>!
+<0> is expected to <1> <2> <3>!,¡Se espera que <0> <1> <2> <3>!,<0> wordt verwacht te <1> <2> <3>!,انتظار می رود <0> که <1> <2> <3> کند!,من المتوقع أن <0> <1> <2> <3>!
 <0> was told to <1> <2> <3>!,¡Se le dijo a <0> que <1> <2> <3>!,<0> werd verteld om te <1> <2> <3>!,به <0> گفته شد که <1> <2> <3> کند!,قيل لـ <0> أن <1> <2> <3>!
 <0> is known to <1> <2> <3>!,¡Se sabe que <0> <1> <2> <3>!,<0> staat bekend om te <1> <2> <3>!,شناخته شده است که <0> <1> <2> <3> کند!,من المعروف أن <0> <1> <2> <3>!
 <0> is required to <1> <2> <3>!,¡<0> está obligado a <1> <2> <3>!,<0> is verplicht om te <1> <2> <3>!,<0> موظف است که <1> <2> <3> کند!,يُطلب من <0> أن <1> <2> <3>!
 "If <0> <1>, <2> will <3>!","Si <0> <1>, <2> <3>!","Als <0> <1>, zal <2> <3>!",اگر <0> <1>، <2> <3> خواهد شد!,إذا <0> <1>، فإن <2> سوف <3>!
-"Unless <0> <1>, <2> cannot <3>!","A menos que <0> <1>, <2> no puede <3>!","Tenzij <0> <1>, kan <2> niet <3>!",مگر اینکه <0> <1>، <2> نمی‌تواند <3>!,ما لم <0> <1>، لا يمكن لـ <2> أن <3>!
+"Unless <0> <1>, <2> cannot <3>!","A menos que <0> <1>, <2> no puede <3>!","Tenzij <0> <1>, kan <2> niet <3>!",مگر اینکه <0> <1>، <2> نمی تواند <3>!,ما لم <0> <1>، لا يمكن لـ <2> أن <3>!
 "As soon as <0> <1>, <2> will <3>!","Tan pronto como <0> <1>, <2> <3>!","Zodra <0> <1>, zal <2> <3>!",به محض اینکه <0> <1>، <2> <3> خواهد شد!,بمجرد أن <0> <1>، فإن <2> سوف <3>!
 "Even if <0> <1>, <2> must <3>!","Incluso si <0> <1>, <2> debe <3>!","Zelfs als <0> <1>, moet <2> <3>!",حتی اگر <0> <1>، <2> باید <3>!,حتى لو <0> <1>، يجب على <2> أن <3>!
 "The more <0> <1>, the more <2> <3>!","Cuanto más <0> <1>, más <2> <3>!","Hoe meer <0> <1>, hoe meer <2> <3>!",هرچه <0> بیشتر <1>، <2> بیشتر <3>!,كلما زاد <0> في <1>، زاد <2> في <3>!
-"Before <0> <1>, <2> had to <3>!","Antes de que <0> <1>, <2> tuvo que <3>!","Voordat <0> <1>, moest <2> <3>!",قبل از اینکه <0> <1>، <2> باید <3> می‌کرد!,قبل أن <0> <1>، كان على <2> أن <3>!
+"Before <0> <1>, <2> had to <3>!","Antes de que <0> <1>, <2> tuvo que <3>!","Voordat <0> <1>, moest <2> <3>!",قبل از اینکه <0> <1>، <2> باید <3> می کرد!,قبل أن <0> <1>، كان على <2> أن <3>!
 "After <0> <1>, <2> started to <3>!","Después de que <0> <1>, <2> comenzó a <3>!","Nadat <0> <1>, begon <2> te <3>!",بعد از اینکه <0> <1>، <2> شروع به <3> کرد!,بعد أن <0> <1>، بدأ <2> في <3>!
 "While <0> <1>, <2> was <3>!","Mientras <0> <1>, <2> estaba <3>!","Terwijl <0> <1>, was <2> aan het <3>!",در حالی که <0> <1>، <2> در حال <3> بود!,بينما <0> <1>، كان <2> <3>!
 "Because <0> <1>, <2> had to <3>!","Porque <0> <1>, <2> tuvo que <3>!","Omdat <0> <1>, moest <2> <3>!",چون <0> <1>، <2> مجبور شد <3> کند!,لأن <0> <1>، اضطر <2> إلى <3>!
@@ -73,11 +72,11 @@ Try to <0> <1>!,¡Intenta <0> <1>!,Probeer <0> <1>!,سعی کن <0> <1> کنی!,
 <0> is less <1> than <2>!,<0> es menos <1> que <2>!,<0> is minder <1> dan <2>!,<0> از <2> کمتر <1> است!,<0> أقل <1> من <2>!
 <0> said that <1> <2> <3>!,<0> dijo que <1> <2> <3>!,<0> zei dat <1> <2> <3>!,<0> گفت که <1> <2> <3>!,قال <0> إن <1> <2> <3>!
 <0> believes <1> will <2> <3>!,<0> cree que <1> va a <2> <3>!,<0> gelooft dat <1> zal <2> <3>!,<0> معتقد است که <1> <2> <3> خواهد کرد!,يعتقد <0> أن <1> سوف <2> <3>!
-<0> thinks <1> should <2> <3>!,<0> piensa que <1> debería <2> <3>!,<0> denkt dat <1> zou moeten <2> <3>!,<0> فکر می‌کند که <1> باید <2> <3> کند!,يظن <0> أن <1> ينبغي أن <2> <3>!
-<0> asked if <1> could <2> <3>!,<0> preguntó si <1> podía <2> <3>!,<0> vroeg of <1> kon <2> <3>!,<0> پرسید آیا <1> می‌تواند <2> <3> کند!,سأل <0> إن كان <1> يستطيع <2> <3>!
+<0> thinks <1> should <2> <3>!,<0> piensa que <1> debería <2> <3>!,<0> denkt dat <1> zou moeten <2> <3>!,<0> فکر می کند که <1> باید <2> <3> کند!,يظن <0> أن <1> ينبغي أن <2> <3>!
+<0> asked if <1> could <2> <3>!,<0> preguntó si <1> podía <2> <3>!,<0> vroeg of <1> kon <2> <3>!,<0> پرسید آیا <1> می تواند <2> <3> کند!,سأل <0> إن كان <1> يستطيع <2> <3>!
 <0> wondered whether <1> would <2> <3>!,<0> se preguntó si <1> <2> <3>!,<0> vroeg zich af of <1> zou <2> <3>!,<0> تعجب کرد که آیا <1> <2> <3> خواهد کرد!,تساءل <0> عما إذا كان <1> سيقوم بـ <2> <3>!
 "If <0> had <1> <2>, <3> would have <4>!","Si <0> hubiera <1> <2>, <3> habría <4>!","Als <0> <1> <2> had gehad, zou <3> <4> hebben!",اگر <0> <1> <2> کرده بود، <3> <4> کرده بود!,لو أن <0> قد <1> <2>، لكان <3> قد <4>!
-"Had <0> <1> <2>, <3> would <4>!","Si <0> hubiera <1> <2>, <3> <4>!","Had <0> <1> <2>, dan zou <3> <4>!",اگر <0> <1> <2> کرده بود، <3> <4> می‌کرد!,لو أن <0> قد <1> <2>، لكان <3> <4>!
+"Had <0> <1> <2>, <3> would <4>!","Si <0> hubiera <1> <2>, <3> <4>!","Had <0> <1> <2>, dan zou <3> <4>!",اگر <0> <1> <2> کرده بود، <3> <4> می کرد!,لو أن <0> قد <1> <2>، لكان <3> <4>!
 If only <0> had <1> <2>!,¡Si tan solo <0> hubiera <1> <2>!,Als <0> maar <1> <2> had!,ای کاش <0> <1> <2> کرده بود!,ليت <0> قد <1> <2>!
 <0> promised to <1> <2> <3>!,<0> prometió <1> <2> <3>!,<0> beloofde te <1> <2> <3>!,<0> قول داد که <1> <2> <3> کند!,وعد <0> أن <1> <2> <3>!
 <0> refused to <1> <2> <3>!,<0> se negó a <1> <2> <3>!,<0> weigerde te <1> <2> <3>!,<0> از <1> <2> <3> خودداری کرد!,رفض <0> أن <1> <2> <3>!
@@ -93,8 +92,8 @@ If only <0> had <1> <2>!,¡Si tan solo <0> hubiera <1> <2>!,Als <0> maar <1> <2>
 <0> is able to <1> <2>!,<0> es capaz de <1> <2>!,<0> is in staat om te <1> <2>!,<0> قادر است که <1> <2> کند!,<0> قادر على أن <1> <2>!
 <0> is unable to <1> <2>!,<0> no puede <1> <2>!,<0> is niet in staat om te <1> <2>!,<0> قادر نیست که <1> <2> کند!,<0> غير قادر على أن <1> <2>!
 <0> is happy to <1> <2>!,<0> está feliz de <1> <2>!,<0> is blij om te <1> <2>!,<0> خوشحال است که <1> <2> کند!,<0> سعيد بـ <1> <2>!
-<0> is afraid to <1> <2>!,<0> tiene miedo de <1> <2>!,<0> is bang om te <1> <2>!,<0> می‌ترسد که <1> <2> کند!,<0> خائف من أن <1> <2>!
-<0> is excited to <1> <2>!,<0> está emocionado de <1> <2>!,<0> is enthousiast om te <1> <2>!,<0> هیجان‌زده است که <1> <2> کند!,<0> متحمس لـ <1> <2>!
+<0> is afraid to <1> <2>!,<0> tiene miedo de <1> <2>!,<0> is bang om te <1> <2>!,<0> می ترسد که <1> <2> کند!,<0> خائف من أن <1> <2>!
+<0> is excited to <1> <2>!,<0> está emocionado de <1> <2>!,<0> is enthousiast om te <1> <2>!,<0> هیجان زده است که <1> <2> کند!,<0> متحمس لـ <1> <2>!
 <0> is supposed to <1> <2>!,<0> se supone que debe <1> <2>!,<0> hoort te <1> <2>!,قرار است <0> <1> <2> کند!,من المفترض أن <0> <1> <2>!
 <0> is allowed to <1> <2>!,<0> tiene permiso para <1> <2>!,<0> mag <1> <2>!,اجازه دارد که <0> <1> <2> کند!,يسمح لـ <0> بـ <1> <2>!
 <0> is forbidden to <1> <2>!,<0> tiene prohibido <1> <2>!,<0> mag niet <1> <2>!,ممنوع است که <0> <1> <2> کند!,ممنوع على <0> أن <1> <2>!
@@ -102,31 +101,31 @@ If only <0> had <1> <2>!,¡Si tan solo <0> hubiera <1> <2>!,Als <0> maar <1> <2>
 <0> is responsible for <1> <2>!,<0> es responsable de <1> <2>!,<0> is verantwoordelijk voor <1> <2>!,<0> مسئول <1> <2> است!,<0> مسؤول عن <1> <2>!
 <0> is uncertain whether <1> <2>!,<0> no está seguro de si <1> <2>!,<0> weet niet zeker of <1> <2>!,<0> مطمئن نیست که آیا <1> <2>!,<0> غير متأكد مما إذا كان <1> <2>!
 <0> should consider <1> <2>!,<0> debería considerar <1> <2>!,<0> zou moeten overwegen om <1> <2>!,<0> باید در نظر بگیرد که <1> <2>!,ينبغي لـ <0> أن يأخذ في الاعتبار <1> <2>!
-<0> is expected to coordinate with <1> to <2>!,Se espera que <0> se coordine con <1> para <2>!,<0> wordt geacht samen te werken met <1> om te <2>!,انتظار می‌رود <0> با <1> هماهنگ کند تا <2>!,من المتوقع أن يتعاون <0> مع <1> لـ <2>!
-"If <0> and <1> agree, then <2> can <3>!","Si <0> y <1> están de acuerdo, entonces <2> puede <3>!","Als <0> en <1> het eens zijn, dan kan <2> <3>!",اگر <0> و <1> توافق کنند، <2> می‌تواند <3>!,إذا اتفق <0> و <1>، يمكن لـ <2> أن <3>!
+<0> is expected to coordinate with <1> to <2>!,Se espera que <0> se coordine con <1> para <2>!,<0> wordt geacht samen te werken met <1> om te <2>!,انتظار می رود <0> با <1> هماهنگ کند تا <2>!,من المتوقع أن يتعاون <0> مع <1> لـ <2>!
+"If <0> and <1> agree, then <2> can <3>!","Si <0> y <1> están de acuerdo, entonces <2> puede <3>!","Als <0> en <1> het eens zijn, dan kan <2> <3>!",اگر <0> و <1> توافق کنند، <2> می تواند <3>!,إذا اتفق <0> و <1>، يمكن لـ <2> أن <3>!
 <0> should verify whether <1> <2>!,<0> debería verificar si <1> <2>!,<0> moet controleren of <1> <2>!,<0> باید بررسی کند که آیا <1> <2>!,ينبغي لـ <0> التحقق مما إذا كان <1> <2>!
 <0> must notify <1> before <2> <3>!,<0> debe notificar a <1> antes de <2> <3>!,<0> moet <1> informeren voordat <2> <3>!,<0> باید قبل از <2> <3> به <1> اطلاع دهد!,يجب على <0> إبلاغ <1> قبل أن <2> <3>!
 <0> should avoid <1> while <2> <3>!,<0> debería evitar <1> mientras <2> <3>!,<0> moet <1> vermijden terwijl <2> <3>!,<0> باید از <1> اجتناب کند در حالی که <2> <3>!,ينبغي لـ <0> تجنب <1> أثناء <2> <3>!
 <0> must complete <1> before <2> starts!,<0> debe completar <1> antes de que <2> comience!,<0> moet <1> voltooien voordat <2> begint!,<0> باید <1> را تمام کند قبل از اینکه <2> شروع شود!,يجب على <0> إنهاء <1> قبل أن يبدأ <2>!
 The <0> of this <1>,El <0> de este <1>,De <0> van deze <1>,<0> این <1>,الـ <0> لهذا الـ <1>
 <0> the <1> <2> your <3>,<0> el <1> <2> tu <3>,<0> de <1> <2> jouw <3>,<0> <1> <2> را برای <3> <0>,<0> الـ <1> <2> لـ <3>
-<0> of your <1>,<0> de tu <1>,<0> van jouw <1>,<0> از <1> شما,<0> من <1> الخاص بك
+<0> of your <1>,<0> de tu <1>,<0> van jouw <1>,از <1> خود <0>,<0> من <1> الخاص بك
 To <0> your <1> via the <2>,Para <0> tu <1> a través del <2>,Om jouw <1> te <0> via de <2>,برای <0> <1> شما از طریق <2>,لـ <0> <1> الخاص بك عبر الـ <2>
 From <0> to your <1>,De <0> a tu <1>,Van <0> naar jouw <1>,از <0> به <1> شما,من <0> إلى <1> الخاص بك
 Access your <0> through the <1>,Accede a tu <0> a través del <1>,Toegang tot jouw <0> via de <1>,به <0> خود از طریق <1> دسترسی داشته باشید,الوصول إلى <0> الخاص بك عبر الـ <1>
 Select the <0> of your <1>,Selecciona el <0> de tu <1>,Selecteer de <0> van jouw <1>,<0> مربوط به <1> خود را انتخاب کنید,اختر الـ <0> لـ <1> الخاص بك
 Check your <0> in the <1>,Revisa tu <0> en el <1>,Controleer jouw <0> in de <1>,<0> خود را در <1> بررسی کنید,تحقق من <0> الخاص بك في الـ <1>
-Update your <0> using the <1>,Actualiza tu <0> usando el <1>,Werk jouw <0> bij met de <1>,<0> خود را با استفاده از <1> به‌روزرسانی کنید,قم بتحديث <0> الخاص بك باستخدام الـ <1>
+Update your <0> using the <1>,Actualiza tu <0> usando el <1>,Werk jouw <0> bij met de <1>,<0> خود را با استفاده از <1> به روزرسانی کنید,قم بتحديث <0> الخاص بك باستخدام الـ <1>
 Configure the <0> for your <1>,Configura el <0> para tu <1>,Configureer de <0> voor jouw <1>,<0> را برای <1> خود پیکربندی کنید,قم بإعداد الـ <0> لـ <1> الخاص بك
 The <0> for your <1>,El <0> para tu <1>,De <0> voor jouw <1>,<0> برای <1> شما,الـ <0> لـ <1> الخاص بك
 Your <0> has been <1>,Tu <0> ha sido <1>,Jouw <0> is <1> geworden,<0> شما <1> شده است,<0> الخاص بك تم <1>
 To access your <0>,Para acceder a tu <0>,Om toegang te krijgen tot jouw <0>,برای دسترسی به <0> خود,للوصول إلى <0> الخاص بك
 Please enter your <0>,Por favor ingresa tu <0>,Voer jouw <0> in alstublieft,لطفاً <0> خود را وارد کنید,يرجى إدخال <0> الخاص بك
-The <0> you selected,<0> que seleccionaste,De <0> die je hebt geselecteerd,<0> انتخاب‌شدهٔ شما,الـ <0> الذي اخترته
+The <0> you selected,<0> que seleccionaste,De <0> die je hebt geselecteerd,<0> انتخاب شدهٔ شما,الـ <0> الذي اخترته
 Your <0> is ready,<0> está listo,Jouw <0> is klaar,<0> شما آماده است,<0> الخاص بك جاهز
 Click to open the <0>,Haz clic para abrir el <0>,Klik om de <0> te openen,برای باز کردن <0> کلیک کنید,انقر لفتح الـ <0>
 The <0> of your <1> is <2>,El <0> de tu <1> es <2>,De <0> van jouw <1> is <2>,<0> مربوط به <1> شما <2> است,الـ <0> لـ <1> الخاص بك هو <2>
-To update your <0>,Para actualizar tu <0>,Om jouw <0> bij te werken,برای به‌روزرسانی <0> خود,لتحديث <0> الخاص بك
+To update your <0>,Para actualizar tu <0>,Om jouw <0> bij te werken,برای به روزرسانی <0> خود,لتحديث <0> الخاص بك
 The <0> was sent to your <1>,El <0> fue enviado a tu <1>,De <0> is verzonden naar jouw <1>,<0> به <1> شما ارسال شد,تم إرسال الـ <0> إلى <1> الخاص بك
 <0> is linked to your <1>,<0> está vinculado a tu <1>,<0> is gekoppeld aan jouw <1>,<0> به <1> شما متصل است,<0> مرتبط بـ <1> الخاص بك
 Your <0> has expired,Tu <0> ha expirado,Jouw <0> is verlopen,<0> شما منقضی شده است,<0> الخاص بك انتهت صلاحيته
@@ -153,3 +152,44 @@ Search for <0>,Busca <0>,Zoek naar <0>,جستجو برای <0>,ابحث عن <0>
 Select a <0>,Selecciona un <0>,Selecteer een <0>,یک <0> انتخاب کن,اختر <0>
 Start the <0>,Inicia el <0>,Start de <0>,<0> را شروع کن,ابدأ الـ <0>
 Stop the <0>,Detén el <0>,Stop de <0>,<0> را متوقف کن,أوقف الـ <0>
+<0> or <1>,<0> o <1>,<0> oder <1>,<0> یا <1>,<0> أو <1>
+<0> and <1>,<0> y <1>,<0> und <1>,<0> و <1>,<0> و <1>
+<0> your <1>,<0> tu <1>,<0> Ihre <1>,<1> <0>,<1> <0>
+<0> the <1>,<0> tu <1>,<0> das <1>,<1> <0>,<1> <0>
+Enter your <0>,Ingresa tu documento <0>,Geben Sie Ihre <0>,<0> خود را وارد نمایید,أدخل <0>
+Enter the <0>,Ingresa tu documento <0>,Geben Sie Ihre <0>,<0> را وارد نمایید,أدخل <0>
+Put your <0>,Ingresa tu documento <0>,Geben Sie Ihre <0>,<0> خود را وارد نمایید,أدخل <0>
+Put the <0>,Ingresa tu documento <0>,Geben Sie Ihre <0>,<0> را وارد نمایید,أدخل <0>
+<0> to,<0> a,<0> zu,<0> به,<0> إلى
+<0> for,<0> para,<0> für,<0> برای,<0> ل
+Your <0> has been successfully <1>,Tu <0> ha sido <1> con éxito,Jouw <0> is succesvol <1>,<0> شما با موفقیت <1> شده است,<0> الخاص بك تم <1> بنجاح
+The <0> could not be <1>,El <0> no pudo ser <1>,De <0> kon niet worden <1>,<0> نمی توانست <1> شود,<0> لا يمكن أن يكون <1>
+Please <0> your <1>,Por favor <0> tu <1>,Alstublieft <0> jouw <1>,لطفاً <1> خود را <0> کنید,يرجى <0> <1> الخاص بك
+Thank you for <0> your <1>,Gracias por <0> tu <1>,Dank u voor het <0> van jouw <1>,از شما برای <0> کردن <1> خود سپاسگزاریم,شكراً لـ <0> <1> الخاص بك
+Your <0> is being <1>,Tu <0> está siendo <1>,Jouw <0> wordt <1>,<0> شما در حال <1> است,<0> الخاص بك يتم <1>
+Please wait while we <0> your <1>,Por favor espera mientras <0> tu <1>,Wacht alstublieft terwijl we jouw <1> <0>,لطفاً منتظر بمانید در حالی که ما <0> <1> شما را انجام می دهیم,يرجى الانتظار بينما نقوم بـ <0> <1> الخاص بك
+Your <0> is ready to be <1>,Tu <0> está listo para ser <1>,Jouw <0> is klaar om te worden <1>,<0> شما آماده است که <1> شود,<0> الخاص بك جاهز ليتم <1>
+The <0> has been <1> successfully,<0> ha sido <1> con éxito,<0> is succesvol <1> geworden,<0> با موفقیت <1> شده است,<0> تم <1> بنجاح
+Please <0> the <1>,Por favor <0> el <1>,Alstublieft <0> de <1>,لطفاً <1> را <0> کنید,يرجى <0> الـ <1>
+Your <0> could not be <1>,Tu <0> no pudo ser <1>,Jouw <0> kon niet worden <1>,<0> شما نمی توانست <1> شود,<0> الخاص بك لا يمكن أن يكون <1>
+Your <0> has been <1>.,Tu <0> ha sido <1>.,Jouw <0> is <1>.,<0> شما <1> شده است.,<0> الخاص بك تم <1>.
+Please <0> your <1>.,Por favor <0> tu <1>.,Alstublieft <0> jouw <1>.,لطفاً <1> خود را <0> کنید.,يرجى <0> <1> الخاص بك.
+Thank you for <0> your <1>.,Gracias por <0> tu <1>.,Dank u voor het <0> van jouw
+Your <0> <1>,Tu <0> <1>,Jouw <0> <1>,<0> شما <1>,<0> الخاص بك <1>
+Your <0> is <1>,Tu <0> es <1>,Jouw <0> is <1>,<0> شما <1> است,<0> الخاص بك هو <1>
+Please <0>.,Por favor <0>.,Alstublieft <0>.,لطفاً <0>.,يرجى <0>.
+Thank you for <0>.,Gracias por <0>.,Dank u voor het <0>.,از شما برای <0> سپاسگزاریم.,شكراً لـ <0>.
+Your <0> <1> <2>,Tu <0> <1> <2>,Jouw <0> <1> <2>,<0> شما <1> <2>,<0> الخاص بك <1> <2>
+Send to the <0>,Enviar al <0>,An den <0> senden,ارسال به <0>,إرسال إلى <0>
+Send to <0>,Enviar a <0>,An <0> senden,ارسال به <0>,إرسال إلى <0>
+Your <0> has been sent.,Tu <0> ha sido enviado.,Jouw <0> is verzonden.,<0> شما ارسال شد.,تم إرسال <0> الخاص بك.
+<0> was instructed to <1> <2> <3>!,¡Se instruyó a <0> que <1> <2> <3>!,<0> kreeg de instructie om te <1> <2> <3>!,به <0> دستور داده شد که <1> <2> <3> کند!,تم توجيه <0> لـ <1> <2> <3>!
+<0> is expected to <1> <2> <3>!,¡Se espera que <0> <1> <2> <3>!,<0> wordt verwacht te <1> <2> <3>!,انتظار می رود <0> که <1> <2> <3> کند!,من المتوقع أن <0> <1> <2> <3>!
+<0> is obligated to <1> <2> <3>!,¡<0> está obligado a <1> <2> <3>!,<0> is verplicht om te <1> <2> <3>!,<0> موظف است که <1> <2> <3> کند!,يُلزم <0> أن <1> <2> <3>!
+<0> is mandated to <1> <2> <3>!,¡<0> está mandatado a <1> <2> <3>!,<0> is gemandateerd om te <1> <2> <3>!,<0> موظف است که <1> <2> <3> کند!,يُفوَّض <0> أن <1> <2> <3>!
+<0> is required to <1> <2> <3>!,¡<0> se requiere que <1> <2> <3>!,<0> wordt vereist om te <1> <2> <3>!,از <0> خواسته می شود که <1> <2> <3> کند!,يُطلب من <0> أن <1> <2> <3>!
+<0> is compelled to <1> <2> <3>!,¡<0> está obligado a <1> <2> <3>!,<0> is gedwongen om te <1> <2> <3>!,<0> مجبور است که <1> <2> <3> کند!,يُجبر <0> على أن <1> <2> <3>!
+<0> is instructed to <1> <2> <3>!,¡Se instruyó a <0> que <1> <2> <3>!,<0> kreeg de instructie om te <1> <2> <3>!,به <0> دستور داده شد که <1> <2> <3> کند!,تم توجيه <0> لـ <1> <2> <3>!
+Do <0> an <1> <2>,Haz <0> un <1> <2>,Doe <0> een <1> <2>,<0> <2> <1> نمایید,قم بـ <0> <1> <2>
+Do <0> a <1> <2>,Haz <0> un <1> <2>,Doe <0> een <1> <2>,<0> <2> <1> نمایید,قم بـ <0> <1> <2>
+Do <0> <1> <2>,Haz <0> <1> <2>,Doe <0> <1> <2>,<0> <1> <2> نمایید,قم بـ <0> <1> <2>

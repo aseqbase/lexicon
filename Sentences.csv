@@ -68,7 +68,6 @@ Cancel the <0>,Cancelar el <0>,Abbrechen der <0>,لغو کردن <0>,إلغاء 
 Patient Examination and Management,Examen y gestión de pacientes,Patientenuntersuchung und -management,معاینه و مدیریت بیمار,فحص المرضى وإدارتهم
 Your valid email address,Tu dirección de correo electrónico válida,Ihre gültige E-Mail-Adresse,آدرس ایمیل معتبر شما,عنوان بريدك الإلكتروني الصحيح
 "Dear <0>, you have logged in successfully","Estimado <0>, has iniciado sesión correctamente","Lieber <0>, Sie haben sich erfolgreich angemeldet","<0> عزیز، شما با موفقیت وارد شدید.","عزيزي <0>، لقد قمت بتسجيل الدخول بنجاح"
-"Dear <0>, you have logged in successfully","Estimado <0>, has iniciado sesión exitosamente.","Lieber <0>, Sie haben sich erfolgreich angemeldet.","عزیز <0>، شما با موفقیت وارد سیستم شدید","عزيزي <0>، تم تسجيل دخولك بنجاح"
 Display _MENU_ items per page,Mostrar _MENU_ elementos por página,_MENÜ_-Elemente pro Seite anzeigen,نمایش آیتم های _MENU_ در هر صفحه,عرض عناصر القائمة لكل صفحة
 Display _MENU_ items per page,Mostrar elementos _MENU_ en cada página,Menüpunkte pro Seite anzeigen,نمایش آیتم های _MENU_ در هر صفحه,عرض عناصر القائمة في كل صفحة
 View your earnings report,Ver tu informe de ganancias,Zeigen Sie Ihren Verdienstbericht an,گزارش درآمد خود را مشاهده کنید,عرض تقرير أرباحك
@@ -123,10 +122,6 @@ Enter your password,Ingresa tu contraseña,Geben Sie Ihr Passwort ein,رمز ع�
 Enter your current complete address,Ingresa tu dirección completa actual,Geben Sie Ihre aktuelle vollständige Adresse ein,آدرس کامل فعلی خود را وارد نمایید,أدخل عنوانك الكامل الحالي
 Enter the tracking code from your doctor,Ingresa el código de seguimiento de tu médico,Geben Sie den Tracking-Code Ihres Arztes ein,کد رهگیری پزشک خود را وارد نمایید,أدخل رمز التتبع من طبيبك
 Enter your national Id,Ingresa tu documento nacional de identidad,Geben Sie Ihre nationale ID ein,کد ملی خود را وارد نمایید,أدخل رقم هويتك الوطنية
-Enter your <0>,Ingresa tu documento <0>,Geben Sie Ihre <0>,<0> خود را وارد نمایید,أدخل <0>
-Enter the <0>,Ingresa tu documento <0>,Geben Sie Ihre <0>,<0> را وارد نمایید,أدخل <0>
-Put your <0>,Ingresa tu documento <0>,Geben Sie Ihre <0>,<0> خود را وارد نمایید,أدخل <0>
-Put the <0>,Ingresa tu documento <0>,Geben Sie Ihre <0>,<0> را وارد نمایید,أدخل <0>
 Tell us your request,Indícanos tu solicitud,Teilen Sie uns Ihr Anliegen mit,درخواست خود را به ما بگویید,أخبرنا بطلبك
 Deactive adding language,Desactivar la adición de idioma,Sprache hinzufügen deaktivieren,غیرفعال کردن افزودن زبان,إلغاء تنشيط إضافة اللغة
 Reset Password,Restablecer contraseña,Passwort zurücksetzen,بازنشانی رمز عبور,إعادة تعيين كلمة المرور
@@ -147,7 +142,9 @@ Double click to hide,Haz doble clic para ocultar,Zum Ausblenden doppelklicken,"�
 Click to change the image!,¡Haga clic para cambiar la imagen!,"Klicken Sie hier, um das Bild zu ändern!",برای تغییر تصویر کلیک کنید,انقر لتغيير الصورة!
 Look at previous requests,Ver solicitudes anteriores,Schauen Sie sich frühere Anfragen an,نگاهی به درخواست های قبلی,انظر إلى الطلبات السابقة
 National Id<0>*<1>,Documento de identidad nacional<0>*<1>,Nationale ID<0>*<1>,کد ملی<0>*<1>,الهوية الوطنية<0>*<1>
+"It seams your payment is failed or canceled.","Parece que su pago ha fallado o ha sido cancelado.","Es scheint, dass Ihre Zahlung fehlgeschlagen oder abgebrochen wurde.","به نظر می رسد پرداخت شما ناموفق بوده یا لغو شده است.","يبدو أن دفعتك فشلت أو تم إلغاؤها."
 Current Location,Ubicación actual,Aktueller Standort,مکان فعلی,الموقع الحالي
+"Please try again...","Por favor, inténtalo de nuevo...","Bitte versuchen Sie es erneut...","لطفا دوباره تلاش کنید...","يرجى المحاولة مرة أخرى..."
 Back to Home,Volver a la página principal,Zurück zur Startseite,بازگشت به صفحه اصلی,العودة إلى الصفحة الرئيسية
 Current Address,Dirección actual,Aktuelle Adresse,آدرس فعلی,العنوان الحالي
 Please scan the QRCode,Escanea el código QR,Bitte scannen Sie den QRCode,لطفا کیوآرکد را اسکن کنید,الرجاء مسح رمز الاستجابة السريعة
@@ -236,7 +233,6 @@ Leave a message to Us!,,Hinterlasse uns eine Nachricht!,برای ما پیام �
 Leave Your Comment About This <0> Here!,¡Deja Tu Comentario Sobre Este <0> Aquí!,Hinterlassen Sie Hier Ihren Kommentar Zu Diesem <0>!,نظر خود را در مورد این <0> اینجا بنویسید!,اترك تعليقك حول هذه <0>!
 Leave Your Thought,Deja Tu Pensamiento,Hinterlassen Sie Ihre Gedanken,فکرت را رها کن,اترك فكرتك
 Waiting to <0> to the <1>,Esperando a <0> a la <1>,Warten auf <0> bis <1>,در حال <0> به <1>,في انتظار <0> إلى <1>
-"Dear <0>, you have logged in successfully",,"Lieber <0>, Sie haben sich erfolgreich angemeldet.","عزیز <0>، شما با موفقیت وارد سیستم شدید","عزيزي <0>، تم تسجيل دخولك بنجاح"
 The approval message and other related messages will be sent to this <0>.,El mensaje de aprobación y otros mensajes relacionados se enviarán a esta dirección de <0>.,Die Genehmigungsnachricht und weitere zugehörige Nachrichten werden an diese <0> gesendet.,پیام تاییدیه فرم و سایر پیام های مرتبط به این <0> ارسال خواهد شد.,سيتم إرسال رسالة الموافقة والرسائل الأخرى ذات الصلة إلى عنوان <0> هذا.
 The <0> sent to <1> successfully!,El mensaje <0> se envió a <1> correctamente.,Die Nachricht <0> wurde erfolgreich an <1> gesendet!,<0> با موفقیت به <1> ارسال شد!,تم إرسال الرسالة <0> إلى <1> بنجاح!
 <0> remains to <0> again,<0> permanece para <1> de nuevo,<0> bleibt weiterhin <1>,<0> تا <1> مجدد باقی مانده است,<0> يبقى على حاله ليعود <1> مرة أخرى،
@@ -247,7 +243,12 @@ To manage the <0>,Para gestionar todo <0>,Um alles zu verwalten <0>,مدیریت
 Select your <0>,Seleccione su <0>,Wählen Sie Ihre <0>,<0> خود را انتخاب نمایید,اختر ما يناسبك <0>
 Select the <0>,Seleccione su <0>,Wählen Sie Ihre <0>,<0> را انتخاب نمایید,اختر ما يناسبك <0>
 You have a <0>,Tienes un <0>,Sie haben ein <0>,شما یک <0> دارید,لديك <0>
+Drag & drop files here,Arrastra y suelta los archivos aquí,Dateien hierher ziehen und ablegen,فایل های خود را اینجا رها کنید,اسحب وأفلِت الملفات هنا
+Click to select,Haz clic para seleccionar,Zum Auswählen klicken,برای انتخاب کلیک کنید,انقر للتحديد
 Waiting to,Esperando a,Warten auf,در حال,في انتظار
 Waiting for,Esperando a,Warten auf,در حال,في انتظار
 A key code sent to <0> successfully,Se ha enviado un código clave a <0> correctamente,Ein wichtiger Code wurde erfolgreich an <0> gesendet,کد موردنظر برای <0> با موفقیت ارسال شد,تم إرسال رمز التحقق إلى <0> بنجاح.
 remains to send again,queda pendiente volver a enviar,muss noch einmal verschickt werden,باقیمانده تا ارسال مجدد,لا يزال يتعين إرسالها مرة أخرى
+Send to partners,Enviar a socios,An Partner senden,ارسال به همکاران,إرسال إلى الشركاء
+Send to the partners,Enviar a los socios,An die Partner senden,ارسال به همکاران,إرسال إلى الشركاء
+

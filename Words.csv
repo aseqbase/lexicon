@@ -78,6 +78,7 @@ Apply,Aplicar,Anwenden,اعمال,يتقدم
 Archived,Archivado,Archiviert,بایگانی شده,مؤرشفة
 ARTICLE,Artículo,ARTIKEL,مقاله,مقالة
 Attaches,Archivos adjuntos,Anlagen,ضمائم,المرفقات
+Banking,Bancarias,Bankgeschäfte,بانکی,المصرفية
 Authenticate,Autenticar,Authentifizieren,احراز هویت,المصادقة
 Authenticating,Autenticar,Authentifizieren,احراز هویت کردن,المصادقة
 Authentication,Autenticar,Authentifizieren,احراز هویت,المصادقة
@@ -92,7 +93,8 @@ Bio,Biografía,Bio,بیوگرافی,السيرة الذاتية
 Blocked,Obstruido,Blockiert,مسدود,محظور
 Box,Financiar,Fonds,صندوق,تمويل
 Cancel,Cancelar,Stornieren,لغو,يلغي
-Canceled,Cancelado,Abgebrochen,انصراف داده,ألغيت
+Canceled,Cancelado,Abgebrochen,لغو شده,ألغيت
+Cancelled,Cancelado,Abgebrochen,لغو شده,ألغيت
 CATEGORIES,Categorías,Kategorien,دسته بندی ها,فئات
 Category,Categoría,Kategorie,دسته بندی,الفئات
 Category,Categoría,Kategorie,دسته,فئة
@@ -157,7 +159,7 @@ Exported,Exportado,Exportiert,خارج شده,يصدّر
 Failbox,El Fondo de los Fracasados,Der Fonds der Erfolglosen,صندوق ناموفق ها,صندوق الفاشلين
 FAILED,Fracasado,Erfolglos,ناموفق,غير ناجح
 Fails,Los fracasados,Die Erfolglosen,ناموفق ها,غير الناجحين
-Female,Señor,Herr,آقا,سيد
+Female,Señor,Herr,خانم,سيده
 Finished,Terminado,Beendet,پایان یافته,انتهى
 First,Primero,Vorname,اولین,الأول
 First,Primero,Erste,ابتدا,أولاً
@@ -206,7 +208,7 @@ Look,Vista,Sicht,مشاهده,منظر
 Lost,Desaparecido,Fehlen,مفقودشده,مفتقد
 m,Minuto,Minute,دقیقه,دقيقة
 Main,Original,Hauptmenü,اصلی,الرئيسية
-Male,Señora.,Frau,خانم,السّيدة.
+Male,Señora.,Frau,آقا,السّيدة.
 Management,Gestión,Management,مدیریت,إدارة
 Manager,Gerente,Manager,مدیر,المدير
 MARKET,Mercado,Markt,بازار,سوق
@@ -1342,6 +1344,9 @@ Spermatogenetic,Creador de espermatozoides,Spermaproduzent,موجد نطفه,م�
 Spermatozoon,Semen,Samen,منی دانه,المني
 Spew,Derramar,Ausgießen,بخارج ریختن,لصب
 Sphagnicolous,Khazazi,Khazazi,خزهزی,خزازي
+Pending,Pendiente,Ausstehend,در حال بررسی,قيد الانتظار
+Pended,Pendiente,Ausstehend,در حال بررسی,قيد الانتظار
+Pendings,Pendiente,Ausstehend,درانتظار ها,قيد الانتظار
 Spheral,Redondo,Runden,مستدیر,دائري
 Sphere,cuerpo esférico,Kugelförmiger Körper,جسم کروی,جسم كروي
 Spheres,Muchas veces,Viele Male,کرات,مرات عديدة
@@ -1787,6 +1792,7 @@ Stock,Para almacenar,Aufbewahren,ذخیره سازی کردن,للتخزين
 Stock,Inventario,Inventar,موجودی,جرد
 Stockade,Bloqueo,Blockierung,مسدود ساختن,حجب
 STOCKBOX,Fondo de inventario,Inventarfonds,صندوق موجودی ها,صندوق المخزون
+Balance,Balance,Gleichgewicht,موجودی,المخزون
 Stocked,Disponible,Verfügbar,موجود,متاح
 Stockholder,Propietario del inventario,Inventarbesitzer,صاحب موجودی,مالك المخزون
 Stockholm,Estocolmo,Stockholm,استکهلم,ستوكهولم
@@ -2205,13 +2211,13 @@ Suer,Querellante,Beschwerdeführer,شاکی,المشتكي
 Suffer,Comer sangre,Blut essen,خون جگر خوردن,أكل الدم
 Sufferer,Resentido,Groll,رنجش کش,مستاء
 Suffering,Prueba difícil,Harter Test,آزمایش سخت,اختبار صعب
-Suffice, Suficiente, Genug,"بسنده	", كافٍ
-Sufficiency,Cantidad suficiente,Ausreichende Menge,مقدار کافی,كمية كافية
+Suffice,Suficiente,Genug,بسنده,كافٍ
+Sufficiency,Cantidad suficiente,Ausreichende Menge,میزان,كمية
 Sufficient,Suficiente,Genug,کافی,كافٍ
 Sufficiently,Medida,Messen,بمیزان,يقيس
 Suffix,Extensión,Verlängerung,پسوند,امتداد
 Suffixation,Sufijos,Suffixierung,پسوندگذاری,إضافة اللاحقة
-Suffocate, sofocado, Erstickt,"خفه	", مخنوق
+Suffocate, sofocado, Erstickt,خفه,مخنوق
 Suffocated,sofocado,Erstickt,خفه,مخنوق
 Suffocating,tapón de garganta,Halsstopper,گلو گیر,سدادة الحلق
 Suffocation,Asfixia,Erstickung,اختناق,الاختناق
@@ -5553,7 +5559,7 @@ Waist,Cintura del vestido,Taille des Kleides,کمر لباس,خصر الفستا
 Waistband,Calzoncillos,Unterhose,بند زیرشلواری,الملابس الداخلية
 Waist-Cloth,Aburrido,Lahm,لنگ,عاجِز
 Waistcoat,Chaleco,Weste,جلیقه,سترة
-Wait,Paciencia,Geduld,صبر,الصبر
+Wait,Paciencia,Geduld,انتظار,الصبر
 Waiting,Espera,Warten,انتظار,منتظر
 Waive,Hacer una excepción a la ley,Eine Ausnahme vom Gesetz machen,از قانونمستثنی کردن,لعمل استثناء للقانون
 Wake,Estela del barco,Schiffsspur,دنبالهکشتی,أعقاب السفينة
