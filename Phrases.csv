@@ -21,7 +21,6 @@ Credit Card Fraud,Fraude Con Tarjetas De Crédito,Kreditkartenbetrug,کلاهب�
 Credit Transaction,Transacción De Crédito,Kredittransaktion,تراکنش اعتباری,معاملة ائتمانية
 Credits And Debits,Créditos Y Débitos,Gutschriften Und Belastungen,اعتبارات و بدهی ها,الائتمانات والخصومات
 Added Statements,Circulación de adiciones,Verbreitung von Ergänzungen,گردش افزوده ها,تداول الإضافات
-Administrator,Gerente,Administrator,مدیر,المسؤول
 Ammonium Chloride,Nashadar,Nashadar,نشادر,نشادار
 Ammunition Depot,Depósito de municiones,Munitionsdepot,انبار مهمات,مستودع الذخيرة
 Amnesty International,Amnistía Internacional,Amnesty International,عفو بین الملل,منظمة العفو الدولية
@@ -1255,8 +1254,10 @@ Turn Away From,Dar la espalda,Sich abwenden,رو گرداندن,أن يبتعد
 Turn French,Afrancesar,französisieren,فرانسوی کردن,قلى شرائح البطاطس
 Turn Into, Conversión, Konvertierung,"تبدیل	", تحويل
 Turn Into Ashes, Ceniza, Asche,"خاکستر	", رماد
-Turn Off,Punto de desviación,Abweichungspunkt,نقطه انحراف,نقطة الانحراف
-Turn On,Fluir,Fließen,بجریان انداختن,للتدفق
+Turn Off,Apagar,Ausschalten,خاموش,إيقاف
+Turn On,Encender,Einschalten,روشن,تشغيل
+Power Off,Apagar,Ausschalten,خاموش کردن,إيقاف
+Power On,Encender,Einschalten,روشن کردن,تشغيل
 Turn On Radio, Radio Roshan, Radio Roshan,"رادیو روشن	", راديو روشان
 Turn Out To Be A Liar,Ser un mentiroso,Ein Lügner sein,دروغگو از آب در آمدن,أن تكون كاذبا
 Turn Over,Ingresos por actividad,Tätigkeitseinkommen,عایدی فعالیت,دخل النشاط

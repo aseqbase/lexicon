@@ -78,6 +78,7 @@ Apply,Aplicar,Anwenden,اعمال,يتقدم
 Archived,Archivado,Archiviert,بایگانی شده,مؤرشفة
 ARTICLE,Artículo,ARTIKEL,مقاله,مقالة
 Attaches,Archivos adjuntos,Anlagen,ضمائم,المرفقات
+Attachs,Archivos adjuntos,Anlagen,ضمائم,المرفقات
 Banking,Bancarias,Bankgeschäfte,بانکی,المصرفية
 Authenticate,Autenticar,Authentifizieren,احراز هویت,المصادقة
 Authenticating,Autenticar,Authentifizieren,احراز هویت کردن,المصادقة
@@ -109,14 +110,15 @@ COMMENTS,Comentarios,KOMMENTARE,نظرات,التعليقات
 Complete,Terminación,Fertigstellung,تکمیل,انتهاء
 Completebox,Caja de artículos completados,Feld „Abgeschlossene Elemente“,صندوق تکمیل شده ها,صندوق العناصر المكتملة
 Completed,Completado,Abgeschlossen,تکمیل شده,مُكتمل
-COMPLETED,Terminado,Vollendet,تکمیل شده ها,مكتمل
 Completeds,Finalizaciones,Abschlüsse,تکمیل ها,الإكمالات
 Configuration,Configuración,Konfiguration,پیکربندی,إعدادات
 CONFIGURATIONS,Configuración,Konfiguration,پیکربندی,إعدادات
 Confirmed,Confirmado,Bestätigt,تاییدشده,أُكدت
 CONTACT,Contacto,KONTAKT,تماس,اتصل بنا
+Thanks,Gracias,Danke,شكرًا
 Contacts,correlación,Kontakte,ارتباط,جهات الاتصال
 Content,Contenido,Inhalt,محتوا,محتوى
+IBAN,IBAN,IBAN,شبا,IBAN
 Contentس,Su contenido,Inhalt,محتواها,المحتويات
 Contradiction,Contradicción,Widerspruch,مغایرت,تناقض
 Count,Número,Nummer,تعداد,رقم
@@ -2693,6 +2695,8 @@ Tahereh,Tahereh,Tahereh,طاهره,طاهرة
 Tahmaseb,Tahmasp,Tahmasp,طهماسب,طهماسب
 Tahmineh,Tahmina,Tahmina,تهمینه,تهمينا
 Tahmuress,Tahmours,Tahmours,طهمورث,طهمورز
+Administrator,Gerente,Administrator,مدیر,المسؤول
+Admin,Gerente,Admin,مدیر,المسؤول
 Tail,Historia,Geschichte,داستان,قصة
 Tailed,Con cola,Schwanz,دم دار,ذيل
 Taille,Forma,Bilden,فرم,استمارة
@@ -6486,3 +6490,21 @@ Zymology,Ciencia de la levadura,Hefewissenschaft,مخمرشناسی,علم ال�
 Zymoplastic,Generador de diastasa,Diastasegenerator,مولد دیاستاز,مولد الدياستاز
 Zymurgy,Fermentación,Fermentation,تخمیرشناسی,التخمير
 Zyvr,Ornamento,Ornament,زیور,زخرفة
+Relateds,Relacionados,Verwandte,مرتبط‌ها,الأقارب
+Villager,Habitante,Dorfbewohner,روستایی,القرية
+Villagers,Aldeanos,Dorfbewohner,روستاییان,قرويون
+Villagey,Rural,Ländlich,روستایی,ريفي
+Village-like,Como una aldea,Dorfünlich,مانند دهکده,مثل القرية
+Villagehood,Comunidad de aldeanos,Dorfgemeinschaft,جماعت روستایی,جماعة القرية
+Villageism,Estilo de vida rural,Ländlicher Lebensstil,سبک زندگی روستایی,أسلوب الحياة الريفية
+Villagism,Estilo de vida rural,Ländlicher Lebensstil,سبک زندگی روستایی,أسلوب الحياة الريفية
+Villagize,Ruralizar,Ländlich machen,روستایی کردن,تجعل ريفيًا
+Villagization,Ruralización,Ländliche Entwicklung,روستایی سازی,التنمية الريفية
+Villain,Villano,Bösewicht,اشرار,شرير
+Villainous,Maligno,Boshaft,شرور,خبيث
+Villainy,Maldad,Bosheit,شرارت,الخبث
+Health Service,Servicio de salud,Gesundheitsdienst,خدمت بهداشتی,خدمة صحية
+Health Services,Servicios de salud,Gesundheitsdienste,خدمات بهداشتی,خدمات صحية
+Treatment Services,Servicios de tratamiento,Behandlungsdienste,خدمات درمانی,خدمات العلاج
+Treat Service,Servicio de tratamiento,Behandlungsservice,خدمت درمانی,خدمة العلاج
+Treat Services,Servicios de tratamiento,Behandlungsdienste,خدمات درمانی,خدمات العلاج
