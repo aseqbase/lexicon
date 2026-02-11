@@ -154,6 +154,7 @@ Error,Error,Fehler,خطا,خطأ
 Exited,Remoto,Entfernt,خارج شده,تمت الإزالة
 Export,Exportar,Export,خروجی,يصدّر
 Exported,Exportado,Exportiert,خارج شده,يصدّر
+Extract,Extracto,Extrakt,استخراج کردن,يستخرج
 Failbox,El Fondo de los Fracasados,Der Fonds der Erfolglosen,صندوق ناموفق ها,صندوق الفاشلين
 Failed,Fracasado,Erfolglos,ناموفق,غير ناجح
 Failed box,El Fondo de los Fracasados,Der Fonds der Erfolglosen,صندوق ناموفق ها,صندوق الفاشلين
@@ -249,6 +250,7 @@ Parent,Padre,Übergeordneter,والد,الرئيسي
 Parentid,Identificación de base,Basis-ID,شناسه پایه,معرف القاعدة
 Partialbox,Fondo de asuntos pendientes,Fonds für unerledigte Geschäfte,صندوق نیمه کاره ها,صندوق الأعمال غير المكتملة
 Partials,Productos semiacabados,Halbfertigprodukte,نیمه کاره ها,المنتجات نصف المصنعة
+Paste,Pasta,Paste,چسپاندن,لصق
 Password,Código de acceso,Passwort,رمز عبور,كلمة المرور
 Path,Camino,Pfad,مسیر,المسار
 Pause,Detener,Stoppen,توقف,قف
@@ -1646,7 +1648,7 @@ Statement,Anuncio,Bekanntmachung,اعلامیه,إعلان
 Statements,Excursiones,Ausflüge,گردش ها,الرحلات
 Statesmanship,Mundanería,Weltlichkeit,دنیاداری,عالمية
 Statgnate,Podrido,Faul,گندیده شده,فاسد
-Static,Inmóvil,Bewegungslos,بی حرکت,بلا حراك
+Static,Estático,Statisch,ایستا,ثابت
 Stating,Poemas,Gedichte,اشعار,قصائد
 Station,Estación,Station,ایستگاه,محطة
 Stationery,Papelería,Schreibwaren,لوازم التحریر,الأدوات المكتبية
@@ -1834,8 +1836,8 @@ Stopped,Interrumpido,Gestoppt,متوقف,متوقف
 Stopper,Preventivo,Präventiv,جلوگیری کننده,وقائي
 Stopping,Masada,Masada,مسدد,مسعدة
 Stopwatch,Podómetro,Schrittzähler,گام شمار,عداد الخطى
-Storable,Almacenable,Lagerfähig,انبار کردنی,قابلة للتخزين
-Storage,Su almacén,Sein Lager,انبارش,مستودعه
+Storable,Almacenable,Lagerfähig,ذخیره شدنی,قابلة للتخزين
+Storage,Su almacén,Sein Lager,مخزن,مستودعه
 Storages,Tanques,Panzer,مخازن,الدبابات
 Store,Almacenar,Speichern,فروشگاه,محل
 Stored,Acumulado,Kumuliert,اندوخته,متراكمة
@@ -3422,7 +3424,7 @@ Tithable,Diezmo incluido,Zehnt inbegriffen,مشمول عشریه,العشور م
 Tithe,Diezmo,Der Zehnte,عشریه,العشور
 Tither,Receptor del diezmo,Zehntenempfänger,عشر گیرنده,متلقي العُشر
 Titillation,Cosquillas,Kitzeln,غلغلک آوری,دغدغة
-Title,Título de la escritura,Titel schreiben,عنوان نوشتن,كتابة العنوان
+Title,Título de la escritura,Titel schreiben,عنوان,كتابة العنوان
 Titleholder,Noble,Betitelt,لقب دار,عنوان
 Titles,Títulos,Titel,عناوین,العناوين
 Titlist,Noble,Betitelt,لقب دار,عنوان
@@ -3649,6 +3651,7 @@ Trained,Entrenado,Ausgebildet,آموزش دیده,مدرب
 Trainee,Educador,Erzieher,فرهیختگر,مُعلّم
 Trainer,Educación,Ausbildung,فرهیختار,تعليم
 Training,Capacitación,Ausbildung,آموزش,تمرين
+Trainings,Entrenamientos,Schulungen,آموزش ها,التدريبات
 Traipse,Vagabundo,Wanderer,سرگردان,متجول
 Trait,Insignia exclusiva,Exklusives Abzeichen,نشان اختصاصی,شارة حصرية
 Traitor,Traidor,Verräter,خیانتکار,خائن
